@@ -10,7 +10,7 @@
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
-[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-Current-brightgreen)](README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-View-lightgrey)](README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-View-lightgrey)](README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-View-lightgrey)](README_nl.md) [![Polski](https://img.shields.io/badge/Polski-View-lightgrey)](README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-View-lightgrey)](README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-View-lightgrey)](README_sv.md)
+[![English](https://img.shields.io/badge/English-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-Current-brightgreen)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_nl.md) [![Polski](https://img.shields.io/badge/Polski-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/blob/main/i18n/README_sv.md)
 
 ---
 
@@ -28,8 +28,8 @@
 
 ## 🌐 View in AtlasCloud
 
-- Prompt Library: [View](https://www.atlascloud.ai/fr/seedream-5-pro-prompt?utm_source=github&utm_campaign=awesome-seedream-5-pro-prompts)
-- Model Page: [View](https://www.atlascloud.ai/fr/models/bytedance/seedream-5.0-pro/text-to-image?utm_source=github&utm_campaign=awesome-seedream-5-pro-prompts)
+- Prompt Library: [View](https://www.atlascloud.ai/th/seedream-5-pro-prompt?utm_source=github&utm_campaign=awesome-seedream-5-pro-prompts)
+- Model Page: [View](https://www.atlascloud.ai/th/models/bytedance/seedream-5.0-pro/text-to-image?utm_source=github&utm_campaign=awesome-seedream-5-pro-prompts)
 
 ## 🧩 Supported Models
 
@@ -70,7 +70,7 @@ Seedream 5.0 Pro is ByteDance's state-of-the-art text-to-image model. It excels 
 | Total Prompts | **100** |
 | Categories | **8** |
 | Preview Images | **100** |
-| Last Updated | **2026-06-15T09:42:31.803Z** |
+| Last Updated | **2026-06-15T11:09:50.888Z** |
 
 ## 🏷️ Browse by Category
 
@@ -90,7 +90,7 @@ Seedream 5.0 Pro is ByteDance's state-of-the-art text-to-image model. It excels 
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** kt
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13797_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13797_1.jpg" alt="Comprehensive Anime Character Reference Sheet" width="480" />
@@ -189,7 +189,7 @@ Generates a highly detailed anime character design document complete with expres
 - **Category:** `Creative & Misc`
 - **Source:** `twitter`
 - **Author:** のるま
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14012_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14012_1.jpg" alt="Two Women Shopping in a Vintage Store" width="480" />
@@ -210,7 +210,7 @@ A photorealistic candid photograph of two Asian women shopping together inside a
 - **Category:** `Infographics & Data Viz`
 - **Source:** `twitter`
 - **Author:** Kevin的学堂
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13778_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13778_1.jpg" alt="Live Streaming App UI Mockup" width="480" />
@@ -302,7 +302,7 @@ Generates a realistic mobile live streaming interface featuring a streamer, chat
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** BubbleBrain
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13750_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13750_1.jpg" alt="Vintage Film Portrait of Girl with Bicycle" width="480" />
@@ -323,7 +323,7 @@ A {argument name="photography style" default="vintage film photography"} portrai
 - **Category:** `Product & Branding`
 - **Source:** `twitter`
 - **Author:** cheaty
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13506_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13506_1.jpg" alt="Cosmic Dark Mode UI Design System" width="480" />
@@ -421,7 +421,7 @@ Generates a comprehensive dark-mode UI design system featuring color palettes, t
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** 中崎工房 | AIで1時間の仕事を5分で終わらせる人
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14269_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14269_1.jpg" alt="Hyper-Energetic Japanese Promo Poster" width="480" />
@@ -497,7 +497,7 @@ Generates a highly detailed, text-heavy Japanese promotional poster with explosi
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** kei
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14032_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14032_1.jpg" alt="Anime Elf Girl Relaxing in a Forest River" width="480" />
@@ -518,7 +518,7 @@ An anime illustration of an {argument name="character description" default="elf 
 - **Category:** `Infographics & Data Viz`
 - **Source:** `twitter`
 - **Author:** 1LittleCoder💻
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14662_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14662_1.jpg" alt="Digital Chessboard After 1.e4 e5" width="480" />
@@ -545,7 +545,7 @@ A clean, flat digital top-down chessboard centered in the frame, shown as a squa
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** kt
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13797_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13797_1.jpg" alt="Comprehensive Anime Character Reference Sheet" width="480" />
@@ -644,7 +644,7 @@ Generates a highly detailed anime character design document complete with expres
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** BubbleBrain
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13750_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13750_1.jpg" alt="Vintage Film Portrait of Girl with Bicycle" width="480" />
@@ -665,7 +665,7 @@ A {argument name="photography style" default="vintage film photography"} portrai
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** kei
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14032_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14032_1.jpg" alt="Anime Elf Girl Relaxing in a Forest River" width="480" />
@@ -686,7 +686,7 @@ An anime illustration of an {argument name="character description" default="elf 
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** Jack Ma-e/acc
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13685_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13685_1.jpg" alt="Realistic League of Legends Cosplay" width="480" />
@@ -707,7 +707,7 @@ League of Legends cosplayer, this time cosplaying as {argument name="character" 
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** kei
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13742_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13742_1.jpg" alt="Western Open-World Game Screenshot" width="480" />
@@ -728,7 +728,7 @@ A highly realistic video game screenshot in the style of a {argument name="game 
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** studioあぽろん
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13841_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13841_1.jpg" alt="Anime Girl Smug Peace Sign Portrait" width="480" />
@@ -749,7 +749,7 @@ An anime-style illustration of a young girl with {argument name="hair color" def
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** 篝火 椿 ( ⑉• •⑉)꜆🍵🍡
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13920_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13920_1.jpg" alt="Anime Character Reference Sheet Generator" width="480" />
@@ -841,7 +841,7 @@ Transforms a single character illustration into a comprehensive, multi-section r
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** 终极小谢
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13973_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13973_1.jpg" alt="Song Dynasty Social Media Feed" width="480" />
@@ -862,7 +862,7 @@ A creative prompt that imagines what a social media feed would look like during 
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** 伟豪学长AI
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13837_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13837_1.jpg" alt="Social Media App Interface Mockup" width="480" />
@@ -912,7 +912,7 @@ Generates a realistic social media video feed screenshot with customizable UI te
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** nic
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14260_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14260_1.jpg" alt="Moody Cyberpunk Cityscape" width="480" />
@@ -933,7 +933,7 @@ A cinematic, atmospheric illustration of a young woman with short black hair sta
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** WTR
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13940_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13940_1.jpg" alt="VTuber Profile Sheet Generator" width="480" />
@@ -954,7 +954,7 @@ Generates a highly detailed, multi-section VTuber profile sheet featuring a full
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** 루피노드 🐰💕
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13958_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13958_1.jpg" alt="Exact Image Replication" width="480" />
@@ -975,7 +975,7 @@ Using REFERENCE_0, generate an {argument name="reproduction style" default="exac
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** 世界是棵树
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13721_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13721_1.jpg" alt="Live Stream Screenshot with Celebrity" width="480" />
@@ -996,7 +996,7 @@ A prompt designed to test text rendering in a specific layout, creating a 9:16 a
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** Aidan
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13653_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13653_1.jpg" alt="Photorealistic Older Couple in a Pub" width="480" />
@@ -1017,7 +1017,7 @@ A photorealistic portrait of a smiling older Caucasian couple sitting at a rusti
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** ManmazⓂ️
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14305_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14305_1.jpg" alt="GTA 6 CJ and Lucia crossover" width="480" />
@@ -1038,7 +1038,7 @@ generate a scene of {argument name="game" default="GTA 6"} screenshot where {arg
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** Senb0n22a
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13660_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13660_1.jpg" alt="First-Person VRChat Meme Crossover Screenshot" width="480" />
@@ -1059,7 +1059,7 @@ A first-person POV screenshot inside a {argument name="game environment" default
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** やきいも｜週1クリエイトで飯を食う
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14494_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14494_1.jpg" alt="Polaroid of Japanese Class Graduation Photo" width="480" />
@@ -1080,7 +1080,7 @@ A realistic instant film Polaroid photo lying flat on a light wooden tabletop, p
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** Firisis
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14559_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14559_1.jpg" alt="Realistic X Profile Page Mockup" width="480" />
@@ -1101,7 +1101,7 @@ Create a highly realistic dark-mode social media interface mockup that closely r
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** Berryxia.AI
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13523_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13523_1.jpg" alt="Live Stream UI Mockup with 3D Effects" width="480" />
@@ -1163,7 +1163,7 @@ Generates a highly detailed mobile live streaming interface featuring a central 
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** Max Blade
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14326_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14326_1.jpg" alt="Greek God Riding a Lion" width="480" />
@@ -1184,7 +1184,7 @@ make me look like a {argument name="persona" default="greek god"} riding a {argu
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** Creative Diffusion
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14568_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14568_1.jpg" alt="Cinematic Woman in Vintage Library" width="480" />
@@ -1205,7 +1205,7 @@ A cinematic waist-up portrait of a refined woman in an old-fashioned library, tu
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** 古一
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13787_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13787_1.jpg" alt="Fantasy Xianxia Portrait Transformation" width="480" />
@@ -1226,7 +1226,7 @@ Using REFERENCE_0 as the character base, transform the subject into a {argument 
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** VoxCat
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13862_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13862_1.jpg" alt="Graffiti Sketch Style Template" width="480" />
@@ -1247,7 +1247,7 @@ Express {argument name="subject" default="theme/subject"} in a graffiti sketch s
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** ozgeonline
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14633_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14633_1.jpg" alt="Fashion Portrait With Python" width="480" />
@@ -1268,7 +1268,7 @@ A high-fashion studio portrait of a glamorous woman crouching low in a squat pos
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** Kyle 不写代码
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14125_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14125_1.jpg" alt="Douyin Livestream Screenshot Prompt" width="480" />
@@ -1289,7 +1289,7 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** 引力弹弓
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14452_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14452_1.jpg" alt="Fantasy Campfire Before a Crimson Mountain" width="480" />
@@ -1310,7 +1310,7 @@ A cinematic fantasy scene inside a rocky cave during a blizzard, viewed from sli
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** Riccardo Wolf
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14081_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14081_1.jpg" alt="FPS Custom Weapon Skin Screenshot" width="480" />
@@ -1331,7 +1331,7 @@ First-person perspective video game screenshot showing hands wearing {argument n
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** Arturo Garrido
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14594_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14594_1.jpg" alt="Studio Portrait With Strawberry Ice Cream" width="480" />
@@ -1352,7 +1352,7 @@ A polished studio portrait of a glamorous pop-star-like woman from the chest up,
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** WY
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13703_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13703_1.jpg" alt="Scenic Landscape Calendar" width="480" />
@@ -1373,7 +1373,7 @@ Design a {argument name="content" default="realistic landscape"} calendar for {a
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** Ecoo
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14145_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14145_1.jpg" alt="Vintage 35mm Flash Portrait" width="480" />
@@ -1394,7 +1394,7 @@ A vintage 35mm film photograph of a {argument name="subject description" default
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** IT navi
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13705_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13705_1.jpg" alt="Historical Figure X Post Design" width="480" />
@@ -1415,7 +1415,7 @@ Create an X post page featuring {argument name="person" default="Sakamoto Ryoma"
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** 李谱Mars
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14649_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14649_1.jpg" alt="Fake Douyin Lao Gan Ma Livestream Screenshot" width="480" />
@@ -1436,7 +1436,7 @@ A realistic smartphone screenshot mockup of a Chinese short-video livestream sho
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** 栗
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13625_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13625_1.jpg" alt="Gothic Lolita Portrait at Convenience Store" width="480" />
@@ -1457,7 +1457,7 @@ A photorealistic close-up portrait of a young Japanese woman wearing a {argument
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** BubbleBrain
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14323_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14323_1.jpg" alt="High-Fashion Anime Homage Portrait" width="480" />
@@ -1478,7 +1478,7 @@ A high-fashion portrait prompt that mimics a famous anime sword-fighting pose us
 - **Category:** `Portraits & Characters`
 - **Source:** `twitter`
 - **Author:** でんでん
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13930_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13930_1.jpg" alt="Anime Magical Girl Character Reference Sheet" width="480" />
@@ -1564,7 +1564,7 @@ Generates a highly detailed, multi-section anime character design document inclu
 - **Category:** `Creative & Misc`
 - **Source:** `twitter`
 - **Author:** のるま
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14012_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14012_1.jpg" alt="Two Women Shopping in a Vintage Store" width="480" />
@@ -1585,7 +1585,7 @@ A photorealistic candid photograph of two Asian women shopping together inside a
 - **Category:** `Creative & Misc`
 - **Source:** `twitter`
 - **Author:** いにしえ@AI Director & Creator｜Will Oldgram
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13984_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13984_1.jpg" alt="Language Translation and Layout Modification" width="480" />
@@ -1606,7 +1606,7 @@ Change to the English version. Keep the image as it is and translate the Japanes
 - **Category:** `Creative & Misc`
 - **Source:** `twitter`
 - **Author:** zdhpeter
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14340_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14340_1.jpg" alt="Physical Exam Question Layout" width="480" />
@@ -1627,7 +1627,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **Category:** `Creative & Misc`
 - **Source:** `twitter`
 - **Author:** AZIZ | AI 🇸🇦
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14394_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14394_1.jpg" alt="Handwritten Realistic Letter" width="480" />
@@ -1648,7 +1648,7 @@ A highly realistic handwritten letter, consisting of a {argument name="letter co
 - **Category:** `Creative & Misc`
 - **Source:** `twitter`
 - **Author:** SHEN
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14479_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14479_1.jpg" alt="Chinese Calligraphy Scroll on Aged Paper" width="480" />
@@ -1669,7 +1669,7 @@ A high-resolution museum-style photograph of a traditional Chinese calligraphy h
 - **Category:** `Creative & Misc`
 - **Source:** `twitter`
 - **Author:** ほしけん
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14213_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14213_1.jpg" alt="Identical Baseball Players Lineup" width="480" />
@@ -1694,7 +1694,7 @@ A realistic sports photograph of exactly 5 identical young Asian men standing in
 - **Category:** `Infographics & Data Viz`
 - **Source:** `twitter`
 - **Author:** Kevin的学堂
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13778_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13778_1.jpg" alt="Live Streaming App UI Mockup" width="480" />
@@ -1786,7 +1786,7 @@ Generates a realistic mobile live streaming interface featuring a streamer, chat
 - **Category:** `Infographics & Data Viz`
 - **Source:** `twitter`
 - **Author:** 1LittleCoder💻
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14662_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14662_1.jpg" alt="Digital Chessboard After 1.e4 e5" width="480" />
@@ -1807,7 +1807,7 @@ A clean, flat digital top-down chessboard centered in the frame, shown as a squa
 - **Category:** `Infographics & Data Viz`
 - **Source:** `twitter`
 - **Author:** Curry Amber
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13884_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13884_1.jpg" alt="E-commerce LED Driver Infographic" width="480" />
@@ -1886,7 +1886,7 @@ A comprehensive Amazon A+ style product listing infographic detailing features, 
 - **Category:** `Infographics & Data Viz`
 - **Source:** `twitter`
 - **Author:** いにしえ@AI Director & Creator｜Will Oldgram
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13634_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13634_1.jpg" alt="3-Panel Anime Sci-Fi Course Promo" width="480" />
@@ -1965,7 +1965,7 @@ Generates a three-panel vertical infographic comparing different AI models, feat
 - **Category:** `Infographics & Data Viz`
 - **Source:** `twitter`
 - **Author:** Aldo Cortesi
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13759_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13759_1.jpg" alt="Hilbert Curve Infographic" width="480" />
@@ -2057,7 +2057,7 @@ Generates an educational mathematical diagram explaining a degree 3 Hilbert curv
 - **Category:** `Infographics & Data Viz`
 - **Source:** `twitter`
 - **Author:** 沐阳
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13780_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13780_1.jpg" alt="Comprehensive Cat Breed Infographic" width="480" />
@@ -2133,7 +2133,7 @@ Generates a highly detailed, grid-based encyclopedia poster of cat breeds catego
 - **Category:** `Infographics & Data Viz`
 - **Source:** `twitter`
 - **Author:** 林泽
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14175_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14175_1.jpg" alt="Traditional Clothing Infographic Guide" width="480" />
@@ -2209,7 +2209,7 @@ Generates a highly detailed, museum-quality infographic breaking down the struct
 - **Category:** `Infographics & Data Viz`
 - **Source:** `twitter`
 - **Author:** ハカセ アイ(Ai-Hakase)🐾最新トレンドＡＩのためのＸ 🐾
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14214_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14214_1.jpg" alt="Whimsical Programmer Almanac Infographic" width="480" />
@@ -2318,7 +2318,7 @@ Generates a watercolor-style daily almanac for programmers featuring a Little Pr
 - **Category:** `Infographics & Data Viz`
 - **Source:** `twitter`
 - **Author:** Ethan
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14261_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14261_1.jpg" alt="Laptop Technical Overview Infographic" width="480" />
@@ -2402,7 +2402,7 @@ A detailed, hand-drawn style technical spec sheet for a laptop, featuring intern
 - **Category:** `Infographics & Data Viz`
 - **Source:** `x`
 - **Author:** Easy A.I.
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14705_0.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14705_0.jpg" alt="Scientific Journal Infographic of Human Brain Anatomy" width="480" />
@@ -2423,7 +2423,7 @@ A scientific journal style infographic poster in 16:9 horizontal format about th
 - **Category:** `Infographics & Data Viz`
 - **Source:** `twitter`
 - **Author:** 虎小象
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14163_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14163_1.jpg" alt="3D Urban Systems Atlas Infographic" width="480" />
@@ -2496,7 +2496,7 @@ A highly detailed, information-dense infographic featuring a 3D isometric cutawa
 - **Category:** `Infographics & Data Viz`
 - **Source:** `twitter`
 - **Author:** 大卫叔的AI旅程
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14644_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14644_1.jpg" alt="Nanjing Classic Tourism Atlas Poster" width="480" />
@@ -2517,7 +2517,7 @@ This prompt generates a polished Chinese travel infographic poster showcasing ei
 - **Category:** `Infographics & Data Viz`
 - **Source:** `twitter`
 - **Author:** 行者AI视频
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13786_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13786_1.jpg" alt="3D Animated Tourism Infographic Poster" width="480" />
@@ -2588,7 +2588,7 @@ Generates a vibrant 3D animated promotional poster featuring local landmarks, re
 - **Category:** `Infographics & Data Viz`
 - **Source:** `twitter`
 - **Author:** ナーガ@X女帝
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13900_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13900_1.jpg" alt="Neon Business Info-Product Thumbnail" width="480" />
@@ -2652,7 +2652,7 @@ Generates a high-impact, text-heavy YouTube thumbnail or banner for business and
 - **Category:** `Infographics & Data Viz`
 - **Source:** `twitter`
 - **Author:** MCapital
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14159_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14159_1.jpg" alt="Soccer Match Infographic Poster" width="480" />
@@ -2706,7 +2706,7 @@ Generates a detailed sports matchup poster with player portraits, team logos, an
 - **Category:** `Infographics & Data Viz`
 - **Source:** `twitter`
 - **Author:** 𝙵𝚊𝚕𓏲𓎨
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14048_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14048_1.jpg" alt="Complex Infographic Explainer Sheet" width="480" />
@@ -2778,7 +2778,7 @@ Generates a highly detailed, multi-section infographic with charts, flowcharts, 
 - **Category:** `Infographics & Data Viz`
 - **Source:** `twitter`
 - **Author:** 程序员小灰
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13896_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13896_1.jpg" alt="56 Chinese Ethnic Groups Clothing Chart" width="480" />
@@ -2829,7 +2829,7 @@ Generates a traditional ink-wash style grid chart displaying 56 distinct female 
 - **Category:** `Product & Branding`
 - **Source:** `twitter`
 - **Author:** cheaty
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13506_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13506_1.jpg" alt="Cosmic Dark Mode UI Design System" width="480" />
@@ -2927,7 +2927,7 @@ Generates a comprehensive dark-mode UI design system featuring color palettes, t
 - **Category:** `Product & Branding`
 - **Source:** `twitter`
 - **Author:** dih
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13459_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13459_1.jpg" alt="Dark Mode X Post Mockup" width="480" />
@@ -2948,7 +2948,7 @@ A dark mode screenshot of an X post. The profile features a man with a mustache 
 - **Category:** `Product & Branding`
 - **Source:** `twitter`
 - **Author:** Keyboard81727
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13657_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13657_1.jpg" alt="wikiHow Article Mockup" width="480" />
@@ -3020,7 +3020,7 @@ Generates a detailed, text-heavy tutorial webpage mimicking the wikiHow layout, 
 - **Category:** `Product & Branding`
 - **Source:** `twitter`
 - **Author:** cheaty
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13507_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13507_1.jpg" alt="Light Mode UI Design System Board" width="480" />
@@ -3107,7 +3107,7 @@ Generates a comprehensive UI design system presentation featuring color palettes
 - **Category:** `Product & Branding`
 - **Source:** `twitter`
 - **Author:** 沐阳
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14177_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14177_1.jpg" alt="Pet Brand Identity System Board" width="480" />
@@ -3132,7 +3132,7 @@ A polished corporate brand guideline board for a pet industry logo, useful for g
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** 中崎工房 | AIで1時間の仕事を5分で終わらせる人
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14269_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14269_1.jpg" alt="Hyper-Energetic Japanese Promo Poster" width="480" />
@@ -3208,7 +3208,7 @@ Generates a highly detailed, text-heavy Japanese promotional poster with explosi
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** いにしえ@AI Director & Creator｜Will Oldgram
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13953_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13953_1.jpg" alt="Two-Panel RPG Concept Art" width="480" />
@@ -3277,7 +3277,7 @@ Generates a split-panel promotional illustration featuring a fantasy party in bo
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** 肖师傅
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14487_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14487_1.jpg" alt="Move Display Stand Onto Deck" width="480" />
@@ -3298,7 +3298,7 @@ Using the provided reference image, keep the same garden, pond, trees, hillside,
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** 歸藏(guizang.ai)
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14655_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14655_1.jpg" alt="Premium Blueberry Product Poster" width="480" />
@@ -3319,7 +3319,7 @@ A premium e-commerce poster for fresh blueberries in a clean Chinese product-adv
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** ナーガ@X女帝
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13903_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13903_1.jpg" alt="Gold & Black Info-Product Thumbnail" width="480" />
@@ -3383,7 +3383,7 @@ Generates a flashy, text-heavy promotional banner or YouTube thumbnail featuring
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** おのふみ| 動画生成AI×個人開発
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14478_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14478_1.jpg" alt="Spring School Romance Manga Page" width="480" />
@@ -3404,7 +3404,7 @@ A polished five-panel full-color shoujo manga page showing a cherry-blossom scho
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** breeze
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14463_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14463_1.jpg" alt="Chinese Co-Branded Summer Drink Poster" width="480" />
@@ -3425,7 +3425,7 @@ Create a glossy Chinese co-branded beverage poster advertisement in a bold comme
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** Senb0n22a
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13891_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13891_1.jpg" alt="Anime Character Typography Poster" width="480" />
@@ -3463,7 +3463,7 @@ Generates a vibrant, graphic-design style anime character poster with integrated
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** 兔妹_兔子
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14457_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14457_1.jpg" alt="Iridescent Butterfly UI System Board" width="480" />
@@ -3484,7 +3484,7 @@ A polished dark-mode Chinese UI/UX design system presentation board featuring a 
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** とらの@VRC
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14206_1.png)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14206_1.png" alt="Watercolor Picture Book Cover" width="480" />
@@ -3505,7 +3505,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** サモ(Futoshi Iwasawa)
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13747_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13747_1.jpg" alt="Anime Girl Leaning on Vending Machine" width="480" />
@@ -3526,7 +3526,7 @@ An anime-style illustration of a young woman with {argument name="hair style" de
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** boon陈庚阳
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13834_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13834_1.jpg" alt="Cinematic Food & Beverage Collab Poster" width="480" />
@@ -3547,7 +3547,7 @@ A cinematic, high-quality advertisement poster featuring two older Asian men sit
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** かなまる
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14243_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14243_1.jpg" alt="Aesthetic Social Media Link-in-Bio Grid" width="480" />
@@ -3629,7 +3629,7 @@ A 6-panel promotional grid with a footer, typically used as a stylized link-in-b
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** corbin
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14695_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14695_1.jpg" alt="Tech Tutorial Thumbnail with UI Mockup" width="480" />
@@ -3650,7 +3650,7 @@ A clean modern YouTube thumbnail on a bright white background, split visually be
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** やきいも｜週1クリエイトで飯を食う
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14493_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14493_1.jpg" alt="Japanese AI Creator Studio Banner" width="480" />
@@ -3671,7 +3671,7 @@ Create a polished Japanese promotional website hero banner for an AI creator com
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** Marcio Lima 利真 マルシオ 💎
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14304_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14304_1.jpg" alt="Futuristic Japanese product advertisement" width="480" />
@@ -3692,7 +3692,7 @@ Create a hyper-realistic {argument name="style" default="Japanese-style"} {argum
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** とらの
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14024_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14024_1.jpg" alt="Japanese Restaurant Promotional Menu Poster" width="480" />
@@ -3763,7 +3763,7 @@ A detailed layout for a seasonal restaurant menu featuring multiple dish photos,
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** パク🎈動画広告分析Pro × AI
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14237_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14237_1.jpg" alt="European Travel Advertisement Banner" width="480" />
@@ -3824,7 +3824,7 @@ Generates a travel agency web banner featuring a scenic European town, promotion
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** パク🎈動画広告分析Pro × AI
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14188_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14188_1.jpg" alt="Cinematic Japanese Romance Movie Poster" width="480" />
@@ -3845,7 +3845,7 @@ A cinematic Japanese movie poster featuring a romantic, melancholic scene of a m
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** パジョカ (Pajoca)
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14510_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14510_1.jpg" alt="Nine Chibi Kitten Costume Variants" width="480" />
@@ -3866,7 +3866,7 @@ A pastel pink character sheet showing nine cute kitten dress-up outfits, ideal f
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** 三月 | 蓝鸟会🕊
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13724_1.png)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13724_1.png" alt="Game Crossover Promotional Poster" width="480" />
@@ -3887,7 +3887,7 @@ Generate a promotional poster for a crossover event between {argument name="firs
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** 虎小象
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14456_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14456_1.jpg" alt="Minimal Spring Fashion Editorial Board" width="480" />
@@ -3908,7 +3908,7 @@ A clean luxury fashion presentation slide showing a spring layered outfit with e
 - **Category:** `Posters & Marketing`
 - **Source:** `twitter`
 - **Author:** ZeFred.AI
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14598_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14598_1.jpg" alt="Dark Space Emperor Movie Poster" width="480" />
@@ -3933,7 +3933,7 @@ A dark epic sci-fi movie poster for {argument name="film title" default="EMPIRE 
 - **Category:** `Scenes & Environments`
 - **Source:** `twitter`
 - **Author:** pozitiv4ik
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14570_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14570_1.jpg" alt="Found-Footage Office Horror Snapshot" width="480" />
@@ -3954,7 +3954,7 @@ A gritty found-footage horror photo taken inside a dim, cramped security office 
 - **Category:** `Scenes & Environments`
 - **Source:** `twitter`
 - **Author:** Ethan Mollick
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14696_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14696_1.jpg" alt="Otter Scientist Presentation Slide" width="480" />
@@ -3975,7 +3975,7 @@ A photorealistic humorous academic presentation in a conference room: an anthrop
 - **Category:** `Scenes & Environments`
 - **Source:** `x`
 - **Author:** PromptLab
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14699_0.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14699_0.jpg" alt="Ancient Towering Tree with Twisted Roots" width="480" />
@@ -3996,7 +3996,7 @@ An ancient, towering tree with massive twisted roots stands at the center of a l
 - **Category:** `Scenes & Environments`
 - **Source:** `twitter`
 - **Author:** のるま
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14016_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14016_1.jpg" alt="Vintage Store Shopping Scene" width="480" />
@@ -4017,7 +4017,7 @@ A photorealistic, candid shot of two young Asian women shopping inside a tightly
 - **Category:** `Scenes & Environments`
 - **Source:** `twitter`
 - **Author:** のうめん🏗️👺生成AIパスポート認定取れた
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14171_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14171_1.jpg" alt="Surreal Gothic Hall with Floating Masks" width="480" />
@@ -4042,7 +4042,7 @@ A highly detailed, cinematic wide shot of a grand, dark gothic hall with a {argu
 - **Category:** `Anime & Illustration`
 - **Source:** `twitter`
 - **Author:** Justine Moore
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14389_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14389_1.jpg" alt="Eight Panel Manga Story" width="480" />
@@ -4063,7 +4063,7 @@ Generates an eight-panel manga layout about a specific event or topic, perfect f
 - **Category:** `Anime & Illustration`
 - **Source:** `twitter`
 - **Author:** Hbtt
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13675_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13675_1.jpg" alt="Multi-Panel Comic Book Page" width="480" />
@@ -4161,7 +4161,7 @@ Generates a fully lettered, multi-panel comic book page featuring dynamic action
 - **Category:** `Anime & Illustration`
 - **Source:** `twitter`
 - **Author:** みかみ.ai｜AI発信と個人開発
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13726_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13726_1.jpg" alt="Fantasy Anime Key Visual Prompt" width="480" />
@@ -4182,7 +4182,7 @@ Create an anime key visual for a {argument name="genre" default="classic fantasy
 - **Category:** `Anime & Illustration`
 - **Source:** `twitter`
 - **Author:** noel.index
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13756_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13756_1.jpg" alt="3-Panel Duct Tape Meme Comic" width="480" />
@@ -4227,7 +4227,7 @@ Generates a 3-panel comic showing a subject eating a fruit and taping the peel t
 - **Category:** `Anime & Illustration`
 - **Source:** `twitter`
 - **Author:** Kai
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13449_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13449_1.jpg" alt="Ligne Claire Suburban Landscape" width="480" />
@@ -4248,7 +4248,7 @@ A detailed {argument name="art style" default="ligne claire comic illustration"}
 - **Category:** `Anime & Illustration`
 - **Source:** `twitter`
 - **Author:** AI Network Technology
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14549_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14549_1.jpg" alt="Anime Sci-Fi School Proposal Board" width="480" />
@@ -4269,7 +4269,7 @@ Generates a polished Japanese-style one-page pitch sheet for an original anime a
 - **Category:** `Anime & Illustration`
 - **Source:** `twitter`
 - **Author:** らけしで / Mizmic Studio
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13915_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13915_1.jpg" alt="Sci-Fi Chibi Robot Welding in Space" width="480" />
@@ -4290,7 +4290,7 @@ A highly detailed sci-fi illustration of a {argument name="robot style" default=
 - **Category:** `Anime & Illustration`
 - **Source:** `twitter`
 - **Author:** re/u x
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13888_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13888_1.jpg" alt="Classroom Chalkboard Lesson" width="480" />
@@ -4315,7 +4315,7 @@ A photorealistic, slightly angled snapshot of a green classroom chalkboard. On t
 - **Category:** `3D & Render`
 - **Source:** `twitter`
 - **Author:** さつき＠AIお絵描き(うさぎ好き）
-- **Language:** `fr`
+- **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13986_1.jpg)
 
 <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13986_1.jpg" alt="Animal Hiragana Study Sheet" width="480" />
@@ -4352,4 +4352,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-06-15T09:42:31.803Z
+> This README is auto-generated. 2026-06-15T11:09:50.888Z
