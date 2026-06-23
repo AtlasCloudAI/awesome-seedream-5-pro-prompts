@@ -33,7 +33,7 @@
 
 ## 🧩 Supported Models
 
-- 🎬 **Video** — Seedance 2.1 · Seedance 2.0 · Seedance 2.0 Mini · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎬 **Video** — Seedance 2.5 · Seedance 2.0 · Seedance 2.0 Mini · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
 - 🎨 **Image** — Seedream 5.0 Pro · Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
 - 🧊 **3D** — Seed3D 2.0 · Hunyuan 3D Pro · Hunyuan 3D Rapid
 - 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
@@ -70,7 +70,7 @@ Seedream 5.0 Pro 是 ByteDance 推出的高水准文生图模型，擅长照片�
 | 提示词总数 | **100** |
 | 分类数 | **8** |
 | 预览图数 | **100** |
-| 最后更新 | **2026-06-15T11:09:50.881Z** |
+| 最后更新 | **2026-06-23T12:01:08.707Z** |
 
 ## 🏷️ 按分类浏览
 
@@ -4352,4 +4352,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-06-15T11:09:50.881Z
+> 此 README 为自动生成。 2026-06-23T12:01:08.707Z
