@@ -19,7 +19,11 @@ function buildPromptLibraryUrl(locale: string): string {
 }
 
 function buildModelUrl(locale: string): string {
-  return `https://www.atlascloud.ai${buildLocalePrefix(locale)}/models/bytedance/seedream-5.0-pro/text-to-image${UTM}`;
+  return `https://www.atlascloud.ai${buildLocalePrefix(locale)}/models/bytedance/seedream-v5.0-pro/text-to-image${UTM}`;
+}
+
+function buildEditUrl(locale: string): string {
+  return `https://www.atlascloud.ai${buildLocalePrefix(locale)}/models/bytedance/seedream-v5.0-pro/edit${UTM}`;
 }
 
 function renderBadges(promptCount: number): string {
@@ -251,7 +255,7 @@ function renderModelIntro(locale: string): string {
       "- **多图参考** — 最多融合 14 张参考图，迁移服装、风格、角色或产品，并保持主体一致性。",
       "- **成组/连续生成** — 一次调用产出一组相关图：漫画分镜、四季系列、完整品牌视觉系统。",
       "- **画面文字** — 稳定还原密集版式与确切文案，适合海报、信息图与包装。",
-      "- **图像编辑** — 用自然语言从一张参考图替换材质、背景、服装或视角。",
+      `- **图像编辑** — 用自然语言从一张参考图替换材质、背景、服装或视角。[打开图像编辑模型 »](${buildEditUrl(locale)})`,
       "",
       "### 推荐写法",
       "",
@@ -275,7 +279,7 @@ function renderModelIntro(locale: string): string {
       "- **多圖參考** — 最多融合 14 張參考圖，遷移服裝、風格、角色或產品，並保持主體一致性。",
       "- **成組/連續生成** — 一次調用產出一組相關圖：漫畫分鏡、四季系列、完整品牌視覺系統。",
       "- **畫面文字** — 穩定還原密集版式與確切文案，適合海報、資訊圖與包裝。",
-      "- **圖像編輯** — 用自然語言從一張參考圖替換材質、背景、服裝或視角。",
+      `- **圖像編輯** — 用自然語言從一張參考圖替換材質、背景、服裝或視角。[開啟圖像編輯模型 »](${buildEditUrl(locale)})`,
       "",
       "### 推薦寫法",
       "",
@@ -298,7 +302,7 @@ function renderModelIntro(locale: string): string {
     "- **Multi-image reference** — blend up to 14 reference images to transfer outfits, styles, characters, or products while keeping subject consistency.",
     "- **Grouped / sequential generation** — produce a set of related images in one call: comic storyboards, seasonal series, or a full brand visual system.",
     "- **In-image text** — renders dense layouts and exact copy reliably — ideal for posters, infographics, and packaging.",
-    "- **Image editing** — swap materials, backgrounds, clothing, or perspective from a single reference via natural-language instructions.",
+    `- **Image editing** — swap materials, backgrounds, clothing, or perspective from a single reference via natural-language instructions. [Open the edit model »](${buildEditUrl(locale)})`,
     "",
     "### Recommended Structure",
     "",
