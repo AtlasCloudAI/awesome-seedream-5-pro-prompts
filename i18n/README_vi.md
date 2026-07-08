@@ -14,6 +14,25 @@
 
 ---
 
+## ✨ Official Showcases
+
+> Prompt → output pairs from the official Seedream 5.0 docs — editing, outfit swap, grouped storyboards, brand systems.
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/showcase-editorial-portrait.jpg" width="100%" /><br/><b>Text-to-Image · Editorial portrait</b><br/><sub>Vibrant close-up editorial portrait, model with piercing gaze, wearing a sculptural hat, rich color blocking, sharp focus on eyes, shallow depth of field, Vogue magazine cover aesthetic, shot on medium format, dramatic studio lighting.</sub></td>
+    <td width="50%" valign="top"><img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/showcase-material-edit.jpg" width="100%" /><br/><b>Image editing · Material swap</b><br/><sub>Ref:</sub> <img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/input-material-edit.png" height="72" /><br/><sub>Keep the model's pose and the flowing shape of the liquid dress unchanged. Change the clothing material from silver metal to completely transparent clear water (or glass). Through the liquid water, the model's skin details are visible. Lighting changes from reflection to refraction.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/showcase-outfit-swap.jpg" width="100%" /><br/><b>Multi-image fusion · Outfit swap</b><br/><sub>Ref:</sub> <img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/input-outfit-model.png" height="72" /> <img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/input-outfit-ref.png" height="72" /><br/><sub>Replace the clothing in image 1 with the outfit from image 2.</sub></td>
+    <td width="50%" valign="top"><img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/showcase-scifi-storyboard.jpg" width="100%" /><br/><b>Grouped output · Sci-fi storyboard</b><br/><sub>Generate a set of four cinematic sci-fi realistic film storyboard scenes: an astronaut repairs a spacecraft at a space station; suddenly hit by a meteorite belt; the astronaut dodges urgently; the astronaut, injured, escapes back to the spacecraft in a thrilling sequence.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/showcase-brand-vi.jpg" width="100%" /><br/><b>Image-to-group · Brand visual system</b><br/><sub>Ref:</sub> <img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/input-brand-logo.png" height="72" /><br/><sub>Using this LOGO as a reference, create a visual design system for an outdoor sports brand named GREEN, including packaging bags, hats, cards, lanyards, etc. Main visual tone is green, with a fun, simple, and modern style.</sub></td>
+    <td width="50%" valign="top"><img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/showcase-rollercoaster.jpg" width="100%" /><br/><b>Multi-image → group · Time-of-day series</b><br/><sub>Ref:</sub> <img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/input-rc-girl.png" height="72" /> <img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/input-rc-plush.png" height="72" /><br/><sub>Generate 3 images of a girl and a cow plushie happily riding a roller coaster in an amusement park, depicting morning, noon, and night.</sub></td>
+  </tr>
+</table>
+
 ## 📖 Contents
 
 - [🌐 View in AtlasCloud](#-view-in-atlascloud)
@@ -50,11 +69,15 @@
 
 ## 🤔 Seedream 5.0 Pro Overview
 
-Seedream 5.0 Pro is ByteDance's state-of-the-art text-to-image model. It excels at photorealism, accurate in-image text rendering, complex layouts, and faithful prompt following across styles — from editorial posters and infographics to portraits and anime.
+Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of the Seedream 5.0 family. It unifies generation and editing in one model, with standout strengths in photorealism, accurate in-image text rendering, and faithful multi-element prompt following across styles — from editorial posters and infographics to portraits, product shots, and anime.
 
-- Describe subject, composition, lighting, and style; Seedream handles dense layouts and embedded text well.
-- For posters and infographics, spell out the exact text strings and their hierarchy in the prompt.
-- Great for marketing creatives, editorial design, product mockups, character art, and data visualization.
+**What it does well**
+
+- **Native high resolution** — up to 4K output, plus 2K/3K and flexible aspect ratios (1:1, 4:3, 16:9, 21:9 …).
+- **Multi-image reference** — blend up to 14 reference images to transfer outfits, styles, characters, or products while keeping subject consistency.
+- **Grouped / sequential generation** — produce a set of related images in one call: comic storyboards, seasonal series, or a full brand visual system.
+- **In-image text** — renders dense layouts and exact copy reliably — ideal for posters, infographics, and packaging.
+- **Image editing** — swap materials, backgrounds, clothing, or perspective from a single reference via natural-language instructions.
 
 ### Recommended Structure
 
@@ -70,7 +93,7 @@ Seedream 5.0 Pro is ByteDance's state-of-the-art text-to-image model. It excels 
 | Total Prompts | **100** |
 | Categories | **8** |
 | Preview Images | **100** |
-| Last Updated | **2026-06-23T12:01:08.717Z** |
+| Last Updated | **2026-07-08T13:39:00.222Z** |
 
 ## 🏷️ Browse by Category
 
@@ -4352,4 +4375,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-06-23T12:01:08.717Z
+> This README is auto-generated. 2026-07-08T13:39:00.222Z

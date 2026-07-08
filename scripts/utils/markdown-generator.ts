@@ -31,6 +31,101 @@ function renderBadges(promptCount: number): string {
   ].join("\n");
 }
 
+const SHOWCASE_CDN = "https://static.atlascloud.ai/model/example/seedream-5-0-pro";
+
+type ShowcaseItem = {
+  key: string;
+  output: string;
+  inputs?: string[];
+  tag: { en: string; zh: string; "zh-TW": string };
+  prompt: string;
+};
+
+const SHOWCASES: ShowcaseItem[] = [
+  {
+    key: "editorial-portrait",
+    output: "showcase-editorial-portrait.jpg",
+    tag: { en: "Text-to-Image · Editorial portrait", zh: "文生图 · 杂志人像", "zh-TW": "文生圖 · 雜誌人像" },
+    prompt:
+      "Vibrant close-up editorial portrait, model with piercing gaze, wearing a sculptural hat, rich color blocking, sharp focus on eyes, shallow depth of field, Vogue magazine cover aesthetic, shot on medium format, dramatic studio lighting.",
+  },
+  {
+    key: "material-edit",
+    output: "showcase-material-edit.jpg",
+    inputs: ["input-material-edit.png"],
+    tag: { en: "Image editing · Material swap", zh: "图像编辑 · 材质替换", "zh-TW": "圖像編輯 · 材質替換" },
+    prompt:
+      "Keep the model's pose and the flowing shape of the liquid dress unchanged. Change the clothing material from silver metal to completely transparent clear water (or glass). Through the liquid water, the model's skin details are visible. Lighting changes from reflection to refraction.",
+  },
+  {
+    key: "outfit-swap",
+    output: "showcase-outfit-swap.jpg",
+    inputs: ["input-outfit-model.png", "input-outfit-ref.png"],
+    tag: { en: "Multi-image fusion · Outfit swap", zh: "多图融合 · 换装", "zh-TW": "多圖融合 · 換裝" },
+    prompt: "Replace the clothing in image 1 with the outfit from image 2.",
+  },
+  {
+    key: "scifi-storyboard",
+    output: "showcase-scifi-storyboard.jpg",
+    tag: { en: "Grouped output · Sci-fi storyboard", zh: "成组输出 · 科幻分镜", "zh-TW": "成組輸出 · 科幻分鏡" },
+    prompt:
+      "Generate a set of four cinematic sci-fi realistic film storyboard scenes: an astronaut repairs a spacecraft at a space station; suddenly hit by a meteorite belt; the astronaut dodges urgently; the astronaut, injured, escapes back to the spacecraft in a thrilling sequence.",
+  },
+  {
+    key: "brand-vi",
+    output: "showcase-brand-vi.jpg",
+    inputs: ["input-brand-logo.png"],
+    tag: { en: "Image-to-group · Brand visual system", zh: "图生成组 · 品牌视觉系统", "zh-TW": "圖生成組 · 品牌視覺系統" },
+    prompt:
+      "Using this LOGO as a reference, create a visual design system for an outdoor sports brand named GREEN, including packaging bags, hats, cards, lanyards, etc. Main visual tone is green, with a fun, simple, and modern style.",
+  },
+  {
+    key: "rollercoaster",
+    output: "showcase-rollercoaster.jpg",
+    inputs: ["input-rc-girl.png", "input-rc-plush.png"],
+    tag: { en: "Multi-image → group · Time-of-day series", zh: "多图生成组 · 早午晚系列", "zh-TW": "多圖生成組 · 早午晚系列" },
+    prompt:
+      "Generate 3 images of a girl and a cow plushie happily riding a roller coaster in an amusement park, depicting morning, noon, and night.",
+  },
+];
+
+function showcaseHeading(locale: string): string {
+  if (locale === "zh") return "## ✨ 官方效果演示 (Official Showcases)";
+  if (locale === "zh-TW") return "## ✨ 官方效果演示 (Official Showcases)";
+  return "## ✨ Official Showcases";
+}
+
+function showcaseTagline(locale: string): string {
+  if (locale === "zh") return "> 来自 Seedream 5.0 官方文档的提示词 → 出图效果对照（编辑 / 换装 / 成组分镜 / 品牌 VI）。";
+  if (locale === "zh-TW") return "> 來自 Seedream 5.0 官方文件的提示詞 → 出圖效果對照（編輯 / 換裝 / 成組分鏡 / 品牌 VI）。";
+  return "> Prompt → output pairs from the official Seedream 5.0 docs — editing, outfit swap, grouped storyboards, brand systems.";
+}
+
+function refLabel(locale: string): string {
+  return locale === "zh" ? "参考图" : locale === "zh-TW" ? "參考圖" : "Ref";
+}
+
+function renderOfficialShowcases(locale: string): string {
+  const tagLocale = locale === "zh" || locale === "zh-TW" ? locale : "en";
+  const lines: string[] = [showcaseHeading(locale), "", showcaseTagline(locale), "", "<table>"];
+  for (let i = 0; i < SHOWCASES.length; i += 2) {
+    lines.push("  <tr>");
+    for (const item of SHOWCASES.slice(i, i + 2)) {
+      const tag = item.tag[tagLocale as keyof ShowcaseItem["tag"]];
+      const refs = (item.inputs || [])
+        .map((f) => `<img src="${SHOWCASE_CDN}/${f}" height="72" />`)
+        .join(" ");
+      const refRow = refs ? `<br/><sub>${refLabel(locale)}:</sub> ${refs}` : "";
+      lines.push(
+        `    <td width="50%" valign="top"><img src="${SHOWCASE_CDN}/${item.output}" width="100%" /><br/><b>${tag}</b>${refRow}<br/><sub>${item.prompt}</sub></td>`,
+      );
+    }
+    lines.push("  </tr>");
+  }
+  lines.push("</table>", "");
+  return lines.join("\n");
+}
+
 function renderSupportedModels(): string {
   return [
     "## 🧩 Supported Models",
@@ -147,11 +242,15 @@ function renderModelIntro(locale: string): string {
     return [
       "## 🤔 Seedream 5.0 Pro 模型简介",
       "",
-      "Seedream 5.0 Pro 是 ByteDance 推出的高水准文生图模型，擅长照片级写实、精准的画面文字渲染、复杂版式和跨风格的提示词还原，从社论海报、信息图到人像和动漫都能稳定输出。",
+      "Seedream 5.0 Pro 是 ByteDance 的旗舰文生图模型，也是 Seedream 5.0 家族的顶配版本。它把生成与编辑统一在同一个模型里，擅长照片级写实、精准的画面文字渲染，以及跨风格的多元素提示词还原——从社论海报、信息图到人像、产品图和动漫都能稳定输出。",
       "",
-      "- 建议写清主体、构图、光线和风格；Seedream 对密集版式和嵌入文字处理得很好。",
-      "- 做海报/信息图时，把要呈现的文字内容和层级直接写进提示词。",
-      "- 适合营销创意、社论设计、产品视觉、角色立绘和数据可视化等题材。",
+      "**核心能力**",
+      "",
+      "- **原生高分辨率** — 最高 4K 输出，另有 2K/3K 与灵活画幅（1:1、4:3、16:9、21:9 …）。",
+      "- **多图参考** — 最多融合 14 张参考图，迁移服装、风格、角色或产品，并保持主体一致性。",
+      "- **成组/连续生成** — 一次调用产出一组相关图：漫画分镜、四季系列、完整品牌视觉系统。",
+      "- **画面文字** — 稳定还原密集版式与确切文案，适合海报、信息图与包装。",
+      "- **图像编辑** — 用自然语言从一张参考图替换材质、背景、服装或视角。",
       "",
       "### 推荐写法",
       "",
@@ -167,11 +266,15 @@ function renderModelIntro(locale: string): string {
     return [
       "## 🤔 Seedream 5.0 Pro 模型簡介",
       "",
-      "Seedream 5.0 Pro 是 ByteDance 推出的高水準文生圖模型，擅長照片級寫實、精準的畫面文字渲染、複雜版式與跨風格的提示詞還原，從社論海報、資訊圖到人像與動漫都能穩定輸出。",
+      "Seedream 5.0 Pro 是 ByteDance 的旗艦文生圖模型，也是 Seedream 5.0 家族的頂配版本。它把生成與編輯統一在同一個模型裡，擅長照片級寫實、精準的畫面文字渲染，以及跨風格的多元素提示詞還原——從社論海報、資訊圖到人像、產品圖與動漫都能穩定輸出。",
       "",
-      "- 建議寫清主體、構圖、光線與風格；Seedream 對密集版式與嵌入文字處理得很好。",
-      "- 做海報/資訊圖時，把要呈現的文字內容與層級直接寫進提示詞。",
-      "- 適合行銷創意、社論設計、產品視覺、角色立繪與資料視覺化等題材。",
+      "**核心能力**",
+      "",
+      "- **原生高解析度** — 最高 4K 輸出，另有 2K/3K 與靈活畫幅（1:1、4:3、16:9、21:9 …）。",
+      "- **多圖參考** — 最多融合 14 張參考圖，遷移服裝、風格、角色或產品，並保持主體一致性。",
+      "- **成組/連續生成** — 一次調用產出一組相關圖：漫畫分鏡、四季系列、完整品牌視覺系統。",
+      "- **畫面文字** — 穩定還原密集版式與確切文案，適合海報、資訊圖與包裝。",
+      "- **圖像編輯** — 用自然語言從一張參考圖替換材質、背景、服裝或視角。",
       "",
       "### 推薦寫法",
       "",
@@ -186,11 +289,15 @@ function renderModelIntro(locale: string): string {
   return [
     "## 🤔 Seedream 5.0 Pro Overview",
     "",
-    "Seedream 5.0 Pro is ByteDance's state-of-the-art text-to-image model. It excels at photorealism, accurate in-image text rendering, complex layouts, and faithful prompt following across styles — from editorial posters and infographics to portraits and anime.",
+    "Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of the Seedream 5.0 family. It unifies generation and editing in one model, with standout strengths in photorealism, accurate in-image text rendering, and faithful multi-element prompt following across styles — from editorial posters and infographics to portraits, product shots, and anime.",
     "",
-    "- Describe subject, composition, lighting, and style; Seedream handles dense layouts and embedded text well.",
-    "- For posters and infographics, spell out the exact text strings and their hierarchy in the prompt.",
-    "- Great for marketing creatives, editorial design, product mockups, character art, and data visualization.",
+    "**What it does well**",
+    "",
+    "- **Native high resolution** — up to 4K output, plus 2K/3K and flexible aspect ratios (1:1, 4:3, 16:9, 21:9 …).",
+    "- **Multi-image reference** — blend up to 14 reference images to transfer outfits, styles, characters, or products while keeping subject consistency.",
+    "- **Grouped / sequential generation** — produce a set of related images in one call: comic storyboards, seasonal series, or a full brand visual system.",
+    "- **In-image text** — renders dense layouts and exact copy reliably — ideal for posters, infographics, and packaging.",
+    "- **Image editing** — swap materials, backgrounds, clothing, or perspective from a single reference via natural-language instructions.",
     "",
     "### Recommended Structure",
     "",
@@ -222,6 +329,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push(`> ${t("copyright", locale)}`);
   lines.push("");
   lines.push(renderLanguageNavigation(locale));
+  lines.push(renderOfficialShowcases(locale));
   lines.push(renderContents(data, locale));
   lines.push(`## 🌐 ${t("viewInGallery", locale)}`);
   lines.push("");
