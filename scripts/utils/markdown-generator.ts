@@ -14,7 +14,8 @@ function buildLocalePrefix(locale: string): string {
 }
 
 function buildPromptLibraryUrl(locale: string): string {
-  return `https://www.atlascloud.ai${buildLocalePrefix(locale)}/seedream-5-pro-prompt${UTM}`;
+  const q = locale === "zh" ? "&locale=zh-CN" : locale === "zh-TW" ? "&locale=zh-TW" : "";
+  return `https://www.atlascloud.ai/prompts-hub/seedream-5-pro-prompt${UTM}${q}`;
 }
 
 function buildModelUrl(locale: string): string {

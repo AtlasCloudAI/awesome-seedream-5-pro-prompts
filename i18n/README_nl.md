@@ -47,7 +47,7 @@
 
 ## 🌐 View in AtlasCloud
 
-- Prompt Library: [View](https://www.atlascloud.ai/nl/seedream-5-pro-prompt?utm_source=github&utm_campaign=awesome-seedream-5-pro-prompts)
+- Prompt Library: [View](https://www.atlascloud.ai/prompts-hub/seedream-5-pro-prompt?utm_source=github&utm_campaign=awesome-seedream-5-pro-prompts)
 - Model Page: [View](https://www.atlascloud.ai/nl/models/bytedance/seedream-5.0-pro/text-to-image?utm_source=github&utm_campaign=awesome-seedream-5-pro-prompts)
 
 ## 🧩 Supported Models
@@ -93,7 +93,7 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 | Total Prompts | **100** |
 | Categories | **8** |
 | Preview Images | **100** |
-| Last Updated | **2026-07-08T13:39:00.239Z** |
+| Last Updated | **2026-07-08T14:08:08.397Z** |
 
 ## 🏷️ Browse by Category
 
@@ -4375,4 +4375,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-08T13:39:00.239Z
+> This README is auto-generated. 2026-07-08T14:08:08.397Z
