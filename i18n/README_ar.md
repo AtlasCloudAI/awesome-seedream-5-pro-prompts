@@ -93,7 +93,7 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 | Total Prompts | **100** |
 | Categories | **8** |
 | Preview Images | **100** |
-| Last Updated | **2026-07-09T04:24:57.255Z** |
+| Last Updated | **2026-07-09T06:07:38.331Z** |
 
 ## 🏷️ Browse by Category
 
@@ -111,13 +111,10 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 ### No. 1: Comprehensive Anime Character Reference Sheet
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** kt
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13797_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13797_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13797_1.jpg" alt="Comprehensive Anime Character Reference Sheet" width="480" />
-- **Source Link:** [View](https://x.com/koubou87_/status/2044913275239125302#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13797_1.jpg" alt="Comprehensive Anime Character Reference Sheet" width="480" />
 
 #### Description
 
@@ -210,13 +207,10 @@ Generates a highly detailed anime character design document complete with expres
 ### No. 2: Two Women Shopping in a Vintage Store
 
 - **Category:** `Creative & Misc`
-- **Source:** `twitter`
-- **Author:** のるま
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14012_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14012_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14012_1.jpg" alt="Two Women Shopping in a Vintage Store" width="480" />
-- **Source Link:** [View](https://x.com/noruma_noel/status/2045621795521536419#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14012_1.jpg" alt="Two Women Shopping in a Vintage Store" width="480" />
 
 #### Description
 
@@ -231,13 +225,10 @@ A photorealistic candid photograph of two Asian women shopping together inside a
 ### No. 3: Live Streaming App UI Mockup
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `twitter`
-- **Author:** Kevin的学堂
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13778_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13778_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13778_1.jpg" alt="Live Streaming App UI Mockup" width="480" />
-- **Source Link:** [View](https://x.com/kevintao1024/status/2045074817339052095#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13778_1.jpg" alt="Live Streaming App UI Mockup" width="480" />
 
 #### Description
 
@@ -323,13 +314,10 @@ Generates a realistic mobile live streaming interface featuring a streamer, chat
 ### No. 4: Vintage Film Portrait of Girl with Bicycle
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** BubbleBrain
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13750_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13750_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13750_1.jpg" alt="Vintage Film Portrait of Girl with Bicycle" width="480" />
-- **Source Link:** [View](https://x.com/BubbleBrain/status/2044783836329087081#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13750_1.jpg" alt="Vintage Film Portrait of Girl with Bicycle" width="480" />
 
 #### Description
 
@@ -344,13 +332,10 @@ A {argument name="photography style" default="vintage film photography"} portrai
 ### No. 5: Cosmic Dark Mode UI Design System
 
 - **Category:** `Product & Branding`
-- **Source:** `twitter`
-- **Author:** cheaty
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13506_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13506_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13506_1.jpg" alt="Cosmic Dark Mode UI Design System" width="480" />
-- **Source Link:** [View](https://x.com/cheatyyyy/status/2045973715280929275#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13506_1.jpg" alt="Cosmic Dark Mode UI Design System" width="480" />
 
 #### Description
 
@@ -442,13 +427,10 @@ Generates a comprehensive dark-mode UI design system featuring color palettes, t
 ### No. 6: Hyper-Energetic Japanese Promo Poster
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** 中崎工房 | AIで1時間の仕事を5分で終わらせる人
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14269_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14269_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14269_1.jpg" alt="Hyper-Energetic Japanese Promo Poster" width="480" />
-- **Source Link:** [View](https://x.com/nakazakifam/status/2046295223584862235#reversed-3)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14269_1.jpg" alt="Hyper-Energetic Japanese Promo Poster" width="480" />
 
 #### Description
 
@@ -518,13 +500,10 @@ Generates a highly detailed, text-heavy Japanese promotional poster with explosi
 ### No. 7: Anime Elf Girl Relaxing in a Forest River
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** kei
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14032_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14032_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14032_1.jpg" alt="Anime Elf Girl Relaxing in a Forest River" width="480" />
-- **Source Link:** [View](https://x.com/1in3Mystery/status/2045294966646141291#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14032_1.jpg" alt="Anime Elf Girl Relaxing in a Forest River" width="480" />
 
 #### Description
 
@@ -539,13 +518,10 @@ An anime illustration of an {argument name="character description" default="elf 
 ### No. 8: Digital Chessboard After 1.e4 e5
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `twitter`
-- **Author:** 1LittleCoder💻
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14662_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14662_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14662_1.jpg" alt="Digital Chessboard After 1.e4 e5" width="480" />
-- **Source Link:** [View](https://x.com/1littlecoder/status/2046693279664935272#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14662_1.jpg" alt="Digital Chessboard After 1.e4 e5" width="480" />
 
 #### Description
 
@@ -566,13 +542,10 @@ A clean, flat digital top-down chessboard centered in the frame, shown as a squa
 ### No. 1: Comprehensive Anime Character Reference Sheet
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** kt
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13797_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13797_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13797_1.jpg" alt="Comprehensive Anime Character Reference Sheet" width="480" />
-- **Source Link:** [View](https://x.com/koubou87_/status/2044913275239125302#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13797_1.jpg" alt="Comprehensive Anime Character Reference Sheet" width="480" />
 
 #### Description
 
@@ -665,13 +638,10 @@ Generates a highly detailed anime character design document complete with expres
 ### No. 2: Vintage Film Portrait of Girl with Bicycle
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** BubbleBrain
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13750_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13750_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13750_1.jpg" alt="Vintage Film Portrait of Girl with Bicycle" width="480" />
-- **Source Link:** [View](https://x.com/BubbleBrain/status/2044783836329087081#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13750_1.jpg" alt="Vintage Film Portrait of Girl with Bicycle" width="480" />
 
 #### Description
 
@@ -686,13 +656,10 @@ A {argument name="photography style" default="vintage film photography"} portrai
 ### No. 3: Anime Elf Girl Relaxing in a Forest River
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** kei
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14032_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14032_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14032_1.jpg" alt="Anime Elf Girl Relaxing in a Forest River" width="480" />
-- **Source Link:** [View](https://x.com/1in3Mystery/status/2045294966646141291#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14032_1.jpg" alt="Anime Elf Girl Relaxing in a Forest River" width="480" />
 
 #### Description
 
@@ -707,13 +674,10 @@ An anime illustration of an {argument name="character description" default="elf 
 ### No. 4: Realistic League of Legends Cosplay
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** Jack Ma-e/acc
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13685_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13685_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13685_1.jpg" alt="Realistic League of Legends Cosplay" width="480" />
-- **Source Link:** [View](https://x.com/Jackma199512/status/2044406535703626209)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13685_1.jpg" alt="Realistic League of Legends Cosplay" width="480" />
 
 #### Description
 
@@ -728,13 +692,10 @@ League of Legends cosplayer, this time cosplaying as {argument name="character" 
 ### No. 5: Western Open-World Game Screenshot
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** kei
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13742_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13742_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13742_1.jpg" alt="Western Open-World Game Screenshot" width="480" />
-- **Source Link:** [View](https://x.com/1in3Mystery/status/2044872007104287203#reversed-1)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13742_1.jpg" alt="Western Open-World Game Screenshot" width="480" />
 
 #### Description
 
@@ -749,13 +710,10 @@ A highly realistic video game screenshot in the style of a {argument name="game 
 ### No. 6: Anime Girl Smug Peace Sign Portrait
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** studioあぽろん
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13841_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13841_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13841_1.jpg" alt="Anime Girl Smug Peace Sign Portrait" width="480" />
-- **Source Link:** [View](https://x.com/ai_studioapollo/status/2044652864283533492#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13841_1.jpg" alt="Anime Girl Smug Peace Sign Portrait" width="480" />
 
 #### Description
 
@@ -770,13 +728,10 @@ An anime-style illustration of a young girl with {argument name="hair color" def
 ### No. 7: Anime Character Reference Sheet Generator
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** 篝火 椿 ( ⑉• •⑉)꜆🍵🍡
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13920_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13920_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13920_1.jpg" alt="Anime Character Reference Sheet Generator" width="480" />
-- **Source Link:** [View](https://x.com/tsubaki_ew/status/2045259289993048284#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13920_1.jpg" alt="Anime Character Reference Sheet Generator" width="480" />
 
 #### Description
 
@@ -862,13 +817,10 @@ Transforms a single character illustration into a comprehensive, multi-section r
 ### No. 8: Song Dynasty Social Media Feed
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** 终极小谢
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13973_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13973_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13973_1.jpg" alt="Song Dynasty Social Media Feed" width="480" />
-- **Source Link:** [View](https://x.com/Panda20230902/status/2045385588065313057)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13973_1.jpg" alt="Song Dynasty Social Media Feed" width="480" />
 
 #### Description
 
@@ -883,13 +835,10 @@ A creative prompt that imagines what a social media feed would look like during 
 ### No. 9: Social Media App Interface Mockup
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** 伟豪学长AI
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13837_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13837_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13837_1.jpg" alt="Social Media App Interface Mockup" width="480" />
-- **Source Link:** [View](https://x.com/wilsondu311/status/2044781525942821206#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13837_1.jpg" alt="Social Media App Interface Mockup" width="480" />
 
 #### Description
 
@@ -933,13 +882,10 @@ Generates a realistic social media video feed screenshot with customizable UI te
 ### No. 10: Moody Cyberpunk Cityscape
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** nic
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14260_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14260_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14260_1.jpg" alt="Moody Cyberpunk Cityscape" width="480" />
-- **Source Link:** [View](https://x.com/nicdunz/status/2046306963605352841#reversed-2)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14260_1.jpg" alt="Moody Cyberpunk Cityscape" width="480" />
 
 #### Description
 
@@ -954,13 +900,10 @@ A cinematic, atmospheric illustration of a young woman with short black hair sta
 ### No. 11: VTuber Profile Sheet Generator
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** WTR
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13940_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13940_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13940_1.jpg" alt="VTuber Profile Sheet Generator" width="480" />
-- **Source Link:** [View](https://x.com/wtry1102/status/2045270824542953673#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13940_1.jpg" alt="VTuber Profile Sheet Generator" width="480" />
 
 #### Description
 
@@ -975,13 +918,10 @@ Generates a highly detailed, multi-section VTuber profile sheet featuring a full
 ### No. 12: Exact Image Replication
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** 루피노드 🐰💕
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13958_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13958_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13958_1.jpg" alt="Exact Image Replication" width="480" />
-- **Source Link:** [View](https://x.com/luffynod00/status/2045038864805625980#reversed-1)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13958_1.jpg" alt="Exact Image Replication" width="480" />
 
 #### Description
 
@@ -996,13 +936,10 @@ Using REFERENCE_0, generate an {argument name="reproduction style" default="exac
 ### No. 13: Live Stream Screenshot with Celebrity
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** 世界是棵树
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13721_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13721_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13721_1.jpg" alt="Live Stream Screenshot with Celebrity" width="480" />
-- **Source Link:** [View](https://x.com/alanblogsooo/status/2044784762594918516)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13721_1.jpg" alt="Live Stream Screenshot with Celebrity" width="480" />
 
 #### Description
 
@@ -1017,13 +954,10 @@ A prompt designed to test text rendering in a specific layout, creating a 9:16 a
 ### No. 14: Photorealistic Older Couple in a Pub
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** Aidan
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13653_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13653_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13653_1.jpg" alt="Photorealistic Older Couple in a Pub" width="480" />
-- **Source Link:** [View](https://x.com/aidancramer/status/2044473314362409056#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13653_1.jpg" alt="Photorealistic Older Couple in a Pub" width="480" />
 
 #### Description
 
@@ -1038,13 +972,10 @@ A photorealistic portrait of a smiling older Caucasian couple sitting at a rusti
 ### No. 15: GTA 6 CJ and Lucia crossover
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** ManmazⓂ️
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14305_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14305_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14305_1.jpg" alt="GTA 6 CJ and Lucia crossover" width="480" />
-- **Source Link:** [View](https://x.com/Manmaz13/status/2046689320094802174)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14305_1.jpg" alt="GTA 6 CJ and Lucia crossover" width="480" />
 
 #### Description
 
@@ -1059,13 +990,10 @@ generate a scene of {argument name="game" default="GTA 6"} screenshot where {arg
 ### No. 16: First-Person VRChat Meme Crossover Screenshot
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** Senb0n22a
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13660_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13660_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13660_1.jpg" alt="First-Person VRChat Meme Crossover Screenshot" width="480" />
-- **Source Link:** [View](https://x.com/senb0n22a/status/2044546201736077710#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13660_1.jpg" alt="First-Person VRChat Meme Crossover Screenshot" width="480" />
 
 #### Description
 
@@ -1080,13 +1008,10 @@ A first-person POV screenshot inside a {argument name="game environment" default
 ### No. 17: Polaroid of Japanese Class Graduation Photo
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** やきいも｜週1クリエイトで飯を食う
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14494_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14494_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14494_1.jpg" alt="Polaroid of Japanese Class Graduation Photo" width="480" />
-- **Source Link:** [View](https://x.com/se_yakiimosan/status/2046604784111898973#reversed-2)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14494_1.jpg" alt="Polaroid of Japanese Class Graduation Photo" width="480" />
 
 #### Description
 
@@ -1101,13 +1026,10 @@ A realistic instant film Polaroid photo lying flat on a light wooden tabletop, p
 ### No. 18: Realistic X Profile Page Mockup
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** Firisis
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14559_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14559_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14559_1.jpg" alt="Realistic X Profile Page Mockup" width="480" />
-- **Source Link:** [View](https://x.com/Firisis_/status/2046690794434621550#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14559_1.jpg" alt="Realistic X Profile Page Mockup" width="480" />
 
 #### Description
 
@@ -1122,13 +1044,10 @@ Create a highly realistic dark-mode social media interface mockup that closely r
 ### No. 19: Live Stream UI Mockup with 3D Effects
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** Berryxia.AI
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13523_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13523_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13523_1.jpg" alt="Live Stream UI Mockup with 3D Effects" width="480" />
-- **Source Link:** [View](https://x.com/berryxia/status/2046035090883703088#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13523_1.jpg" alt="Live Stream UI Mockup with 3D Effects" width="480" />
 
 #### Description
 
@@ -1184,13 +1103,10 @@ Generates a highly detailed mobile live streaming interface featuring a central 
 ### No. 20: Greek God Riding a Lion
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** Max Blade
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14326_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14326_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14326_1.jpg" alt="Greek God Riding a Lion" width="480" />
-- **Source Link:** [View](https://x.com/_MaxBlade/status/2046679494883238031)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14326_1.jpg" alt="Greek God Riding a Lion" width="480" />
 
 #### Description
 
@@ -1205,13 +1121,10 @@ make me look like a {argument name="persona" default="greek god"} riding a {argu
 ### No. 21: Cinematic Woman in Vintage Library
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** Creative Diffusion
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14568_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14568_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14568_1.jpg" alt="Cinematic Woman in Vintage Library" width="480" />
-- **Source Link:** [View](https://x.com/StableTom/status/2046577842486477007#reversed-2)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14568_1.jpg" alt="Cinematic Woman in Vintage Library" width="480" />
 
 #### Description
 
@@ -1226,13 +1139,10 @@ A cinematic waist-up portrait of a refined woman in an old-fashioned library, tu
 ### No. 22: Fantasy Xianxia Portrait Transformation
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** 古一
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13787_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13787_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13787_1.jpg" alt="Fantasy Xianxia Portrait Transformation" width="480" />
-- **Source Link:** [View](https://x.com/MANISH1027512/status/2045062307051434162#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13787_1.jpg" alt="Fantasy Xianxia Portrait Transformation" width="480" />
 
 #### Description
 
@@ -1247,13 +1157,10 @@ Using REFERENCE_0 as the character base, transform the subject into a {argument 
 ### No. 23: Graffiti Sketch Style Template
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** VoxCat
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13862_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13862_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13862_1.jpg" alt="Graffiti Sketch Style Template" width="480" />
-- **Source Link:** [View](https://x.com/VoxcatAI/status/2045131503001342302)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13862_1.jpg" alt="Graffiti Sketch Style Template" width="480" />
 
 #### Description
 
@@ -1268,13 +1175,10 @@ Express {argument name="subject" default="theme/subject"} in a graffiti sketch s
 ### No. 24: Fashion Portrait With Python
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** ozgeonline
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14633_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14633_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14633_1.jpg" alt="Fashion Portrait With Python" width="480" />
-- **Source Link:** [View](https://x.com/ozgeonlinetr/status/2046681243027128608#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14633_1.jpg" alt="Fashion Portrait With Python" width="480" />
 
 #### Description
 
@@ -1289,13 +1193,10 @@ A high-fashion studio portrait of a glamorous woman crouching low in a squat pos
 ### No. 25: Douyin Livestream Screenshot Prompt
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** Kyle 不写代码
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14125_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14125_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14125_1.jpg" alt="Douyin Livestream Screenshot Prompt" width="480" />
-- **Source Link:** [View](https://x.com/kylegeeks/status/2046479783765397629)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14125_1.jpg" alt="Douyin Livestream Screenshot Prompt" width="480" />
 
 #### Description
 
@@ -1310,13 +1211,10 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
 ### No. 26: Fantasy Campfire Before a Crimson Mountain
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** 引力弹弓
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14452_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14452_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14452_1.jpg" alt="Fantasy Campfire Before a Crimson Mountain" width="480" />
-- **Source Link:** [View](https://x.com/0xthrust/status/2046604013274386643#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14452_1.jpg" alt="Fantasy Campfire Before a Crimson Mountain" width="480" />
 
 #### Description
 
@@ -1331,13 +1229,10 @@ A cinematic fantasy scene inside a rocky cave during a blizzard, viewed from sli
 ### No. 27: FPS Custom Weapon Skin Screenshot
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** Riccardo Wolf
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14081_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14081_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14081_1.jpg" alt="FPS Custom Weapon Skin Screenshot" width="480" />
-- **Source Link:** [View](https://x.com/WolfRiccardo/status/2044564232927076358#reversed-1)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14081_1.jpg" alt="FPS Custom Weapon Skin Screenshot" width="480" />
 
 #### Description
 
@@ -1352,13 +1247,10 @@ First-person perspective video game screenshot showing hands wearing {argument n
 ### No. 28: Studio Portrait With Strawberry Ice Cream
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** Arturo Garrido
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14594_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14594_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14594_1.jpg" alt="Studio Portrait With Strawberry Ice Cream" width="480" />
-- **Source Link:** [View](https://x.com/arturogarrido/status/2046696077018186053#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14594_1.jpg" alt="Studio Portrait With Strawberry Ice Cream" width="480" />
 
 #### Description
 
@@ -1373,13 +1265,10 @@ A polished studio portrait of a glamorous pop-star-like woman from the chest up,
 ### No. 29: Scenic Landscape Calendar
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** WY
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13703_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13703_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13703_1.jpg" alt="Scenic Landscape Calendar" width="480" />
-- **Source Link:** [View](https://x.com/akokoi1/status/2044789531615056175)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13703_1.jpg" alt="Scenic Landscape Calendar" width="480" />
 
 #### Description
 
@@ -1394,13 +1283,10 @@ Design a {argument name="content" default="realistic landscape"} calendar for {a
 ### No. 30: Vintage 35mm Flash Portrait
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** Ecoo
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14145_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14145_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14145_1.jpg" alt="Vintage 35mm Flash Portrait" width="480" />
-- **Source Link:** [View](https://x.com/ecooai/status/2046254319163302131#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14145_1.jpg" alt="Vintage 35mm Flash Portrait" width="480" />
 
 #### Description
 
@@ -1415,13 +1301,10 @@ A vintage 35mm film photograph of a {argument name="subject description" default
 ### No. 31: Historical Figure X Post Design
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** IT navi
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13705_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13705_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13705_1.jpg" alt="Historical Figure X Post Design" width="480" />
-- **Source Link:** [View](https://x.com/itnavi2022/status/2044596495064945144)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13705_1.jpg" alt="Historical Figure X Post Design" width="480" />
 
 #### Description
 
@@ -1436,13 +1319,10 @@ Create an X post page featuring {argument name="person" default="Sakamoto Ryoma"
 ### No. 32: Fake Douyin Lao Gan Ma Livestream Screenshot
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** 李谱Mars
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14649_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14649_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14649_1.jpg" alt="Fake Douyin Lao Gan Ma Livestream Screenshot" width="480" />
-- **Source Link:** [View](https://x.com/marslipu/status/2046604182359327055#reversed-2)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14649_1.jpg" alt="Fake Douyin Lao Gan Ma Livestream Screenshot" width="480" />
 
 #### Description
 
@@ -1457,13 +1337,10 @@ A realistic smartphone screenshot mockup of a Chinese short-video livestream sho
 ### No. 33: Gothic Lolita Portrait at Convenience Store
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** 栗
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13625_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13625_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13625_1.jpg" alt="Gothic Lolita Portrait at Convenience Store" width="480" />
-- **Source Link:** [View](https://x.com/Kukkuree/status/2044367336816406570#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13625_1.jpg" alt="Gothic Lolita Portrait at Convenience Store" width="480" />
 
 #### Description
 
@@ -1478,13 +1355,10 @@ A photorealistic close-up portrait of a young Japanese woman wearing a {argument
 ### No. 34: High-Fashion Anime Homage Portrait
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** BubbleBrain
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14323_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14323_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14323_1.jpg" alt="High-Fashion Anime Homage Portrait" width="480" />
-- **Source Link:** [View](https://x.com/BubbleBrain/status/2046564674112831920)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14323_1.jpg" alt="High-Fashion Anime Homage Portrait" width="480" />
 
 #### Description
 
@@ -1499,13 +1373,10 @@ A high-fashion portrait prompt that mimics a famous anime sword-fighting pose us
 ### No. 35: Anime Magical Girl Character Reference Sheet
 
 - **Category:** `Portraits & Characters`
-- **Source:** `twitter`
-- **Author:** でんでん
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13930_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13930_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13930_1.jpg" alt="Anime Magical Girl Character Reference Sheet" width="480" />
-- **Source Link:** [View](https://x.com/dendendensho810/status/2045098539412595124#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13930_1.jpg" alt="Anime Magical Girl Character Reference Sheet" width="480" />
 
 #### Description
 
@@ -1585,13 +1456,10 @@ Generates a highly detailed, multi-section anime character design document inclu
 ### No. 1: Two Women Shopping in a Vintage Store
 
 - **Category:** `Creative & Misc`
-- **Source:** `twitter`
-- **Author:** のるま
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14012_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14012_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14012_1.jpg" alt="Two Women Shopping in a Vintage Store" width="480" />
-- **Source Link:** [View](https://x.com/noruma_noel/status/2045621795521536419#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14012_1.jpg" alt="Two Women Shopping in a Vintage Store" width="480" />
 
 #### Description
 
@@ -1606,13 +1474,10 @@ A photorealistic candid photograph of two Asian women shopping together inside a
 ### No. 2: Language Translation and Layout Modification
 
 - **Category:** `Creative & Misc`
-- **Source:** `twitter`
-- **Author:** いにしえ@AI Director & Creator｜Will Oldgram
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13984_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13984_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13984_1.jpg" alt="Language Translation and Layout Modification" width="480" />
-- **Source Link:** [View](https://x.com/old_pgmrs_will/status/2045384277924422030)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13984_1.jpg" alt="Language Translation and Layout Modification" width="480" />
 
 #### Description
 
@@ -1627,13 +1492,10 @@ Change to the English version. Keep the image as it is and translate the Japanes
 ### No. 3: Physical Exam Question Layout
 
 - **Category:** `Creative & Misc`
-- **Source:** `twitter`
-- **Author:** zdhpeter
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14340_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14340_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14340_1.jpg" alt="Physical Exam Question Layout" width="480" />
-- **Source Link:** [View](https://x.com/peter6759/status/2046789718428594409)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14340_1.jpg" alt="Physical Exam Question Layout" width="480" />
 
 #### Description
 
@@ -1648,13 +1510,10 @@ generate a image of physical {argument name="subject" default="high school exam"
 ### No. 4: Handwritten Realistic Letter
 
 - **Category:** `Creative & Misc`
-- **Source:** `twitter`
-- **Author:** AZIZ | AI 🇸🇦
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14394_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14394_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14394_1.jpg" alt="Handwritten Realistic Letter" width="480" />
-- **Source Link:** [View](https://x.com/aziz4ai/status/2046692338647364026)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14394_1.jpg" alt="Handwritten Realistic Letter" width="480" />
 
 #### Description
 
@@ -1669,13 +1528,10 @@ A highly realistic handwritten letter, consisting of a {argument name="letter co
 ### No. 5: Chinese Calligraphy Scroll on Aged Paper
 
 - **Category:** `Creative & Misc`
-- **Source:** `twitter`
-- **Author:** SHEN
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14479_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14479_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14479_1.jpg" alt="Chinese Calligraphy Scroll on Aged Paper" width="480" />
-- **Source Link:** [View](https://x.com/CFI_CyberX/status/2046563702510678317#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14479_1.jpg" alt="Chinese Calligraphy Scroll on Aged Paper" width="480" />
 
 #### Description
 
@@ -1690,13 +1546,10 @@ A high-resolution museum-style photograph of a traditional Chinese calligraphy h
 ### No. 6: Identical Baseball Players Lineup
 
 - **Category:** `Creative & Misc`
-- **Source:** `twitter`
-- **Author:** ほしけん
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14213_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14213_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14213_1.jpg" alt="Identical Baseball Players Lineup" width="480" />
-- **Source Link:** [View](https://x.com/hosiken/status/2046111712009720205#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14213_1.jpg" alt="Identical Baseball Players Lineup" width="480" />
 
 #### Description
 
@@ -1715,13 +1568,10 @@ A realistic sports photograph of exactly 5 identical young Asian men standing in
 ### No. 1: Live Streaming App UI Mockup
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `twitter`
-- **Author:** Kevin的学堂
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13778_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13778_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13778_1.jpg" alt="Live Streaming App UI Mockup" width="480" />
-- **Source Link:** [View](https://x.com/kevintao1024/status/2045074817339052095#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13778_1.jpg" alt="Live Streaming App UI Mockup" width="480" />
 
 #### Description
 
@@ -1807,13 +1657,10 @@ Generates a realistic mobile live streaming interface featuring a streamer, chat
 ### No. 2: Digital Chessboard After 1.e4 e5
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `twitter`
-- **Author:** 1LittleCoder💻
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14662_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14662_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14662_1.jpg" alt="Digital Chessboard After 1.e4 e5" width="480" />
-- **Source Link:** [View](https://x.com/1littlecoder/status/2046693279664935272#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14662_1.jpg" alt="Digital Chessboard After 1.e4 e5" width="480" />
 
 #### Description
 
@@ -1828,13 +1675,10 @@ A clean, flat digital top-down chessboard centered in the frame, shown as a squa
 ### No. 3: E-commerce LED Driver Infographic
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `twitter`
-- **Author:** Curry Amber
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13884_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13884_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13884_1.jpg" alt="E-commerce LED Driver Infographic" width="480" />
-- **Source Link:** [View](https://x.com/AmberPromptai/status/2045057984200687645#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13884_1.jpg" alt="E-commerce LED Driver Infographic" width="480" />
 
 #### Description
 
@@ -1907,13 +1751,10 @@ A comprehensive Amazon A+ style product listing infographic detailing features, 
 ### No. 4: 3-Panel Anime Sci-Fi Course Promo
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `twitter`
-- **Author:** いにしえ@AI Director & Creator｜Will Oldgram
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13634_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13634_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13634_1.jpg" alt="3-Panel Anime Sci-Fi Course Promo" width="480" />
-- **Source Link:** [View](https://x.com/old_pgmrs_will/status/2044356515751231527#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13634_1.jpg" alt="3-Panel Anime Sci-Fi Course Promo" width="480" />
 
 #### Description
 
@@ -1986,13 +1827,10 @@ Generates a three-panel vertical infographic comparing different AI models, feat
 ### No. 5: Hilbert Curve Infographic
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `twitter`
-- **Author:** Aldo Cortesi
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13759_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13759_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13759_1.jpg" alt="Hilbert Curve Infographic" width="480" />
-- **Source Link:** [View](https://x.com/cortesi/status/2044706253365264474#reversed-1)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13759_1.jpg" alt="Hilbert Curve Infographic" width="480" />
 
 #### Description
 
@@ -2078,13 +1916,10 @@ Generates an educational mathematical diagram explaining a degree 3 Hilbert curv
 ### No. 6: Comprehensive Cat Breed Infographic
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `twitter`
-- **Author:** 沐阳
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13780_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13780_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13780_1.jpg" alt="Comprehensive Cat Breed Infographic" width="480" />
-- **Source Link:** [View](https://x.com/yyyole/status/2044790962002784678#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13780_1.jpg" alt="Comprehensive Cat Breed Infographic" width="480" />
 
 #### Description
 
@@ -2154,13 +1989,10 @@ Generates a highly detailed, grid-based encyclopedia poster of cat breeds catego
 ### No. 7: Traditional Clothing Infographic Guide
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `twitter`
-- **Author:** 林泽
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14175_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14175_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14175_1.jpg" alt="Traditional Clothing Infographic Guide" width="480" />
-- **Source Link:** [View](https://x.com/llinze521/status/2046199980059418936#reversed-1)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14175_1.jpg" alt="Traditional Clothing Infographic Guide" width="480" />
 
 #### Description
 
@@ -2230,13 +2062,10 @@ Generates a highly detailed, museum-quality infographic breaking down the struct
 ### No. 8: Whimsical Programmer Almanac Infographic
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `twitter`
-- **Author:** ハカセ アイ(Ai-Hakase)🐾最新トレンドＡＩのためのＸ 🐾
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14214_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14214_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14214_1.jpg" alt="Whimsical Programmer Almanac Infographic" width="480" />
-- **Source Link:** [View](https://x.com/ai_hakase_/status/2046062551264268396#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14214_1.jpg" alt="Whimsical Programmer Almanac Infographic" width="480" />
 
 #### Description
 
@@ -2339,13 +2168,10 @@ Generates a watercolor-style daily almanac for programmers featuring a Little Pr
 ### No. 9: Laptop Technical Overview Infographic
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `twitter`
-- **Author:** Ethan
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14261_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14261_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14261_1.jpg" alt="Laptop Technical Overview Infographic" width="480" />
-- **Source Link:** [View](https://x.com/BirdiePage71493/status/2046153405845147806#reversed-1)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14261_1.jpg" alt="Laptop Technical Overview Infographic" width="480" />
 
 #### Description
 
@@ -2423,13 +2249,10 @@ A detailed, hand-drawn style technical spec sheet for a laptop, featuring intern
 ### No. 10: Scientific Journal Infographic of Human Brain Anatomy
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `x`
-- **Author:** Easy A.I.
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14705_0.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14705_0.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14705_0.jpg" alt="Scientific Journal Infographic of Human Brain Anatomy" width="480" />
-- **Source Link:** [View](https://x.com/92digitalartArt/status/2064590417048358927)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14705_0.jpg" alt="Scientific Journal Infographic of Human Brain Anatomy" width="480" />
 
 #### Description
 
@@ -2444,13 +2267,10 @@ A scientific journal style infographic poster in 16:9 horizontal format about th
 ### No. 11: 3D Urban Systems Atlas Infographic
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `twitter`
-- **Author:** 虎小象
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14163_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14163_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14163_1.jpg" alt="3D Urban Systems Atlas Infographic" width="480" />
-- **Source Link:** [View](https://x.com/hx831126/status/2046448092871041500#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14163_1.jpg" alt="3D Urban Systems Atlas Infographic" width="480" />
 
 #### Description
 
@@ -2517,13 +2337,10 @@ A highly detailed, information-dense infographic featuring a 3D isometric cutawa
 ### No. 12: Nanjing Classic Tourism Atlas Poster
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `twitter`
-- **Author:** 大卫叔的AI旅程
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14644_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14644_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14644_1.jpg" alt="Nanjing Classic Tourism Atlas Poster" width="480" />
-- **Source Link:** [View](https://x.com/aidavid125/status/2046504856060670389#reversed-1)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14644_1.jpg" alt="Nanjing Classic Tourism Atlas Poster" width="480" />
 
 #### Description
 
@@ -2538,13 +2355,10 @@ This prompt generates a polished Chinese travel infographic poster showcasing ei
 ### No. 13: 3D Animated Tourism Infographic Poster
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `twitter`
-- **Author:** 行者AI视频
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13786_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13786_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13786_1.jpg" alt="3D Animated Tourism Infographic Poster" width="480" />
-- **Source Link:** [View](https://x.com/joshesye/status/2044776883049451619#reversed-2)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13786_1.jpg" alt="3D Animated Tourism Infographic Poster" width="480" />
 
 #### Description
 
@@ -2609,13 +2423,10 @@ Generates a vibrant 3D animated promotional poster featuring local landmarks, re
 ### No. 14: Neon Business Info-Product Thumbnail
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `twitter`
-- **Author:** ナーガ@X女帝
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13900_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13900_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13900_1.jpg" alt="Neon Business Info-Product Thumbnail" width="480" />
-- **Source Link:** [View](https://x.com/naga_zyashin/status/2045113428952678447#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13900_1.jpg" alt="Neon Business Info-Product Thumbnail" width="480" />
 
 #### Description
 
@@ -2673,13 +2484,10 @@ Generates a high-impact, text-heavy YouTube thumbnail or banner for business and
 ### No. 15: Soccer Match Infographic Poster
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `twitter`
-- **Author:** MCapital
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14159_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14159_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14159_1.jpg" alt="Soccer Match Infographic Poster" width="480" />
-- **Source Link:** [View](https://x.com/NumeroBTC/status/2046313506396574102#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14159_1.jpg" alt="Soccer Match Infographic Poster" width="480" />
 
 #### Description
 
@@ -2727,13 +2535,10 @@ Generates a detailed sports matchup poster with player portraits, team logos, an
 ### No. 16: Complex Infographic Explainer Sheet
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `twitter`
-- **Author:** 𝙵𝚊𝚕𓏲𓎨
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14048_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14048_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14048_1.jpg" alt="Complex Infographic Explainer Sheet" width="480" />
-- **Source Link:** [View](https://x.com/fal48/status/2045422033065144465#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14048_1.jpg" alt="Complex Infographic Explainer Sheet" width="480" />
 
 #### Description
 
@@ -2799,13 +2604,10 @@ Generates a highly detailed, multi-section infographic with charts, flowcharts, 
 ### No. 17: 56 Chinese Ethnic Groups Clothing Chart
 
 - **Category:** `Infographics & Data Viz`
-- **Source:** `twitter`
-- **Author:** 程序员小灰
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13896_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13896_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13896_1.jpg" alt="56 Chinese Ethnic Groups Clothing Chart" width="480" />
-- **Source Link:** [View](https://x.com/XiaohuiAI666/status/2045444003211129033#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13896_1.jpg" alt="56 Chinese Ethnic Groups Clothing Chart" width="480" />
 
 #### Description
 
@@ -2850,13 +2652,10 @@ Generates a traditional ink-wash style grid chart displaying 56 distinct female 
 ### No. 1: Cosmic Dark Mode UI Design System
 
 - **Category:** `Product & Branding`
-- **Source:** `twitter`
-- **Author:** cheaty
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13506_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13506_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13506_1.jpg" alt="Cosmic Dark Mode UI Design System" width="480" />
-- **Source Link:** [View](https://x.com/cheatyyyy/status/2045973715280929275#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13506_1.jpg" alt="Cosmic Dark Mode UI Design System" width="480" />
 
 #### Description
 
@@ -2948,13 +2747,10 @@ Generates a comprehensive dark-mode UI design system featuring color palettes, t
 ### No. 2: Dark Mode X Post Mockup
 
 - **Category:** `Product & Branding`
-- **Source:** `twitter`
-- **Author:** dih
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13459_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13459_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13459_1.jpg" alt="Dark Mode X Post Mockup" width="480" />
-- **Source Link:** [View](https://x.com/dihsclusive/status/2045905067845271555#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13459_1.jpg" alt="Dark Mode X Post Mockup" width="480" />
 
 #### Description
 
@@ -2969,13 +2765,10 @@ A dark mode screenshot of an X post. The profile features a man with a mustache 
 ### No. 3: wikiHow Article Mockup
 
 - **Category:** `Product & Branding`
-- **Source:** `twitter`
-- **Author:** Keyboard81727
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13657_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13657_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13657_1.jpg" alt="wikiHow Article Mockup" width="480" />
-- **Source Link:** [View](https://x.com/Kittymanagmgf/status/2044521189343637602#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13657_1.jpg" alt="wikiHow Article Mockup" width="480" />
 
 #### Description
 
@@ -3041,13 +2834,10 @@ Generates a detailed, text-heavy tutorial webpage mimicking the wikiHow layout, 
 ### No. 4: Light Mode UI Design System Board
 
 - **Category:** `Product & Branding`
-- **Source:** `twitter`
-- **Author:** cheaty
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13507_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13507_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13507_1.jpg" alt="Light Mode UI Design System Board" width="480" />
-- **Source Link:** [View](https://x.com/cheatyyyy/status/2045973715280929275#reversed-1)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13507_1.jpg" alt="Light Mode UI Design System Board" width="480" />
 
 #### Description
 
@@ -3128,13 +2918,10 @@ Generates a comprehensive UI design system presentation featuring color palettes
 ### No. 5: Pet Brand Identity System Board
 
 - **Category:** `Product & Branding`
-- **Source:** `twitter`
-- **Author:** 沐阳
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14177_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14177_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14177_1.jpg" alt="Pet Brand Identity System Board" width="480" />
-- **Source Link:** [View](https://x.com/yyyole/status/2046469645155303730#reversed-1)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14177_1.jpg" alt="Pet Brand Identity System Board" width="480" />
 
 #### Description
 
@@ -3153,13 +2940,10 @@ A polished corporate brand guideline board for a pet industry logo, useful for g
 ### No. 1: Hyper-Energetic Japanese Promo Poster
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** 中崎工房 | AIで1時間の仕事を5分で終わらせる人
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14269_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14269_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14269_1.jpg" alt="Hyper-Energetic Japanese Promo Poster" width="480" />
-- **Source Link:** [View](https://x.com/nakazakifam/status/2046295223584862235#reversed-3)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14269_1.jpg" alt="Hyper-Energetic Japanese Promo Poster" width="480" />
 
 #### Description
 
@@ -3229,13 +3013,10 @@ Generates a highly detailed, text-heavy Japanese promotional poster with explosi
 ### No. 2: Two-Panel RPG Concept Art
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** いにしえ@AI Director & Creator｜Will Oldgram
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13953_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13953_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13953_1.jpg" alt="Two-Panel RPG Concept Art" width="480" />
-- **Source Link:** [View](https://x.com/old_pgmrs_will/status/2044967217176146073#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13953_1.jpg" alt="Two-Panel RPG Concept Art" width="480" />
 
 #### Description
 
@@ -3298,13 +3079,10 @@ Generates a split-panel promotional illustration featuring a fantasy party in bo
 ### No. 3: Move Display Stand Onto Deck
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** 肖师傅
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14487_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14487_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14487_1.jpg" alt="Move Display Stand Onto Deck" width="480" />
-- **Source Link:** [View](https://x.com/xiaojietongxue/status/2046739970283724964#reversed-3)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14487_1.jpg" alt="Move Display Stand Onto Deck" width="480" />
 
 #### Description
 
@@ -3319,13 +3097,10 @@ Using the provided reference image, keep the same garden, pond, trees, hillside,
 ### No. 4: Premium Blueberry Product Poster
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** 歸藏(guizang.ai)
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14655_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14655_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14655_1.jpg" alt="Premium Blueberry Product Poster" width="480" />
-- **Source Link:** [View](https://x.com/op7418/status/2046626506722746736#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14655_1.jpg" alt="Premium Blueberry Product Poster" width="480" />
 
 #### Description
 
@@ -3340,13 +3115,10 @@ A premium e-commerce poster for fresh blueberries in a clean Chinese product-adv
 ### No. 5: Gold & Black Info-Product Thumbnail
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** ナーガ@X女帝
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13903_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13903_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13903_1.jpg" alt="Gold & Black Info-Product Thumbnail" width="480" />
-- **Source Link:** [View](https://x.com/naga_zyashin/status/2045113428952678447#reversed-2)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13903_1.jpg" alt="Gold & Black Info-Product Thumbnail" width="480" />
 
 #### Description
 
@@ -3404,13 +3176,10 @@ Generates a flashy, text-heavy promotional banner or YouTube thumbnail featuring
 ### No. 6: Spring School Romance Manga Page
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** おのふみ| 動画生成AI×個人開発
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14478_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14478_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14478_1.jpg" alt="Spring School Romance Manga Page" width="480" />
-- **Source Link:** [View](https://x.com/onofumi_AI/status/2046491644250538211#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14478_1.jpg" alt="Spring School Romance Manga Page" width="480" />
 
 #### Description
 
@@ -3425,13 +3194,10 @@ A polished five-panel full-color shoujo manga page showing a cherry-blossom scho
 ### No. 7: Chinese Co-Branded Summer Drink Poster
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** breeze
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14463_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14463_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14463_1.jpg" alt="Chinese Co-Branded Summer Drink Poster" width="480" />
-- **Source Link:** [View](https://x.com/breeze71115348/status/2046609528079212900#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14463_1.jpg" alt="Chinese Co-Branded Summer Drink Poster" width="480" />
 
 #### Description
 
@@ -3446,13 +3212,10 @@ Create a glossy Chinese co-branded beverage poster advertisement in a bold comme
 ### No. 8: Anime Character Typography Poster
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** Senb0n22a
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13891_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13891_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13891_1.jpg" alt="Anime Character Typography Poster" width="480" />
-- **Source Link:** [View](https://x.com/senb0n22a/status/2045052536806383935#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13891_1.jpg" alt="Anime Character Typography Poster" width="480" />
 
 #### Description
 
@@ -3484,13 +3247,10 @@ Generates a vibrant, graphic-design style anime character poster with integrated
 ### No. 9: Iridescent Butterfly UI System Board
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** 兔妹_兔子
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14457_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14457_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14457_1.jpg" alt="Iridescent Butterfly UI System Board" width="480" />
-- **Source Link:** [View](https://x.com/tuzi_ai/status/2046572121547997548#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14457_1.jpg" alt="Iridescent Butterfly UI System Board" width="480" />
 
 #### Description
 
@@ -3505,13 +3265,10 @@ A polished dark-mode Chinese UI/UX design system presentation board featuring a 
 ### No. 10: Watercolor Picture Book Cover
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** とらの@VRC
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14206_1.png)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14206_1.png)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14206_1.png" alt="Watercolor Picture Book Cover" width="480" />
-- **Source Link:** [View](https://x.com/TlanoVRC/status/2046167396713705657#reversed-1)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14206_1.png" alt="Watercolor Picture Book Cover" width="480" />
 
 #### Description
 
@@ -3526,13 +3283,10 @@ A watercolor illustration of a children's picture book cover. The main subject i
 ### No. 11: Anime Girl Leaning on Vending Machine
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** サモ(Futoshi Iwasawa)
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13747_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13747_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13747_1.jpg" alt="Anime Girl Leaning on Vending Machine" width="480" />
-- **Source Link:** [View](https://x.com/Samo_Toshu/status/2045029905164030264#reversed-3)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13747_1.jpg" alt="Anime Girl Leaning on Vending Machine" width="480" />
 
 #### Description
 
@@ -3547,13 +3301,10 @@ An anime-style illustration of a young woman with {argument name="hair style" de
 ### No. 12: Cinematic Food & Beverage Collab Poster
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** boon陈庚阳
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13834_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13834_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13834_1.jpg" alt="Cinematic Food & Beverage Collab Poster" width="480" />
-- **Source Link:** [View](https://x.com/A9Quant/status/2044813337905758260#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13834_1.jpg" alt="Cinematic Food & Beverage Collab Poster" width="480" />
 
 #### Description
 
@@ -3568,13 +3319,10 @@ A cinematic, high-quality advertisement poster featuring two older Asian men sit
 ### No. 13: Aesthetic Social Media Link-in-Bio Grid
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** かなまる
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14243_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14243_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14243_1.jpg" alt="Aesthetic Social Media Link-in-Bio Grid" width="480" />
-- **Source Link:** [View](https://x.com/uniyume/status/2046091784812708315#reversed-2)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14243_1.jpg" alt="Aesthetic Social Media Link-in-Bio Grid" width="480" />
 
 #### Description
 
@@ -3650,13 +3398,10 @@ A 6-panel promotional grid with a footer, typically used as a stylized link-in-b
 ### No. 14: Tech Tutorial Thumbnail with UI Mockup
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** corbin
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14695_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14695_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14695_1.jpg" alt="Tech Tutorial Thumbnail with UI Mockup" width="480" />
-- **Source Link:** [View](https://x.com/corbin_braun/status/2046725432851284326#reversed-1)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14695_1.jpg" alt="Tech Tutorial Thumbnail with UI Mockup" width="480" />
 
 #### Description
 
@@ -3671,13 +3416,10 @@ A clean modern YouTube thumbnail on a bright white background, split visually be
 ### No. 15: Japanese AI Creator Studio Banner
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** やきいも｜週1クリエイトで飯を食う
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14493_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14493_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14493_1.jpg" alt="Japanese AI Creator Studio Banner" width="480" />
-- **Source Link:** [View](https://x.com/se_yakiimosan/status/2046604784111898973#reversed-1)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14493_1.jpg" alt="Japanese AI Creator Studio Banner" width="480" />
 
 #### Description
 
@@ -3692,13 +3434,10 @@ Create a polished Japanese promotional website hero banner for an AI creator com
 ### No. 16: Futuristic Japanese product advertisement
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** Marcio Lima 利真 マルシオ 💎
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14304_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14304_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14304_1.jpg" alt="Futuristic Japanese product advertisement" width="480" />
-- **Source Link:** [View](https://x.com/Preda2005/status/2046639985810674111)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14304_1.jpg" alt="Futuristic Japanese product advertisement" width="480" />
 
 #### Description
 
@@ -3713,13 +3452,10 @@ Create a hyper-realistic {argument name="style" default="Japanese-style"} {argum
 ### No. 17: Japanese Restaurant Promotional Menu Poster
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** とらの
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14024_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14024_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14024_1.jpg" alt="Japanese Restaurant Promotional Menu Poster" width="480" />
-- **Source Link:** [View](https://x.com/TlanoAI/status/2045442187119534099#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14024_1.jpg" alt="Japanese Restaurant Promotional Menu Poster" width="480" />
 
 #### Description
 
@@ -3784,13 +3520,10 @@ A detailed layout for a seasonal restaurant menu featuring multiple dish photos,
 ### No. 18: European Travel Advertisement Banner
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** パク🎈動画広告分析Pro × AI
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14237_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14237_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14237_1.jpg" alt="European Travel Advertisement Banner" width="480" />
-- **Source Link:** [View](https://x.com/masapark95/status/2046168679822594059#reversed-3)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14237_1.jpg" alt="European Travel Advertisement Banner" width="480" />
 
 #### Description
 
@@ -3845,13 +3578,10 @@ Generates a travel agency web banner featuring a scenic European town, promotion
 ### No. 19: Cinematic Japanese Romance Movie Poster
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** パク🎈動画広告分析Pro × AI
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14188_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14188_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14188_1.jpg" alt="Cinematic Japanese Romance Movie Poster" width="480" />
-- **Source Link:** [View](https://x.com/masapark95/status/2046169303905632417#reversed-1)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14188_1.jpg" alt="Cinematic Japanese Romance Movie Poster" width="480" />
 
 #### Description
 
@@ -3866,13 +3596,10 @@ A cinematic Japanese movie poster featuring a romantic, melancholic scene of a m
 ### No. 20: Nine Chibi Kitten Costume Variants
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** パジョカ (Pajoca)
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14510_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14510_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14510_1.jpg" alt="Nine Chibi Kitten Costume Variants" width="480" />
-- **Source Link:** [View](https://x.com/Pajoca_/status/2046631477400805661#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14510_1.jpg" alt="Nine Chibi Kitten Costume Variants" width="480" />
 
 #### Description
 
@@ -3887,13 +3614,10 @@ A pastel pink character sheet showing nine cute kitten dress-up outfits, ideal f
 ### No. 21: Game Crossover Promotional Poster
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** 三月 | 蓝鸟会🕊
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13724_1.png)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13724_1.png)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13724_1.png" alt="Game Crossover Promotional Poster" width="480" />
-- **Source Link:** [View](https://x.com/szyqaq/status/2045068299206296006)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13724_1.png" alt="Game Crossover Promotional Poster" width="480" />
 
 #### Description
 
@@ -3908,13 +3632,10 @@ Generate a promotional poster for a crossover event between {argument name="firs
 ### No. 22: Minimal Spring Fashion Editorial Board
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** 虎小象
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14456_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14456_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14456_1.jpg" alt="Minimal Spring Fashion Editorial Board" width="480" />
-- **Source Link:** [View](https://x.com/hx831126/status/2046557123124027728#reversed-1)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14456_1.jpg" alt="Minimal Spring Fashion Editorial Board" width="480" />
 
 #### Description
 
@@ -3929,13 +3650,10 @@ A clean luxury fashion presentation slide showing a spring layered outfit with e
 ### No. 23: Dark Space Emperor Movie Poster
 
 - **Category:** `Posters & Marketing`
-- **Source:** `twitter`
-- **Author:** ZeFred.AI
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14598_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14598_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14598_1.jpg" alt="Dark Space Emperor Movie Poster" width="480" />
-- **Source Link:** [View](https://x.com/ZefredAi/status/2046707660137873639#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14598_1.jpg" alt="Dark Space Emperor Movie Poster" width="480" />
 
 #### Description
 
@@ -3954,13 +3672,10 @@ A dark epic sci-fi movie poster for {argument name="film title" default="EMPIRE 
 ### No. 1: Found-Footage Office Horror Snapshot
 
 - **Category:** `Scenes & Environments`
-- **Source:** `twitter`
-- **Author:** pozitiv4ik
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14570_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14570_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14570_1.jpg" alt="Found-Footage Office Horror Snapshot" width="480" />
-- **Source Link:** [View](https://x.com/Gc_qube/status/2046625970715566390#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14570_1.jpg" alt="Found-Footage Office Horror Snapshot" width="480" />
 
 #### Description
 
@@ -3975,13 +3690,10 @@ A gritty found-footage horror photo taken inside a dim, cramped security office 
 ### No. 2: Otter Scientist Presentation Slide
 
 - **Category:** `Scenes & Environments`
-- **Source:** `twitter`
-- **Author:** Ethan Mollick
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14696_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14696_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14696_1.jpg" alt="Otter Scientist Presentation Slide" width="480" />
-- **Source Link:** [View](https://x.com/emollick/status/2046665274535854146#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14696_1.jpg" alt="Otter Scientist Presentation Slide" width="480" />
 
 #### Description
 
@@ -3996,13 +3708,10 @@ A photorealistic humorous academic presentation in a conference room: an anthrop
 ### No. 3: Ancient Towering Tree with Twisted Roots
 
 - **Category:** `Scenes & Environments`
-- **Source:** `x`
-- **Author:** PromptLab
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14699_0.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14699_0.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14699_0.jpg" alt="Ancient Towering Tree with Twisted Roots" width="480" />
-- **Source Link:** [View](https://x.com/iamaiistudio/status/2064605486180335893)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14699_0.jpg" alt="Ancient Towering Tree with Twisted Roots" width="480" />
 
 #### Description
 
@@ -4017,13 +3726,10 @@ An ancient, towering tree with massive twisted roots stands at the center of a l
 ### No. 4: Vintage Store Shopping Scene
 
 - **Category:** `Scenes & Environments`
-- **Source:** `twitter`
-- **Author:** のるま
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14016_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14016_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14016_1.jpg" alt="Vintage Store Shopping Scene" width="480" />
-- **Source Link:** [View](https://x.com/noruma_noel/status/2045374200886808604#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14016_1.jpg" alt="Vintage Store Shopping Scene" width="480" />
 
 #### Description
 
@@ -4038,13 +3744,10 @@ A photorealistic, candid shot of two young Asian women shopping inside a tightly
 ### No. 5: Surreal Gothic Hall with Floating Masks
 
 - **Category:** `Scenes & Environments`
-- **Source:** `twitter`
-- **Author:** のうめん🏗️👺生成AIパスポート認定取れた
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14171_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14171_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14171_1.jpg" alt="Surreal Gothic Hall with Floating Masks" width="480" />
-- **Source Link:** [View](https://x.com/nomen_machine/status/2046473998389977218#reversed-1)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14171_1.jpg" alt="Surreal Gothic Hall with Floating Masks" width="480" />
 
 #### Description
 
@@ -4063,13 +3766,10 @@ A highly detailed, cinematic wide shot of a grand, dark gothic hall with a {argu
 ### No. 1: Eight Panel Manga Story
 
 - **Category:** `Anime & Illustration`
-- **Source:** `twitter`
-- **Author:** Justine Moore
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14389_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14389_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14389_1.jpg" alt="Eight Panel Manga Story" width="480" />
-- **Source Link:** [View](https://x.com/venturetwins/status/2046620134933250409)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14389_1.jpg" alt="Eight Panel Manga Story" width="480" />
 
 #### Description
 
@@ -4084,13 +3784,10 @@ Generates an eight-panel manga layout about a specific event or topic, perfect f
 ### No. 2: Multi-Panel Comic Book Page
 
 - **Category:** `Anime & Illustration`
-- **Source:** `twitter`
-- **Author:** Hbtt
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13675_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13675_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13675_1.jpg" alt="Multi-Panel Comic Book Page" width="480" />
-- **Source Link:** [View](https://x.com/HbTteok/status/2044241756523507788#reversed-2)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13675_1.jpg" alt="Multi-Panel Comic Book Page" width="480" />
 
 #### Description
 
@@ -4182,13 +3879,10 @@ Generates a fully lettered, multi-panel comic book page featuring dynamic action
 ### No. 3: Fantasy Anime Key Visual Prompt
 
 - **Category:** `Anime & Illustration`
-- **Source:** `twitter`
-- **Author:** みかみ.ai｜AI発信と個人開発
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13726_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13726_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13726_1.jpg" alt="Fantasy Anime Key Visual Prompt" width="480" />
-- **Source Link:** [View](https://x.com/kotsu_kotsu_san/status/2044920973028430089)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13726_1.jpg" alt="Fantasy Anime Key Visual Prompt" width="480" />
 
 #### Description
 
@@ -4203,13 +3897,10 @@ Create an anime key visual for a {argument name="genre" default="classic fantasy
 ### No. 4: 3-Panel Duct Tape Meme Comic
 
 - **Category:** `Anime & Illustration`
-- **Source:** `twitter`
-- **Author:** noel.index
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13756_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13756_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13756_1.jpg" alt="3-Panel Duct Tape Meme Comic" width="480" />
-- **Source Link:** [View](https://x.com/ian_kim58307/status/2044603116415521201#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13756_1.jpg" alt="3-Panel Duct Tape Meme Comic" width="480" />
 
 #### Description
 
@@ -4248,13 +3939,10 @@ Generates a 3-panel comic showing a subject eating a fruit and taping the peel t
 ### No. 5: Ligne Claire Suburban Landscape
 
 - **Category:** `Anime & Illustration`
-- **Source:** `twitter`
-- **Author:** Kai
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13449_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13449_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13449_1.jpg" alt="Ligne Claire Suburban Landscape" width="480" />
-- **Source Link:** [View](https://x.com/kaihenthoiwane/status/2046048448462684663#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13449_1.jpg" alt="Ligne Claire Suburban Landscape" width="480" />
 
 #### Description
 
@@ -4269,13 +3957,10 @@ A detailed {argument name="art style" default="ligne claire comic illustration"}
 ### No. 6: Anime Sci-Fi School Proposal Board
 
 - **Category:** `Anime & Illustration`
-- **Source:** `twitter`
-- **Author:** AI Network Technology
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/14549_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14549_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14549_1.jpg" alt="Anime Sci-Fi School Proposal Board" width="480" />
-- **Source Link:** [View](https://x.com/AINetworkTech/status/2046604079628161268#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14549_1.jpg" alt="Anime Sci-Fi School Proposal Board" width="480" />
 
 #### Description
 
@@ -4290,13 +3975,10 @@ Generates a polished Japanese-style one-page pitch sheet for an original anime a
 ### No. 7: Sci-Fi Chibi Robot Welding in Space
 
 - **Category:** `Anime & Illustration`
-- **Source:** `twitter`
-- **Author:** らけしで / Mizmic Studio
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13915_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13915_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13915_1.jpg" alt="Sci-Fi Chibi Robot Welding in Space" width="480" />
-- **Source Link:** [View](https://x.com/lakeside529/status/2045033508062867821#reversed-1)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13915_1.jpg" alt="Sci-Fi Chibi Robot Welding in Space" width="480" />
 
 #### Description
 
@@ -4311,13 +3993,10 @@ A highly detailed sci-fi illustration of a {argument name="robot style" default=
 ### No. 8: Classroom Chalkboard Lesson
 
 - **Category:** `Anime & Illustration`
-- **Source:** `twitter`
-- **Author:** re/u x
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13888_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13888_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13888_1.jpg" alt="Classroom Chalkboard Lesson" width="480" />
-- **Source Link:** [View](https://x.com/lovedfelis/status/2045133210125017535#reversed-0)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13888_1.jpg" alt="Classroom Chalkboard Lesson" width="480" />
 
 #### Description
 
@@ -4336,13 +4015,10 @@ A photorealistic, slightly angled snapshot of a green classroom chalkboard. On t
 ### No. 1: Animal Hiragana Study Sheet
 
 - **Category:** `3D & Render`
-- **Source:** `twitter`
-- **Author:** さつき＠AIお絵描き(うさぎ好き）
 - **Language:** `ar`
-- **Image:** [View](https://static.atlascloud.ai/prompt/gpt-image2/images/13986_1.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13986_1.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13986_1.jpg" alt="Animal Hiragana Study Sheet" width="480" />
-- **Source Link:** [View](https://x.com/masukarasulove/status/2045514436891517104)
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13986_1.jpg" alt="Animal Hiragana Study Sheet" width="480" />
 
 #### Description
 
@@ -4375,4 +4051,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-09T04:24:57.255Z
+> This README is auto-generated. 2026-07-09T06:07:38.331Z

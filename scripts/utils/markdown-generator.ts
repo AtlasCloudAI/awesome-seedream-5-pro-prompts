@@ -207,8 +207,6 @@ function renderPrompt(prompt: PromptRecord, index: number, locale: string): stri
     `### No. ${index + 1}: ${prompt.title}`,
     "",
     `- **${t("category", locale)}:** \`${prompt.category}\``,
-    `- **${t("source", locale)}:** \`${prompt.source_platform}\``,
-    `- **${t("author", locale)}:** ${prompt.author_name}`,
     `- **${t("language", locale)}:** \`${prompt.language}\``,
   ];
 
@@ -216,10 +214,6 @@ function renderPrompt(prompt: PromptRecord, index: number, locale: string): stri
     lines.push(`- **${t("video", locale)}:** [${t("view", locale)}](${prompt.image_url})`);
     lines.push("");
     lines.push(`<img src="${prompt.image_url}" alt="${prompt.title}" width="480" />`);
-  }
-
-  if (prompt.source_link) {
-    lines.push(`- **${t("sourceLink", locale)}:** [${t("view", locale)}](${prompt.source_link})`);
   }
 
   lines.push(
