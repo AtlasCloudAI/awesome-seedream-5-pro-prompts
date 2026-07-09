@@ -48,49 +48,46 @@ type ShowcaseItem = {
 
 const SHOWCASES: ShowcaseItem[] = [
   {
-    key: "editorial-portrait",
-    output: "showcase-editorial-portrait.jpg",
-    tag: { en: "Text-to-Image · Editorial portrait", zh: "文生图 · 杂志人像", "zh-TW": "文生圖 · 雜誌人像" },
+    key: "fusion",
+    output: "showcase-fusion.jpg",
+    tag: { en: "Multi-image fusion", zh: "多图融合合成", "zh-TW": "多圖融合合成" },
     prompt:
-      "Vibrant close-up editorial portrait, model with piercing gaze, wearing a sculptural hat, rich color blocking, sharp focus on eyes, shallow depth of field, Vogue magazine cover aesthetic, shot on medium format, dramatic studio lighting.",
+      "Precisely cut out the objects from my white-background reference photos and compose them, per the specified layout, into a real still-life photograph. Ensure correct perspective, light and shadow, and spatial relationships; faithfully reproduce material details such as wood grain, leather, lace, glass jelly, and feathers — where reality intertwines with playfulness and retro blends with modern.",
   },
   {
-    key: "material-edit",
-    output: "showcase-material-edit.jpg",
-    inputs: ["input-material-edit.png"],
-    tag: { en: "Image editing · Material swap", zh: "图像编辑 · 材质替换", "zh-TW": "圖像編輯 · 材質替換" },
+    key: "torii",
+    output: "showcase-torii.jpg",
+    tag: { en: "Cinematic atmosphere", zh: "电影级氛围", "zh-TW": "電影級氛圍" },
     prompt:
-      "Keep the model's pose and the flowing shape of the liquid dress unchanged. Change the clothing material from silver metal to completely transparent clear water (or glass). Through the liquid water, the model's skin details are visible. Lighting changes from reflection to refraction.",
+      "A lone samurai climbs weathered stone steps toward a towering red torii gate deep in a misty ancient cedar forest, volumetric fog, cinematic wide shot, moody cold light, atmospheric depth, ultra-detailed film still.",
   },
   {
-    key: "outfit-swap",
-    output: "showcase-outfit-swap.jpg",
-    inputs: ["input-outfit-model.png", "input-outfit-ref.png"],
-    tag: { en: "Multi-image fusion · Outfit swap", zh: "多图融合 · 换装", "zh-TW": "多圖融合 · 換裝" },
-    prompt: "Replace the clothing in image 1 with the outfit from image 2.",
+    key: "poster",
+    output: "showcase-poster.jpg",
+    tag: { en: "In-image text · poster", zh: "画面文字 · 海报", "zh-TW": "畫面文字 · 海報" },
+    prompt:
+      "Summer pool-party poster, large display text 'GRAND BAIN' rendered as rippling water reflections on a turquoise swimming pool, palm trees and parasols, bright airy vacation mood, event date and venue in clean sans-serif, high-end editorial layout.",
   },
   {
-    key: "scifi-storyboard",
-    output: "showcase-scifi-storyboard.jpg",
-    tag: { en: "Grouped output · Sci-fi storyboard", zh: "成组输出 · 科幻分镜", "zh-TW": "成組輸出 · 科幻分鏡" },
+    key: "arabic",
+    output: "showcase-arabic.jpg",
+    tag: { en: "Multilingual text", zh: "多语言文字", "zh-TW": "多語言文字" },
     prompt:
-      "Generate a set of four cinematic sci-fi realistic film storyboard scenes: an astronaut repairs a spacecraft at a space station; suddenly hit by a meteorite belt; the astronaut dodges urgently; the astronaut, injured, escapes back to the spacecraft in a thrilling sequence.",
+      "Upscale shopping-mall entrance with a large LED screen displaying the Arabic greeting 'أهلاً بكم', polished marble floor, glass automatic doors, warm luxury lighting, photorealistic, accurate Arabic typography.",
   },
   {
-    key: "brand-vi",
-    output: "showcase-brand-vi.jpg",
-    inputs: ["input-brand-logo.png"],
-    tag: { en: "Image-to-group · Brand visual system", zh: "图生成组 · 品牌视觉系统", "zh-TW": "圖生成組 · 品牌視覺系統" },
+    key: "spider",
+    output: "showcase-spider.jpg",
+    tag: { en: "Sci-fi / VFX", zh: "科幻 · 特效", "zh-TW": "科幻 · 特效" },
     prompt:
-      "Using this LOGO as a reference, create a visual design system for an outdoor sports brand named GREEN, including packaging bags, hats, cards, lanyards, etc. Main visual tone is green, with a fun, simple, and modern style.",
+      "A terrified boy face to face with a menacing mechanical spider fused with a glowing bio-brain core, teal bioluminescence, dark industrial basement, dramatic rim light, cinematic sci-fi horror, ultra-detailed VFX render.",
   },
   {
-    key: "rollercoaster",
-    output: "showcase-rollercoaster.jpg",
-    inputs: ["input-rc-girl.png", "input-rc-plush.png"],
-    tag: { en: "Multi-image → group · Time-of-day series", zh: "多图生成组 · 早午晚系列", "zh-TW": "多圖生成組 · 早午晚系列" },
+    key: "label",
+    output: "showcase-label.jpg",
+    tag: { en: "Material & fine text", zh: "材质与细节文字", "zh-TW": "材質與細節文字" },
     prompt:
-      "Generate 3 images of a girl and a cow plushie happily riding a roller coaster in an amusement park, depicting morning, noon, and night.",
+      "Extreme close-up of a beige knit sweater collar with a felt label reading 'CRÉATION FRANÇAISE' in embroidered brown lettering, fastened by a copper safety pin, soft natural light, cozy premium textile texture, product macro photography.",
   },
 ];
 
@@ -101,9 +98,9 @@ function showcaseHeading(locale: string): string {
 }
 
 function showcaseTagline(locale: string): string {
-  if (locale === "zh") return "> 来自 Seedream 5.0 官方文档的提示词 → 出图效果对照（编辑 / 换装 / 成组分镜 / 品牌 VI）。";
-  if (locale === "zh-TW") return "> 來自 Seedream 5.0 官方文件的提示詞 → 出圖效果對照（編輯 / 換裝 / 成組分鏡 / 品牌 VI）。";
-  return "> Prompt → output pairs from the official Seedream 5.0 docs — editing, outfit swap, grouped storyboards, brand systems.";
+  if (locale === "zh") return "> 来自 Seedream 5.0 Pro 官方文档的提示词 → 出图效果（多图融合 / 电影感 / 画面与多语言文字 / 科幻特效 / 材质细节）。";
+  if (locale === "zh-TW") return "> 來自 Seedream 5.0 Pro 官方文件的提示詞 → 出圖效果（多圖融合 / 電影感 / 畫面與多語言文字 / 科幻特效 / 材質細節）。";
+  return "> Prompt → output samples from the official Seedream 5.0 Pro docs — multi-image fusion, cinematic, in-image & multilingual text, sci-fi VFX, material detail.";
 }
 
 function refLabel(locale: string): string {

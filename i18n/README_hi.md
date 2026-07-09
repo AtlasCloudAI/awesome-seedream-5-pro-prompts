@@ -16,20 +16,20 @@
 
 ## ✨ Official Showcases
 
-> Prompt → output pairs from the official Seedream 5.0 docs — editing, outfit swap, grouped storyboards, brand systems.
+> Prompt → output samples from the official Seedream 5.0 Pro docs — multi-image fusion, cinematic, in-image & multilingual text, sci-fi VFX, material detail.
 
 <table>
   <tr>
-    <td width="50%" valign="top"><img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/showcase-editorial-portrait.jpg" width="100%" /><br/><b>Text-to-Image · Editorial portrait</b><br/><sub>Vibrant close-up editorial portrait, model with piercing gaze, wearing a sculptural hat, rich color blocking, sharp focus on eyes, shallow depth of field, Vogue magazine cover aesthetic, shot on medium format, dramatic studio lighting.</sub></td>
-    <td width="50%" valign="top"><img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/showcase-material-edit.jpg" width="100%" /><br/><b>Image editing · Material swap</b><br/><sub>Ref:</sub> <img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/input-material-edit.png" height="72" /><br/><sub>Keep the model's pose and the flowing shape of the liquid dress unchanged. Change the clothing material from silver metal to completely transparent clear water (or glass). Through the liquid water, the model's skin details are visible. Lighting changes from reflection to refraction.</sub></td>
+    <td width="50%" valign="top"><img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/showcase-fusion.jpg" width="100%" /><br/><b>Multi-image fusion</b><br/><sub>Precisely cut out the objects from my white-background reference photos and compose them, per the specified layout, into a real still-life photograph. Ensure correct perspective, light and shadow, and spatial relationships; faithfully reproduce material details such as wood grain, leather, lace, glass jelly, and feathers — where reality intertwines with playfulness and retro blends with modern.</sub></td>
+    <td width="50%" valign="top"><img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/showcase-torii.jpg" width="100%" /><br/><b>Cinematic atmosphere</b><br/><sub>A lone samurai climbs weathered stone steps toward a towering red torii gate deep in a misty ancient cedar forest, volumetric fog, cinematic wide shot, moody cold light, atmospheric depth, ultra-detailed film still.</sub></td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/showcase-outfit-swap.jpg" width="100%" /><br/><b>Multi-image fusion · Outfit swap</b><br/><sub>Ref:</sub> <img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/input-outfit-model.png" height="72" /> <img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/input-outfit-ref.png" height="72" /><br/><sub>Replace the clothing in image 1 with the outfit from image 2.</sub></td>
-    <td width="50%" valign="top"><img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/showcase-scifi-storyboard.jpg" width="100%" /><br/><b>Grouped output · Sci-fi storyboard</b><br/><sub>Generate a set of four cinematic sci-fi realistic film storyboard scenes: an astronaut repairs a spacecraft at a space station; suddenly hit by a meteorite belt; the astronaut dodges urgently; the astronaut, injured, escapes back to the spacecraft in a thrilling sequence.</sub></td>
+    <td width="50%" valign="top"><img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/showcase-poster.jpg" width="100%" /><br/><b>In-image text · poster</b><br/><sub>Summer pool-party poster, large display text 'GRAND BAIN' rendered as rippling water reflections on a turquoise swimming pool, palm trees and parasols, bright airy vacation mood, event date and venue in clean sans-serif, high-end editorial layout.</sub></td>
+    <td width="50%" valign="top"><img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/showcase-arabic.jpg" width="100%" /><br/><b>Multilingual text</b><br/><sub>Upscale shopping-mall entrance with a large LED screen displaying the Arabic greeting 'أهلاً بكم', polished marble floor, glass automatic doors, warm luxury lighting, photorealistic, accurate Arabic typography.</sub></td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/showcase-brand-vi.jpg" width="100%" /><br/><b>Image-to-group · Brand visual system</b><br/><sub>Ref:</sub> <img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/input-brand-logo.png" height="72" /><br/><sub>Using this LOGO as a reference, create a visual design system for an outdoor sports brand named GREEN, including packaging bags, hats, cards, lanyards, etc. Main visual tone is green, with a fun, simple, and modern style.</sub></td>
-    <td width="50%" valign="top"><img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/showcase-rollercoaster.jpg" width="100%" /><br/><b>Multi-image → group · Time-of-day series</b><br/><sub>Ref:</sub> <img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/input-rc-girl.png" height="72" /> <img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/input-rc-plush.png" height="72" /><br/><sub>Generate 3 images of a girl and a cow plushie happily riding a roller coaster in an amusement park, depicting morning, noon, and night.</sub></td>
+    <td width="50%" valign="top"><img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/showcase-spider.jpg" width="100%" /><br/><b>Sci-fi / VFX</b><br/><sub>A terrified boy face to face with a menacing mechanical spider fused with a glowing bio-brain core, teal bioluminescence, dark industrial basement, dramatic rim light, cinematic sci-fi horror, ultra-detailed VFX render.</sub></td>
+    <td width="50%" valign="top"><img src="https://static.atlascloud.ai/model/example/seedream-5-0-pro/showcase-label.jpg" width="100%" /><br/><b>Material & fine text</b><br/><sub>Extreme close-up of a beige knit sweater collar with a felt label reading 'CRÉATION FRANÇAISE' in embroidered brown lettering, fastened by a copper safety pin, soft natural light, cozy premium textile texture, product macro photography.</sub></td>
   </tr>
 </table>
 
@@ -93,7 +93,7 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 | Total Prompts | **100** |
 | Categories | **8** |
 | Preview Images | **100** |
-| Last Updated | **2026-07-08T15:01:36.459Z** |
+| Last Updated | **2026-07-09T04:24:57.243Z** |
 
 ## 🏷️ Browse by Category
 
@@ -4375,4 +4375,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-08T15:01:36.459Z
+> This README is auto-generated. 2026-07-09T04:24:57.243Z
