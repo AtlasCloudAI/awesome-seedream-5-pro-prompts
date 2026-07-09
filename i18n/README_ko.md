@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-100%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-96%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,20 +90,20 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **100** |
+| Total Prompts | **96** |
 | Categories | **8** |
-| Preview Images | **100** |
-| Last Updated | **2026-07-09T06:07:38.317Z** |
+| Preview Images | **96** |
+| Last Updated | **2026-07-09T06:16:01.846Z** |
 
 ## 🏷️ Browse by Category
 
 - [`Portraits & Characters`](#category-1): **35**
-- [`Creative & Misc`](#category-2): **6**
-- [`Infographics & Data Viz`](#category-3): **17**
-- [`Product & Branding`](#category-4): **5**
+- [`Creative & Misc`](#category-2): **5**
+- [`Infographics & Data Viz`](#category-3): **16**
+- [`Product & Branding`](#category-4): **4**
 - [`Posters & Marketing`](#category-5): **23**
 - [`Scenes & Environments`](#category-6): **5**
-- [`Anime & Illustration`](#category-7): **8**
+- [`Anime & Illustration`](#category-7): **7**
 - [`3D & Render`](#category-8): **1**
 
 ## 🔥 Featured Prompts
@@ -1451,7 +1451,7 @@ Generates a highly detailed, multi-section anime character design document inclu
 
 <a id="category-2"></a>
 
-### Creative & Misc (6)
+### Creative & Misc (5)
 
 ### No. 1: Two Women Shopping in a Vintage Store
 
@@ -1471,25 +1471,7 @@ Generates a photorealistic image of two women examining a garment in a crowded t
 A photorealistic candid photograph of two Asian women shopping together inside a densely packed {argument name="store type" default="vintage clothing store"}. The woman on the left has brown hair tied back and is wearing a {argument name="left woman outfit" default="white ribbed crop top and distressed denim shorts"}, carrying a cream shoulder bag. She is holding up a {argument name="item being examined" default="dark blue satin souvenir jacket with intricate gold embroidery"} on a wooden hanger. The woman on the right has her hair in a messy bun and is wearing a {argument name="right woman outfit" default="white graphic t-shirt tucked into high-waisted blue jeans"}, looking admiringly at the jacket. They are standing in a narrow aisle flanked by overflowing racks of colorful garments, with more clothes hanging from the ceiling. The scene features {argument name="lighting and atmosphere" default="warm, slightly dim ambient lighting with a shallow depth of field blurring the background"}.
 ```
 
-### No. 2: Language Translation and Layout Modification
-
-- **Category:** `Creative & Misc`
-- **Language:** `ko`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13984_1.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13984_1.jpg" alt="Language Translation and Layout Modification" width="480" />
-
-#### Description
-
-A prompt demonstrating the ability of GPT-Image-2 to translate text within an image while maintaining the original visual style and content.
-
-#### Prompt
-
-```text
-Change to the English version. Keep the image as it is and translate the Japanese text into English. Title = {argument name="title" default="The Quiet Between Winds — To You, That Day"}
-```
-
-### No. 3: Physical Exam Question Layout
+### No. 2: Physical Exam Question Layout
 
 - **Category:** `Creative & Misc`
 - **Language:** `ko`
@@ -1507,7 +1489,7 @@ A prompt designed to create an image of a high school exam paper with multiple q
 generate a image of physical {argument name="subject" default="high school exam"} question {argument name="type" default="multiple question"} 9:16. generate 4 images and each image is an answer of provided question
 ```
 
-### No. 4: Handwritten Realistic Letter
+### No. 3: Handwritten Realistic Letter
 
 - **Category:** `Creative & Misc`
 - **Language:** `ko`
@@ -1525,7 +1507,7 @@ A prompt for generating a highly realistic handwritten farewell letter on lined 
 A highly realistic handwritten letter, consisting of a {argument name="letter content" default="farewell reflection"} on {argument name="paper type" default="lined"} paper, with very moving words written in {argument name="pen type" default="liquid ink"}.
 ```
 
-### No. 5: Chinese Calligraphy Scroll on Aged Paper
+### No. 4: Chinese Calligraphy Scroll on Aged Paper
 
 - **Category:** `Creative & Misc`
 - **Language:** `ko`
@@ -1543,7 +1525,7 @@ This prompt generates a realistic classical Chinese ink calligraphy scroll with 
 A high-resolution museum-style photograph of a traditional Chinese calligraphy handscroll on aged beige xuan paper, shown flat and filling the frame with no mounting border visible. The composition is a single elegant work of running-script brush calligraphy in deep black ink, arranged in 11 vertical columns read right to left. The main text is the poem title and verse of {argument name="poem text" default="定風波\n莫聽穿林打葉聲\n何妨吟嘯且徐行\n竹杖芒鞋輕勝馬\n誰怕\n一蓑煙雨任平生\n料峭春風吹酒醒\n微冷\n山頭斜照卻相迎\n回首向來蕭瑟處\n歸去\n也無風雨也無晴"}, written with expressive literati brushwork, varied pressure, dry-brush texture, natural ink spread, and lively stroke rhythm reminiscent of a Song-dynasty masterpiece interpreted by a Jin-style calligrapher. Add a smaller left-side inscription in 3 vertical columns containing {argument name="inscription text" default="蘇軾詞定風波\n癸卯春\n奚義之書"}, with the inscription thinner and more restrained than the main text. Include exactly 5 red cinnabar seals with carved seal-script impressions: 1 small square seal near the upper right margin, 3 vertically stacked rectangular seals along the mid-to-lower right edge, and 1 square seal near the lower left beside the inscription. The paper should show subtle fibers, warm foxing, soft tonal unevenness, and gentle age wear, while the lighting remains even, diffuse, and archival, emphasizing authentic texture and the contrast between black ink and tan paper. Keep the background entirely occupied by the scroll surface, with a calm scholarly antique aesthetic and no modern objects.
 ```
 
-### No. 6: Identical Baseball Players Lineup
+### No. 5: Identical Baseball Players Lineup
 
 - **Category:** `Creative & Misc`
 - **Language:** `ko`
@@ -1563,7 +1545,7 @@ A realistic sports photograph of exactly 5 identical young Asian men standing in
 
 <a id="category-3"></a>
 
-### Infographics & Data Viz (17)
+### Infographics & Data Viz (16)
 
 ### No. 1: Live Streaming App UI Mockup
 
@@ -1748,83 +1730,7 @@ A comprehensive Amazon A+ style product listing infographic detailing features, 
 }
 ```
 
-### No. 4: 3-Panel Anime Sci-Fi Course Promo
-
-- **Category:** `Infographics & Data Viz`
-- **Language:** `ko`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13634_1.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13634_1.jpg" alt="3-Panel Anime Sci-Fi Course Promo" width="480" />
-
-#### Description
-
-Generates a three-panel vertical infographic comparing different AI models, featuring an anime character in dynamic poses and detailed typography.
-
-#### Prompt
-
-```text
-{
-  "type": "3-panel vertical promotional infographic",
-  "theme": "sci-fi anime, dynamic action, glowing effects, high-tech interface",
-  "character_design": {
-    "gender": "female",
-    "hair": "{argument name=\"hair color\" default=\"orange\"}, short",
-    "outfit": "futuristic black, white, and grey bodysuit with glowing yellow accents"
-  },
-  "layout": {
-    "structure": "vertical stack of 3 horizontal banners",
-    "panels": [
-      {
-        "position": "top",
-        "model_name": "{argument name=\"top model name\" default=\"MAI-Image-2\"}",
-        "header_text": "AI ART | PROMPT ENGINEERING | IMAGE GENERATION",
-        "main_title": "{argument name=\"main title\" default=\"DESIGN COURSE\"}",
-        "subtitle": "{argument name=\"subtitle\" default=\"AIが拓く、画像生成の未来\"}",
-        "character_pose": "flying horizontally to the right, profile view, clean flat anime style",
-        "left_text_block": "ゼロから始める、プロンプト\n級のクリエイティブ。\nMAI-Image-2を活用した\n次世代の制作フローを習得。",
-        "featuring_list": {
-          "title": "FEATURING",
-          "count": 4,
-          "items": ["- プロンプトの基礎", "- 画像生成の実践", "- 高品質な出力", "- 著作権について"]
-        },
-        "bottom_right_tag": "#001 | MAI-Image-2 EDITION"
-      },
-      {
-        "position": "middle",
-        "model_name": "{argument name=\"middle model name\" default=\"GPT-IMAGE-2\"}",
-        "header_text": "AI ART | PROMPT ENGINEERING | IMAGE GENERATION",
-        "main_title": "{argument name=\"main title\" default=\"DESIGN COURSE\"}",
-        "subtitle": "{argument name=\"subtitle\" default=\"AIが拓く、画像生成の未来\"}",
-        "character_pose": "flying horizontally to the right, highly detailed, dynamic lighting, glowing particles, intense expression, mecha details",
-        "left_text_block": "ゼロから始める、\nプロ級のクリエイティブ。\nGPT-Image-2を活用した\n次世代の制作フローを習得。",
-        "featuring_list": {
-          "title": "FEATURING",
-          "count": 4,
-          "items": ["- プロンプトの基礎", "- 画像生成の実践", "- 高品質な出力", "- 著作権について"]
-        },
-        "bottom_right_tag": "#001 | GPT-IMAGE-2 EDITION"
-      },
-      {
-        "position": "bottom",
-        "model_name": "NANO BANANA PRO",
-        "header_text": "AI ART | PROMPT ENGINEERING | MONETIZATION",
-        "main_title": "{argument name=\"main title\" default=\"DESIGN COURSE\"}",
-        "subtitle": "AIが拓く、デザインの未来",
-        "character_pose": "flying towards the viewer, reaching out with left hand, dynamic perspective, starry space background",
-        "left_text_block": "ゼロから始める、\nプロ級のクリエイティブ。\nAIを活用した\n次世代の制作フローを習得。",
-        "featuring_list": {
-          "title": "FEATURING",
-          "count": 4,
-          "items": ["- プロンプトの基礎", "- 収益化ノウハウ", "- 高品質な出力", "- 著作権について"]
-        },
-        "bottom_right_tag": "#001 | AI EDITION"
-      }
-    ]
-  }
-}
-```
-
-### No. 5: Hilbert Curve Infographic
+### No. 4: Hilbert Curve Infographic
 
 - **Category:** `Infographics & Data Viz`
 - **Language:** `ko`
@@ -1913,7 +1819,7 @@ Generates an educational mathematical diagram explaining a degree 3 Hilbert curv
 }
 ```
 
-### No. 6: Comprehensive Cat Breed Infographic
+### No. 5: Comprehensive Cat Breed Infographic
 
 - **Category:** `Infographics & Data Viz`
 - **Language:** `ko`
@@ -1986,7 +1892,7 @@ Generates a highly detailed, grid-based encyclopedia poster of cat breeds catego
 }
 ```
 
-### No. 7: Traditional Clothing Infographic Guide
+### No. 6: Traditional Clothing Infographic Guide
 
 - **Category:** `Infographics & Data Viz`
 - **Language:** `ko`
@@ -2059,7 +1965,7 @@ Generates a highly detailed, museum-quality infographic breaking down the struct
 }
 ```
 
-### No. 8: Whimsical Programmer Almanac Infographic
+### No. 7: Whimsical Programmer Almanac Infographic
 
 - **Category:** `Infographics & Data Viz`
 - **Language:** `ko`
@@ -2165,7 +2071,7 @@ Generates a watercolor-style daily almanac for programmers featuring a Little Pr
 }
 ```
 
-### No. 9: Laptop Technical Overview Infographic
+### No. 8: Laptop Technical Overview Infographic
 
 - **Category:** `Infographics & Data Viz`
 - **Language:** `ko`
@@ -2246,7 +2152,7 @@ A detailed, hand-drawn style technical spec sheet for a laptop, featuring intern
 }
 ```
 
-### No. 10: Scientific Journal Infographic of Human Brain Anatomy
+### No. 9: Scientific Journal Infographic of Human Brain Anatomy
 
 - **Category:** `Infographics & Data Viz`
 - **Language:** `ko`
@@ -2264,7 +2170,7 @@ A prompt for generating a 16:9 scientific journal-style infographic poster detai
 A scientific journal style infographic poster in 16:9 horizontal format about the anatomy of the human brain, designed to look exactly like a premium academic publication plate
 ```
 
-### No. 11: 3D Urban Systems Atlas Infographic
+### No. 10: 3D Urban Systems Atlas Infographic
 
 - **Category:** `Infographics & Data Viz`
 - **Language:** `ko`
@@ -2334,7 +2240,7 @@ A highly detailed, information-dense infographic featuring a 3D isometric cutawa
 }
 ```
 
-### No. 12: Nanjing Classic Tourism Atlas Poster
+### No. 11: Nanjing Classic Tourism Atlas Poster
 
 - **Category:** `Infographics & Data Viz`
 - **Language:** `ko`
@@ -2352,7 +2258,7 @@ This prompt generates a polished Chinese travel infographic poster showcasing ei
 {"type":"Chinese travel infographic poster","topic":"{argument name=\"city name\" default=\"南京\"} representative classic tourism atlas","style":"elegant editorial infographic with Jiangnan cultural aesthetics, clean beige rice-paper background, subtle ink-wash texture, refined gold-gray typography, soft natural lighting, polished travel-magazine layout","format":"wide horizontal poster","header":{"title":"{argument name=\"headline text\" default=\"南京代表性旅游经典图谱\"}","subtitle":"六朝古都 · 十朝都会 · 山水城林","decorations":{"top_left":"ornamental cloud pattern relief in pale celadon and ivory","top_right":"5 circular color swatches in muted sage, light gray-green, pale gray, warm beige, terracotta"}},"layout":{"main_cards_count":8,"main_cards":[{"position":"far left","title":"中山陵景区","subtitle":"石阶拱殿","description_lines":["看点：历史建筑","适合：历史巡思"],"image":"grand ceremonial stairway and memorial arch/building rising through forested hills, symmetrical aerial perspective, misty atmosphere","badge":"round inset showing carved stone relief detail"},{"position":"left 2","title":"明城墙","subtitle":"城砖肌理","description_lines":["看点：城垣雄伟","适合：漫步骑行"],"image":"ancient city wall and gate stretching diagonally through green trees, elevated viewpoint","badge":"round inset showing weathered gray brick texture"},{"position":"left 3","title":"玄武湖景区","subtitle":"瓦当纹样","description_lines":["看点：湖光山色","适合：休闲散步"],"image":"lakeside pavilion on the water with boats, distant wooded hills, soft haze","badge":"round inset showing dark traditional roof tiles"},{"position":"left 4","title":"鸡鸣寺","subtitle":"龙纹石刻","description_lines":["看点：古刹禅意","适合：祈福静心"],"image":"golden-roofed Buddhist temple courtyard framed by autumn trees, slightly elevated angle","badge":"round inset showing carved dragon stone motif"},{"position":"center-right 1","title":"南京博物院","subtitle":"青铜纹饰","description_lines":["看点：文物荟萃","适合：文化探访"],"image":"formal museum building reflected in a calm pool, frontal symmetrical composition","badge":"round inset showing dark green bronze pattern texture"},{"position":"center-right 2","title":"夫子庙秦淮风光带","subtitle":"花窗纹样","description_lines":["看点：夜景璀璨","适合：夜游赏景"],"image":"traditional waterside architecture and covered walkways along canal, white walls and dark roofs","badge":"round inset showing geometric Chinese lattice window pattern"},{"position":"right 2","title":"总统府景区","subtitle":"民国柱式","description_lines":["看点：近代史迹","适合：亲子研学"],"image":"tree-lined boulevard leading toward a neoclassical historic government building, golden autumn leaves","badge":"round inset showing classical column capital detail"},{"position":"far right","title":"南京眼步行桥","subtitle":"几何肌理","description_lines":["看点：现代地标","适合：拍照打卡"],"image":"modern white eye-shaped pedestrian bridge over river, aerial cityscape view","badge":"round inset showing faceted geometric steel or glass structure"}],"bottom_sections_count":4,"bottom_sections":[{"title":"目的地速览","position":"bottom left","count":1,"content":"南京，六朝古都，山水城林交融的历史文化名城。","visual":"small monochrome ink landscape vignette with boat and hills"},{"title":"游览建议","position":"bottom left-center","count":3,"items":["春秋最佳出行季","地铁公交便捷游","夜游秦淮赏灯景"]},{"title":"文化冷知识","position":"bottom center","count":2,"items":["南京曾为六朝和十朝的都城。","明城墙是世界上现存最长的古代城垣之一。"]},{"title":"历史时间线","position":"bottom right","count":5,"items":[{"year":"公元前333年","label":"楚威王 金陵邑建城"},{"year":"229年","label":"东吴 建都建业"},{"year":"317年","label":"东晋 建康兴盛"},{"year":"1366年","label":"明初 南京为都"},{"year":"1912年","label":"民国 定都南京"}]}]},"card_design":{"shape":"rounded vertical panels with soft shadows and thin gold-beige borders","count_per_card_elements":4,"elements":["main scenic image","small subtitle above title","round material-detail inset overlapping lower image area","two short recommendation lines"]},"color_palette":{"background":"warm ivory and light parchment","text":"deep teal and muted brown","accents":"stone gray, sage green, antique gold, autumn yellow"},"rendering":"high-detail semi-photorealistic collage, cohesive atmospheric grading, premium tourism brochure quality, balanced spacing, crisp Chinese typography"}
 ```
 
-### No. 13: 3D Animated Tourism Infographic Poster
+### No. 12: 3D Animated Tourism Infographic Poster
 
 - **Category:** `Infographics & Data Viz`
 - **Language:** `ko`
@@ -2420,7 +2326,7 @@ Generates a vibrant 3D animated promotional poster featuring local landmarks, re
 }
 ```
 
-### No. 14: Neon Business Info-Product Thumbnail
+### No. 13: Neon Business Info-Product Thumbnail
 
 - **Category:** `Infographics & Data Viz`
 - **Language:** `ko`
@@ -2481,7 +2387,7 @@ Generates a high-impact, text-heavy YouTube thumbnail or banner for business and
 }
 ```
 
-### No. 15: Soccer Match Infographic Poster
+### No. 14: Soccer Match Infographic Poster
 
 - **Category:** `Infographics & Data Viz`
 - **Language:** `ko`
@@ -2532,7 +2438,7 @@ Generates a detailed sports matchup poster with player portraits, team logos, an
 }
 ```
 
-### No. 16: Complex Infographic Explainer Sheet
+### No. 15: Complex Infographic Explainer Sheet
 
 - **Category:** `Infographics & Data Viz`
 - **Language:** `ko`
@@ -2601,7 +2507,7 @@ Generates a highly detailed, multi-section infographic with charts, flowcharts, 
 }
 ```
 
-### No. 17: 56 Chinese Ethnic Groups Clothing Chart
+### No. 16: 56 Chinese Ethnic Groups Clothing Chart
 
 - **Category:** `Infographics & Data Viz`
 - **Language:** `ko`
@@ -2647,7 +2553,7 @@ Generates a traditional ink-wash style grid chart displaying 56 distinct female 
 
 <a id="category-4"></a>
 
-### Product & Branding (5)
+### Product & Branding (4)
 
 ### No. 1: Cosmic Dark Mode UI Design System
 
@@ -2762,76 +2668,7 @@ Generates a realistic dark mode Twitter/X post screenshot featuring a long list 
 A dark mode screenshot of an X post. The profile features a man with a mustache in a red shirt and crown, username {argument name="username" default="@iruletheworldmo"} with three strawberry emojis and a blue checkmark. Top right has a "Subscribe" button. The tweet text begins with {argument name="headline" default="🚨 BREAKING FRONTIER MODEL NEWS"} followed by {argument name="subheadline" default="gpt-6 set for release april 14th"} and a short intro about OpenAI leaks. Below are exactly 11 bullet points, each starting with a `>` symbol, detailing {argument name="bullet point topic" default="fictional AI model specs"} such as pretraining dates, outperforming gpt-5.4, native multimodality, killing Sora, renaming to "AGI Deployment", 2 million token context, pricing, safety team changes, a 2025 code red, and a new desktop superapp. The text is white on a black background in a standard sans-serif UI font.
 ```
 
-### No. 3: wikiHow Article Mockup
-
-- **Category:** `Product & Branding`
-- **Language:** `ko`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13657_1.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/13657_1.jpg" alt="wikiHow Article Mockup" width="480" />
-
-#### Description
-
-Generates a detailed, text-heavy tutorial webpage mimicking the wikiHow layout, complete with instructional steps and embedded UI mockups.
-
-#### Prompt
-
-```text
-{
-  "type": "wikiHow article mockup",
-  "header": {
-    "background": "green",
-    "elements": [
-      "hamburger menu icon",
-      "wikiHow logo",
-      "search bar with 'Search how to...' text",
-      "5 navigation icons: PRO/PPRO, QUIZZES, EDIT, EXPLORE, LOG IN"
-    ]
-  },
-  "breadcrumbs": "HOME » CATEGORIES » COMPUTERS AND ELECTRONICS » INTERNET » CHATGPT",
-  "article_info": {
-    "title": "{argument name=\"article title\" default=\"How To Use GPT-Image 2\"}",
-    "metadata": "Written by wikiHow Staff | Updated: June 10, 2024",
-    "sidebar": [
-      "PDF Download Article button",
-      "METHODS box: 1 Using GPT-Image 2 on Arena.ai"
-    ]
-  },
-  "intro_box": "GPT-Image 2 is OpenAI's most advanced AI image generator. It creates high-quailly, detailed, and accurate images from your text prompts. This wikiHow will show you how to try GPT-Image 2 for free on arena.ai.",
-  "steps": [
-    {
-      "number": 1,
-      "title": "{argument name=\"step 1 title\" default=\"Go to arena.ai.\"}",
-      "description": "Open your web browser and navigate to https://arena.ai. Arena is a platform where you can compare and try thousands of AI models, including OpenAI's latest image generator.",
-      "embedded_image": {
-        "type": "dark mode website UI mockup",
-        "logo": "arena",
-        "navigation": ["Battle", "Side-by-Side", "Direct Chat", "Leaderboard", "Community", "Sign In", "Sign Up button"],
-        "hero_text": "The world's largest arena for AI models",
-        "input_ui": {
-          "model_dropdown": "Model: {argument name=\"model name\" default=\"duct-tape-3\"}",
-          "settings": "Default",
-          "text_input": "Enter your prompt here...",
-          "button": "Run"
-        }
-      }
-    },
-    {
-      "number": 2,
-      "title": "{argument name=\"step 2 title\" default=\"Select the model 'duct-tape-3.'\"}",
-      "description": "Click the Model dropdown menu and choose 'duct-tape-3.' Duct-tape-3 is the name Arena uses for GPT-Image 2, OpenAI's most capable image generation model."
-    },
-    {
-      "number": 3,
-      "title": "{argument name=\"step 3 title\" default=\"Prompt it.\"}",
-      "description": "Type your prompt in the box and click Run. GPT-Image 2 will generate an image based on your description.",
-      "tip_box": "TIP GPT-Image 2 is the best AI image generator because it produces incredibly detailed, accurate, and high-quality images, handles text well, follows complex instructions, and has a deep understanding of the world."
-    }
-  ]
-}
-```
-
-### No. 4: Light Mode UI Design System Board
+### No. 3: Light Mode UI Design System Board
 
 - **Category:** `Product & Branding`
 - **Language:** `ko`
@@ -2915,7 +2752,7 @@ Generates a comprehensive UI design system presentation featuring color palettes
 }
 ```
 
-### No. 5: Pet Brand Identity System Board
+### No. 4: Pet Brand Identity System Board
 
 - **Category:** `Product & Branding`
 - **Language:** `ko`
@@ -3761,27 +3598,9 @@ A highly detailed, cinematic wide shot of a grand, dark gothic hall with a {argu
 
 <a id="category-7"></a>
 
-### Anime & Illustration (8)
+### Anime & Illustration (7)
 
-### No. 1: Eight Panel Manga Story
-
-- **Category:** `Anime & Illustration`
-- **Language:** `ko`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14389_1.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/14389_1.jpg" alt="Eight Panel Manga Story" width="480" />
-
-#### Description
-
-Generates an eight-panel manga layout about a specific event or topic, perfect for storytelling and sequence-based illustrations.
-
-#### Prompt
-
-```text
-{argument name="panel count" default="eight"} panel manga about {argument name="topic" default="GPT-Image-2 launching today"}
-```
-
-### No. 2: Multi-Panel Comic Book Page
+### No. 1: Multi-Panel Comic Book Page
 
 - **Category:** `Anime & Illustration`
 - **Language:** `ko`
@@ -3876,7 +3695,7 @@ Generates a fully lettered, multi-panel comic book page featuring dynamic action
 }
 ```
 
-### No. 3: Fantasy Anime Key Visual Prompt
+### No. 2: Fantasy Anime Key Visual Prompt
 
 - **Category:** `Anime & Illustration`
 - **Language:** `ko`
@@ -3894,7 +3713,7 @@ A Japanese prompt designed to generate high-quality, 'royal road' (classic) fant
 Create an anime key visual for a {argument name="genre" default="classic fantasy"} with a {argument name="theme" default="star"} theme
 ```
 
-### No. 4: 3-Panel Duct Tape Meme Comic
+### No. 3: 3-Panel Duct Tape Meme Comic
 
 - **Category:** `Anime & Illustration`
 - **Language:** `ko`
@@ -3936,7 +3755,7 @@ Generates a 3-panel comic showing a subject eating a fruit and taping the peel t
 }
 ```
 
-### No. 5: Ligne Claire Suburban Landscape
+### No. 4: Ligne Claire Suburban Landscape
 
 - **Category:** `Anime & Illustration`
 - **Language:** `ko`
@@ -3954,7 +3773,7 @@ Generates a detailed, comic-style illustration of a neighborhood landscape with 
 A detailed {argument name="art style" default="ligne claire comic illustration"} of a sprawling {argument name="setting" default="suburban neighborhood"} viewed from an elevated rooftop perspective during {argument name="time of day" default="sunset"}. The scene features densely packed houses with varied roof colors including muted blues, reds, and browns, interspersed with lush green trees and foliage. Utility poles with crisscrossing power lines cut through the midground. A winding dirt road is visible on the right side. The sky is a smooth gradient of warm orange, pink, and light blue, with a bright round sun sitting low on the horizon behind stylized, fluffy clouds. The artwork uses flat colors, distinct black outlines, and a nostalgic, peaceful atmosphere reminiscent of classic anime background art.
 ```
 
-### No. 6: Anime Sci-Fi School Proposal Board
+### No. 5: Anime Sci-Fi School Proposal Board
 
 - **Category:** `Anime & Illustration`
 - **Language:** `ko`
@@ -3972,7 +3791,7 @@ Generates a polished Japanese-style one-page pitch sheet for an original anime a
 {"type":"anime sci-fi school project proposal board","title":{"main":"{argument name=\"title text\" default=\"スター・ラブリー\"}","subtitle":"STAR★LOVELY","tagline":"きらめく想いが、宇宙を変える。","header_note":"新作オリジナルSFアニメ企画書"},"style":{"genre":"bright emotional space fantasy mixed with school youth drama","visuals":"polished modern anime key art, glossy promotional pitch deck, luminous pastel-neon palette, purple blue pink gradients, sparkling stars, cinematic rim light, highly detailed background cityscape and planets","mood":"hopeful, adventurous, sentimental, aspirational"},"layout":{"format":"single-page Japanese anime planning document","background":"star-filled outer space sky with giant planets, futuristic city, glowing atmosphere","sections":[{"title":"企画コンセプト","position":"upper left","count":1,"labels":["concept text box"]},{"title":"STORY","position":"upper right","count":1,"labels":["story synopsis panel"]},{"title":"CHARACTER キャラクター紹介","position":"middle left","count":5,"labels":["星宮 ララ","月城 ユイト","星野 ミア","天ノ瀬 レン","ルミィ"]},{"title":"+ WORLD + 世界観設定","position":"middle right","count":4,"labels":["world overview image","スター≒ミライ学園","スターコア","スターキー","スペースシップ『ルミナス』"]},{"title":"KEY VISUAL キービジュアル","position":"bottom left","count":1,"labels":["group silhouette key visual"]},{"title":"THEME & KEYWORDS テーマ・キーワード","position":"bottom center-left","count":2,"labels":["keyword list","ターゲット層"]},{"title":"STAFF & PRODUCTION スタッフ＆制作体制","position":"bottom center","count":1,"labels":["staff list"]},{"title":"展開計画","position":"bottom center-right","count":4,"labels":["TVアニメシリーズ（全24話予定）","配信・海外展開","ゲームアプリ・グッズ展開","ライブ・イベント・コラボなど"]},{"title":"ロゴ案","position":"bottom right","count":1,"labels":["logo mockup"]}]},"centerpiece":{"count":5,"description":"hero ensemble standing in front of a futuristic campus city under a cosmic sky, with one central heroine reaching her hand toward the viewer","characters":[{"name":"{argument name=\"main heroine name\" default=\"星宮 ララ\"}","role":"center protagonist","appearance":"teenage anime schoolgirl with very long dark indigo hair, star hair ornament, white sailor-style school jacket with navy trim, pleated skirt, pink ribbon tie, confident hopeful expression, dynamic outstretched hand toward camera"},{"name":"月城 ユイト","role":"left male lead","appearance":"teenage boy with short tousled silver-lavender hair, calm serious look, matching futuristic school uniform"},{"name":"星野 ミア","role":"right pink-haired girl","appearance":"cheerful teenage girl with short fluffy pink twin-bun hairstyle, matching school uniform, bright friendly energy"},{"name":"天ノ瀬 レン","role":"far-right male lead","appearance":"teenage boy with short dark navy-black hair, cool reserved expression, matching uniform"},{"name":"ルミィ","role":"mascot robot","appearance":"small floating white rabbit-eared robot with glossy shell, black digital face, glowing blue eyes, tiny limbs, cute helper companion hovering above the group"}]},"character_cards":{"count":5,"card_style":"vertical rounded profile cards with portrait at top, name, CV line, and short personality descriptions","entries":[{"name":"星宮 ララ","accent":"purple","description":"bright and earnest heroine who loves the stars and believes feelings can shape the future"},{"name":"月城 ユイト","accent":"cool blue","description":"quiet intelligent boy, prince-like atmosphere, strategic and dependable"},{"name":"星野 ミア","accent":"pink","description":"former idol-like cheerful girl, mood-maker and energetic team support"},{"name":"天ノ瀬 レン","accent":"deep blue","description":"stoic and serious boy with strong will and hidden kindness"},{"name":"ルミィ","accent":"cyan","description":"support robot and mascot, tiny but reliable partner"}]},"world_section":{"count":4,"items":[{"name":"スター≒ミライ学園","description":"large futuristic academy floating near the sea with advanced architecture"},{"name":"スターコア","description":"mysterious shining crystal-like energy source"},{"name":"スターキー","description":"special item or emblem connected to the power of stars"},{"name":"スペースシップ『ルミナス』","description":"sleek compact spacecraft used for missions and travel"}]},"bottom_panels":{"key_visual":"four students seen from behind on a reflective ground under a huge sparkling galaxy sky with planets and nebulae","theme_keywords":{"count":8,"labels":["きらめき","友情","絆","挑戦","成長","自分らしさ","未来","希望"]},"target_audience":"middle and high school audience, broad appeal for youth sci-fi anime fans","staff_panel":"placeholder staff credits with role labels and decorative orbital line art","logo_panel":"large stylized pastel logo with star and orbital swoosh"},"composition":"dense but clean Japanese presentation layout with rounded white panels outlined in lavender, large central illustration overlapping section boxes, balanced infographic design, readable hierarchy, polished commercial anime proposal aesthetic","quality":"ultra-detailed, crisp print-like typography, high-resolution promotional board, vibrant lighting, elegant sparkles"}
 ```
 
-### No. 7: Sci-Fi Chibi Robot Welding in Space
+### No. 6: Sci-Fi Chibi Robot Welding in Space
 
 - **Category:** `Anime & Illustration`
 - **Language:** `ko`
@@ -3990,7 +3809,7 @@ Generates a highly detailed, cinematic sci-fi scene of a small robot repairing a
 A highly detailed sci-fi illustration of a {argument name="robot style" default="cute chibi robot"} floating in space, {argument name="action" default="welding a massive metallic megastructure"}. The robot has a large round head with {argument name="eye color" default="glowing blue"} eyes and a white and black mechanical body. It is holding a tool that emits bright orange sparks against the framework. The megastructure is enormous, curving through the scene, built as a {argument name="structure type" default="dark metal lattice covered in thousands of tiny glowing yellow lights"}. In the background, a {argument name="star color" default="brilliant glowing blue"} star shines brightly against a deep space backdrop filled with stars and cosmic dust. The image features hyper-detailed textures, cinematic lighting, high contrast, and a dense, intricate mechanical design.
 ```
 
-### No. 8: Classroom Chalkboard Lesson
+### No. 7: Classroom Chalkboard Lesson
 
 - **Category:** `Anime & Illustration`
 - **Language:** `ko`
@@ -4051,4 +3870,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-09T06:07:38.317Z
+> This README is auto-generated. 2026-07-09T06:16:01.846Z
