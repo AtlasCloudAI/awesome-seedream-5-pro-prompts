@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-63%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-69%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,10 +90,10 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **63** |
+| Total Prompts | **69** |
 | Categories | **18** |
-| Preview Images | **63** |
-| Last Updated | **2026-07-20T17:36:21.863Z** |
+| Preview Images | **69** |
+| Last Updated | **2026-07-20T19:02:48.104Z** |
 
 ## 🏷️ Browse by Category
 
@@ -101,19 +101,19 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 - [`Slides & Presentation`](#category-2): **5**
 - [`Poster Design`](#category-3): **9**
 - [`Brand Design`](#category-4): **2**
-- [`Interior Design`](#category-5): **2**
-- [`E-commerce`](#category-6): **3**
+- [`Interior Design`](#category-5): **3**
+- [`E-commerce`](#category-6): **4**
 - [`Comic & Storyboard`](#category-7): **4**
 - [`Film Storyboard`](#category-8): **3**
-- [`Portrait`](#category-9): **6**
-- [`Illustration`](#category-10): **4**
+- [`Portrait`](#category-9): **7**
+- [`Illustration`](#category-10): **6**
 - [`Character Design`](#category-11): **3**
 - [`Style Transfer`](#category-12): **4**
 - [`Outfit Transfer`](#category-13): **2**
 - [`Restoration`](#category-14): **1**
 - [`Retouching`](#category-15): **2**
 - [`ID Photo`](#category-16): **3**
-- [`Creative Fun`](#category-17): **3**
+- [`Creative Fun`](#category-17): **4**
 - [`Stickers`](#category-18): **1**
 
 ## 🔥 Featured Prompts
@@ -678,7 +678,7 @@ A surreal miniature landscape creative commercial product advertisement, integra
 
 <a id="category-5"></a>
 
-### Interior Design (2)
+### Interior Design (3)
 
 ### No. 1: Modern Art Style Bedroom Rendering
 
@@ -716,9 +716,27 @@ An image modified by applying a new referenced color palette.
 Change color palette. Input image + color palette reference
 ```
 
+### No. 3: Realistic Still Life Composition
+
+- **Category:** `Interior Design`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HMCjbkxHGodE7dxtjgGckx9Tnof.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HMCjbkxHGodE7dxtjgGckx9Tnof.jpg?v=20260720fix" alt="Realistic Still Life Composition" width="480" />
+
+#### Description
+
+Compose seven objects into a photograph with accurate materials and lighting.
+
+#### Prompt
+
+```text
+Precisely cut out the 7 white-background objects I provided and compose them into a realistic still life photograph with the specified composition. Ensure correct perspective, lighting, shadow, and spatial relationships. Faithfully reproduce material details of wood grain, leather, lace, glass jelly, and feathers, creating a high-quality image that interweaves realism with playfulness and blends retro with modern aesthetics.
+```
+
 <a id="category-6"></a>
 
-### E-commerce (3)
+### E-commerce (4)
 
 ### No. 1: Reshake Winter Down Jacket Banner
 
@@ -772,6 +790,24 @@ A polished, realistic image of a garment based on a designer's original sketch.
 
 ```text
 Please transform this fashion design sketch into a high-quality finished product image.……
+```
+
+### No. 4: E-commerce Visual Design
+
+- **Category:** `E-commerce`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix" alt="E-commerce Visual Design" width="480" />
+
+#### Description
+
+Create a design using an input image and a color palette reference.
+
+#### Prompt
+
+```text
+E-commerce design. Input image + color palette reference
 ```
 
 <a id="category-7"></a>
@@ -910,7 +946,7 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 <a id="category-9"></a>
 
-### Portrait (6)
+### Portrait (7)
 
 ### No. 1: Over Shoulder Shot Of Sad Woman
 
@@ -1020,9 +1056,27 @@ A long-haired man in a burgundy gown and sunglasses holds a violin bow in a retr
 Retro-futurism style portrait photography, a middle-aged man with long hair wearing a burgundy gown and sunglasses, holding a violin bow…
 ```
 
+### No. 7: Composite Character Pose
+
+- **Category:** `Portrait`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Q8txbHeE0olIdzxsgh5c9GINn9b.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Q8txbHeE0olIdzxsgh5c9GINn9b.jpg?v=20260720fix" alt="Composite Character Pose" width="480" />
+
+#### Description
+
+Generate a full-body shot with specific hand, leg, and prop motions.
+
+#### Prompt
+
+```text
+Generate a full-body shot of the person in Image 3, and adjust her pose so her right hand motion matches Image 1, holding the first speaker from Image 4, and her leg motion matches Image 2
+```
+
 <a id="category-10"></a>
 
-### Illustration (4)
+### Illustration (6)
 
 ### No. 1: Artistic Picture Book School Uniform
 
@@ -1094,6 +1148,42 @@ Four high-quality rendered versions of a sketched video game environment.
 
 ```text
 Please transform this sketch into 4 high-quality finished images of a game scene with……
+```
+
+### No. 5: Image And Palette Input
+
+- **Category:** `Illustration`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V17FbQ8QroJsnvxfSFocD2nrnlf.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V17FbQ8QroJsnvxfSFocD2nrnlf.jpg?v=20260720fix" alt="Image And Palette Input" width="480" />
+
+#### Description
+
+Process an original image alongside a provided color palette reference.
+
+#### Prompt
+
+```text
+Input Original Image + Color Palette Reference
+```
+
+### No. 6: Hand-Drawn Brunch Poster
+
+- **Category:** `Illustration`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix" alt="Hand-Drawn Brunch Poster" width="480" />
+
+#### Description
+
+Transform foods into a drawn style with labels for a seasonal brunch poster.
+
+#### Prompt
+
+```text
+Place the foods from the images on the same table and transform them into a hand-drawn style. Use white linework to label each dish and add handwritten-style Chinese annotations. Create a promotional poster for a dish for “Seasonal Limited Brunch.”
 ```
 
 <a id="category-11"></a>
@@ -1392,7 +1482,7 @@ Generate a solo ID photo for the woman
 
 <a id="category-17"></a>
 
-### Creative Fun (3)
+### Creative Fun (4)
 
 ### No. 1: Smug Grin With Devil Teeth
 
@@ -1448,6 +1538,24 @@ A hand holds an ice cream cone against a backdrop of a city skyline and blue sky
 A hand is holding an ice cream cone, with a city skyline and a clear blue sky in the background.……
 ```
 
+### No. 4: Surreal Toy Scene
+
+- **Category:** `Creative Fun`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Onlsb5mmCo6wkaxco5cczzLgnUf.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Onlsb5mmCo6wkaxco5cczzLgnUf.jpg?v=20260720fix" alt="Surreal Toy Scene" width="480" />
+
+#### Description
+
+A blue-furred head observes a bubble reflecting light near a yarn ball and blocks.
+
+#### Prompt
+
+```text
+Red box: a giant blue-furred head with a comically squeezed expression, looking at the bubble in front; Green box: a transparent bubble reflecting indoor lighting; Yellow box: a large warm beige yarn ball; Blue box: building blocks stacked together — warm dark gray arch shape, warm light gray semi-cylinder, lake blue cylinder, deep lake blue ramp, cobalt blue semi-disc; Purple box: a grass-green blanket with fringe draped over a sofa
+```
+
 <a id="category-18"></a>
 
 ### Stickers (1)
@@ -1491,4 +1599,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-20T17:36:21.863Z
+> This README is auto-generated. 2026-07-20T19:02:48.104Z

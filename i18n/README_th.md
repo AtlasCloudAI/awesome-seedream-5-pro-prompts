@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-63%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-69%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,10 +90,10 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **63** |
+| Total Prompts | **69** |
 | Categories | **18** |
-| Preview Images | **63** |
-| Last Updated | **2026-07-20T17:36:21.868Z** |
+| Preview Images | **69** |
+| Last Updated | **2026-07-20T19:02:48.109Z** |
 
 ## 🏷️ Browse by Category
 
@@ -101,30 +101,30 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 - [`Slides & Presentation`](#category-2): **5**
 - [`Poster Design`](#category-3): **9**
 - [`Brand Design`](#category-4): **2**
-- [`Interior Design`](#category-5): **2**
-- [`E-commerce`](#category-6): **3**
+- [`Interior Design`](#category-5): **3**
+- [`E-commerce`](#category-6): **4**
 - [`Comic & Storyboard`](#category-7): **4**
 - [`Film Storyboard`](#category-8): **3**
-- [`Portrait`](#category-9): **6**
-- [`Illustration`](#category-10): **4**
+- [`Portrait`](#category-9): **7**
+- [`Illustration`](#category-10): **6**
 - [`Character Design`](#category-11): **3**
 - [`Style Transfer`](#category-12): **4**
 - [`Outfit Transfer`](#category-13): **2**
 - [`Restoration`](#category-14): **1**
 - [`Retouching`](#category-15): **2**
 - [`ID Photo`](#category-16): **3**
-- [`Creative Fun`](#category-17): **3**
+- [`Creative Fun`](#category-17): **4**
 - [`Stickers`](#category-18): **1**
 
 ## 🔥 Featured Prompts
 
-### No. 1: สถิติและตัวเลขความปลอดภัยของนักข่าว
+### No. 1: ข้อมูลและสถิติความปลอดภัยของนักข่าว
 
 - **Category:** `Infographic`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg?v=20260720fix" alt="สถิติและตัวเลขความปลอดภัยของนักข่าว" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg?v=20260720fix" alt="ข้อมูลและสถิติความปลอดภัยของนักข่าว" width="480" />
 
 #### Description
 
@@ -146,7 +146,7 @@ Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAF
 
 #### Description
 
-อินโฟกราฟิกแสดงภาพโครงสร้างสถานี เส้นเวลา และแผนภูมิข้อมูลเปรียบเทียบ
+อินโฟกราฟิกแสดงภาพโครงสร้างของสถานี เส้นเวลา และแผนภูมิข้อมูลเปรียบเทียบ
 
 #### Prompt
 
@@ -164,7 +164,7 @@ An infographic visualizing the chronicle of Antarctica's Qinling Station expedit
 
 #### Description
 
-งานนำเสนอสรุปความแตกต่างและแนวทางปฏิบัติที่ดีที่สุดสำหรับพรอมต์สร้างข้อความ (LLM), ภาพ และวิดีโอ
+งานนำเสนอสรุปความแตกต่างและแนวทางปฏิบัติที่ดีที่สุดสำหรับพรอมต์สร้างข้อความ (LLM) รูปภาพ และวิดีโอ
 
 #### Prompt
 
@@ -182,7 +182,7 @@ Based on collected prompt guide trends, create a presentation summarizing the di
 
 #### Description
 
-อินโฟกราฟิกทางดาราศาสตร์อธิบายสีแดงของดวงจันทร์ในช่วงจันทรุปราคาเต็มดวง
+อินโฟกราฟิกทางดาราศาสตร์อธิบายสาเหตุที่ดวงจันทร์มีสีแดงในช่วงจันทรุปราคาเต็มดวง
 
 #### Prompt
 
@@ -190,17 +190,17 @@ Based on collected prompt guide trends, create a presentation summarizing the di
 Generate an astronomy infographic explaining: Why is the moon red during a total lunar eclipse?
 ```
 
-### No. 5: แผนภาพป้ายกำกับส่วนตัดเนื้อวัว
+### No. 5: แผนภาพตัดเนื้อวัวพร้อมคำอธิบาย
 
 - **Category:** `Infographic`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix" alt="แผนภาพป้ายกำกับส่วนตัดเนื้อวัว" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix" alt="แผนภาพตัดเนื้อวัวพร้อมคำอธิบาย" width="480" />
 
 #### Description
 
-แผนภาพแสดงป้ายชื่อและภาพประกอบส่วนตัดต่างๆ ของเนื้อวัว
+แผนภาพแสดงและระบุชื่อส่วนตัดต่างๆ ของเนื้อวัว
 
 #### Prompt
 
@@ -208,17 +208,17 @@ Generate an astronomy infographic explaining: Why is the moon red during a total
 Annotated diagram of beef cuts…
 ```
 
-### No. 6: อินโฟกราฟิกคู่มือดูนกสำหรับผู้เริ่มต้น
+### No. 6: อินโฟกราฟิกคู่มือดูนกสำหรับมือใหม่
 
 - **Category:** `Infographic`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="อินโฟกราฟิกคู่มือดูนกสำหรับผู้เริ่มต้น" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="อินโฟกราฟิกคู่มือดูนกสำหรับมือใหม่" width="480" />
 
 #### Description
 
-อินโฟกราฟิกแบบตารางแสดงนกสายพันธุ์ทั่วไปแปดชนิดพร้อมภาพประกอบและชื่อ
+อินโฟกราฟิกแบบตารางจัดแสดงนกสายพันธุ์ทั่วไปแปดชนิดพร้อมภาพวาดและชื่อ
 
 #### Prompt
 
@@ -236,7 +236,7 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 
 #### Description
 
-หน้าสำหรับงานนำเสนอแสดงสารบัญสำหรับงานเปิดตัวยานพาหนะ
+หน้าสไลด์นำเสนอแสดงสารบัญสำหรับงานเปิดตัวรถยนต์
 
 #### Prompt
 
@@ -254,7 +254,7 @@ Design a table of contents page for a new energy vehicle launch event presentati
 
 #### Description
 
-สไลด์นำเสนอเพียงหน้าเดียวที่สรุปกลยุทธ์แบรนด์ Louis Vuitton อย่างมีอารมณ์
+สไลด์นำเสนอเพียงหน้าเดียวที่สรุปกลยุทธ์แบรนด์ Louis Vuitton ในเชิงอารมณ์
 
 #### Prompt
 
@@ -268,13 +268,13 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 
 ### Infographic (6)
 
-### No. 1: สถิติและตัวเลขความปลอดภัยของนักข่าว
+### No. 1: ข้อมูลและสถิติความปลอดภัยของนักข่าว
 
 - **Category:** `Infographic`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg?v=20260720fix" alt="สถิติและตัวเลขความปลอดภัยของนักข่าว" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg?v=20260720fix" alt="ข้อมูลและสถิติความปลอดภัยของนักข่าว" width="480" />
 
 #### Description
 
@@ -296,7 +296,7 @@ Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAF
 
 #### Description
 
-อินโฟกราฟิกแสดงภาพโครงสร้างสถานี เส้นเวลา และแผนภูมิข้อมูลเปรียบเทียบ
+อินโฟกราฟิกแสดงภาพโครงสร้างของสถานี เส้นเวลา และแผนภูมิข้อมูลเปรียบเทียบ
 
 #### Prompt
 
@@ -314,7 +314,7 @@ An infographic visualizing the chronicle of Antarctica's Qinling Station expedit
 
 #### Description
 
-งานนำเสนอสรุปความแตกต่างและแนวทางปฏิบัติที่ดีที่สุดสำหรับพรอมต์สร้างข้อความ (LLM), ภาพ และวิดีโอ
+งานนำเสนอสรุปความแตกต่างและแนวทางปฏิบัติที่ดีที่สุดสำหรับพรอมต์สร้างข้อความ (LLM) รูปภาพ และวิดีโอ
 
 #### Prompt
 
@@ -332,7 +332,7 @@ Based on collected prompt guide trends, create a presentation summarizing the di
 
 #### Description
 
-อินโฟกราฟิกทางดาราศาสตร์อธิบายสีแดงของดวงจันทร์ในช่วงจันทรุปราคาเต็มดวง
+อินโฟกราฟิกทางดาราศาสตร์อธิบายสาเหตุที่ดวงจันทร์มีสีแดงในช่วงจันทรุปราคาเต็มดวง
 
 #### Prompt
 
@@ -340,17 +340,17 @@ Based on collected prompt guide trends, create a presentation summarizing the di
 Generate an astronomy infographic explaining: Why is the moon red during a total lunar eclipse?
 ```
 
-### No. 5: แผนภาพป้ายกำกับส่วนตัดเนื้อวัว
+### No. 5: แผนภาพตัดเนื้อวัวพร้อมคำอธิบาย
 
 - **Category:** `Infographic`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix" alt="แผนภาพป้ายกำกับส่วนตัดเนื้อวัว" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix" alt="แผนภาพตัดเนื้อวัวพร้อมคำอธิบาย" width="480" />
 
 #### Description
 
-แผนภาพแสดงป้ายชื่อและภาพประกอบส่วนตัดต่างๆ ของเนื้อวัว
+แผนภาพแสดงและระบุชื่อส่วนตัดต่างๆ ของเนื้อวัว
 
 #### Prompt
 
@@ -358,17 +358,17 @@ Generate an astronomy infographic explaining: Why is the moon red during a total
 Annotated diagram of beef cuts…
 ```
 
-### No. 6: อินโฟกราฟิกคู่มือดูนกสำหรับผู้เริ่มต้น
+### No. 6: อินโฟกราฟิกคู่มือดูนกสำหรับมือใหม่
 
 - **Category:** `Infographic`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="อินโฟกราฟิกคู่มือดูนกสำหรับผู้เริ่มต้น" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="อินโฟกราฟิกคู่มือดูนกสำหรับมือใหม่" width="480" />
 
 #### Description
 
-อินโฟกราฟิกแบบตารางแสดงนกสายพันธุ์ทั่วไปแปดชนิดพร้อมภาพประกอบและชื่อ
+อินโฟกราฟิกแบบตารางจัดแสดงนกสายพันธุ์ทั่วไปแปดชนิดพร้อมภาพวาดและชื่อ
 
 #### Prompt
 
@@ -390,7 +390,7 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 
 #### Description
 
-หน้าสำหรับงานนำเสนอแสดงสารบัญสำหรับงานเปิดตัวยานพาหนะ
+หน้าสไลด์นำเสนอแสดงสารบัญสำหรับงานเปิดตัวรถยนต์
 
 #### Prompt
 
@@ -408,7 +408,7 @@ Design a table of contents page for a new energy vehicle launch event presentati
 
 #### Description
 
-สไลด์นำเสนอเพียงหน้าเดียวที่สรุปกลยุทธ์แบรนด์ Louis Vuitton อย่างมีอารมณ์
+สไลด์นำเสนอเพียงหน้าเดียวที่สรุปกลยุทธ์แบรนด์ Louis Vuitton ในเชิงอารมณ์
 
 #### Prompt
 
@@ -416,13 +416,13 @@ Design a table of contents page for a new energy vehicle launch event presentati
 Distill the Louis Vuitton brand strategy…into a single, emotionally resonant presentation slide
 ```
 
-### No. 3: หน้าปกงานนำเสนอเทคสไตล์ด้วยพื้นผิวอะคริลิก 3 มิติ
+### No. 3: หน้าปกงานนำเสนอสไตล์เทคด้วยพื้นผิวอะคริลิก 3 มิติ
 
 - **Category:** `Slides & Presentation`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix" alt="หน้าปกงานนำเสนอเทคสไตล์ด้วยพื้นผิวอะคริลิก 3 มิติ" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix" alt="หน้าปกงานนำเสนอสไตล์เทคด้วยพื้นผิวอะคริลิก 3 มิติ" width="480" />
 
 #### Description
 
@@ -434,17 +434,17 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 Generate a tech-themed presentation cover page with linework, negative space design, 3D acrylic texture, Blender style, C4D effect
 ```
 
-### No. 4: ตัวแบ่งส่วนสไลด์แบบอินเทอร์แอคทีฟ
+### No. 4: ตัวแบ่งส่วนสไลด์แบบโต้ตอบได้
 
 - **Category:** `Slides & Presentation`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg?v=20260720fix" alt="ตัวแบ่งส่วนสไลด์แบบอินเทอร์แอคทีฟ" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg?v=20260720fix" alt="ตัวแบ่งส่วนสไลด์แบบโต้ตอบได้" width="480" />
 
 #### Description
 
-หน้าแบ่งส่วนสำหรับงานนำเสนอออกแบบเป็นชั้นๆ เพื่อให้แก้ไขแบบอินเทอร์แอคทีฟได้
+หน้าสไลด์สำหรับแบ่งส่วนออกแบบเป็นชั้นๆ เพื่อให้สามารถแก้ไขแบบโต้ตอบได้
 
 #### Prompt
 
@@ -462,7 +462,7 @@ Slides section divider page. Interactive edit: layer separation
 
 #### Description
 
-สไลด์นำเสนอกล่าวถึงการลดลงของอัตราการเปลี่ยนใจเป็นลูกค้า (conversion) สำหรับบริการให้อาหารสัตว์เลี้ยง
+สไลด์นำเสนอที่กล่าวถึงการลดลงของอัตราการเปลี่ยนใจเป็นลูกค้า (conversion) สำหรับบริการให้อาหารสัตว์เลี้ยง
 
 #### Prompt
 
@@ -474,17 +474,17 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 ### Poster Design (9)
 
-### No. 1: โปสเตอร์สไตล์น่ารัก Y2K พร้อมพื้นผิวเยลลี่
+### No. 1: โปสเตอร์สไตล์น่ารักยุค Y2K พร้อมพื้นผิวเยลลี่
 
 - **Category:** `Poster Design`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/M75obSWkXoiE51xElVNc39e2nIo.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/M75obSWkXoiE51xElVNc39e2nIo.jpg?v=20260720fix" alt="โปสเตอร์สไตล์น่ารัก Y2K พร้อมพื้นผิวเยลลี่" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/M75obSWkXoiE51xElVNc39e2nIo.jpg?v=20260720fix" alt="โปสเตอร์สไตล์น่ารักยุค Y2K พร้อมพื้นผิวเยลลี่" width="480" />
 
 #### Description
 
-โปสเตอร์สีฟ้าอ่อนสไตล์ Y2K น่ารัก พร้อมองค์ประกอบโปร่งใสที่มีพื้นผิวเหมือนเยลลี่
+โปสเตอร์สีฟ้าอ่อนในสไตล์น่ารักยุค Y2K พร้อมองค์ประกอบโปร่งใสที่มีพื้นผิวเหมือนเยลลี่
 
 #### Prompt
 
@@ -492,17 +492,17 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 Create a poster based on my sketch. I want a Y2K cute style with transparent jelly-textured elements and an overall translucent light blue color palette
 ```
 
-### No. 2: โปสเตอร์การตลาดซีรีส์คอลลาจ
+### No. 2: โปสเตอร์การตลาดชุดคอลลาจ
 
 - **Category:** `Poster Design`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SCz7bLkM0oH2qXx8M9HctwYFnIh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SCz7bLkM0oH2qXx8M9HctwYFnIh.jpg?v=20260720fix" alt="โปสเตอร์การตลาดซีรีส์คอลลาจ" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SCz7bLkM0oH2qXx8M9HctwYFnIh.jpg?v=20260720fix" alt="โปสเตอร์การตลาดชุดคอลลาจ" width="480" />
 
 #### Description
 
-โปสเตอร์คอลลาจที่เน้นการออกแบบ โดยใช้การจัดวางตัวอักษรตามที่กำหนดพร้อมหัวข้อหลักใหม่
+โปสเตอร์แนวออกแบบที่ใช้การจัดวางตัวอักษรตามที่กำหนด พร้อมหัวข้อหลักใหม่
 
 #### Prompt
 
@@ -520,7 +520,7 @@ Using the typography and layout from Image 1, generate a design-forward marketin
 
 #### Description
 
-โปสเตอร์สไตล์ไซไฟที่มีองค์ประกอบแนวทะแยงและจุดโฟกัสอยู่ที่กลาง-ล่าง
+โปสเตอร์สไตล์ไซไฟที่มีองค์ประกอบแนวทะแยงและจุดสนใจอยู่ตรงกลาง-ล่าง
 
 #### Prompt
 
@@ -528,13 +528,13 @@ Using the typography and layout from Image 1, generate a design-forward marketin
 Sci-fi style, poster design, diagonal composition. Center-bottom of the frame…
 ```
 
-### No. 4: โปสเตอร์ดนตรีมินิมอลสำหรับเทศกาล Barrie
+### No. 4: โปสเตอร์ดนตรีสไตล์มินิมอลสำหรับเทศกาล Barrie
 
 - **Category:** `Poster Design`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg?v=20260720fix" alt="โปสเตอร์ดนตรีมินิมอลสำหรับเทศกาล Barrie" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg?v=20260720fix" alt="โปสเตอร์ดนตรีสไตล์มินิมอลสำหรับเทศกาล Barrie" width="480" />
 
 #### Description
 
@@ -556,7 +556,7 @@ Minimalist music festival poster titled "Barrie." The composition features a pre
 
 #### Description
 
-โปสเตอร์ภาพยนตร์ระทึกขวัญที่มีภาพซ้อนทับ (double exposure) ของภาพเงาดำ (silhouette) ใบหน้า
+โปสเตอร์ภาพยนตร์ระทึกขวัญที่มีภาพซ้อนทับ (double exposure) ของเงาดำใบหน้า
 
 #### Prompt
 
@@ -564,17 +564,17 @@ Minimalist music festival poster titled "Barrie." The composition features a pre
 Double exposure portrait silhouette suspense film poster…
 ```
 
-### No. 6: โปสเตอร์อนาคตนิยมสำหรับงานดนตรี PIGITAL TSUNAMI
+### No. 6: โปสเตอร์งานดนตรีแนวฟิวเจอริสต์ PIGITAL TSUNAMI
 
 - **Category:** `Poster Design`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg?v=20260720fix" alt="โปสเตอร์อนาคตนิยมสำหรับงานดนตรี PIGITAL TSUNAMI" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg?v=20260720fix" alt="โปสเตอร์งานดนตรีแนวฟิวเจอริสต์ PIGITAL TSUNAMI" width="480" />
 
 #### Description
 
-โปสเตอร์งานดนตรีสไตล์อนาคตนิยมที่มีชื่อว่า PIGITAL TSUNAMI
+โปสเตอร์งานดนตรีสไตล์ฟิวเจอริสต์ชื่อ PIGITAL TSUNAMI
 
 #### Prompt
 
@@ -592,7 +592,7 @@ Futurist style music event poster titled "PIGITAL TSUNAMI"…
 
 #### Description
 
-งานออกแบบที่มีข้อความชื่อ Sweet Sunlight ในฟอนต์เครื่องพิมพ์ดีดสไตล์วินเทจ อยู่ภายในกรอบสี่เหลี่ยม
+ดีไซน์ที่มีข้อความ Sweet Sunlight ในฟอนต์เครื่องพิมพ์ดีดสไตล์วินเทจ อยู่ในกรอบสี่เหลี่ยม
 
 #### Prompt
 
@@ -600,17 +600,17 @@ Futurist style music event poster titled "PIGITAL TSUNAMI"…
 Bounding box on title - "Sweet Sunlight", use vintage typewriter font
 ```
 
-### No. 8: สารบัญสีม่วงเข้ม
+### No. 8: TABLE OF CONTENTS สีม่วงเข้ม
 
 - **Category:** `Poster Design`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix" alt="สารบัญสีม่วงเข้ม" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix" alt="TABLE OF CONTENTS สีม่วงเข้ม" width="480" />
 
 #### Description
 
-งานออกแบบที่มีข้อความใหญ่สีม่วงเข้มเขียนว่า TABLE OF CONTENTS และมีรายการหัวข้อต่างๆ
+ดีไซน์ที่มีข้อความ TABLE OF CONTENTS ขนาดใหญ่สีม่วงเข้มและรายการหัวข้อต่างๆ
 
 #### Prompt
 
@@ -618,17 +618,17 @@ Bounding box on title - "Sweet Sunlight", use vintage typewriter font
 Generate in the style of Image 1: large deep purple text on the left reading "TABLE OF CONTENTS", with itemized listing on the right…
 ```
 
-### No. 9: โปสเตอร์ซีรี่ส์ Dont Want To Work
+### No. 9: โปสเตอร์ซีรีส์ Dont Want To Work
 
 - **Category:** `Poster Design`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix" alt="โปสเตอร์ซีรี่ส์ Dont Want To Work" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix" alt="โปสเตอร์ซีรีส์ Dont Want To Work" width="480" />
 
 #### Description
 
-โปสเตอร์สร้างสรรค์ที่มีข้อความและภาพใหม่ ต่อยอดจากดีไซน์ที่อ้างอิง
+โปสเตอร์สร้างสรรค์ที่มีข้อความและภาพลักษณ์ใหม่ ต่อยอดจากดีไซน์ที่อ้างอิง
 
 #### Prompt
 
@@ -640,17 +640,17 @@ Referencing this poster design, create a derivative creative poster for the "Don
 
 ### Brand Design (2)
 
-### No. 1: ออกแบบอัตลักษณ์องค์กรมินิมอล Blue Fox
+### No. 1: ออกแบบอัตลักษณ์สัญลักษณ์ (VI) มินิมอล Blue Fox
 
 - **Category:** `Brand Design`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix" alt="ออกแบบอัตลักษณ์องค์กรมินิมอล Blue Fox" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix" alt="ออกแบบอัตลักษณ์สัญลักษณ์ (VI) มินิมอล Blue Fox" width="480" />
 
 #### Description
 
-การนำเสนออัตลักษณ์องค์กร (VI) แบบมินิมอลด้วยสีน้ำเงินไคลน์และสีเงิน พร้อมภาพกราฟิกหมาจิ้งจอกและโลโก้
+การนำเสนออัตลักษณ์สัญลักษณ์แบรนด์ (VI) แบบมินิมอลด้วยสีน้ำเงินไคลน์และสีเงิน พร้อมกราฟิกสุนัขจิ้งจอกและโลโก้
 
 #### Prompt
 
@@ -668,7 +668,7 @@ Minimalist brand VI design showcase, featuring Klein blue and silver as primary 
 
 #### Description
 
-โฆษณาเหนือจริงที่ผสานผลิตภัณฑ์เข้าไปในฉากไลฟ์สไตล์ขนาดจิ๋ว พร้อมข้อมูลผลิตภัณฑ์
+โฆษณาเหนือจริงที่ผสานผลิตภัณฑ์เข้าไปในฉากชีวิตจิ๋ว พร้อมข้อมูลผลิตภัณฑ์
 
 #### Prompt
 
@@ -678,7 +678,7 @@ A surreal miniature landscape creative commercial product advertisement, integra
 
 <a id="category-5"></a>
 
-### Interior Design (2)
+### Interior Design (3)
 
 ### No. 1: ภาพเรนเดอร์ห้องนอนสไตล์โมเดิร์นอาร์ต
 
@@ -690,7 +690,7 @@ A surreal miniature landscape creative commercial product advertisement, integra
 
 #### Description
 
-ภาพเรนเดอร์ห้องนอนในสไตล์โมเดิร์นอาร์ต โดยใช้จานสีการออกแบบภายในที่อ้างอิงมา
+ภาพเรนเดอร์ห้องนอนในสไตล์โมเดิร์นอาร์ต โดยใช้จานสีการออกแบบภายในอ้างอิง
 
 #### Prompt
 
@@ -708,7 +708,7 @@ Refer to the interior design style and color palette in the image, and generate 
 
 #### Description
 
-ภาพที่ถูกปรับเปลี่ยนโดยการนำจานสีใหม่ที่อ้างอิงมาไปใช้
+ภาพที่ถูกปรับเปลี่ยนโดยการนำจานสีใหม่ที่อ้างอิงมาใช้
 
 #### Prompt
 
@@ -716,21 +716,39 @@ Refer to the interior design style and color palette in the image, and generate 
 Change color palette. Input image + color palette reference
 ```
 
+### No. 3: ภาพหุ่นนิ่งสมจริง
+
+- **Category:** `Interior Design`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HMCjbkxHGodE7dxtjgGckx9Tnof.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HMCjbkxHGodE7dxtjgGckx9Tnof.jpg?v=20260720fix" alt="ภาพหุ่นนิ่งสมจริง" width="480" />
+
+#### Description
+
+จัดวางวัตถุเจ็ดชิ้นให้เป็นภาพถ่ายที่มีพื้นผิววัสดุและแสงเงาที่สมจริง
+
+#### Prompt
+
+```text
+Precisely cut out the 7 white-background objects I provided and compose them into a realistic still life photograph with the specified composition. Ensure correct perspective, lighting, shadow, and spatial relationships. Faithfully reproduce material details of wood grain, leather, lace, glass jelly, and feathers, creating a high-quality image that interweaves realism with playfulness and blends retro with modern aesthetics.
+```
+
 <a id="category-6"></a>
 
-### E-commerce (3)
+### E-commerce (4)
 
-### No. 1: แบนเนอร์เสื้อกันหนาวดาวน์ RESHAKE
+### No. 1: แบนเนอร์เสื้อกันหนาวดาวน์แจ็กเก็ต RESHAKE ฤดูหนาว
 
 - **Category:** `E-commerce`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg?v=20260720fix" alt="แบนเนอร์เสื้อกันหนาวดาวน์ RESHAKE" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg?v=20260720fix" alt="แบนเนอร์เสื้อกันหนาวดาวน์แจ็กเก็ต RESHAKE ฤดูหนาว" width="480" />
 
 #### Description
 
-แบนเนอร์อีคอมเมิร์ซสำหรับ RESHAKE มีนายแบบชายโปรโมตเสื้อกันหนาวดาวน์
+แบนเนอร์อีคอมเมิร์ซสำหรับ RESHAKE แสดงนายแบบโปรโมตเสื้อกันหนาวดาวน์แจ็กเก็ต
 
 #### Prompt
 
@@ -738,17 +756,17 @@ Change color palette. Input image + color palette reference
 Generate an e-commerce banner for RESHAKE brand's 2016 winter down jacket collection promotional campaign. On the right side of the frame, a male model facing the camera with a cool, intense expression…
 ```
 
-### No. 2: ส่วนฮีโร่อีคอมเมิร์ซสัตว์เลี้ยงยามพระอาทิตย์ตก
+### No. 2: ส่วนหลัก (Hero) อีคอมเมิร์ซสัตว์เลี้ยงยามพระอาทิตย์ตก พร้อม UI
 
 - **Category:** `E-commerce`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix" alt="ส่วนฮีโร่อีคอมเมิร์ซสัตว์เลี้ยงยามพระอาทิตย์ตก" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix" alt="ส่วนหลัก (Hero) อีคอมเมิร์ซสัตว์เลี้ยงยามพระอาทิตย์ตก พร้อม UI" width="480" />
 
 #### Description
 
-ส่วนหลัก (hero section) ของอีคอมเมิร์ซโทนสีอบอุ่น มีสุนัขโกลเด้นริทรีฟเวอร์ 3 มิติ ที่เท้าโผล่ทะลุกรอบลงมาบนปุ่มนำทาง
+ส่วนหลักของอีคอมเมิร์ซโทนสีอบอุ่น มีสุนัขโกลเด้นริทรีฟเวอร์ 3 มิติ ที่ก้าวเท้าโผล่พ้นกรอบลงมาบนปุ่มนำทาง
 
 #### Prompt
 
@@ -756,17 +774,17 @@ Generate an e-commerce banner for RESHAKE brand's 2016 winter down jacket collec
 16:9 pet e-commerce hero section UI, sunset warm tone, layered shadows. Top navigation…golden capsule button; right side Golden Retriever image, 3D effect: the Retriever's front paws break through the right frame, resting on the left-side buttons.
 ```
 
-### No. 3: ภาพผลิตภัณฑ์ดีไซน์แฟชั่นสำเร็จรูป
+### No. 3: ภาพผลิตภัณฑ์ดีไซน์แฟชั่นที่เสร็จสมบูรณ์
 
 - **Category:** `E-commerce`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix" alt="ภาพผลิตภัณฑ์ดีไซน์แฟชั่นสำเร็จรูป" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix" alt="ภาพผลิตภัณฑ์ดีไซน์แฟชั่นที่เสร็จสมบูรณ์" width="480" />
 
 #### Description
 
-ภาพเสื้อผ้าที่เสร็จสมบูรณ์และสมจริง ตามแบบสเก็ตช์ต้นฉบับของนักออกแบบ
+ภาพเสื้อผ้าที่ดูสมจริงและสมบูรณ์แบบ ต่อยอดจากสเก็ตช์ต้นแบบของนักออกแบบ
 
 #### Prompt
 
@@ -774,21 +792,39 @@ Generate an e-commerce banner for RESHAKE brand's 2016 winter down jacket collec
 Please transform this fashion design sketch into a high-quality finished product image.……
 ```
 
+### No. 4: การออกแบบภาพสำหรับอีคอมเมิร์ซ
+
+- **Category:** `E-commerce`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix" alt="การออกแบบภาพสำหรับอีคอมเมิร์ซ" width="480" />
+
+#### Description
+
+สร้างงานออกแบบโดยใช้ภาพต้นฉบับและแผงสีอ้างอิง
+
+#### Prompt
+
+```text
+E-commerce design. Input image + color palette reference
+```
+
 <a id="category-7"></a>
 
 ### Comic & Storyboard (4)
 
-### No. 1: สตอรี่บอร์ดการไล่ล่ายามคืนสไตล์มังงะเซเน็นญี่ปุ่น
+### No. 1: สตอรี่บอร์ดการไล่ล่ายามคืนแนวเซเน็นญี่ปุ่น
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix" alt="สตอรี่บอร์ดการไล่ล่ายามคืนสไตล์มังงะเซเน็นญี่ปุ่น" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix" alt="สตอรี่บอร์ดการไล่ล่ายามคืนแนวเซเน็นญี่ปุ่น" width="480" />
 
 #### Description
 
-สตอรี่บอร์ดมังงะขาวดำแสดงฉากการไล่ล่ารถยามค่ำคืนและเด็กผู้หญิงติดอาวุธที่กำลังตามล่า
+สตอรี่บอร์ดมังงะขาวดำแสดงฉากการไล่ล่ารถยามค่ำคืนและเด็กผู้หญิงติดอาวุธที่กำลังไล่ตาม
 
 #### Prompt
 
@@ -796,17 +832,17 @@ Please transform this fashion design sketch into a high-quality finished product
 Generate a full-page Japanese seinen black-and-white manga storyboard, nighttime chase and gunfight theme. Top panel: a car under headlights and chain-link fencing in the dark night; middle: a girl armed with a gun in pursuit…
 ```
 
-### No. 2: การ์ตูนสไลซ์ออฟไลฟ์เฟอร์รี่ยามค่ำคืน
+### No. 2: การ์ตูนสี่ช่องแนวชีวิตประจำวันของเฟอร์รี่ยามค่ำคืน
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix" alt="การ์ตูนสไลซ์ออฟไลฟ์เฟอร์รี่ยามค่ำคืน" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix" alt="การ์ตูนสี่ช่องแนวชีวิตประจำวันของเฟอร์รี่ยามค่ำคืน" width="480" />
 
 #### Description
 
-การ์ตูนแนวตั้งสี่ช่องแสดงหมาป่า-หมาประเภทวูล์ฟด็อกและแมวส้มทับบี้ในห้องยามค่ำคืน
+การ์ตูนแนวสไลซ์ออฟไลฟ์แนวตั้งสี่ช่องแสดงหมาป่าสุนัขและแมวส้มในห้องยามค่ำคืน
 
 #### Prompt
 
@@ -814,17 +850,17 @@ Generate a full-page Japanese seinen black-and-white manga storyboard, nighttime
 Draw a vertical four-panel furry slice-of-life comic, set in a room at night, featuring a wolf-dog furry and a tabby cat furry…
 ```
 
-### No. 3: การ์ตูนสยองขวัญอเมริกันในตรอก Gotham
+### No. 3: สตอรี่บอร์ดตรอก Gotham สไตล์การ์ตูนสยองขวัญอเมริกัน
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix" alt="การ์ตูนสยองขวัญอเมริกันในตรอก Gotham" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix" alt="สตอรี่บอร์ดตรอก Gotham สไตล์การ์ตูนสยองขวัญอเมริกัน" width="480" />
 
 #### Description
 
-สตอรี่บอร์ดที่ตั้งอยู่ในตรอกเมือง Gotham City สื่อสไตล์การ์ตูนสยองขวัญอเมริกัน
+สตอรี่บอร์ดฉากตรอกในเมือง Gotham City ที่สื่อสไตล์การ์ตูนสยองขวัญอเมริกัน
 
 #### Prompt
 
@@ -842,7 +878,7 @@ Generate a set of American horror comic storyboards, the story could take place 
 
 #### Description
 
-สองแผงภาพแสดงสุนัขที่เป็นเพื่อนรักที่ร่าเริง และศัตรูที่ดุร้ายกัน
+สองแผงภาพแสดงสุนัขที่กำลังเล่นเป็นเพื่อนรักที่ดีที่สุด และเป็นศัตรูที่ดุร้ายที่สุด
 
 #### Prompt
 
@@ -854,13 +890,13 @@ Top image: two dogs pressing their faces together with playful expressions, capt
 
 ### Film Storyboard (3)
 
-### No. 1: สตอรี่บอร์ดภาพยนตร์ลานจอดรถยามค่ำคืนสามช่อง
+### No. 1: สตอรี่บอร์ดภาพยนตร์สามช่อง ลานจอดรถยามค่ำคืน
 
 - **Category:** `Film Storyboard`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix" alt="สตอรี่บอร์ดภาพยนตร์ลานจอดรถยามค่ำคืนสามช่อง" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix" alt="สตอรี่บอร์ดภาพยนตร์สามช่อง ลานจอดรถยามค่ำคืน" width="480" />
 
 #### Description
 
@@ -872,17 +908,17 @@ Top image: two dogs pressing their faces together with playful expressions, capt
 Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establishing shot of a parking lot at night…
 ```
 
-### No. 2: สตอรี่บอร์ดถนนตะวันตกหกช่อง
+### No. 2: สตอรี่บอร์ดถนนตะวันตกคลาสสิกหกช่อง
 
 - **Category:** `Film Storyboard`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix" alt="สตอรี่บอร์ดถนนตะวันตกหกช่อง" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix" alt="สตอรี่บอร์ดถนนตะวันตกคลาสสิกหกช่อง" width="480" />
 
 #### Description
 
-สตอรี่บอร์ดแนวนอนกว้างหกช่องแสดงฉากถนนคลาสสิกสไตล์ตะวันตก
+สตอรี่บอร์ดแนวนอนกว้างหกช่องแสดงฉากถนนตะวันตกคลาสสิก
 
 #### Prompt
 
@@ -890,17 +926,17 @@ Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establ
 Western film storyboard, 6 panels in wide horizontal ratio, no text throughout: Panel 1, extreme wide shot, both ends of the street…
 ```
 
-### No. 3: สตอรี่บอร์ดเซียนเซียจีนโบราณสไตล์อนิเมะ
+### No. 3: สตอรี่บอร์ดจีนโบราณแนวเซียนเซีย สไตล์อนิเมะ
 
 - **Category:** `Film Storyboard`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix" alt="สตอรี่บอร์ดเซียนเซียจีนโบราณสไตล์อนิเมะ" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix" alt="สตอรี่บอร์ดจีนโบราณแนวเซียนเซีย สไตล์อนิเมะ" width="480" />
 
 #### Description
 
-สตอรี่บอร์ดแสดงฉากเซียนเซียจีนโบราณในสไตล์ศิลปะอนิเมะ
+สตอรี่บอร์ดแสดงฉากจีนโบราณแนวเซียนเซีย (Xianxia) ในสไตล์ศิลปะอนิเมะ
 
 #### Prompt
 
@@ -910,19 +946,19 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 <a id="category-9"></a>
 
-### Portrait (6)
+### Portrait (7)
 
-### No. 1: ภาพช็อตจากเหนือไหล่ของผู้หญิงเศร้า
+### No. 1: ภาพมุมมองเหนือไหล่ของผู้หญิงเศร้า
 
 - **Category:** `Portrait`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg?v=20260720fix" alt="ภาพช็อตจากเหนือไหล่ของผู้หญิงเศร้า" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg?v=20260720fix" alt="ภาพมุมมองเหนือไหล่ของผู้หญิงเศร้า" width="480" />
 
 #### Description
 
-ภาพช็อตจากเหนือไหล่แสดงผู้หญิงผมน้ำตาลอายุประมาณสี่สิบปีที่มีใบหน้าเศร้า
+ภาพมุมมองเหนือไหล่แสดงผู้หญิงผมน้ำตาลอายุราวสี่สิบปีที่มีท่าทางเศร้าโศก
 
 #### Prompt
 
@@ -930,17 +966,17 @@ Anime-style ancient Chinese xianxia scene storyboard…
 Over-the-shoulder shot, featuring a brown-haired European or American woman around 40 years old with a sad expression…
 ```
 
-### No. 2: สร้อยข้อมือหนามโลหะดำ
+### No. 2: สร้อยข้อมือหนามสีดำโลหะ
 
 - **Category:** `Portrait`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix" alt="สร้อยข้อมือหนามโลหะดำ" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix" alt="สร้อยข้อมือหนามสีดำโลหะ" width="480" />
 
 #### Description
 
-ภาพระยะใกล้ของสร้อยข้อมือโลหะดำมีหนาม สวมอยู่บนข้อมือที่ชี้ไปที่เลข 12 นาฬิกา
+ภาพระยะใกล้ของสร้อยข้อมือโลหะสีดำมีหนาม สวมอยู่บนข้อมือที่ชี้ไปที่เลข 12 นาฬิกา
 
 #### Prompt
 
@@ -966,17 +1002,17 @@ Modify the image according to the text requirements in the image: bracelet with 
 Hasselblad film texture, light and shadow, rim light, (facial overexposure)…
 ```
 
-### No. 4: ตารางภาพบุคคลเล่าเรื่องฤดูร้อนแบบหนัง
+### No. 4: ตารางภาพบุคคลเล่าเรื่องฤดูร้อนแบบภาพยนตร์
 
 - **Category:** `Portrait`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix" alt="ตารางภาพบุคคลเล่าเรื่องฤดูร้อนแบบหนัง" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix" alt="ตารางภาพบุคคลเล่าเรื่องฤดูร้อนแบบภาพยนตร์" width="480" />
 
 #### Description
 
-ภาพบุคคลเรียบง่ายสามภาพในรูปแบบตารางกริด เล่าเรื่องราวในฤดูร้อนโดยไม่มีสิ่งรบกวน
+ภาพบุคคลเรียบง่ายและสะอาดตาสามภาพในรูปแบบตารางกริด เล่าเรื่องราวในฤดูร้อนโดยไม่มีสิ่งรบกวน
 
 #### Prompt
 
@@ -984,17 +1020,17 @@ Hasselblad film texture, light and shadow, rim light, (facial overexposure)…
 Remove all accessories, hairstyle, and background, generate a three-panel grid of cinematic summer narrative portraits
 ```
 
-### No. 5: กล้องฟูจิฟิล์มโพลารอยด์
+### No. 5: กล้อง Fujifilm Polaroid
 
 - **Category:** `Portrait`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Y6bTb6x7zoM2kFxkGtXcPH5unUh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Y6bTb6x7zoM2kFxkGtXcPH5unUh.jpg?v=20260720fix" alt="กล้องฟูจิฟิล์มโพลารอยด์" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Y6bTb6x7zoM2kFxkGtXcPH5unUh.jpg?v=20260720fix" alt="กล้อง Fujifilm Polaroid" width="480" />
 
 #### Description
 
-ภาพกล้องถ่ายภาพฉับพลันฟูจิฟิล์มที่ผลิตภาพโพลารอยด์สไตล์
+ภาพกล้องถ่ายภาพฉายทันที Fujifilm ที่ผลิตภาพสไตล์โพลารอยด์
 
 #### Prompt
 
@@ -1002,17 +1038,17 @@ Remove all accessories, hairstyle, and background, generate a three-panel grid o
 Fujifilm camera Polaroid
 ```
 
-### No. 6: ภาพวาดนักไวโอลินเรโทรฟิวเจอริสต์
+### No. 6: ภาพนักไวโอลินสไตล์เรโทรฟิวเจอริสต์
 
 - **Category:** `Portrait`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg?v=20260720fix" alt="ภาพวาดนักไวโอลินเรโทรฟิวเจอริสต์" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg?v=20260720fix" alt="ภาพนักไวโอลินสไตล์เรโทรฟิวเจอริสต์" width="480" />
 
 #### Description
 
-ชายผมยาวในชุดเสื้อคลุมสีเบอร์กันดีและแว่นกันแดด ถือคันชักไวโอลินในสไตล์เรโทรฟิวเจอริสต์
+ชายผมยาวในชุดกาวน์สีแดงไวน์และแว่นกันแดด ถือคันชักไวโอลินในสไตล์เรโทรฟิวเจอริสต์
 
 #### Prompt
 
@@ -1020,9 +1056,27 @@ Fujifilm camera Polaroid
 Retro-futurism style portrait photography, a middle-aged man with long hair wearing a burgundy gown and sunglasses, holding a violin bow…
 ```
 
+### No. 7: ท่าทางตัวละครแบบผสมผสาน
+
+- **Category:** `Portrait`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Q8txbHeE0olIdzxsgh5c9GINn9b.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Q8txbHeE0olIdzxsgh5c9GINn9b.jpg?v=20260720fix" alt="ท่าทางตัวละครแบบผสมผสาน" width="480" />
+
+#### Description
+
+สร้างภาพตัวละครเต็มตัวที่มีท่าทางมือ ขา และการถืออุปกรณ์เฉพาะเจาะจง
+
+#### Prompt
+
+```text
+Generate a full-body shot of the person in Image 3, and adjust her pose so her right hand motion matches Image 1, holding the first speaker from Image 4, and her leg motion matches Image 2
+```
+
 <a id="category-10"></a>
 
-### Illustration (4)
+### Illustration (6)
 
 ### No. 1: ภาพประกอบหนังสือภาพศิลปะ ชุดนักเรียน
 
@@ -1034,7 +1088,7 @@ Retro-futurism style portrait photography, a middle-aged man with long hair wear
 
 #### Description
 
-ภาพประกอบหนังสือภาพแบบพาโนรามา แสดงกางเกงชุดนักเรียนในสไตล์ศิลปะที่ประณีตและมีสุนทรียะ
+ภาพประกอบหนังสือภาพแบบพาโนรามา แสดงกางเกงชุดนักเรียนในสไตล์ศิลปะที่ประณีตและมีชั้นเชิง
 
 #### Prompt
 
@@ -1052,7 +1106,7 @@ Artistic picture book, panoramic view, school uniform trousers, refined makeup, 
 
 #### Description
 
-ภาพประกอบสีเขียวอมฟ้าอ่อนๆ แสดงหญิงชรากำลังวาดภาพดวงอาทิตย์บนทุ่งหญ้าในฤดูหนาว
+ภาพประกอบสีเขียวอมฟ้าอ่อนๆ แสดงหญิงชราวาดภาพดวงอาทิตย์บนทุ่งหญ้าในฤดูหนาว
 
 #### Prompt
 
@@ -1070,7 +1124,7 @@ This heartwarming panoramic picture book illustration uses soft cyan-green tones
 
 #### Description
 
-มีการเพิ่มตัวละครที่กำลังเดินอยู่บนเส้นทางเบื้องหน้าของภาพสเก็ตช์ที่มีอยู่เดิม
+เพิ่มตัวละครที่กำลังเดินบนเส้นทางเบื้องหน้าลงในภาพสเก็ตช์ที่มีอยู่แล้ว
 
 #### Prompt
 
@@ -1088,7 +1142,7 @@ Based on the sketch, add a walking character on the foreground path…
 
 #### Description
 
-ภาพเรนเดอร์คุณภาพสูงสี่ภาพของสภาพแวดล้อมในเกมที่พัฒนาจากภาพสเก็ตช์
+ภาพเรนเดอร์คุณภาพสูงสี่เวอร์ชันของสภาพแวดล้อมในเกมที่เคยเป็นเพียงภาพสเก็ตช์
 
 #### Prompt
 
@@ -1096,21 +1150,57 @@ Based on the sketch, add a walking character on the foreground path…
 Please transform this sketch into 4 high-quality finished images of a game scene with……
 ```
 
+### No. 5: ภาพและแผงสีอ้างอิง
+
+- **Category:** `Illustration`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V17FbQ8QroJsnvxfSFocD2nrnlf.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V17FbQ8QroJsnvxfSFocD2nrnlf.jpg?v=20260720fix" alt="ภาพและแผงสีอ้างอิง" width="480" />
+
+#### Description
+
+ประมวลผลภาพต้นฉบับร่วมกับแผงสีอ้างอิงที่กำหนดให้
+
+#### Prompt
+
+```text
+Input Original Image + Color Palette Reference
+```
+
+### No. 6: โปสเตอร์อาหารเช้าสไตล์วาดมือ
+
+- **Category:** `Illustration`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix" alt="โปสเตอร์อาหารเช้าสไตล์วาดมือ" width="480" />
+
+#### Description
+
+แปลงภาพอาหารให้เป็นสไตล์ภาพวาด พร้อมป้ายกำกับสำหรับโปสเตอร์อาหารเช้าตามฤดูกาล
+
+#### Prompt
+
+```text
+Place the foods from the images on the same table and transform them into a hand-drawn style. Use white linework to label each dish and add handwritten-style Chinese annotations. Create a promotional poster for a dish for “Seasonal Limited Brunch.”
+```
+
 <a id="category-11"></a>
 
 ### Character Design (3)
 
-### No. 1: ภาพสามด้าน เทวรูปเทพธิดาโบราณ
+### No. 1: รูปด้านสามทิศทาง เทวรูปเทพธิดาจีนโบราณ
 
 - **Category:** `Character Design`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg?v=20260720fix" alt="ภาพสามด้าน เทวรูปเทพธิดาโบราณ" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg?v=20260720fix" alt="รูปด้านสามทิศทาง เทวรูปเทพธิดาจีนโบราณ" width="480" />
 
 #### Description
 
-ภาพฉายตั้งฉากแสดงด้านหน้า ด้านข้าง และด้านหลังของเทวรูปเทพธิดาจีนโบราณขนาดใหญ่ที่แกะสลักขึ้น
+ภาพแบบออร์โธกราฟิกแสดงด้านหน้า ด้านข้าง และด้านหลังของเทวรูปเทพธิดาจีนโบราณขนาดใหญ่ที่แกะสลักขึ้น
 
 #### Prompt
 
@@ -1118,17 +1208,17 @@ Please transform this sketch into 4 high-quality finished images of a game scene
 Standard three-view orthographic turntable: front view, side view, back view, of a giant ancient Chinese goddess stone statue with an intricately carved stone headpiece and…
 ```
 
-### No. 2: ภาพแบบเทคนิคสามด้าน จักรยานไปรษณีย์โซเวียต
+### No. 2: รูปด้านสามทิศทาง จักรยานไปรษณีย์โซเวียต
 
 - **Category:** `Character Design`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix" alt="ภาพแบบเทคนิคสามด้าน จักรยานไปรษณีย์โซเวียต" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix" alt="รูปด้านสามทิศทาง จักรยานไปรษณีย์โซเวียต" width="480" />
 
 #### Description
 
-ภาพแบบเทคนิคแสดงด้านหน้า ด้านข้าง และด้านบนของจักรยานวินเทจยุคโซเวียต
+ภาพวาดทางเทคนิคแสดงด้านหน้า ด้านข้าง และด้านบนของจักรยานวินเทจยุคโซเวียต
 
 #### Prompt
 
@@ -1136,17 +1226,17 @@ Standard three-view orthographic turntable: front view, side view, back view, of
 Generate a three-view of a Soviet-era postal messenger bicycle…
 ```
 
-### No. 3: ชีตดีไซน์ตัวละคร แฮ็กเกอร์สาวไซเบอร์พังก์ RIN
+### No. 3: ชีทดีไซน์ตัวละคร RIN แฮ็กเกอร์ไซเบอร์พังก์
 
 - **Category:** `Character Design`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix" alt="ชีตดีไซน์ตัวละคร แฮ็กเกอร์สาวไซเบอร์พังก์ RIN" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix" alt="ชีทดีไซน์ตัวละคร RIN แฮ็กเกอร์ไซเบอร์พังก์" width="480" />
 
 #### Description
 
-ชีตดีไซน์ที่แสดงหลายมุมมองและรายละเอียดของตัวละครแฮ็กเกอร์สาวไซเบอร์พังก์สไตล์อนิเมะ
+ชีทดีไซน์ที่แสดงหลายมุมมองและรายละเอียดของตัวละครแฮ็กเกอร์ไซเบอร์พังก์สไตล์อนิเมะ
 
 #### Prompt
 
@@ -1168,7 +1258,7 @@ Cyberpunk-style anime character design sheet, showing three-view turnaround, clo
 
 #### Description
 
-ภาพที่ถูกแปลงให้ดูเหมือนชุดเลโก้ที่มีรายละเอียดในสไตล์ไดโอรามามินิเจอร์
+ภาพที่ถูกแปลงให้ดูเหมือนชุดเลโก้ที่มีรายละเอียดในสไตล์ไดโอราม่ามินิเจอร์
 
 #### Prompt
 
@@ -1176,17 +1266,17 @@ Cyberpunk-style anime character design sheet, showing three-view turnaround, clo
 Transform the image into a realistic LEGO toy effect with miniature scene styling.
 ```
 
-### No. 2: การแปลงเป็นสไตล์ภาพประกอบเรียบ
+### No. 2: การแปลงเป็นสไตล์ภาพประกอบแบบแฟลต
 
 - **Category:** `Style Transfer`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg?v=20260720fix" alt="การแปลงเป็นสไตล์ภาพประกอบเรียบ" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg?v=20260720fix" alt="การแปลงเป็นสไตล์ภาพประกอบแบบแฟลต" width="480" />
 
 #### Description
 
-ภาพที่ถูกแปลงให้เป็นงานกราฟิกดีไซน์สมัยใหม่ด้วยรูปทรงเรียบง่ายและสีทึบ
+ภาพที่ถูกแปลงเป็นงานกราฟิกดีไซน์สมัยใหม่ด้วยรูปทรงเรียบง่ายและสีทึบ
 
 #### Prompt
 
@@ -1194,17 +1284,17 @@ Transform the image into a realistic LEGO toy effect with miniature scene stylin
 Transform the image style into flat illustration style
 ```
 
-### No. 3: การเปลี่ยนสไตล์เป็นประติมากรรมนูน
+### No. 3: เปลี่ยนสไตล์เป็นประติมากรรมนูน
 
 - **Category:** `Style Transfer`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FLbhbxeAloklCUxOWWxckvx2ntf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FLbhbxeAloklCUxOWWxckvx2ntf.jpg?v=20260720fix" alt="การเปลี่ยนสไตล์เป็นประติมากรรมนูน" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FLbhbxeAloklCUxOWWxckvx2ntf.jpg?v=20260720fix" alt="เปลี่ยนสไตล์เป็นประติมากรรมนูน" width="480" />
 
 #### Description
 
-ภาพที่ถูกปรับให้ดูเหมือนประติมากรรมที่แกะสลักหรือปั้นขึ้น มีพื้นผิวที่ยกนูนขึ้นมา
+ภาพที่ถูกปรับให้คล้ายกับประติมากรรมแกะสลักหรือปั้นที่มีพื้นผิวที่นูนขึ้นมา
 
 #### Prompt
 
@@ -1212,17 +1302,17 @@ Transform the image style into flat illustration style
 Change to relief sculpture style
 ```
 
-### No. 4: ภาพที่ใช้ฟิลเตอร์ Fujifilm NC
+### No. 4: ใส่ฟิลเตอร์ Fujifilm NC แล้ว
 
 - **Category:** `Style Transfer`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg?v=20260720fix" alt="ภาพที่ใช้ฟิลเตอร์ Fujifilm NC" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg?v=20260720fix" alt="ใส่ฟิลเตอร์ Fujifilm NC แล้ว" width="480" />
 
 #### Description
 
-ภาพตอนนี้มีฟิลเตอร์จำลองฟิล์ม Fujifilm Natural Chrome คลาสสิก
+ภาพนี้ถูกปรับให้มีฟิลเตอร์จำลองฟิล์ม Fujifilm Natural Chrome คลาสสิก
 
 #### Prompt
 
@@ -1244,7 +1334,7 @@ Add Fujifilm NC filter
 
 #### Description
 
-ผู้หญิงสวมใส่เสื้อผ้าและเครื่องประดับของอีกคนในสไตล์สตรีทฟอโต้กราฟีแบบสบายๆ และทันสมัย
+ผู้หญิงคนหนึ่งสวมใส่เสื้อผ้าและเครื่องประดับของอีกคนในสไตล์สตรีทฟอโต้กราฟีแบบสบายๆ และทันสมัย
 
 #### Prompt
 
@@ -1262,7 +1352,7 @@ Make the woman in Image 1 wear the clothing, jewelry, and accessories from Image
 
 #### Description
 
-สองคนในภาพถูกแต่งตัวด้วยชุดแต่งงาน โดยมีพื้นหลังและแสงที่ตรงกัน
+คนสองคนในภาพถูกแต่งตัวด้วยชุดแต่งงาน โดยมีพื้นหลังและแสงที่ตรงกัน
 
 #### Prompt
 
@@ -1284,7 +1374,7 @@ Replace the outfits of the two people in Image 1 with the wedding attire from Im
 
 #### Description
 
-ภาพถ่ายเก่าที่ตัวบุคคลชัดเจนขึ้นและสีดั้งเดิมถูกฟื้นคืนกลับมา
+ภาพถ่ายเก่าที่ตัวแบบชัดเจนขึ้นและสีดั้งเดิมถูกฟื้นคืน
 
 #### Prompt
 
@@ -1306,7 +1396,7 @@ Restore this old photo, making the subject clearer and restoring colors
 
 #### Description
 
-ภาพเดียวกันที่มีการปรับค่าการรับแสงให้ดีขึ้น เพื่อแก้ปัญหาแสงย้อน
+ภาพเดียวกันแต่มีการปรับค่าแสงให้ดีขึ้นเพื่อแก้ปัญหาภาพมืดจากแสงย้อน
 
 #### Prompt
 
@@ -1324,7 +1414,7 @@ Keep the image unchanged and correct the backlighting.
 
 #### Description
 
-สไตล์การแต่งหน้าที่แตกต่างและเข้มข้นมากขึ้น แต่ยังคงดูเป็นธรรมชาติโดยรวม
+สไตล์การแต่งหน้าที่แตกต่างและเข้มข้นมากขึ้น แต่ยังดูเป็นธรรมชาติโดยรวม
 
 #### Prompt
 
@@ -1346,7 +1436,7 @@ Change to a different makeup look with stronger intensity while keeping the over
 
 #### Description
 
-บุคคลที่เดิมสวมแว่นตาและถูกนำแว่นตาออก ตอนนี้มีผมใหญ่เป็นลอนสวมลง
+บุคคลที่เดิมสวมแว่นตา (ซึ่งถูกเอาออก) ตอนนี้มีผมยาวเป็นลอนใหญ่สยายลงมา
 
 #### Prompt
 
@@ -1392,7 +1482,7 @@ Generate a solo ID photo for the woman
 
 <a id="category-17"></a>
 
-### Creative Fun (3)
+### Creative Fun (4)
 
 ### No. 1: ยิ้มเย้ยพร้อมฟันปีศาจ
 
@@ -1404,7 +1494,7 @@ Generate a solo ID photo for the woman
 
 #### Description
 
-บุคคลหรี่ตาพร้อมกับยิ้มเย้ย แสดงฟันปีศาจและมีข้อความด้านล่าง
+บุคคลกำลังหรี่ตาพร้อมกับยิ้มเย้ยที่เผยให้เห็นฟันปีศาจ และมีข้อความอยู่ด้านล่าง
 
 #### Prompt
 
@@ -1412,17 +1502,17 @@ Generate a solo ID photo for the woman
 Change expression to a smug grin, eyes squinting into crescents with devil teeth showing at the corners of the mouth, add text "准备更坏" centered at the bottom of the image in white bold font.
 ```
 
-### No. 2: ดาวินชีกับแวนโก๊ะทำสัญลักษณ์สันติภาพ
+### No. 2: Da Vinci Van Gogh ทำสัญลักษณ์ชูสองนิ้ว
 
 - **Category:** `Creative Fun`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg?v=20260720fix" alt="ดาวินชีกับแวนโก๊ะทำสัญลักษณ์สันติภาพ" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg?v=20260720fix" alt="Da Vinci Van Gogh ทำสัญลักษณ์ชูสองนิ้ว" width="480" />
 
 #### Description
 
-ดาวินชีและแวนโก๊ะทำสัญลักษณ์สันติภาพ ขณะที่ไมเคิลแองเจโลแอบถ่ายรูปจากด้านหลัง
+Da Vinci และ Van Gogh กำลังทำสัญลักษณ์ชูสองนิ้ว (peace sign) ในขณะที่ Michelangelo โผล่มาทำหน้าบังพวกเขาจากด้านหลัง
 
 #### Prompt
 
@@ -1440,7 +1530,7 @@ Da Vinci and Van Gogh facing the camera making peace signs, with Michelangelo ph
 
 #### Description
 
-มือถือโคนไอศกรีมกับฉากหลังเป็นเส้นขอบฟ้าเมืองและท้องฟ้าสีฟ้า
+มือหนึ่งกำลังถือโคนไอศกรีมโดยมีฉากหลังเป็นเส้นขอบฟ้าเมืองและท้องฟ้าสีฟ้า
 
 #### Prompt
 
@@ -1448,21 +1538,39 @@ Da Vinci and Van Gogh facing the camera making peace signs, with Michelangelo ph
 A hand is holding an ice cream cone, with a city skyline and a clear blue sky in the background.……
 ```
 
+### No. 4: ฉากของเล่นเซอร์เรียล
+
+- **Category:** `Creative Fun`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Onlsb5mmCo6wkaxco5cczzLgnUf.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Onlsb5mmCo6wkaxco5cczzLgnUf.jpg?v=20260720fix" alt="ฉากของเล่นเซอร์เรียล" width="480" />
+
+#### Description
+
+หัวที่มีขนสีฟ้ากำลังสังเกตฟองสบู่ที่สะท้อนแสง ใกล้กับลูกบอลไหมพรมและบล็อกไม้
+
+#### Prompt
+
+```text
+Red box: a giant blue-furred head with a comically squeezed expression, looking at the bubble in front; Green box: a transparent bubble reflecting indoor lighting; Yellow box: a large warm beige yarn ball; Blue box: building blocks stacked together — warm dark gray arch shape, warm light gray semi-cylinder, lake blue cylinder, deep lake blue ramp, cobalt blue semi-disc; Purple box: a grass-green blanket with fringe draped over a sofa
+```
+
 <a id="category-18"></a>
 
 ### Stickers (1)
 
-### No. 1: แพ็คสติกเกอร์อารมณ์การ์ตูน
+### No. 1: สติกเกอร์การ์ตูนชุดอารมณ์
 
 - **Category:** `Stickers`
 - **Language:** `th`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix" alt="แพ็คสติกเกอร์อารมณ์การ์ตูน" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix" alt="สติกเกอร์การ์ตูนชุดอารมณ์" width="480" />
 
 #### Description
 
-ชุดสติกเกอร์สี่แผงแสดงตัวละครการ์ตูนที่แสดงอารมณ์แตกต่างกัน
+ชุดสติกเกอร์สี่แผงแสดงตัวละครการ์ตูนที่แสดงอารมณ์ต่างๆ
 
 #### Prompt
 
@@ -1491,4 +1599,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-20T17:36:21.868Z
+> This README is auto-generated. 2026-07-20T19:02:48.109Z
