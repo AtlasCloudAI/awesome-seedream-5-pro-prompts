@@ -93,7 +93,7 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 | Total Prompts | **38** |
 | Categories | **13** |
 | Preview Images | **38** |
-| Last Updated | **2026-07-20T07:38:55.514Z** |
+| Last Updated | **2026-07-20T09:40:08.706Z** |
 
 ## 🏷️ Browse by Category
 
@@ -113,17 +113,17 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 ## 🔥 Featured Prompts
 
-### No. 1: Journalist Safety Facts And Figures
+### No. 1: Fakta dan Angka Keselamatan Jurnalis
 
 - **Category:** `Infographic`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg" alt="Journalist Safety Facts And Figures" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg" alt="Fakta dan Angka Keselamatan Jurnalis" width="480" />
 
 #### Description
 
-An infographic showing annual journalist fatalities from 2006 to 2013, totaling 593 cases.
+Sebuah infografik yang menunjukkan jumlah kematian jurnalis per tahun dari 2006 hingga 2013, total 593 kasus.
 
 #### Prompt
 
@@ -131,17 +131,17 @@ An infographic showing annual journalist fatalities from 2006 to 2013, totaling 
 Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAFETY OF JOURNALISTS; annual data on journalist fatalities 2006-2013: 70 in 2006, 59 in 2007, 46 in 2008, 77 in 2009, 65 in 2010, 62 in 2011, 123 in 2012, 91 in 2013, totaling 593 cases, averaging 1 death per week; supplement with background factors affecting journalist safety.
 ```
 
-### No. 2: Antarctica Qinling Station Expedition Chronicle
+### No. 2: Kronologi Ekspedisi Stasiun Qinling Antartika
 
 - **Category:** `Infographic`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg" alt="Antarctica Qinling Station Expedition Chronicle" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg" alt="Kronologi Ekspedisi Stasiun Qinling Antartika" width="480" />
 
 #### Description
 
-An infographic visualizing the research station's development with timelines, charts, and field photos.
+Sebuah infografik yang memvisualisasikan perkembangan stasiun penelitian dengan garis waktu, bagan, dan foto lapangan.
 
 #### Prompt
 
@@ -149,17 +149,17 @@ An infographic visualizing the research station's development with timelines, ch
 An infographic visualizing the chronicle of Antarctica's Qinling Station expedition, with the station's main structure placed at the center; surrounded by a research development timeline, bar charts comparing the scale of five research stations, a pie chart of station energy sources, a line chart of monthly sunlight hours, supplemented by field photos of research equipment, a summer meteorology panel, a seven-step fieldwork workflow, and on-site sampling photography, comprehensively showcasing China's Antarctic research operations.
 ```
 
-### No. 3: Prompt Design Guide For AI Models
+### No. 3: Panduan Desain Prompt Untuk Model AI
 
 - **Category:** `Infographic`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg" alt="Prompt Design Guide For AI Models" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg" alt="Panduan Desain Prompt Untuk Model AI" width="480" />
 
 #### Description
 
-A presentation comparing best practices for prompts in LLM, image, and video generation models.
+Sebuah presentasi yang membandingkan praktik terbaik untuk prompt dalam model LLM, pembuatan gambar, dan video.
 
 #### Prompt
 
@@ -167,17 +167,17 @@ A presentation comparing best practices for prompts in LLM, image, and video gen
 Based on collected prompt guide trends, create a presentation summarizing the differences and best practices in prompt design for LLM, image generation, and video generation models. The slide structure should be logical and easy to compare. After creation, provide explanatory text for each model category, including why this writing approach works and common failure cases.
 ```
 
-### No. 4: Why The Moon Turns Red
+### No. 4: Mengapa Bulan Berubah Merah
 
 - **Category:** `Infographic`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg" alt="Why The Moon Turns Red" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg" alt="Mengapa Bulan Berubah Merah" width="480" />
 
 #### Description
 
-An astronomy infographic explaining the red color of the moon during a total lunar eclipse.
+Sebuah infografik astronomi yang menjelaskan warna merah bulan selama gerhana bulan total.
 
 #### Prompt
 
@@ -185,17 +185,17 @@ An astronomy infographic explaining the red color of the moon during a total lun
 Generate an astronomy infographic explaining: Why is the moon red during a total lunar eclipse?
 ```
 
-### No. 5: Annotated Diagram Of Beef Cuts
+### No. 5: Diagram Potongan Daging Sapi yang Diberi Anotasi
 
 - **Category:** `Infographic`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg" alt="Annotated Diagram Of Beef Cuts" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg" alt="Diagram Potongan Daging Sapi yang Diberi Anotasi" width="480" />
 
 #### Description
 
-An infographic with a labeled diagram showing the different cuts of beef.
+Sebuah infografik dengan diagram berlabel yang menunjukkan berbagai potongan daging sapi.
 
 #### Prompt
 
@@ -203,17 +203,17 @@ An infographic with a labeled diagram showing the different cuts of beef.
 Annotated diagram of beef cuts…
 ```
 
-### No. 6: Beginner Birdwatching Guide Infographic
+### No. 6: Panduan Infografik Pengamatan Burung untuk Pemula
 
 - **Category:** `Infographic`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg" alt="Beginner Birdwatching Guide Infographic" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg" alt="Panduan Infografik Pengamatan Burung untuk Pemula" width="480" />
 
 #### Description
 
-A grid layout guide showcasing eight common bird species with illustrations and names.
+Sebuah panduan tata letak grid yang menampilkan delapan spesies burung umum dengan ilustrasi dan nama.
 
 #### Prompt
 
@@ -221,17 +221,17 @@ A grid layout guide showcasing eight common bird species with illustrations and 
 Generate a beginner birdwatching guide infographic with a fresh color palette and grid layout, showcasing 8 common bird species with scientific illustrations, Chinese and English names, and identification features.
 ```
 
-### No. 7: New Energy Vehicle Launch TOC
+### No. 7: Daftar Isi Peluncuran Kendaraan Energi Baru
 
 - **Category:** `Slides & Presentation`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg" alt="New Energy Vehicle Launch TOC" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg" alt="Daftar Isi Peluncuran Kendaraan Energi Baru" width="480" />
 
 #### Description
 
-A table of contents page for a presentation about a new energy vehicle launch event.
+Halaman daftar isi untuk presentasi tentang acara peluncuran kendaraan energi baru.
 
 #### Prompt
 
@@ -239,17 +239,17 @@ A table of contents page for a presentation about a new energy vehicle launch ev
 Design a table of contents page for a new energy vehicle launch event presentation. The TOC text is…
 ```
 
-### No. 8: Louis Vuitton Brand Strategy Slide
+### No. 8: Slide Strategi Merek Louis Vuitton
 
 - **Category:** `Slides & Presentation`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg" alt="Louis Vuitton Brand Strategy Slide" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg" alt="Slide Strategi Merek Louis Vuitton" width="480" />
 
 #### Description
 
-A single presentation slide distilling the Louis Vuitton brand strategy emotionally.
+Sebuah slide presentasi tunggal yang menyaring strategi merek Louis Vuitton secara emosional.
 
 #### Prompt
 
@@ -263,17 +263,17 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 
 ### Infographic (6)
 
-### No. 1: Journalist Safety Facts And Figures
+### No. 1: Fakta dan Angka Keselamatan Jurnalis
 
 - **Category:** `Infographic`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg" alt="Journalist Safety Facts And Figures" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg" alt="Fakta dan Angka Keselamatan Jurnalis" width="480" />
 
 #### Description
 
-An infographic showing annual journalist fatalities from 2006 to 2013, totaling 593 cases.
+Sebuah infografik yang menunjukkan jumlah kematian jurnalis per tahun dari 2006 hingga 2013, total 593 kasus.
 
 #### Prompt
 
@@ -281,17 +281,17 @@ An infographic showing annual journalist fatalities from 2006 to 2013, totaling 
 Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAFETY OF JOURNALISTS; annual data on journalist fatalities 2006-2013: 70 in 2006, 59 in 2007, 46 in 2008, 77 in 2009, 65 in 2010, 62 in 2011, 123 in 2012, 91 in 2013, totaling 593 cases, averaging 1 death per week; supplement with background factors affecting journalist safety.
 ```
 
-### No. 2: Antarctica Qinling Station Expedition Chronicle
+### No. 2: Kronologi Ekspedisi Stasiun Qinling Antartika
 
 - **Category:** `Infographic`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg" alt="Antarctica Qinling Station Expedition Chronicle" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg" alt="Kronologi Ekspedisi Stasiun Qinling Antartika" width="480" />
 
 #### Description
 
-An infographic visualizing the research station's development with timelines, charts, and field photos.
+Sebuah infografik yang memvisualisasikan perkembangan stasiun penelitian dengan garis waktu, bagan, dan foto lapangan.
 
 #### Prompt
 
@@ -299,17 +299,17 @@ An infographic visualizing the research station's development with timelines, ch
 An infographic visualizing the chronicle of Antarctica's Qinling Station expedition, with the station's main structure placed at the center; surrounded by a research development timeline, bar charts comparing the scale of five research stations, a pie chart of station energy sources, a line chart of monthly sunlight hours, supplemented by field photos of research equipment, a summer meteorology panel, a seven-step fieldwork workflow, and on-site sampling photography, comprehensively showcasing China's Antarctic research operations.
 ```
 
-### No. 3: Prompt Design Guide For AI Models
+### No. 3: Panduan Desain Prompt Untuk Model AI
 
 - **Category:** `Infographic`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg" alt="Prompt Design Guide For AI Models" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg" alt="Panduan Desain Prompt Untuk Model AI" width="480" />
 
 #### Description
 
-A presentation comparing best practices for prompts in LLM, image, and video generation models.
+Sebuah presentasi yang membandingkan praktik terbaik untuk prompt dalam model LLM, pembuatan gambar, dan video.
 
 #### Prompt
 
@@ -317,17 +317,17 @@ A presentation comparing best practices for prompts in LLM, image, and video gen
 Based on collected prompt guide trends, create a presentation summarizing the differences and best practices in prompt design for LLM, image generation, and video generation models. The slide structure should be logical and easy to compare. After creation, provide explanatory text for each model category, including why this writing approach works and common failure cases.
 ```
 
-### No. 4: Why The Moon Turns Red
+### No. 4: Mengapa Bulan Berubah Merah
 
 - **Category:** `Infographic`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg" alt="Why The Moon Turns Red" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg" alt="Mengapa Bulan Berubah Merah" width="480" />
 
 #### Description
 
-An astronomy infographic explaining the red color of the moon during a total lunar eclipse.
+Sebuah infografik astronomi yang menjelaskan warna merah bulan selama gerhana bulan total.
 
 #### Prompt
 
@@ -335,17 +335,17 @@ An astronomy infographic explaining the red color of the moon during a total lun
 Generate an astronomy infographic explaining: Why is the moon red during a total lunar eclipse?
 ```
 
-### No. 5: Annotated Diagram Of Beef Cuts
+### No. 5: Diagram Potongan Daging Sapi yang Diberi Anotasi
 
 - **Category:** `Infographic`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg" alt="Annotated Diagram Of Beef Cuts" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg" alt="Diagram Potongan Daging Sapi yang Diberi Anotasi" width="480" />
 
 #### Description
 
-An infographic with a labeled diagram showing the different cuts of beef.
+Sebuah infografik dengan diagram berlabel yang menunjukkan berbagai potongan daging sapi.
 
 #### Prompt
 
@@ -353,17 +353,17 @@ An infographic with a labeled diagram showing the different cuts of beef.
 Annotated diagram of beef cuts…
 ```
 
-### No. 6: Beginner Birdwatching Guide Infographic
+### No. 6: Panduan Infografik Pengamatan Burung untuk Pemula
 
 - **Category:** `Infographic`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg" alt="Beginner Birdwatching Guide Infographic" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg" alt="Panduan Infografik Pengamatan Burung untuk Pemula" width="480" />
 
 #### Description
 
-A grid layout guide showcasing eight common bird species with illustrations and names.
+Sebuah panduan tata letak grid yang menampilkan delapan spesies burung umum dengan ilustrasi dan nama.
 
 #### Prompt
 
@@ -375,17 +375,17 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 
 ### Slides & Presentation (5)
 
-### No. 1: New Energy Vehicle Launch TOC
+### No. 1: Daftar Isi Peluncuran Kendaraan Energi Baru
 
 - **Category:** `Slides & Presentation`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg" alt="New Energy Vehicle Launch TOC" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg" alt="Daftar Isi Peluncuran Kendaraan Energi Baru" width="480" />
 
 #### Description
 
-A table of contents page for a presentation about a new energy vehicle launch event.
+Halaman daftar isi untuk presentasi tentang acara peluncuran kendaraan energi baru.
 
 #### Prompt
 
@@ -393,17 +393,17 @@ A table of contents page for a presentation about a new energy vehicle launch ev
 Design a table of contents page for a new energy vehicle launch event presentation. The TOC text is…
 ```
 
-### No. 2: Louis Vuitton Brand Strategy Slide
+### No. 2: Slide Strategi Merek Louis Vuitton
 
 - **Category:** `Slides & Presentation`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg" alt="Louis Vuitton Brand Strategy Slide" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg" alt="Slide Strategi Merek Louis Vuitton" width="480" />
 
 #### Description
 
-A single presentation slide distilling the Louis Vuitton brand strategy emotionally.
+Sebuah slide presentasi tunggal yang menyaring strategi merek Louis Vuitton secara emosional.
 
 #### Prompt
 
@@ -411,17 +411,17 @@ A single presentation slide distilling the Louis Vuitton brand strategy emotiona
 Distill the Louis Vuitton brand strategy…into a single, emotionally resonant presentation slide
 ```
 
-### No. 3: Tech Presentation Cover Page
+### No. 3: Halaman Sampul Presentasi Teknologi
 
 - **Category:** `Slides & Presentation`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg" alt="Tech Presentation Cover Page" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg" alt="Halaman Sampul Presentasi Teknologi" width="480" />
 
 #### Description
 
-A tech-themed cover page with linework, negative space, and 3D acrylic texture.
+Halaman sampul bertema teknologi dengan garis-garis, ruang negatif, dan tekstur akrilik 3D.
 
 #### Prompt
 
@@ -429,17 +429,17 @@ A tech-themed cover page with linework, negative space, and 3D acrylic texture.
 Generate a tech-themed presentation cover page with linework, negative space design, 3D acrylic texture, Blender style, C4D effect
 ```
 
-### No. 4: Slides Section Divider Page
+### No. 4: Halaman Pembagi Bagian Slide
 
 - **Category:** `Slides & Presentation`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg" alt="Slides Section Divider Page" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg" alt="Halaman Pembagi Bagian Slide" width="480" />
 
 #### Description
 
-A presentation slide designed as a section divider with interactive layer separation.
+Slide presentasi yang dirancang sebagai pembagi bagian dengan pemisahan lapisan interaktif.
 
 #### Prompt
 
@@ -447,17 +447,17 @@ A presentation slide designed as a section divider with interactive layer separa
 Slides section divider page. Interactive edit: layer separation
 ```
 
-### No. 5: Pet Feeding Service Conversion Slide
+### No. 5: Slide Konversi Layanan Pemberian Makan Hewan Peliharaan
 
 - **Category:** `Slides & Presentation`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Lm9kb41yBoiquuxBt6Zc8B2Knuh.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Lm9kb41yBoiquuxBt6Zc8B2Knuh.jpg" alt="Pet Feeding Service Conversion Slide" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Lm9kb41yBoiquuxBt6Zc8B2Knuh.jpg" alt="Slide Konversi Layanan Pemberian Makan Hewan Peliharaan" width="480" />
 
 #### Description
 
-A presentation slide addressing customer conversion decline for pet door-to-door feeding.
+Slide presentasi yang membahas penurunan konversi pelanggan untuk layanan pemberian makan hewan peliharaan dari pintu ke pintu.
 
 #### Prompt
 
@@ -469,17 +469,17 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 ### Poster Design (4)
 
-### No. 1: Sci Fi Poster With Diagonal Composition
+### No. 1: Poster Fiksi Ilmiah dengan Komposisi Diagonal
 
 - **Category:** `Poster Design`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg" alt="Sci Fi Poster With Diagonal Composition" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg" alt="Poster Fiksi Ilmiah dengan Komposisi Diagonal" width="480" />
 
 #### Description
 
-A sci-fi style poster designed with a diagonal composition and center-bottom focus.
+Poster bergaya fiksi ilmiah yang dirancang dengan komposisi diagonal dan fokus di tengah-bawah.
 
 #### Prompt
 
@@ -487,17 +487,17 @@ A sci-fi style poster designed with a diagonal composition and center-bottom foc
 Sci-fi style, poster design, diagonal composition. Center-bottom of the frame…
 ```
 
-### No. 2: Minimalist Barrie Music Festival Poster
+### No. 2: Poster Festival Musik Barrie Minimalis
 
 - **Category:** `Poster Design`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg" alt="Minimalist Barrie Music Festival Poster" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg" alt="Poster Festival Musik Barrie Minimalis" width="480" />
 
 #### Description
 
-A minimalist music festival poster titled Barrie on a black background.
+Poster festival musik minimalis bertajuk Barrie dengan latar belakang hitam.
 
 #### Prompt
 
@@ -505,17 +505,17 @@ A minimalist music festival poster titled Barrie on a black background.
 Minimalist music festival poster titled "Barrie." The composition features a predominantly black background…
 ```
 
-### No. 3: Double Exposure Silhouette Film Poster
+### No. 3: Poster Film Siluet Double Exposure
 
 - **Category:** `Poster Design`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/JPybbJoFhocpoBx4JXTcjuthn6b.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/JPybbJoFhocpoBx4JXTcjuthn6b.jpg" alt="Double Exposure Silhouette Film Poster" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/JPybbJoFhocpoBx4JXTcjuthn6b.jpg" alt="Poster Film Siluet Double Exposure" width="480" />
 
 #### Description
 
-A suspense film poster featuring a double exposure portrait silhouette.
+Poster film ketegangan yang menampilkan siluet potret double exposure.
 
 #### Prompt
 
@@ -523,17 +523,17 @@ A suspense film poster featuring a double exposure portrait silhouette.
 Double exposure portrait silhouette suspense film poster…
 ```
 
-### No. 4: Futurist Pigital Tsunami Event Poster
+### No. 4: Poster Acara PIGITAL TSUNAMI Gaya Futuris
 
 - **Category:** `Poster Design`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg" alt="Futurist Pigital Tsunami Event Poster" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg" alt="Poster Acara PIGITAL TSUNAMI Gaya Futuris" width="480" />
 
 #### Description
 
-A futurist style music event poster titled PIGITAL TSUNAMI.
+Poster acara musik bergaya futuris bertajuk PIGITAL TSUNAMI.
 
 #### Prompt
 
@@ -545,17 +545,17 @@ Futurist style music event poster titled "PIGITAL TSUNAMI"…
 
 ### Brand Design (1)
 
-### No. 1: Brand Design Character And Object Concepts
+### No. 1: Konsep Karakter dan Objek Desain Merek
 
 - **Category:** `Brand Design`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Onlsb5mmCo6wkaxco5cczzLgnUf.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Onlsb5mmCo6wkaxco5cczzLgnUf.jpg" alt="Brand Design Character And Object Concepts" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Onlsb5mmCo6wkaxco5cczzLgnUf.jpg" alt="Konsep Karakter dan Objek Desain Merek" width="480" />
 
 #### Description
 
-Brand design concepts showing a blue-furred head, a bubble, a yarn ball, and building blocks.
+Konsep desain merek yang menunjukkan kepala berbulu biru, gelembung, bola benang, dan balok bangunan.
 
 #### Prompt
 
@@ -567,17 +567,17 @@ Red box: a giant blue-furred head with a comically squeezed expression, looking 
 
 ### E-commerce (1)
 
-### No. 1: E Commerce Design With Color Palette
+### No. 1: Desain E-Commerce dengan Palet Warna
 
 - **Category:** `E-commerce`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YeMwbbJS0oiut7xbl1RcAGKNnvg.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YeMwbbJS0oiut7xbl1RcAGKNnvg.jpg" alt="E Commerce Design With Color Palette" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YeMwbbJS0oiut7xbl1RcAGKNnvg.jpg" alt="Desain E-Commerce dengan Palet Warna" width="480" />
 
 #### Description
 
-An e-commerce design created from an input image and a color palette reference.
+Desain e-commerce yang dibuat dari gambar input dan referensi palet warna.
 
 #### Prompt
 
@@ -589,17 +589,17 @@ E-commerce design. Input image + color palette reference
 
 ### Comic & Storyboard (3)
 
-### No. 1: Seinen Manga Nighttime Chase Storyboard
+### No. 1: Storyboard Manga Seinen Kejar-Kejaran Malam Hari
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg" alt="Seinen Manga Nighttime Chase Storyboard" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg" alt="Storyboard Manga Seinen Kejar-Kejaran Malam Hari" width="480" />
 
 #### Description
 
-A black-and-white manga storyboard of a nighttime car chase and gunfight.
+Storyboard manga hitam-putih tentang kejar-kejaran mobil dan tembak-menembak di malam hari.
 
 #### Prompt
 
@@ -607,17 +607,17 @@ A black-and-white manga storyboard of a nighttime car chase and gunfight.
 Generate a full-page Japanese seinen black-and-white manga storyboard, nighttime chase and gunfight theme. Top panel: a car under headlights and chain-link fencing in the dark night; middle: a girl armed with a gun in pursuit…
 ```
 
-### No. 2: Furry Slice Of Life Comic Storyboard
+### No. 2: Storyboard Komik Slice of Life Furry
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg" alt="Furry Slice Of Life Comic Storyboard" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg" alt="Storyboard Komik Slice of Life Furry" width="480" />
 
 #### Description
 
-A four-panel comic featuring a wolf-dog and a tabby cat in a room at night.
+Komik empat panel yang menampilkan anjing serigala dan kucing belang dalam sebuah ruangan di malam hari.
 
 #### Prompt
 
@@ -625,17 +625,17 @@ A four-panel comic featuring a wolf-dog and a tabby cat in a room at night.
 Draw a vertical four-panel furry slice-of-life comic, set in a room at night, featuring a wolf-dog furry and a tabby cat furry…
 ```
 
-### No. 3: American Horror Comic Gotham Storyboards
+### No. 3: Storyboard Komik Horor Amerika Gotham
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg" alt="American Horror Comic Gotham Storyboards" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg" alt="Storyboard Komik Horor Amerika Gotham" width="480" />
 
 #### Description
 
-A set of American horror comic storyboards set in a Gotham City alley.
+Satu set storyboard komik horor Amerika yang berlatar di sebuah gang Kota Gotham.
 
 #### Prompt
 
@@ -647,17 +647,17 @@ Generate a set of American horror comic storyboards, the story could take place 
 
 ### Film Storyboard (4)
 
-### No. 1: Three Panel Film Storyboard Parking Lot
+### No. 1: Storyboard Film Tiga Panel Tempat Parkir
 
 - **Category:** `Film Storyboard`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg" alt="Three Panel Film Storyboard Parking Lot" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg" alt="Storyboard Film Tiga Panel Tempat Parkir" width="480" />
 
 #### Description
 
-A three-panel film storyboard showing a wide shot of a nighttime parking lot.
+Storyboard film tiga panel yang menunjukkan bidangan lebar tempat parkir di malam hari.
 
 #### Prompt
 
@@ -665,17 +665,17 @@ A three-panel film storyboard showing a wide shot of a nighttime parking lot.
 Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establishing shot of a parking lot at night…
 ```
 
-### No. 2: Six Panel Western Film Storyboard
+### No. 2: Storyboard Film Barat Enam Panel
 
 - **Category:** `Film Storyboard`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg" alt="Six Panel Western Film Storyboard" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg" alt="Storyboard Film Barat Enam Panel" width="480" />
 
 #### Description
 
-A six-panel wide-ratio storyboard for a Western film with no text.
+Storyboard dengan rasio lebar enam panel untuk film Barat tanpa teks.
 
 #### Prompt
 
@@ -683,17 +683,17 @@ A six-panel wide-ratio storyboard for a Western film with no text.
 Western film storyboard, 6 panels in wide horizontal ratio, no text throughout: Panel 1, extreme wide shot, both ends of the street…
 ```
 
-### No. 3: Over The Shoulder Shot Sad Woman
+### No. 3: Shot dari Balik Bahu Wanita Sedih
 
 - **Category:** `Film Storyboard`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg" alt="Over The Shoulder Shot Sad Woman" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg" alt="Shot dari Balik Bahu Wanita Sedih" width="480" />
 
 #### Description
 
-A film storyboard panel showing a sad brown-haired woman from over the shoulder.
+Panel storyboard film yang menunjukkan seorang wanita berambut cokelat yang sedih dari sudut pandang di balik bahu.
 
 #### Prompt
 
@@ -701,17 +701,17 @@ A film storyboard panel showing a sad brown-haired woman from over the shoulder.
 Over-the-shoulder shot, featuring a brown-haired European or American woman around 40 years old with a sad expression…
 ```
 
-### No. 4: Anime Style Xianxia Scene Storyboard
+### No. 4: Storyboard Adegan Xianxia Gaya Anime
 
 - **Category:** `Film Storyboard`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg" alt="Anime Style Xianxia Scene Storyboard" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg" alt="Storyboard Adegan Xianxia Gaya Anime" width="480" />
 
 #### Description
 
-An anime-style storyboard for an ancient Chinese xianxia fantasy scene.
+Storyboard bergaya anime untuk adegan fantasi xianxia Tiongkok kuno.
 
 #### Prompt
 
@@ -723,17 +723,17 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 ### Character Design (3)
 
-### No. 1: Ancient Chinese Goddess Statue Turnaround
+### No. 1: Putaran Patung Dewi Tiongkok Kuno
 
 - **Category:** `Character Design`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg" alt="Ancient Chinese Goddess Statue Turnaround" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg" alt="Putaran Patung Dewi Tiongkok Kuno" width="480" />
 
 #### Description
 
-A three-view orthographic turntable of a giant ancient Chinese goddess stone statue.
+Putaran ortografik tiga pandangan dari patung batu dewi Tiongkok kuno raksasa.
 
 #### Prompt
 
@@ -741,17 +741,17 @@ A three-view orthographic turntable of a giant ancient Chinese goddess stone sta
 Standard three-view orthographic turntable: front view, side view, back view, of a giant ancient Chinese goddess stone statue with an intricately carved stone headpiece and…
 ```
 
-### No. 2: Soviet Era Postal Bicycle Three View
+### No. 2: Sepeda Pos Era Soviet Tiga Pandangan
 
 - **Category:** `Character Design`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg" alt="Soviet Era Postal Bicycle Three View" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg" alt="Sepeda Pos Era Soviet Tiga Pandangan" width="480" />
 
 #### Description
 
-A three-view design sheet of a Soviet-era postal messenger bicycle.
+Lembar desain tiga pandangan dari sepeda kurir pos era Soviet.
 
 #### Prompt
 
@@ -759,17 +759,17 @@ A three-view design sheet of a Soviet-era postal messenger bicycle.
 Generate a three-view of a Soviet-era postal messenger bicycle…
 ```
 
-### No. 3: Cyberpunk Hacker Girl Character Sheet
+### No. 3: Lembar Karakter Gadis Hacker Cyberpunk
 
 - **Category:** `Character Design`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg" alt="Cyberpunk Hacker Girl Character Sheet" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg" alt="Lembar Karakter Gadis Hacker Cyberpunk" width="480" />
 
 #### Description
 
-A character design sheet for a cyberpunk anime hacker girl named RIN.
+Lembar desain karakter untuk gadis hacker anime cyberpunk bernama RIN.
 
 #### Prompt
 
@@ -781,17 +781,17 @@ Cyberpunk-style anime character design sheet, showing three-view turnaround, clo
 
 ### Wallpaper (2)
 
-### No. 1: Wallpaper With Color Palette Reference
+### No. 1: Wallpaper dengan Referensi Palet Warna
 
 - **Category:** `Wallpaper`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/B6T7bcm6uoDIpAxh0NXcV5eAnZf.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/B6T7bcm6uoDIpAxh0NXcV5eAnZf.jpg" alt="Wallpaper With Color Palette Reference" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/B6T7bcm6uoDIpAxh0NXcV5eAnZf.jpg" alt="Wallpaper dengan Referensi Palet Warna" width="480" />
 
 #### Description
 
-A wallpaper asset created from an original image and a color palette reference.
+Aset wallpaper yang dibuat dari gambar asli dan referensi palet warna.
 
 #### Prompt
 
@@ -799,17 +799,17 @@ A wallpaper asset created from an original image and a color palette reference.
 Input Original Image + Color Palette Reference
 ```
 
-### No. 2: Entertainment Wallpaper Assets
+### No. 2: Aset Wallpaper Hiburan
 
 - **Category:** `Wallpaper`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V17FbQ8QroJsnvxfSFocD2nrnlf.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V17FbQ8QroJsnvxfSFocD2nrnlf.jpg" alt="Entertainment Wallpaper Assets" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V17FbQ8QroJsnvxfSFocD2nrnlf.jpg" alt="Aset Wallpaper Hiburan" width="480" />
 
 #### Description
 
-Wallpaper assets designed for entertainment purposes.
+Aset wallpaper yang dirancang untuk tujuan hiburan.
 
 #### Prompt
 
@@ -821,17 +821,17 @@ Entertainment
 
 ### Multi-Image Fusion (2)
 
-### No. 1: Multi Image Pose And Prop Fusion
+### No. 1: Fusi Pose dan Properti dari Beberapa Gambar
 
 - **Category:** `Multi-Image Fusion`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Q8txbHeE0olIdzxsgh5c9GINn9b.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Q8txbHeE0olIdzxsgh5c9GINn9b.jpg" alt="Multi Image Pose And Prop Fusion" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Q8txbHeE0olIdzxsgh5c9GINn9b.jpg" alt="Fusi Pose dan Properti dari Beberapa Gambar" width="480" />
 
 #### Description
 
-A full-body shot created by fusing poses and props from multiple reference images.
+Foto seluruh tubuh yang dibuat dengan menggabungkan pose dan properti dari beberapa gambar referensi.
 
 #### Prompt
 
@@ -839,17 +839,17 @@ A full-body shot created by fusing poses and props from multiple reference image
 Generate a full-body shot of the person in Image 3, and adjust her pose so her right hand motion matches Image 1, holding the first speaker from Image 4, and her leg motion matches Image 2
 ```
 
-### No. 2: Realistic Still Life Composition
+### No. 2: Komposisi Still Life Realistis
 
 - **Category:** `Multi-Image Fusion`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HMCjbkxHGodE7dxtjgGckx9Tnof.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HMCjbkxHGodE7dxtjgGckx9Tnof.jpg" alt="Realistic Still Life Composition" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HMCjbkxHGodE7dxtjgGckx9Tnof.jpg" alt="Komposisi Still Life Realistis" width="480" />
 
 #### Description
 
-A realistic still life photograph composed from seven cut-out white-background objects.
+Foto still life realistis yang disusun dari tujuh objek dengan latar belakang putih yang dipotong.
 
 #### Prompt
 
@@ -861,17 +861,17 @@ Precisely cut out the 7 white-background objects I provided and compose them int
 
 ### Outfit Transfer (2)
 
-### No. 1: Instagram Style Outfit Transfer
+### No. 1: Transfer Pakaian Gaya Instagram
 
 - **Category:** `Outfit Transfer`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg" alt="Instagram Style Outfit Transfer" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg" alt="Transfer Pakaian Gaya Instagram" width="480" />
 
 #### Description
 
-A photo where a woman wears clothing and accessories transferred from another image.
+Sebuah foto di mana seorang wanita mengenakan pakaian dan aksesori yang ditransfer dari gambar lain.
 
 #### Prompt
 
@@ -879,17 +879,17 @@ A photo where a woman wears clothing and accessories transferred from another im
 Make the woman in Image 1 wear the clothing, jewelry, and accessories from Image 2. The whole photo should look like an Instagram street shot.
 ```
 
-### No. 2: Wedding Attire Outfit Replacement
+### No. 2: Penggantian Pakaian Busana Pernikahan
 
 - **Category:** `Outfit Transfer`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg" alt="Wedding Attire Outfit Replacement" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg" alt="Penggantian Pakaian Busana Pernikahan" width="480" />
 
 #### Description
 
-An image where two people's outfits are replaced with wedding attire from references.
+Sebuah gambar di mana pakaian dua orang diganti dengan busana pernikahan dari referensi.
 
 #### Prompt
 
@@ -901,17 +901,17 @@ Replace the outfits of the two people in Image 1 with the wedding attire from Im
 
 ### Social Media (1)
 
-### No. 1: Hand Drawn Brunch Promotional Poster
+### No. 1: Poster Promosi Brunch Gaya Tangan
 
 - **Category:** `Social Media`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg" alt="Hand Drawn Brunch Promotional Poster" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg" alt="Poster Promosi Brunch Gaya Tangan" width="480" />
 
 #### Description
 
-A hand-drawn style poster promoting a seasonal brunch with labeled dishes.
+Poster gaya tangan yang mempromosikan brunch musiman dengan hidangan berlabel.
 
 #### Prompt
 
@@ -923,17 +923,17 @@ Place the foods from the images on the same table and transform them into a hand
 
 ### Creative Fun (4)
 
-### No. 1: Artists Making Peace Signs
+### No. 1: Para Seniman Membuat Tanda Perdamaian
 
 - **Category:** `Creative Fun`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg" alt="Artists Making Peace Signs" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg" alt="Para Seniman Membuat Tanda Perdamaian" width="480" />
 
 #### Description
 
-Da Vinci and Van Gogh make peace signs with Michelangelo photobombing behind them.
+Da Vinci dan Van Gogh membuat tanda perdamaian dengan Michelangelo yang fotobom di belakang mereka.
 
 #### Prompt
 
@@ -941,17 +941,17 @@ Da Vinci and Van Gogh make peace signs with Michelangelo photobombing behind the
 Da Vinci and Van Gogh facing the camera making peace signs, with Michelangelo photobombing from behind them…
 ```
 
-### No. 2: Hand Holding Ice Cream Cone
+### No. 2: Tangan Memegang Es Krim Cone
 
 - **Category:** `Creative Fun`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg" alt="Hand Holding Ice Cream Cone" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg" alt="Tangan Memegang Es Krim Cone" width="480" />
 
 #### Description
 
-A hand holds an ice cream cone against a city skyline and blue sky.
+Sebuah tangan memegang es krim cone dengan latar langit kota dan langit biru.
 
 #### Prompt
 
@@ -959,17 +959,17 @@ A hand holds an ice cream cone against a city skyline and blue sky.
 A hand is holding an ice cream cone, with a city skyline and a clear blue sky in the background.……
 ```
 
-### No. 3: Retro Futurism Violinist Portrait
+### No. 3: Potret Pemain Biola Retro-Futurisme
 
 - **Category:** `Creative Fun`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg" alt="Retro Futurism Violinist Portrait" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg" alt="Potret Pemain Biola Retro-Futurisme" width="480" />
 
 #### Description
 
-A retro-futurism style portrait of a long-haired man in a gown holding a violin bow.
+Potret bergaya retro-futurisme seorang pria berambut panjang mengenakan gaun memegang busur biola.
 
 #### Prompt
 
@@ -977,17 +977,17 @@ A retro-futurism style portrait of a long-haired man in a gown holding a violin 
 Retro-futurism style portrait photography, a middle-aged man with long hair wearing a burgundy gown and sunglasses, holding a violin bow…
 ```
 
-### No. 4: Point Based Photo Replacement
+### No. 4: Penggantian Foto Berbasis Titik
 
 - **Category:** `Creative Fun`
 - **Language:** `id`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg" alt="Point Based Photo Replacement" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg" alt="Penggantian Foto Berbasis Titik" width="480" />
 
 #### Description
 
-Four specific points in an image are replaced with photos from other images.
+Empat titik spesifik dalam sebuah gambar diganti dengan foto dari gambar lain.
 
 #### Prompt
 
@@ -1016,4 +1016,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-20T07:38:55.514Z
+> This README is auto-generated. 2026-07-20T09:40:08.706Z
