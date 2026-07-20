@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-69%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-70%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,16 +90,16 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **69** |
+| Total Prompts | **70** |
 | Categories | **18** |
-| Preview Images | **69** |
-| Last Updated | **2026-07-20T19:02:48.114Z** |
+| Preview Images | **70** |
+| Last Updated | **2026-07-20T19:48:38.466Z** |
 
 ## 🏷️ Browse by Category
 
 - [`Infographic`](#category-1): **6**
 - [`Slides & Presentation`](#category-2): **5**
-- [`Poster Design`](#category-3): **9**
+- [`Poster Design`](#category-3): **10**
 - [`Brand Design`](#category-4): **2**
 - [`Interior Design`](#category-5): **3**
 - [`E-commerce`](#category-6): **4**
@@ -154,13 +154,13 @@ Bir infografik, istasyonun yapısını, zaman çizelgesini ve karşılaştırmal
 An infographic visualizing the chronicle of Antarctica's Qinling Station expedition, with the station's main structure placed at the center; surrounded by a research development timeline, bar charts comparing the scale of five research stations, a pie chart of station energy sources, a line chart of monthly sunlight hours, supplemented by field photos of research equipment, a summer meteorology panel, a seven-step fieldwork workflow, and on-site sampling photography, comprehensively showcasing China's Antarctic research operations.
 ```
 
-### No. 3: Yapay Zeka Modelleri İçin Prompt Tasarım Rehberi
+### No. 3: AI Modelleri İçin Prompt Tasarım Rehberi
 
 - **Category:** `Infographic`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix" alt="Yapay Zeka Modelleri İçin Prompt Tasarım Rehberi" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix" alt="AI Modelleri İçin Prompt Tasarım Rehberi" width="480" />
 
 #### Description
 
@@ -218,7 +218,7 @@ Annotated diagram of beef cuts…
 
 #### Description
 
-Bir ızgara düzenli infografik, sekiz yaygın kuş türünü çizimler ve isimlerle sergiliyor.
+Bir ızgara düzenli infografik, sekiz yaygın kuş türünü illüstrasyonlar ve isimlerle sergiliyor.
 
 #### Prompt
 
@@ -226,13 +226,13 @@ Bir ızgara düzenli infografik, sekiz yaygın kuş türünü çizimler ve isiml
 Generate a beginner birdwatching guide infographic with a fresh color palette and grid layout, showcasing 8 common bird species with scientific illustrations, Chinese and English names, and identification features.
 ```
 
-### No. 7: Yeni Enerji Araç Lansmanı İçindekiler Tablosu
+### No. 7: Yeni Enerjili Araç Lansmanı İçindekiler Tablosu
 
 - **Category:** `Slides & Presentation`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="Yeni Enerji Araç Lansmanı İçindekiler Tablosu" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="Yeni Enerjili Araç Lansmanı İçindekiler Tablosu" width="480" />
 
 #### Description
 
@@ -254,7 +254,7 @@ Design a table of contents page for a new energy vehicle launch event presentati
 
 #### Description
 
-Tek bir sunum slaydı, Louis Vuitton marka stratejisini duygusal olarak özetliyor.
+Tek bir sunum slaytı, Louis Vuitton marka stratejisini duygusal olarak özetliyor.
 
 #### Prompt
 
@@ -304,13 +304,13 @@ Bir infografik, istasyonun yapısını, zaman çizelgesini ve karşılaştırmal
 An infographic visualizing the chronicle of Antarctica's Qinling Station expedition, with the station's main structure placed at the center; surrounded by a research development timeline, bar charts comparing the scale of five research stations, a pie chart of station energy sources, a line chart of monthly sunlight hours, supplemented by field photos of research equipment, a summer meteorology panel, a seven-step fieldwork workflow, and on-site sampling photography, comprehensively showcasing China's Antarctic research operations.
 ```
 
-### No. 3: Yapay Zeka Modelleri İçin Prompt Tasarım Rehberi
+### No. 3: AI Modelleri İçin Prompt Tasarım Rehberi
 
 - **Category:** `Infographic`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix" alt="Yapay Zeka Modelleri İçin Prompt Tasarım Rehberi" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix" alt="AI Modelleri İçin Prompt Tasarım Rehberi" width="480" />
 
 #### Description
 
@@ -368,7 +368,7 @@ Annotated diagram of beef cuts…
 
 #### Description
 
-Bir ızgara düzenli infografik, sekiz yaygın kuş türünü çizimler ve isimlerle sergiliyor.
+Bir ızgara düzenli infografik, sekiz yaygın kuş türünü illüstrasyonlar ve isimlerle sergiliyor.
 
 #### Prompt
 
@@ -380,13 +380,13 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 
 ### Slides & Presentation (5)
 
-### No. 1: Yeni Enerji Araç Lansmanı İçindekiler Tablosu
+### No. 1: Yeni Enerjili Araç Lansmanı İçindekiler Tablosu
 
 - **Category:** `Slides & Presentation`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="Yeni Enerji Araç Lansmanı İçindekiler Tablosu" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="Yeni Enerjili Araç Lansmanı İçindekiler Tablosu" width="480" />
 
 #### Description
 
@@ -408,7 +408,7 @@ Design a table of contents page for a new energy vehicle launch event presentati
 
 #### Description
 
-Tek bir sunum slaydı, Louis Vuitton marka stratejisini duygusal olarak özetliyor.
+Tek bir sunum slaytı, Louis Vuitton marka stratejisini duygusal olarak özetliyor.
 
 #### Prompt
 
@@ -416,17 +416,17 @@ Tek bir sunum slaydı, Louis Vuitton marka stratejisini duygusal olarak özetliy
 Distill the Louis Vuitton brand strategy…into a single, emotionally resonant presentation slide
 ```
 
-### No. 3: 3B Akrilik Dokulu Teknoloji Sunumu Kapağı
+### No. 3: 3D Akrilikli Teknoloji Sunumu Kapağı
 
 - **Category:** `Slides & Presentation`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix" alt="3B Akrilik Dokulu Teknoloji Sunumu Kapağı" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix" alt="3D Akrilikli Teknoloji Sunumu Kapağı" width="480" />
 
 #### Description
 
-Bir kapak sayfası, teknoloji tarzında çizgi işleri, negatif alan ve 3B akrilik doku özellikleri taşıyor.
+Bir kapak sayfası, teknoloji tarzında çizgi işleri, negatif alan ve 3D akrilik dokusu özellikleri taşıyor.
 
 #### Prompt
 
@@ -462,7 +462,7 @@ Slides section divider page. Interactive edit: layer separation
 
 #### Description
 
-Bir sunum slaydı, bir evcil hayvan besleme hizmetindeki müşteri dönüşümündeki düşüşü ele alıyor.
+Bir sunum slaytı, bir evcil hayvan besleme hizmetindeki müşteri dönüşüm düşüşünü ele alıyor.
 
 #### Prompt
 
@@ -472,7 +472,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 <a id="category-3"></a>
 
-### Poster Design (9)
+### Poster Design (10)
 
 ### No. 1: Jöle Dokulu Y2K Sevimli Tarzı Poster
 
@@ -484,7 +484,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 #### Description
 
-Açık mavi renkte, şeffaf jöle dokulu öğelerle Y2K sevimli tarzında bir poster.
+Açık mavi renkte bir poster, şeffaf jöle dokulu öğelerle Y2K sevimli tarzını yansıtıyor.
 
 #### Prompt
 
@@ -502,7 +502,7 @@ Create a poster based on my sketch. I want a Y2K cute style with transparent jel
 
 #### Description
 
-Belirli bir tipografi düzeni kullanarak, yeni bir ana konuyla tasarım odaklı bir kolaj posteri.
+Belirli bir tipografi düzeni kullanarak yeni bir ana özneyle tasarım odaklı bir kolaj posteri.
 
 #### Prompt
 
@@ -510,17 +510,17 @@ Belirli bir tipografi düzeni kullanarak, yeni bir ana konuyla tasarım odaklı 
 Using the typography and layout from Image 1, generate a design-forward marketing poster in the same series, collage style, with Image 2 as the main subject…
 ```
 
-### No. 3: Çapraz Bilim Kurgu Posteri
+### No. 3: Diyagonal Bilim Kurgu Posteri
 
 - **Category:** `Poster Design`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg?v=20260720fix" alt="Çapraz Bilim Kurgu Posteri" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg?v=20260720fix" alt="Diyagonal Bilim Kurgu Posteri" width="480" />
 
 #### Description
 
-Çapraz bir kompozisyon ve merkez-alt odak noktasına sahip bilim kurgu tarzında bir poster.
+Diyagonal kompozisyonlu ve merkez-alt kısımda bir odak noktası olan bilim kurgu tarzı bir poster.
 
 #### Prompt
 
@@ -582,17 +582,17 @@ PIGITAL TSUNAMI başlıklı, fütürist tarzda bir müzik etkinliği posteri.
 Futurist style music event poster titled "PIGITAL TSUNAMI"…
 ```
 
-### No. 7: Tatlı Güneş Işığı Vintage Tipografi
+### No. 7: Vintage Tipografi ile Tatlı Güneş Işığı
 
 - **Category:** `Poster Design`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg?v=20260720fix" alt="Tatlı Güneş Işığı Vintage Tipografi" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg?v=20260720fix" alt="Vintage Tipografi ile Tatlı Güneş Işığı" width="480" />
 
 #### Description
 
-Sınırlayıcı bir kutu içinde, vintage daktilo fontuyla 'Sweet Sunlight' başlığına sahip bir tasarım.
+Tatlı Güneş Işığı başlığını, bir sınırlayıcı kutu içinde vintage daktilo fontuyla gösteren bir tasarım.
 
 #### Prompt
 
@@ -610,7 +610,7 @@ Bounding box on title - "Sweet Sunlight", use vintage typewriter font
 
 #### Description
 
-Büyük derin mor metinle 'TABLE OF CONTENTS' yazan ve maddeli bir liste içeren bir tasarım.
+Büyük derin mor metinle İÇİNDEKİLER yazan ve maddeli bir liste içeren bir tasarım.
 
 #### Prompt
 
@@ -618,22 +618,40 @@ Büyük derin mor metinle 'TABLE OF CONTENTS' yazan ve maddeli bir liste içeren
 Generate in the style of Image 1: large deep purple text on the left reading "TABLE OF CONTENTS", with itemized listing on the right…
 ```
 
-### No. 9: ÇALIŞMAK İSTEMİYORUM Serisi Afiş
+### No. 9: Çalışmak İstemiyorum Serisi POSTER
 
 - **Category:** `Poster Design`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix" alt="ÇALIŞMAK İSTEMİYORUM Serisi Afiş" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix" alt="Çalışmak İstemiyorum Serisi POSTER" width="480" />
 
 #### Description
 
-Referans alınan tasarıma dayalı, yeni metin ve görseller içeren yaratıcı bir afiş.
+Referans alınan tasarıma dayanan, yeni metin ve görseller içeren yaratıcı bir poster.
 
 #### Prompt
 
 ```text
 Referencing this poster design, create a derivative creative poster for the "Don't Want to Work" series with different copy and visuals
+```
+
+### No. 10: Noktalardaki Fotoğrafları Değiştir
+
+- **Category:** `Poster Design`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg?v=20260720fix" alt="Noktalardaki Fotoğrafları Değiştir" width="480" />
+
+#### Description
+
+Görsel 1'deki belirli noktaları, Görsel 2, 3, 4 ve 5'teki fotoğraflarla değiştirin.
+
+#### Prompt
+
+```text
+Point and bounding box selection: Image 1 <point>518 135</point> replace photo with Image 2; Image 1 <point>556 349</point> replace photo with Image 3; Image 1 <point>549 555</point> replace photo with Image 4; Image 1 <point>632 784</point> replace photo with Image 5.
 ```
 
 <a id="category-4"></a>
@@ -650,7 +668,7 @@ Referencing this poster design, create a derivative creative poster for the "Don
 
 #### Description
 
-Klein mavisi ve gümüş renklerinde, tilki grafiği ve logo ile minimalist bir marka kurumsal kimlik sergisi.
+Klein mavisi ve gümüş renginde, tilki grafiği ve logo ile minimalist bir marka kurumsal kimlik sergisi.
 
 #### Prompt
 
@@ -690,7 +708,7 @@ A surreal miniature landscape creative commercial product advertisement, integra
 
 #### Description
 
-Referans alınmış bir iç mimari paleti kullanarak modern sanat tarzında bir yatak odası render'ı.
+Referans alınmış bir iç mimari paleti kullanarak modern-sanat tarzında bir yatak odası render'ı.
 
 #### Prompt
 
@@ -708,7 +726,7 @@ Refer to the interior design style and color palette in the image, and generate 
 
 #### Description
 
-Yeni bir referans alınmış renk paleti uygulanarak değiştirilmiş bir görüntü.
+Yeni referans alınmış bir renk paleti uygulanarak değiştirilmiş bir görüntü.
 
 #### Prompt
 
@@ -726,7 +744,7 @@ Change color palette. Input image + color palette reference
 
 #### Description
 
-Yedi nesneyi, doğru malzeme ve ışıklandırmayla bir fotoğraf içinde kompoze edin.
+Yedi nesneyi, doğru malzeme ve ışıklandırmayla bir fotoğraf halinde kompoze edin.
 
 #### Prompt
 
@@ -748,7 +766,7 @@ Precisely cut out the 7 white-background objects I provided and compose them int
 
 #### Description
 
-RESHAKE için, erkek bir modelin kış tüylü montları tanıttığı bir e-ticaret banner'ı.
+RESHAKE için, kış tüylü montları tanıtan erkek model içeren bir e-ticaret banner'ı.
 
 #### Prompt
 
@@ -766,7 +784,7 @@ Generate an e-commerce banner for RESHAKE brand's 2016 winter down jacket collec
 
 #### Description
 
-Sıcak tonlu bir e-ticaret kahraman bölümü, pencereden dışarı çıkarak navigasyon düğmelerine uzanan pençeleri olan 3B bir Golden Retriever'ı öne çıkarıyor.
+Sıcak tonlu bir e-ticaret kahraman bölümü, pencereden dışarı çıkan pençeleriyle navigasyon düğmelerine uzanan 3D Golden Retriever özelliği taşıyor.
 
 #### Prompt
 
@@ -774,13 +792,13 @@ Sıcak tonlu bir e-ticaret kahraman bölümü, pencereden dışarı çıkarak na
 16:9 pet e-commerce hero section UI, sunset warm tone, layered shadows. Top navigation…golden capsule button; right side Golden Retriever image, 3D effect: the Retriever's front paws break through the right frame, resting on the left-side buttons.
 ```
 
-### No. 3: Tamamlanmış Moda Tasarımı Ürün Görseli
+### No. 3: Bitmiş Moda Tasarımı Ürün Görseli
 
 - **Category:** `E-commerce`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix" alt="Tamamlanmış Moda Tasarımı Ürün Görseli" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix" alt="Bitmiş Moda Tasarımı Ürün Görseli" width="480" />
 
 #### Description
 
@@ -792,13 +810,13 @@ Bir tasarımcının orijinal taslağına dayanan, cilalanmış, gerçekçi bir g
 Please transform this fashion design sketch into a high-quality finished product image.……
 ```
 
-### No. 4: E-Ticaret Görsel Tasarımı
+### No. 4: E-ticaret Görsel Tasarımı
 
 - **Category:** `E-commerce`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix" alt="E-Ticaret Görsel Tasarımı" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix" alt="E-ticaret Görsel Tasarımı" width="480" />
 
 #### Description
 
@@ -824,7 +842,7 @@ E-commerce design. Input image + color palette reference
 
 #### Description
 
-Siyah-beyaz bir manga senaryosu, gece vakti bir araba kovalamacasını ve silahlı bir kızın takibini betimliyor.
+Siyah-beyaz bir manga senaryosu, gece vakti bir araba takibini ve silahlı bir kızın peşinde olduğunu tasvir ediyor.
 
 #### Prompt
 
@@ -878,7 +896,7 @@ Generate a set of American horror comic storyboards, the story could take place 
 
 #### Description
 
-İki panel, köpeklerin oyuncul en iyi arkadaşlar ve amansız en kötü düşmanlar olduğunu gösteriyor.
+İki panel, köpeklerin oyuncul en iyi arkadaşlar ve azılı en kötü düşmanlar olduğunu gösteriyor.
 
 #### Prompt
 
@@ -908,17 +926,17 @@ Bir film senaryosu, gece vakti bir otoparkı üç yatay panelde gösteriyor.
 Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establishing shot of a parking lot at night…
 ```
 
-### No. 2: Altı Panelli Vahşi Batı Sokağı Senaryosu
+### No. 2: Altı Panelli Western Sokağı Senaryosu
 
 - **Category:** `Film Storyboard`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix" alt="Altı Panelli Vahşi Batı Sokağı Senaryosu" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix" alt="Altı Panelli Western Sokağı Senaryosu" width="480" />
 
 #### Description
 
-Geniş yatay bir senaryo, altı panelde klasik bir Vahşi Batı sokak sahnesini betimliyor.
+Klasik bir Western sokak sahnesini tasvir eden, altı panelli geniş yatay bir senaryo.
 
 #### Prompt
 
@@ -958,7 +976,7 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 #### Description
 
-Omuz üstü bir çekim, kırk yaşlarında, üzgün görünümlü kahverengi saçlı bir kadını gösteriyor.
+Bir omuz üstü çekim, kırk yaşlarında, üzgün görünümlü, kahverengi saçlı bir kadını gösteriyor.
 
 #### Prompt
 
@@ -984,13 +1002,13 @@ Saat 12'yi gösteren bir bilek üzerinde sivri uçlu siyah metal bir bilekliğin
 Modify the image according to the text requirements in the image: bracelet with metallic black thorn spikes, hands pointing to 12 o'clock sharp
 ```
 
-### No. 3: Kenar Aydınlatmalı Hasselblad Film Portresi
+### No. 3: Hasselblad Film Portresi Kenar Işığı ile
 
 - **Category:** `Portrait`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix" alt="Kenar Aydınlatmalı Hasselblad Film Portresi" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix" alt="Hasselblad Film Portresi Kenar Işığı ile" width="480" />
 
 #### Description
 
@@ -1012,7 +1030,7 @@ Hasselblad film texture, light and shadow, rim light, (facial overexposure)…
 
 #### Description
 
-Bir ızgarada düzenlenmiş, dikkat dağıtıcı unsurlar olmadan bir yaz hikayesi anlatan üç basit, temiz portre.
+Bir yaz hikayesi anlatan, dikkat dağıtıcı unsurlar olmadan, ızgarada düzenlenmiş üç basit, temiz portre.
 
 #### Prompt
 
@@ -1030,7 +1048,7 @@ Remove all accessories, hairstyle, and background, generate a three-panel grid o
 
 #### Description
 
-Polaroid tarzı fotoğraflar üreten bir Fujifilm anlık kamera görseli.
+Polaroid tarzı fotoğraflar üreten bir Fujifilm anında fotoğraf makinesi görseli.
 
 #### Prompt
 
@@ -1048,7 +1066,7 @@ Fujifilm camera Polaroid
 
 #### Description
 
-Uzun saçlı bir erkek, bordo bir cüppe ve güneş gözlükleriyle, retro-fütürist tarzda bir keman yayı tutuyor.
+Uzun saçlı bir adam, bordo bir cüppe ve güneş gözlükleriyle, retro-fütürist tarzda bir keman yayı tutuyor.
 
 #### Prompt
 
@@ -1106,7 +1124,7 @@ Artistic picture book, panoramic view, school uniform trousers, refined makeup, 
 
 #### Description
 
-Yumuşak camgöbeği-yeşili bir çizimde, yaşlı bir kadın kış çayırında güneşi resmediyor.
+Yumuşak camgöbeği-yeşili bir çizim, yaşlı bir kadının kış çayırında güneşi resmettiğini gösteriyor.
 
 #### Prompt
 
@@ -1114,17 +1132,17 @@ Yumuşak camgöbeği-yeşili bir çizimde, yaşlı bir kadın kış çayırında
 This heartwarming panoramic picture book illustration uses soft cyan-green tones to depict a serene grassland under a winter starry sky, where an elderly woman paints the sun at an easel while a child plays with a puppy beside a yurt…
 ```
 
-### No. 3: Krokiye Yürüyen Karakter Ekle
+### No. 3: Karalama Eskize Yürüyen Karakter Ekle
 
 - **Category:** `Illustration`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MlA2bxTw4oD6FgxZmF0cntf7nCf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MlA2bxTw4oD6FgxZmF0cntf7nCf.jpg?v=20260720fix" alt="Krokiye Yürüyen Karakter Ekle" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MlA2bxTw4oD6FgxZmF0cntf7nCf.jpg?v=20260720fix" alt="Karalama Eskize Yürüyen Karakter Ekle" width="480" />
 
 #### Description
 
-Mevcut bir krokinin ön planındaki yola yürüyen bir karakter eklenmiş.
+Var olan bir eskizin ön plan yoluna yürüyen bir karakter eklenmiş.
 
 #### Prompt
 
@@ -1132,13 +1150,13 @@ Mevcut bir krokinin ön planındaki yola yürüyen bir karakter eklenmiş.
 Based on the sketch, add a walking character on the foreground path…
 ```
 
-### No. 4: Dört Adet Tamamlanmış Oyun Sahnesi Görseli
+### No. 4: Dört Bitmiş Oyun Sahnesi Görseli
 
 - **Category:** `Illustration`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BURCblKzlovIMYxrcSZcF71MnQc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BURCblKzlovIMYxrcSZcF71MnQc.jpg?v=20260720fix" alt="Dört Adet Tamamlanmış Oyun Sahnesi Görseli" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BURCblKzlovIMYxrcSZcF71MnQc.jpg?v=20260720fix" alt="Dört Bitmiş Oyun Sahnesi Görseli" width="480" />
 
 #### Description
 
@@ -1168,13 +1186,13 @@ Orijinal bir görseli, sağlanan bir renk paleti referansıyla birlikte işleyin
 Input Original Image + Color Palette Reference
 ```
 
-### No. 6: El Çizimi Brunch Posteri
+### No. 6: Elde Çizilmiş Brunch Posteri
 
 - **Category:** `Illustration`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix" alt="El Çizimi Brunch Posteri" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix" alt="Elde Çizilmiş Brunch Posteri" width="480" />
 
 #### Description
 
@@ -1200,7 +1218,7 @@ Place the foods from the images on the same table and transform them into a hand
 
 #### Description
 
-Ortografik görünümler, devasa oyulmuş antik bir Çin tanrıça heykelinin ön, yan ve arka tarafını gösteriyor.
+Ortografik görünümler, devasa oyulmuş antik bir Çin tanrıça heykelinin ön, yan ve arka kısımlarını gösteriyor.
 
 #### Prompt
 
@@ -1208,17 +1226,17 @@ Ortografik görünümler, devasa oyulmuş antik bir Çin tanrıça heykelinin ö
 Standard three-view orthographic turntable: front view, side view, back view, of a giant ancient Chinese goddess stone statue with an intricately carved stone headpiece and…
 ```
 
-### No. 2: Sovyet Posta Kurye Bisikleti Üç Görünüm
+### No. 2: Sovyet Posta Kuryesi Bisikleti Üç Görünüm
 
 - **Category:** `Character Design`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix" alt="Sovyet Posta Kurye Bisikleti Üç Görünüm" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix" alt="Sovyet Posta Kuryesi Bisikleti Üç Görünüm" width="480" />
 
 #### Description
 
-Vintage bir Sovyet bisikletinin ön, yan ve üstten görünümlerini gösteren teknik çizim.
+Vintage bir Sovyet bisikletinin ön, yan ve üstten görünümlerini gösteren teknik bir çizim.
 
 #### Prompt
 
@@ -1236,7 +1254,7 @@ Generate a three-view of a Soviet-era postal messenger bicycle…
 
 #### Description
 
-Anime tarzında bir cyberpunk hacker karakterinin çoklu görünüm ve detaylarını içeren bir tasarım sayfası.
+Anime tarzında bir cyberpunk hacker karakterinin çoklu görünümlerini ve detaylarını içeren bir tasarım sayfası.
 
 #### Prompt
 
@@ -1258,7 +1276,7 @@ Cyberpunk-style anime character design sheet, showing three-view turnaround, clo
 
 #### Description
 
-Detaylı bir LEGO seti gibi görünecek şekilde dönüştürülmüş, minyatür diorama tarzında bir görsel.
+Detaylı bir LEGO seti gibi, minyatür diorama tarzında görünecek şekilde dönüştürülmüş bir görsel.
 
 #### Prompt
 
@@ -1294,7 +1312,7 @@ Transform the image style into flat illustration style
 
 #### Description
 
-Kabartma yüzeylere sahip oyulmuş veya kalıplanmış bir heykele benzeyecek şekilde değiştirilmiş bir görsel.
+Kabartma yüzeylere sahip, oyulmuş veya kalıplanmış bir heykele benzeyecek şekilde değiştirilmiş bir görsel.
 
 #### Prompt
 
@@ -1334,7 +1352,7 @@ Add Fujifilm NC filter
 
 #### Description
 
-Bir kadın, başka birinin giysi ve aksesuarlarını gündelik, trend bir sokak fotoğrafçılığı tarzında giyiyor.
+Bir kadın, başka birinin kıyafet ve aksesuarlarını rahat, trend bir sokak fotoğrafçılığı tarzında giyiyor.
 
 #### Prompt
 
@@ -1342,13 +1360,13 @@ Bir kadın, başka birinin giysi ve aksesuarlarını gündelik, trend bir sokak 
 Make the woman in Image 1 wear the clothing, jewelry, and accessories from Image 2. The whole photo should look like an Instagram street shot.
 ```
 
-### No. 2: Uyumlu Arka Planlı Düğün Kıyafeti Değişimi
+### No. 2: Tutarlı Arka Plan ile Düğün Kıyafeti Değişimi
 
 - **Category:** `Outfit Transfer`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix" alt="Uyumlu Arka Planlı Düğün Kıyafeti Değişimi" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix" alt="Tutarlı Arka Plan ile Düğün Kıyafeti Değişimi" width="480" />
 
 #### Description
 
@@ -1404,17 +1422,17 @@ Karşı ışığı düzeltmek için pozlaması iyileştirilmiş aynı görsel.
 Keep the image unchanged and correct the backlighting.
 ```
 
-### No. 2: Daha Belirgin Doğal Makyaj Görünümü
+### No. 2: Daha Güçlü Doğal Makyaj Görünümü
 
 - **Category:** `Retouching`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DjRPbepoGoVP4KxitW3cK1WhnIp.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DjRPbepoGoVP4KxitW3cK1WhnIp.jpg?v=20260720fix" alt="Daha Belirgin Doğal Makyaj Görünümü" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DjRPbepoGoVP4KxitW3cK1WhnIp.jpg?v=20260720fix" alt="Daha Güçlü Doğal Makyaj Görünümü" width="480" />
 
 #### Description
 
-Genel olarak yine doğal görünen, farklı, daha yoğun bir makyaj stili.
+Genel olarak hala doğal görünen, farklı, daha yoğun bir makyaj stili.
 
 #### Prompt
 
@@ -1436,7 +1454,7 @@ Change to a different makeup look with stronger intensity while keeping the over
 
 #### Description
 
-Gözlükleri çıkarılmış bir kişi artık aşağıya salınmış, büyük, dalgalı saçlara sahip.
+Gözlükleri çıkarılmış bir kişi artık aşağı salınmış, büyük, dalgalı saçlara sahip.
 
 #### Prompt
 
@@ -1484,13 +1502,13 @@ Generate a solo ID photo for the woman
 
 ### Creative Fun (4)
 
-### No. 1: Şeytan Dişli Sırıtış
+### No. 1: Şeytan Dişleri ile Sırıtış
 
 - **Category:** `Creative Fun`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix" alt="Şeytan Dişli Sırıtış" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix" alt="Şeytan Dişleri ile Sırıtış" width="480" />
 
 #### Description
 
@@ -1520,17 +1538,17 @@ Da Vinci ve Van Gogh barış işareti yaparken, Michelangelo arkadan fotoğrafa 
 Da Vinci and Van Gogh facing the camera making peace signs, with Michelangelo photobombing from behind them…
 ```
 
-### No. 3: Şehir Silüetli Dondurma Külahı
+### No. 3: Şehir Silüeti ile Dondurma Külahı
 
 - **Category:** `Creative Fun`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix" alt="Şehir Silüetli Dondurma Külahı" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix" alt="Şehir Silüeti ile Dondurma Külahı" width="480" />
 
 #### Description
 
-Bir el, şehir silüeti ve mavi gökyüzü fonuna karşı bir dondurma külahı tutuyor.
+Bir el, bir şehir silüeti ve mavi gökyüzü fonuna karşı bir dondurma külahı tutuyor.
 
 #### Prompt
 
@@ -1570,7 +1588,7 @@ Red box: a giant blue-furred head with a comically squeezed expression, looking 
 
 #### Description
 
-Bir çizgi film karakterinin farklı duygular ifade ettiği dört panelli bir sticker seti.
+Bir çizgi film karakterinin farklı duyguları ifade ettiği dört panelli bir sticker seti.
 
 #### Prompt
 
@@ -1599,4 +1617,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-20T19:02:48.114Z
+> This README is auto-generated. 2026-07-20T19:48:38.466Z

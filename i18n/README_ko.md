@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-69%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-70%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,16 +90,16 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **69** |
+| Total Prompts | **70** |
 | Categories | **18** |
-| Preview Images | **69** |
-| Last Updated | **2026-07-20T19:02:48.108Z** |
+| Preview Images | **70** |
+| Last Updated | **2026-07-20T19:48:38.458Z** |
 
 ## 🏷️ Browse by Category
 
 - [`Infographic`](#category-1): **6**
 - [`Slides & Presentation`](#category-2): **5**
-- [`Poster Design`](#category-3): **9**
+- [`Poster Design`](#category-3): **10**
 - [`Brand Design`](#category-4): **2**
 - [`Interior Design`](#category-5): **3**
 - [`E-commerce`](#category-6): **4**
@@ -136,13 +136,13 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAFETY OF JOURNALISTS; annual data on journalist fatalities 2006-2013: 70 in 2006, 59 in 2007, 46 in 2008, 77 in 2009, 65 in 2010, 62 in 2011, 123 in 2012, 91 in 2013, totaling 593 cases, averaging 1 death per week; supplement with background factors affecting journalist safety.
 ```
 
-### No. 2: 남극 척령(秦嶺) 기지 탐험 연대기
+### No. 2: 남극 첸링(진링) 기지 탐험 연대기
 
 - **Category:** `Infographic`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="남극 척령(秦嶺) 기지 탐험 연대기" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="남극 첸링(진링) 기지 탐험 연대기" width="480" />
 
 #### Description
 
@@ -182,7 +182,7 @@ Based on collected prompt guide trends, create a presentation summarizing the di
 
 #### Description
 
-천문학 인포그래픽이 개기 월식 동안 달의 붉은 색을 설명합니다.
+천문학 인포그래픽이 개기 월식 동안 달이 붉은색을 띠는 원인을 설명합니다.
 
 #### Prompt
 
@@ -190,17 +190,17 @@ Based on collected prompt guide trends, create a presentation summarizing the di
 Generate an astronomy infographic explaining: Why is the moon red during a total lunar eclipse?
 ```
 
-### No. 5: 소고기 부위별 명칭 해설도
+### No. 5: 소고기 부위별 도해
 
 - **Category:** `Infographic`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix" alt="소고기 부위별 명칭 해설도" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix" alt="소고기 부위별 도해" width="480" />
 
 #### Description
 
-다이어그램이 소고기의 다양한 부위를 라벨과 그림으로 표시합니다.
+다이어그램이 소고기의 다양한 부위를 라벨과 함께 설명하고 그림으로 보여줍니다.
 
 #### Prompt
 
@@ -208,17 +208,17 @@ Generate an astronomy infographic explaining: Why is the moon red during a total
 Annotated diagram of beef cuts…
 ```
 
-### No. 6: 초보자를 위한 새 관찰 가이드 인포그래픽
+### No. 6: 초보자를 위한 조류 관찰 가이드 인포그래픽
 
 - **Category:** `Infographic`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="초보자를 위한 새 관찰 가이드 인포그래픽" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="초보자를 위한 조류 관찰 가이드 인포그래픽" width="480" />
 
 #### Description
 
-격자 레이아웃의 인포그래픽이 그림과 이름과 함께 8가지 일반적인 새 종을 소개합니다.
+그리드 레이아웃의 인포그래픽이 그림과 이름을 함께 표시하며 여덟 가지 흔한 새 종을 소개합니다.
 
 #### Prompt
 
@@ -226,17 +226,17 @@ Annotated diagram of beef cuts…
 Generate a beginner birdwatching guide infographic with a fresh color palette and grid layout, showcasing 8 common bird species with scientific illustrations, Chinese and English names, and identification features.
 ```
 
-### No. 7: 신에너지 차량 출시 행사 목차
+### No. 7: 신에너지 차량 런칭 행사 목차
 
 - **Category:** `Slides & Presentation`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="신에너지 차량 출시 행사 목차" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="신에너지 차량 런칭 행사 목차" width="480" />
 
 #### Description
 
-프레젠테이션 페이지가 차량 출시 행사의 목차를 표시합니다.
+프레젠테이션 페이지가 차량 런칭 행사의 목차를 표시합니다.
 
 #### Prompt
 
@@ -244,17 +244,17 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 Design a table of contents page for a new energy vehicle launch event presentation. The TOC text is…
 ```
 
-### No. 8: Louis Vuitton 브랜드 전략 슬라이드
+### No. 8: 루이비통 브랜드 전략 슬라이드
 
 - **Category:** `Slides & Presentation`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix" alt="Louis Vuitton 브랜드 전략 슬라이드" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix" alt="루이비통 브랜드 전략 슬라이드" width="480" />
 
 #### Description
 
-단일 프레젠테이션 슬라이드가 Louis Vuitton 브랜드 전략을 감성적으로 요약합니다.
+단일 프레젠테이션 슬라이드가 루이비통 브랜드 전략을 감성적으로 압축해 전달합니다.
 
 #### Prompt
 
@@ -286,13 +286,13 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAFETY OF JOURNALISTS; annual data on journalist fatalities 2006-2013: 70 in 2006, 59 in 2007, 46 in 2008, 77 in 2009, 65 in 2010, 62 in 2011, 123 in 2012, 91 in 2013, totaling 593 cases, averaging 1 death per week; supplement with background factors affecting journalist safety.
 ```
 
-### No. 2: 남극 척령(秦嶺) 기지 탐험 연대기
+### No. 2: 남극 첸링(진링) 기지 탐험 연대기
 
 - **Category:** `Infographic`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="남극 척령(秦嶺) 기지 탐험 연대기" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="남극 첸링(진링) 기지 탐험 연대기" width="480" />
 
 #### Description
 
@@ -332,7 +332,7 @@ Based on collected prompt guide trends, create a presentation summarizing the di
 
 #### Description
 
-천문학 인포그래픽이 개기 월식 동안 달의 붉은 색을 설명합니다.
+천문학 인포그래픽이 개기 월식 동안 달이 붉은색을 띠는 원인을 설명합니다.
 
 #### Prompt
 
@@ -340,17 +340,17 @@ Based on collected prompt guide trends, create a presentation summarizing the di
 Generate an astronomy infographic explaining: Why is the moon red during a total lunar eclipse?
 ```
 
-### No. 5: 소고기 부위별 명칭 해설도
+### No. 5: 소고기 부위별 도해
 
 - **Category:** `Infographic`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix" alt="소고기 부위별 명칭 해설도" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix" alt="소고기 부위별 도해" width="480" />
 
 #### Description
 
-다이어그램이 소고기의 다양한 부위를 라벨과 그림으로 표시합니다.
+다이어그램이 소고기의 다양한 부위를 라벨과 함께 설명하고 그림으로 보여줍니다.
 
 #### Prompt
 
@@ -358,17 +358,17 @@ Generate an astronomy infographic explaining: Why is the moon red during a total
 Annotated diagram of beef cuts…
 ```
 
-### No. 6: 초보자를 위한 새 관찰 가이드 인포그래픽
+### No. 6: 초보자를 위한 조류 관찰 가이드 인포그래픽
 
 - **Category:** `Infographic`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="초보자를 위한 새 관찰 가이드 인포그래픽" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="초보자를 위한 조류 관찰 가이드 인포그래픽" width="480" />
 
 #### Description
 
-격자 레이아웃의 인포그래픽이 그림과 이름과 함께 8가지 일반적인 새 종을 소개합니다.
+그리드 레이아웃의 인포그래픽이 그림과 이름을 함께 표시하며 여덟 가지 흔한 새 종을 소개합니다.
 
 #### Prompt
 
@@ -380,17 +380,17 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 
 ### Slides & Presentation (5)
 
-### No. 1: 신에너지 차량 출시 행사 목차
+### No. 1: 신에너지 차량 런칭 행사 목차
 
 - **Category:** `Slides & Presentation`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="신에너지 차량 출시 행사 목차" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="신에너지 차량 런칭 행사 목차" width="480" />
 
 #### Description
 
-프레젠테이션 페이지가 차량 출시 행사의 목차를 표시합니다.
+프레젠테이션 페이지가 차량 런칭 행사의 목차를 표시합니다.
 
 #### Prompt
 
@@ -398,17 +398,17 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 Design a table of contents page for a new energy vehicle launch event presentation. The TOC text is…
 ```
 
-### No. 2: Louis Vuitton 브랜드 전략 슬라이드
+### No. 2: 루이비통 브랜드 전략 슬라이드
 
 - **Category:** `Slides & Presentation`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix" alt="Louis Vuitton 브랜드 전략 슬라이드" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix" alt="루이비통 브랜드 전략 슬라이드" width="480" />
 
 #### Description
 
-단일 프레젠테이션 슬라이드가 Louis Vuitton 브랜드 전략을 감성적으로 요약합니다.
+단일 프레젠테이션 슬라이드가 루이비통 브랜드 전략을 감성적으로 압축해 전달합니다.
 
 #### Prompt
 
@@ -416,13 +416,13 @@ Design a table of contents page for a new energy vehicle launch event presentati
 Distill the Louis Vuitton brand strategy…into a single, emotionally resonant presentation slide
 ```
 
-### No. 3: 3D 아크릴 텍스처가 적용된 테크 프레젠테이션 커버
+### No. 3: 3D 아크릴 텍스처가 돋보이는 테크 프레젠테이션 커버
 
 - **Category:** `Slides & Presentation`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix" alt="3D 아크릴 텍스처가 적용된 테크 프레젠테이션 커버" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix" alt="3D 아크릴 텍스처가 돋보이는 테크 프레젠테이션 커버" width="480" />
 
 #### Description
 
@@ -452,13 +452,13 @@ Generate a tech-themed presentation cover page with linework, negative space des
 Slides section divider page. Interactive edit: layer separation
 ```
 
-### No. 5: 펫 급여 서비스 전환율 감소 분석
+### No. 5: 펫 급여 서비스 전환율 감소
 
 - **Category:** `Slides & Presentation`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Lm9kb41yBoiquuxBt6Zc8B2Knuh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Lm9kb41yBoiquuxBt6Zc8B2Knuh.jpg?v=20260720fix" alt="펫 급여 서비스 전환율 감소 분석" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Lm9kb41yBoiquuxBt6Zc8B2Knuh.jpg?v=20260720fix" alt="펫 급여 서비스 전환율 감소" width="480" />
 
 #### Description
 
@@ -472,7 +472,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 <a id="category-3"></a>
 
-### Poster Design (9)
+### Poster Design (10)
 
 ### No. 1: 젤리 텍스처의 Y2K 큐트 스타일 포스터
 
@@ -484,7 +484,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 #### Description
 
-연한 파란색의 포스터가 Y2K 큐트 스타일과 투명한 젤리 텍스처 요소를 특징으로 합니다.
+연한 파란색 바탕의 포스터가 Y2K 큐트 스타일과 투명한 젤리 질감 요소를 특징으로 합니다.
 
 #### Prompt
 
@@ -502,7 +502,7 @@ Create a poster based on my sketch. I want a Y2K cute style with transparent jel
 
 #### Description
 
-지정된 타이포그래피 레이아웃과 새로운 메인 주제를 사용한 디자인 중심의 콜라주 포스터입니다.
+지정된 타이포그래피 레이아웃을 사용하고 새로운 메인 주제를 담은 디자인 중심의 콜라주 포스터입니다.
 
 #### Prompt
 
@@ -510,17 +510,17 @@ Create a poster based on my sketch. I want a Y2K cute style with transparent jel
 Using the typography and layout from Image 1, generate a design-forward marketing poster in the same series, collage style, with Image 2 as the main subject…
 ```
 
-### No. 3: 대각선 구도의 사이-파이 포스터
+### No. 3: 대각선 구성의 사이-파이 포스터
 
 - **Category:** `Poster Design`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg?v=20260720fix" alt="대각선 구도의 사이-파이 포스터" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg?v=20260720fix" alt="대각선 구성의 사이-파이 포스터" width="480" />
 
 #### Description
 
-대각선 구도와 중앙 하단의 초점을 가진 사이-파이 스타일 포스터입니다.
+대각선 구성을 가진 사이-파이 스타일 포스터로, 중심 하단에 초점이 있습니다.
 
 #### Prompt
 
@@ -574,7 +574,7 @@ Double exposure portrait silhouette suspense film poster…
 
 #### Description
 
-PIGITAL TSUNAMI라는 제목의 퓨처리스트 스타일 음악 이벤트 포스터입니다.
+PIGITAL TSUNANAMI라는 제목의 퓨처리스트 스타일 음악 이벤트 포스터입니다.
 
 #### Prompt
 
@@ -600,17 +600,17 @@ Futurist style music event poster titled "PIGITAL TSUNAMI"…
 Bounding box on title - "Sweet Sunlight", use vintage typewriter font
 ```
 
-### No. 8: 딥 퍼플 목차 디자인
+### No. 8: Deep Purple 목차 디자인
 
 - **Category:** `Poster Design`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix" alt="딥 퍼플 목차 디자인" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix" alt="Deep Purple 목차 디자인" width="480" />
 
 #### Description
 
-큰 딥 퍼플 색상의 'TABLE OF CONTENTS' 텍스트와 항목별 목록이 있는 디자인입니다.
+큰 딥 퍼플색 텍스트로 'TABLE OF CONTENTS'라고 쓰여 있고 항목별 목록이 나열된 디자인입니다.
 
 #### Prompt
 
@@ -618,17 +618,17 @@ Bounding box on title - "Sweet Sunlight", use vintage typewriter font
 Generate in the style of Image 1: large deep purple text on the left reading "TABLE OF CONTENTS", with itemized listing on the right…
 ```
 
-### No. 9: 일하기 싫은 시리즈 포스터
+### No. 9: Dont Want To Work 시리즈 포스터
 
 - **Category:** `Poster Design`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix" alt="일하기 싫은 시리즈 포스터" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix" alt="Dont Want To Work 시리즈 포스터" width="480" />
 
 #### Description
 
-참조된 디자인을 바탕으로 새로운 텍스트와 시각 요소가 담긴 창의적인 포스터입니다.
+참조된 디자인을 바탕으로 새로운 텍스트와 시각 요소가 적용된 창의적인 포스터입니다.
 
 #### Prompt
 
@@ -636,21 +636,39 @@ Generate in the style of Image 1: large deep purple text on the left reading "TA
 Referencing this poster design, create a derivative creative poster for the "Don't Want to Work" series with different copy and visuals
 ```
 
+### No. 10: 지점별 사진 교체
+
+- **Category:** `Poster Design`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg?v=20260720fix" alt="지점별 사진 교체" width="480" />
+
+#### Description
+
+이미지 1의 특정 지점을 이미지 2, 3, 4, 5의 사진으로 교체하세요.
+
+#### Prompt
+
+```text
+Point and bounding box selection: Image 1 <point>518 135</point> replace photo with Image 2; Image 1 <point>556 349</point> replace photo with Image 3; Image 1 <point>549 555</point> replace photo with Image 4; Image 1 <point>632 784</point> replace photo with Image 5.
+```
+
 <a id="category-4"></a>
 
 ### Brand Design (2)
 
-### No. 1: 블루 폭스 미니멀리스트 VI 디자인
+### No. 1: Blue Fox 미니멀리스트 VI 디자인
 
 - **Category:** `Brand Design`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix" alt="블루 폭스 미니멀리스트 VI 디자인" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix" alt="Blue Fox 미니멀리스트 VI 디자인" width="480" />
 
 #### Description
 
-클라인 블루와 실버 색상, 폭스 그래픽과 로고가 있는 미니멀리스트 브랜드 VI 쇼케이스입니다.
+클라인 블루와 실버 색상, 여우 그래픽과 로고를 활용한 미니멀리스트 브랜드 VI(시각 아이덴티티) 쇼케이스입니다.
 
 #### Prompt
 
@@ -668,7 +686,7 @@ Minimalist brand VI design showcase, featuring Klein blue and silver as primary 
 
 #### Description
 
-제품을 미니어처 라이프스타일 장면에 통합하고 제품 정보를 담은 초현실적 광고입니다.
+제품을 미니어처 라이프스타일 장면에 통합하고 제품 정보를 담은 초현실적인 광고입니다.
 
 #### Prompt
 
@@ -690,7 +708,7 @@ A surreal miniature landscape creative commercial product advertisement, integra
 
 #### Description
 
-참조된 인테리어 디자인 팔레트를 사용한 모던-아트 스타일의 침실 렌더링입니다.
+참조된 인테리어 디자인 색상 팔레트를 사용한 모던 아트 스타일의 침실 렌더링입니다.
 
 #### Prompt
 
@@ -726,7 +744,7 @@ Change color palette. Input image + color palette reference
 
 #### Description
 
-정확한 재질과 조명으로 일곱 개의 물체를 사진으로 구성하세요.
+정확한 재질과 조명을 갖춘 사진 속에 일곱 개의 물체를 구성하세요.
 
 #### Prompt
 
@@ -738,13 +756,13 @@ Precisely cut out the 7 white-background objects I provided and compose them int
 
 ### E-commerce (4)
 
-### No. 1: RESHAKE 윈터 다운 자켓 배너
+### No. 1: Reshake 윈터 다운 자켓 배너
 
 - **Category:** `E-commerce`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg?v=20260720fix" alt="RESHAKE 윈터 다운 자켓 배너" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg?v=20260720fix" alt="Reshake 윈터 다운 자켓 배너" width="480" />
 
 #### Description
 
@@ -766,7 +784,7 @@ Generate an e-commerce banner for RESHAKE brand's 2016 winter down jacket collec
 
 #### Description
 
-따뜻한 톤의 이커머스 히어로 섹션에 발이 프레임을 뚫고 네비게이션 버튼 위로 나와 있는 3D 골든 리트리버가 등장합니다.
+따뜻한 톤의 이커머스 히어로 섹션으로, 발이 프레임을 뚫고 네비게이션 버튼 위로 나와 있는 3D 골든 리트리버가 특징입니다.
 
 #### Prompt
 
@@ -802,7 +820,7 @@ Please transform this fashion design sketch into a high-quality finished product
 
 #### Description
 
-원본 이미지와 색상 팔레트 참조를 사용하여 디자인을 생성하세요.
+입력 이미지와 색상 팔레트 참조를 사용하여 디자인을 생성하세요.
 
 #### Prompt
 
@@ -814,13 +832,13 @@ E-commerce design. Input image + color palette reference
 
 ### Comic & Storyboard (4)
 
-### No. 1: 일본 청년만화 스타일 야간 추격 스토리보드
+### No. 1: 일본 청년만화(세이넨) 야간 추격 스토리보드
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix" alt="일본 청년만화 스타일 야간 추격 스토리보드" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix" alt="일본 청년만화(세이넨) 야간 추격 스토리보드" width="480" />
 
 #### Description
 
@@ -832,17 +850,17 @@ E-commerce design. Input image + color palette reference
 Generate a full-page Japanese seinen black-and-white manga storyboard, nighttime chase and gunfight theme. Top panel: a car under headlights and chain-link fencing in the dark night; middle: a girl armed with a gun in pursuit…
 ```
 
-### No. 2: 야간 퍼리 일상 코믹
+### No. 2: 야간 퍼리 일상(슬라이스 오브 라이프) 만화
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix" alt="야간 퍼리 일상 코믹" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix" alt="야간 퍼리 일상(슬라이스 오브 라이프) 만화" width="480" />
 
 #### Description
 
-세로형 4컷 만화가 밤에 방 안에 있는 늑대개와 얼룩고양이를 보여줍니다.
+세로형 4컷 만화가 밤에 방 안에 있는 늑대개와 줄무늬 고양이를 보여줍니다.
 
 #### Prompt
 
@@ -868,17 +886,17 @@ Draw a vertical four-panel furry slice-of-life comic, set in a room at night, fe
 Generate a set of American horror comic storyboards, the story could take place in a Gotham City alley…
 ```
 
-### No. 4: 최고와 최악의 강아지 콤비
+### No. 4: 최고와 최악의 강아지 듀오
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Dyj6bbHWHoFVdFxpOqpc0MyknYe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Dyj6bbHWHoFVdFxpOqpc0MyknYe.jpg?v=20260720fix" alt="최고와 최악의 강아지 콤비" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Dyj6bbHWHoFVdFxpOqpc0MyknYe.jpg?v=20260720fix" alt="최고와 최악의 강아지 듀오" width="480" />
 
 #### Description
 
-두 개의 패널에서 강아지들이 장난기 많은 최고의 친구이자 치열한 최악의 적이 되는 모습을 보여줍니다.
+두 개의 패널에서 강아지들이 장난기 많은 베스트 프렌드이자 치열한 최악의 적으로 보여집니다.
 
 #### Prompt
 
@@ -918,7 +936,7 @@ Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establ
 
 #### Description
 
-6개의 패널로 이루어진 넓은 가로형 스토리보드가 클래식한 웨스턴 거리 장면을 묘사합니다.
+여섯 개의 패널로 이루어진 넓은 가로형 스토리보드가 클래식 웨스턴 거리 장면을 묘사합니다.
 
 #### Prompt
 
@@ -926,13 +944,13 @@ Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establ
 Western film storyboard, 6 panels in wide horizontal ratio, no text throughout: Panel 1, extreme wide shot, both ends of the street…
 ```
 
-### No. 3: 애니메 스타일 고대 중국 선협(仙俠) 장면
+### No. 3: 애니메 스타일 고대 중국 선협(仙俠)
 
 - **Category:** `Film Storyboard`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix" alt="애니메 스타일 고대 중국 선협(仙俠) 장면" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix" alt="애니메 스타일 고대 중국 선협(仙俠)" width="480" />
 
 #### Description
 
@@ -948,17 +966,17 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 ### Portrait (7)
 
-### No. 1: 슬픈 여성의 오버 더 숄더 샷
+### No. 1: 슬픈 여성의 어깨 너머 샷
 
 - **Category:** `Portrait`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg?v=20260720fix" alt="슬픈 여성의 오버 더 숄더 샷" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg?v=20260720fix" alt="슬픈 여성의 어깨 너머 샷" width="480" />
 
 #### Description
 
-오버 더 숄더 샷이 40대 정도로 보이는 슬퍼 보이는 갈색 머리 여성을 보여줍니다.
+어깨 너머 샷이 40세 정도로 보이는 슬픈 표정의 갈색 머리 여성을 보여줍니다.
 
 #### Prompt
 
@@ -984,17 +1002,17 @@ Over-the-shoulder shot, featuring a brown-haired European or American woman arou
 Modify the image according to the text requirements in the image: bracelet with metallic black thorn spikes, hands pointing to 12 o'clock sharp
 ```
 
-### No. 3: 림 라이트가 있는 하셀블라드 필름 인물사진
+### No. 3: 림 라이트가 있는 Hasselblad 필름 초상화
 
 - **Category:** `Portrait`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix" alt="림 라이트가 있는 하셀블라드 필름 인물사진" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix" alt="림 라이트가 있는 Hasselblad 필름 초상화" width="480" />
 
 #### Description
 
-필름 그레인 질감, 극적인 림 라이트, 밝은 얼굴 하이라이트가 있는 인물사진입니다.
+필름 그레인 텍스처, 극적인 림 라이팅, 밝은 얼굴 하이라이트가 있는 초상화입니다.
 
 #### Prompt
 
@@ -1002,17 +1020,17 @@ Modify the image according to the text requirements in the image: bracelet with 
 Hasselblad film texture, light and shadow, rim light, (facial overexposure)…
 ```
 
-### No. 4: 시네마틱 여름 이야기 인물사진 그리드
+### No. 4: 시네마틱 여름 서사 초상화 그리드
 
 - **Category:** `Portrait`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix" alt="시네마틱 여름 이야기 인물사진 그리드" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix" alt="시네마틱 여름 서사 초상화 그리드" width="480" />
 
 #### Description
 
-산만한 요소 없이 여름 이야기를 전달하는, 그리드로 배열된 세 장의 단순하고 깔끔한 인물사진입니다.
+여름 이야기를 담은 세 장의 단순하고 깔끔한 초상화가 그리드로 배치되어 있습니다.
 
 #### Prompt
 
@@ -1048,7 +1066,7 @@ Fujifilm camera Polaroid
 
 #### Description
 
-긴 머리의 남성이 버건디 가운과 선글라스를 착용하고 바이올린 활을 든 레트로 퓨처리스트 스타일의 초상화입니다.
+긴 머리의 남성이 버건디 가운과 선글라스를 착용하고 레트로 퓨처리스트 스타일로 바이올린 활을 들고 있습니다.
 
 #### Prompt
 
@@ -1066,7 +1084,7 @@ Retro-futurism style portrait photography, a middle-aged man with long hair wear
 
 #### Description
 
-특정한 손, 다리 동작과 소품을 사용한 전신 샷을 생성하세요.
+특정한 손, 다리, 소품 동작을 갖춘 전신 샷을 생성하세요.
 
 #### Prompt
 
@@ -1096,13 +1114,13 @@ Generate a full-body shot of the person in Image 3, and adjust her pose so her r
 Artistic picture book, panoramic view, school uniform trousers, refined makeup, accessories, illustrated in the style of Raymond Briggs and Mattias Adolfsson…
 ```
 
-### No. 2: 겨울 별빛 초원 그림
+### No. 2: 겨울 별이 빛나는 초원 그림
 
 - **Category:** `Illustration`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg?v=20260720fix" alt="겨울 별빛 초원 그림" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg?v=20260720fix" alt="겨울 별이 빛나는 초원 그림" width="480" />
 
 #### Description
 
@@ -1178,7 +1196,7 @@ Input Original Image + Color Palette Reference
 
 #### Description
 
-계절별 브런치 포스터를 위해 음식들을 그림체로 변환하고 라벨을 추가하세요.
+계절별 브런치 포스터를 위해 음식을 그림체로 변환하고 라벨을 추가하세요.
 
 #### Prompt
 
@@ -1200,7 +1218,7 @@ Place the foods from the images on the same table and transform them into a hand
 
 #### Description
 
-거대한 조각된 중국 고대 여신상의 정면, 측면, 후면 정투시도가 보여집니다.
+거대한 조각된 중국 고대 여신상의 정면, 측면, 후면을 보여주는 정투상도입니다.
 
 #### Prompt
 
@@ -1236,7 +1254,7 @@ Generate a three-view of a Soviet-era postal messenger bicycle…
 
 #### Description
 
-애니메이션 스타일의 사이버펑크 해커 캐릭터의 다양한 각도와 디테일을 담은 디자인 시트입니다.
+애니메이션 스타일의 사이버펑크 해커 캐릭터의 다양한 뷰와 디테일을 담은 디자인 시트입니다.
 
 #### Prompt
 
@@ -1248,17 +1266,17 @@ Cyberpunk-style anime character design sheet, showing three-view turnaround, clo
 
 ### Style Transfer (4)
 
-### No. 1: 사실적인 레고 토이 미니어처 장면
+### No. 1: 사실적인 LEGO 토이 미니어처 장면
 
 - **Category:** `Style Transfer`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ0XbIE5vosDb5xw7PbcOl8Nnrc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ0XbIE5vosDb5xw7PbcOl8Nnrc.jpg?v=20260720fix" alt="사실적인 레고 토이 미니어처 장면" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ0XbIE5vosDb5xw7PbcOl8Nnrc.jpg?v=20260720fix" alt="사실적인 LEGO 토이 미니어처 장면" width="480" />
 
 #### Description
 
-디테일한 레고 세트처럼 보이도록 변환된, 미니어처 디오라마 스타일의 이미지입니다.
+디테일한 LEGO 세트처럼 보이도록 변환된, 미니어처 디오라마 스타일의 이미지입니다.
 
 #### Prompt
 
@@ -1276,7 +1294,7 @@ Transform the image into a realistic LEGO toy effect with miniature scene stylin
 
 #### Description
 
-단순한 형태와 단색으로 현대적인 그래픽 디자인으로 변환된 이미지입니다.
+단순한 도형과 솔리드 컬러로 현대적인 그래픽 디자인으로 변환된 이미지입니다.
 
 #### Prompt
 
@@ -1324,13 +1342,13 @@ Add Fujifilm NC filter
 
 ### Outfit Transfer (2)
 
-### No. 1: 인스타그램 스트리트 스타일 의상 전환
+### No. 1: Instagram 스트리트 스타일 의상 전환
 
 - **Category:** `Outfit Transfer`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg?v=20260720fix" alt="인스타그램 스트리트 스타일 의상 전환" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg?v=20260720fix" alt="Instagram 스트리트 스타일 의상 전환" width="480" />
 
 #### Description
 
@@ -1374,7 +1392,7 @@ Replace the outfits of the two people in Image 1 with the wedding attire from Im
 
 #### Description
 
-피사체가 선명해지고 원래 색상이 살아난 오래된 사진입니다.
+피사체가 선명해지고 원래 색상이 되살아난 오래된 사진입니다.
 
 #### Prompt
 
@@ -1386,13 +1404,13 @@ Restore this old photo, making the subject clearer and restoring colors
 
 ### Retouching (2)
 
-### No. 1: 역광 보정된 이미지
+### No. 1: 역광 보정 이미지
 
 - **Category:** `Retouching`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix" alt="역광 보정된 이미지" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix" alt="역광 보정 이미지" width="480" />
 
 #### Description
 
@@ -1414,7 +1432,7 @@ Keep the image unchanged and correct the backlighting.
 
 #### Description
 
-전체적으로는 자연스럽게 보이지만, 더 강렬하고 다른 스타일의 메이크업입니다.
+전체적으로는 자연스럽게 보이지만, 다른, 더 강렬한 메이크업 스타일입니다.
 
 #### Prompt
 
@@ -1436,7 +1454,7 @@ Change to a different makeup look with stronger intensity while keeping the over
 
 #### Description
 
-안경이 제거된 사람이 이제는 크고 물결진 머리를 풀어뜨린 헤어스타일을 하고 있습니다.
+안경이 제거된 사람이 이제는 크고 물결 모양의 풍성한 머리를 내리고 있습니다.
 
 #### Prompt
 
@@ -1444,17 +1462,17 @@ Change to a different makeup look with stronger intensity while keeping the over
 Remove glasses, change hairstyle to large wavy hair worn down
 ```
 
-### No. 2: 랙돌 새끼고양이 증명사진
+### No. 2: 랙돌 고양이 새끼 증명사진
 
 - **Category:** `ID Photo`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix" alt="랙돌 새끼고양이 증명사진" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix" alt="랙돌 고양이 새끼 증명사진" width="480" />
 
 #### Description
 
-랙돌 품종 새끼고양이의 1인치 증명사진 인물사진입니다.
+랙돌 품종 고양이 새끼의 1인치 증명사진 초상화입니다.
 
 #### Prompt
 
@@ -1472,7 +1490,7 @@ Generate a 1-inch ID photo for this Ragdoll kitten
 
 #### Description
 
-여성 본인만 등장하는 표준 증명사진입니다.
+여성 혼자만 등장하는 표준 증명사진입니다.
 
 #### Prompt
 
@@ -1484,17 +1502,17 @@ Generate a solo ID photo for the woman
 
 ### Creative Fun (4)
 
-### No. 1: 데빌 이빨을 드러낸 뻔뻔한 미소
+### No. 1: 데빌 이빨을 드러낸 능글맞은 웃음
 
 - **Category:** `Creative Fun`
 - **Language:** `ko`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix" alt="데빌 이빨을 드러낸 뻔뻔한 미소" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix" alt="데빌 이빨을 드러낸 능글맞은 웃음" width="480" />
 
 #### Description
 
-한 사람이 데빌 이빨을 보이며 뻔뻔하게 미소 짓고 있고, 아래에 텍스트가 있습니다.
+데빌 이빨을 드러내며 능글맞게 웃는 사람과 아래에 텍스트가 있습니다.
 
 #### Prompt
 
@@ -1530,7 +1548,7 @@ Da Vinci and Van Gogh facing the camera making peace signs, with Michelangelo ph
 
 #### Description
 
-도시 스카이라인과 푸른 하늘을 배경으로 손에 아이스크림 콘이 들려 있습니다.
+한 손이 도시 스카이라인과 푸른 하늘을 배경으로 아이스크림 콘을 들고 있습니다.
 
 #### Prompt
 
@@ -1548,7 +1566,7 @@ A hand is holding an ice cream cone, with a city skyline and a clear blue sky in
 
 #### Description
 
-파란 털을 가진 머리가 실타래 공과 블록 근처에서 빛을 반사하는 거품을 관찰하고 있습니다.
+푸른 털을 가진 머리가 실타래 공과 블록 근처에서 빛을 반사하는 거품을 관찰하고 있습니다.
 
 #### Prompt
 
@@ -1599,4 +1617,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-20T19:02:48.108Z
+> This README is auto-generated. 2026-07-20T19:48:38.458Z

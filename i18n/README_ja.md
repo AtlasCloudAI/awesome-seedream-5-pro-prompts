@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-69%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-70%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,16 +90,16 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **69** |
+| Total Prompts | **70** |
 | Categories | **18** |
-| Preview Images | **69** |
-| Last Updated | **2026-07-20T19:02:48.108Z** |
+| Preview Images | **70** |
+| Last Updated | **2026-07-20T19:48:38.457Z** |
 
 ## 🏷️ Browse by Category
 
 - [`Infographic`](#category-1): **6**
 - [`Slides & Presentation`](#category-2): **5**
-- [`Poster Design`](#category-3): **9**
+- [`Poster Design`](#category-3): **10**
 - [`Brand Design`](#category-4): **2**
 - [`Interior Design`](#category-5): **3**
 - [`E-commerce`](#category-6): **4**
@@ -128,7 +128,7 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 #### Description
 
-インフォグラフィックは、2006年から2013年までの年間ジャーナリスト死亡者数（合計593件）を示しています。
+2006年から2013年までのジャーナリストの年間死亡者数を示すインフォグラフィックで、合計593件の事例を表示しています。
 
 #### Prompt
 
@@ -136,17 +136,17 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAFETY OF JOURNALISTS; annual data on journalist fatalities 2006-2013: 70 in 2006, 59 in 2007, 46 in 2008, 77 in 2009, 65 in 2010, 62 in 2011, 123 in 2012, 91 in 2013, totaling 593 cases, averaging 1 death per week; supplement with background factors affecting journalist safety.
 ```
 
-### No. 2: 南極・秦嶺（Qinling）ステーション探検記
+### No. 2: 南極・秦嶺基地探検記録
 
 - **Category:** `Infographic`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="南極・秦嶺（Qinling）ステーション探検記" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="南極・秦嶺基地探検記録" width="480" />
 
 #### Description
 
-インフォグラフィックは、ステーションの構造、タイムライン、比較データチャートを視覚化しています。
+基地の構造、タイムライン、比較データチャートを可視化したインフォグラフィックです。
 
 #### Prompt
 
@@ -164,7 +164,7 @@ An infographic visualizing the chronicle of Antarctica's Qinling Station expedit
 
 #### Description
 
-プレゼンテーションは、LLM、画像生成、動画生成のプロンプトの違いとベストプラクティスをまとめています。
+LLM、画像生成、動画生成のプロンプトの違いとベストプラクティスをまとめたプレゼンテーションです。
 
 #### Prompt
 
@@ -172,17 +172,17 @@ An infographic visualizing the chronicle of Antarctica's Qinling Station expedit
 Based on collected prompt guide trends, create a presentation summarizing the differences and best practices in prompt design for LLM, image generation, and video generation models. The slide structure should be logical and easy to compare. After creation, provide explanatory text for each model category, including why this writing approach works and common failure cases.
 ```
 
-### No. 4: 月が赤く見える理由
+### No. 4: 月が赤くなる理由
 
 - **Category:** `Infographic`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix" alt="月が赤く見える理由" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix" alt="月が赤くなる理由" width="480" />
 
 #### Description
 
-天文学のインフォグラフィックが、皆既月食の際の月の赤い色を説明しています。
+皆既月食の際に月が赤く見える理由を説明する天文学のインフォグラフィックです。
 
 #### Prompt
 
@@ -200,7 +200,7 @@ Generate an astronomy infographic explaining: Why is the moon red during a total
 
 #### Description
 
-図解は、牛肉の様々な部位にラベルを付け、イラストで示しています。
+牛肉の様々な部位をラベル付きで図解したダイアグラムです。
 
 #### Prompt
 
@@ -218,7 +218,7 @@ Annotated diagram of beef cuts…
 
 #### Description
 
-グリッドレイアウトのインフォグラフィックが、イラストと名前付きで8種類の一般的な野鳥を紹介しています。
+8種類の一般的な野鳥をイラストと名前付きで紹介するグリッドレイアウトのインフォグラフィックです。
 
 #### Prompt
 
@@ -226,17 +226,17 @@ Annotated diagram of beef cuts…
 Generate a beginner birdwatching guide infographic with a fresh color palette and grid layout, showcasing 8 common bird species with scientific illustrations, Chinese and English names, and identification features.
 ```
 
-### No. 7: 新エネルギー車発表イベント 目次
+### No. 7: 新エネルギー車発表会 目次
 
 - **Category:** `Slides & Presentation`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="新エネルギー車発表イベント 目次" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="新エネルギー車発表会 目次" width="480" />
 
 #### Description
 
-プレゼンテーションページが、車両発表イベントの目次を表示しています。
+車両発表イベントの目次を表示するプレゼンテーションページです。
 
 #### Prompt
 
@@ -244,17 +244,17 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 Design a table of contents page for a new energy vehicle launch event presentation. The TOC text is…
 ```
 
-### No. 8: ルイ・ヴィトン ブランド戦略スライド
+### No. 8: Louis Vuitton ブランド戦略スライド
 
 - **Category:** `Slides & Presentation`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix" alt="ルイ・ヴィトン ブランド戦略スライド" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix" alt="Louis Vuitton ブランド戦略スライド" width="480" />
 
 #### Description
 
-一枚のプレゼンテーションスライドが、ルイ・ヴィトンのブランド戦略を情緒的に要約しています。
+Louis Vuittonのブランド戦略を情緒的に要約した一枚のプレゼンテーションスライドです。
 
 #### Prompt
 
@@ -278,7 +278,7 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 
 #### Description
 
-インフォグラフィックは、2006年から2013年までの年間ジャーナリスト死亡者数（合計593件）を示しています。
+2006年から2013年までのジャーナリストの年間死亡者数を示すインフォグラフィックで、合計593件の事例を表示しています。
 
 #### Prompt
 
@@ -286,17 +286,17 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAFETY OF JOURNALISTS; annual data on journalist fatalities 2006-2013: 70 in 2006, 59 in 2007, 46 in 2008, 77 in 2009, 65 in 2010, 62 in 2011, 123 in 2012, 91 in 2013, totaling 593 cases, averaging 1 death per week; supplement with background factors affecting journalist safety.
 ```
 
-### No. 2: 南極・秦嶺（Qinling）ステーション探検記
+### No. 2: 南極・秦嶺基地探検記録
 
 - **Category:** `Infographic`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="南極・秦嶺（Qinling）ステーション探検記" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="南極・秦嶺基地探検記録" width="480" />
 
 #### Description
 
-インフォグラフィックは、ステーションの構造、タイムライン、比較データチャートを視覚化しています。
+基地の構造、タイムライン、比較データチャートを可視化したインフォグラフィックです。
 
 #### Prompt
 
@@ -314,7 +314,7 @@ An infographic visualizing the chronicle of Antarctica's Qinling Station expedit
 
 #### Description
 
-プレゼンテーションは、LLM、画像生成、動画生成のプロンプトの違いとベストプラクティスをまとめています。
+LLM、画像生成、動画生成のプロンプトの違いとベストプラクティスをまとめたプレゼンテーションです。
 
 #### Prompt
 
@@ -322,17 +322,17 @@ An infographic visualizing the chronicle of Antarctica's Qinling Station expedit
 Based on collected prompt guide trends, create a presentation summarizing the differences and best practices in prompt design for LLM, image generation, and video generation models. The slide structure should be logical and easy to compare. After creation, provide explanatory text for each model category, including why this writing approach works and common failure cases.
 ```
 
-### No. 4: 月が赤く見える理由
+### No. 4: 月が赤くなる理由
 
 - **Category:** `Infographic`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix" alt="月が赤く見える理由" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix" alt="月が赤くなる理由" width="480" />
 
 #### Description
 
-天文学のインフォグラフィックが、皆既月食の際の月の赤い色を説明しています。
+皆既月食の際に月が赤く見える理由を説明する天文学のインフォグラフィックです。
 
 #### Prompt
 
@@ -350,7 +350,7 @@ Generate an astronomy infographic explaining: Why is the moon red during a total
 
 #### Description
 
-図解は、牛肉の様々な部位にラベルを付け、イラストで示しています。
+牛肉の様々な部位をラベル付きで図解したダイアグラムです。
 
 #### Prompt
 
@@ -368,7 +368,7 @@ Annotated diagram of beef cuts…
 
 #### Description
 
-グリッドレイアウトのインフォグラフィックが、イラストと名前付きで8種類の一般的な野鳥を紹介しています。
+8種類の一般的な野鳥をイラストと名前付きで紹介するグリッドレイアウトのインフォグラフィックです。
 
 #### Prompt
 
@@ -380,17 +380,17 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 
 ### Slides & Presentation (5)
 
-### No. 1: 新エネルギー車発表イベント 目次
+### No. 1: 新エネルギー車発表会 目次
 
 - **Category:** `Slides & Presentation`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="新エネルギー車発表イベント 目次" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="新エネルギー車発表会 目次" width="480" />
 
 #### Description
 
-プレゼンテーションページが、車両発表イベントの目次を表示しています。
+車両発表イベントの目次を表示するプレゼンテーションページです。
 
 #### Prompt
 
@@ -398,17 +398,17 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 Design a table of contents page for a new energy vehicle launch event presentation. The TOC text is…
 ```
 
-### No. 2: ルイ・ヴィトン ブランド戦略スライド
+### No. 2: Louis Vuitton ブランド戦略スライド
 
 - **Category:** `Slides & Presentation`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix" alt="ルイ・ヴィトン ブランド戦略スライド" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix" alt="Louis Vuitton ブランド戦略スライド" width="480" />
 
 #### Description
 
-一枚のプレゼンテーションスライドが、ルイ・ヴィトンのブランド戦略を情緒的に要約しています。
+Louis Vuittonのブランド戦略を情緒的に要約した一枚のプレゼンテーションスライドです。
 
 #### Prompt
 
@@ -416,17 +416,17 @@ Design a table of contents page for a new energy vehicle launch event presentati
 Distill the Louis Vuitton brand strategy…into a single, emotionally resonant presentation slide
 ```
 
-### No. 3: 3Dアクリル調のテック風プレゼンテーション表紙
+### No. 3: 3Dアクリル調のテック風プレゼン表紙
 
 - **Category:** `Slides & Presentation`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix" alt="3Dアクリル調のテック風プレゼンテーション表紙" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix" alt="3Dアクリル調のテック風プレゼン表紙" width="480" />
 
 #### Description
 
-表紙ページは、ラインワーク、ネガティブスペース、3Dアクリルテクスチャをテックスタイルで特徴としています。
+ラインワーク、ネガティブスペース、3Dアクリルテクスチャーを特徴とするテックスタイルの表紙ページです。
 
 #### Prompt
 
@@ -444,7 +444,7 @@ Generate a tech-themed presentation cover page with linework, negative space des
 
 #### Description
 
-プレゼンテーションの区切りページは、インタラクティブ編集用のレイヤーでデザインされています。
+インタラクティブな編集のためのレイヤーでデザインされたプレゼンテーションの区切りページです。
 
 #### Prompt
 
@@ -452,17 +452,17 @@ Generate a tech-themed presentation cover page with linework, negative space des
 Slides section divider page. Interactive edit: layer separation
 ```
 
-### No. 5: ペット餌やりサービスのコンバージョン低下
+### No. 5: ペット給餌サービスの顧客転換率低下
 
 - **Category:** `Slides & Presentation`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Lm9kb41yBoiquuxBt6Zc8B2Knuh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Lm9kb41yBoiquuxBt6Zc8B2Knuh.jpg?v=20260720fix" alt="ペット餌やりサービスのコンバージョン低下" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Lm9kb41yBoiquuxBt6Zc8B2Knuh.jpg?v=20260720fix" alt="ペット給餌サービスの顧客転換率低下" width="480" />
 
 #### Description
 
-プレゼンテーションスライドが、ペット餌やりサービスの顧客コンバージョン低下について取り上げています。
+ペット給餌サービスの顧客転換率の低下について扱ったプレゼンテーションスライドです。
 
 #### Prompt
 
@@ -472,7 +472,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 <a id="category-3"></a>
 
-### Poster Design (9)
+### Poster Design (10)
 
 ### No. 1: Y2Kキュートスタイルのゼリーテクスチャポスター
 
@@ -484,7 +484,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 #### Description
 
-ライトブルーのポスターは、Y2Kキュートスタイルで、透明なゼリー質感の要素が特徴です。
+淡い青色を基調とし、透明感のあるゼリーテクスチャの要素を持つY2Kキュートスタイルのポスターです。
 
 #### Prompt
 
@@ -502,7 +502,7 @@ Create a poster based on my sketch. I want a Y2K cute style with transparent jel
 
 #### Description
 
-指定されたタイポグラフィーレイアウトと新しいメインサブジェクトを使用した、デザイン性の高いコラージュポスターです。
+指定されたタイポグラフィーレイアウトと新しい主役を用いた、デザイン性の高いコラージュポスターです。
 
 #### Prompt
 
@@ -528,17 +528,17 @@ Using the typography and layout from Image 1, generate a design-forward marketin
 Sci-fi style, poster design, diagonal composition. Center-bottom of the frame…
 ```
 
-### No. 4: Barrie ミニマリスト音楽ポスター
+### No. 4: Barrie ミニマリスト音楽祭ポスター
 
 - **Category:** `Poster Design`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg?v=20260720fix" alt="Barrie ミニマリスト音楽ポスター" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg?v=20260720fix" alt="Barrie ミニマリスト音楽祭ポスター" width="480" />
 
 #### Description
 
-黒背景の、Barrie音楽フェスティバルのためのミニマリストポスターです。
+黒背景のBarrie音楽祭のためのミニマリストなポスターです。
 
 #### Prompt
 
@@ -556,7 +556,7 @@ Minimalist music festival poster titled "Barrie." The composition features a pre
 
 #### Description
 
-ダブルエクスポージャーの肖像シルエットが特徴の、サスペンス映画ポスターです。
+ダブルエクスポージャー技法を用いた肖像シルエットが特徴のサスペンス映画ポスターです。
 
 #### Prompt
 
@@ -574,7 +574,7 @@ Double exposure portrait silhouette suspense film poster…
 
 #### Description
 
-PIGITAL TSUNANAMIと題された、未来派スタイルの音楽イベントポスターです。
+PIGITAL TSUNANAMIと題された未来派スタイルの音楽イベントポスターです。
 
 #### Prompt
 
@@ -592,7 +592,7 @@ Futurist style music event poster titled "PIGITAL TSUNAMI"…
 
 #### Description
 
-タイトル「Sweet Sunlight」が、バウンディングボックス内でヴィンテージタイプライターフォントで描かれたデザインです。
+バウンディングボックス内にヴィンテージタイプライターフォントで「Sweet Sunlight」と書かれたデザインです。
 
 #### Prompt
 
@@ -600,17 +600,17 @@ Futurist style music event poster titled "PIGITAL TSUNAMI"…
 Bounding box on title - "Sweet Sunlight", use vintage typewriter font
 ```
 
-### No. 8: ディープパープルの目次デザイン
+### No. 8: Deep Purple 目次デザイン
 
 - **Category:** `Poster Design`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix" alt="ディープパープルの目次デザイン" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix" alt="Deep Purple 目次デザイン" width="480" />
 
 #### Description
 
-大きなディープパープルの文字で「TABLE OF CONTENTS」と読み、項目リストが記載されたデザインです。
+大きな濃い紫色の文字で「TABLE OF CONTENTS」と読み、項目リストが添えられたデザインです。
 
 #### Prompt
 
@@ -628,7 +628,7 @@ Generate in the style of Image 1: large deep purple text on the left reading "TA
 
 #### Description
 
-参照されたデザインに基づいた、新しいテキストとビジュアルを用いたクリエイティブなポスターです。
+参照デザインに基づいた、新しいテキストとビジュアルを用いたクリエイティブなポスターです。
 
 #### Prompt
 
@@ -636,21 +636,39 @@ Generate in the style of Image 1: large deep purple text on the left reading "TA
 Referencing this poster design, create a derivative creative poster for the "Don't Want to Work" series with different copy and visuals
 ```
 
+### No. 10: ポイントでの写真置き換え
+
+- **Category:** `Poster Design`
+- **Language:** `ja`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg?v=20260720fix" alt="ポイントでの写真置き換え" width="480" />
+
+#### Description
+
+画像1の特定のポイントを、画像2、3、4、5の写真で置き換えてください。
+
+#### Prompt
+
+```text
+Point and bounding box selection: Image 1 <point>518 135</point> replace photo with Image 2; Image 1 <point>556 349</point> replace photo with Image 3; Image 1 <point>549 555</point> replace photo with Image 4; Image 1 <point>632 784</point> replace photo with Image 5.
+```
+
 <a id="category-4"></a>
 
 ### Brand Design (2)
 
-### No. 1: ブルーフォックス ミニマリストVIデザイン
+### No. 1: Blue Fox ミニマリストVIデザイン
 
 - **Category:** `Brand Design`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix" alt="ブルーフォックス ミニマリストVIデザイン" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix" alt="Blue Fox ミニマリストVIデザイン" width="480" />
 
 #### Description
 
-クラインブルーとシルバー、フォックスのグラフィックとロゴを用いた、ミニマリストなブランドVIのショーケースです。
+クライン・ブルーとシルバーを基調とし、キツネのグラフィックとロゴを配したミニマリストなブランドVIの紹介です。
 
 #### Prompt
 
@@ -690,7 +708,7 @@ A surreal miniature landscape creative commercial product advertisement, integra
 
 #### Description
 
-参照されたインテリアデザインパレットを使用した、モダンアートスタイルの寝室レンダリングです。
+参考にしたインテリアデザインパレットを用いた、モダンアートスタイルの寝室のレンダリングです。
 
 #### Prompt
 
@@ -726,7 +744,7 @@ Change color palette. Input image + color palette reference
 
 #### Description
 
-正確な質感と照明で7つのオブジェクトを写真に構成します。
+正確な素材感と照明で、7つのオブジェクトを写真に構成してください。
 
 #### Prompt
 
@@ -748,7 +766,7 @@ Precisely cut out the 7 white-background objects I provided and compose them int
 
 #### Description
 
-RESHAKEの男性モデルが冬のダウンジャケットをプロモートする、Eコマースバナーです。
+男性モデルが冬用ダウンジャケットをプロモートする、RESHAKEのEコマースバナーです。
 
 #### Prompt
 
@@ -774,17 +792,17 @@ Generate an e-commerce banner for RESHAKE brand's 2016 winter down jacket collec
 16:9 pet e-commerce hero section UI, sunset warm tone, layered shadows. Top navigation…golden capsule button; right side Golden Retriever image, 3D effect: the Retriever's front paws break through the right frame, resting on the left-side buttons.
 ```
 
-### No. 3: 完成したファッションデザインの商品画像
+### No. 3: 完成したファッションデザイン製品画像
 
 - **Category:** `E-commerce`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix" alt="完成したファッションデザインの商品画像" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix" alt="完成したファッションデザイン製品画像" width="480" />
 
 #### Description
 
-デザイナーのオリジナルスケッチに基づいた、磨き上げられたリアルなガーメントの画像です。
+デザイナーのオリジナルスケッチに基づいた、磨かれたリアルなガーメントの画像です。
 
 #### Prompt
 
@@ -802,7 +820,7 @@ Please transform this fashion design sketch into a high-quality finished product
 
 #### Description
 
-入力画像とカラーパレットの参考を使用してデザインを作成します。
+入力画像とカラーパレットの参考画像を使用してデザインを作成してください。
 
 #### Prompt
 
@@ -814,17 +832,17 @@ E-commerce design. Input image + color palette reference
 
 ### Comic & Storyboard (4)
 
-### No. 1: 日本の青年漫画 夜間カーチェース ストーリーボード
+### No. 1: 日本風青年漫画 夜間カーチェイス ストーリーボード
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix" alt="日本の青年漫画 夜間カーチェース ストーリーボード" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix" alt="日本風青年漫画 夜間カーチェイス ストーリーボード" width="480" />
 
 #### Description
 
-白黒の漫画ストーリーボードが、夜間のカーチェースと、追跡する武装した少女を描いています。
+夜間のカーチェイスと、追跡する武装した少女を描いた白黒の漫画ストーリーボードです。
 
 #### Prompt
 
@@ -832,17 +850,17 @@ E-commerce design. Input image + color palette reference
 Generate a full-page Japanese seinen black-and-white manga storyboard, nighttime chase and gunfight theme. Top panel: a car under headlights and chain-link fencing in the dark night; middle: a girl armed with a gun in pursuit…
 ```
 
-### No. 2: 夜のファーリー（獣人）ほのぼの4コマ漫画
+### No. 2: 夜のファーリー日常漫画
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix" alt="夜のファーリー（獣人）ほのぼの4コマ漫画" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix" alt="夜のファーリー日常漫画" width="480" />
 
 #### Description
 
-縦長の4コマ漫画が、夜の部屋でオオカミ犬とトラ猫を描いています。
+夜の部屋にいるオオカミ犬とトラ猫を描いた縦4コマの漫画です。
 
 #### Prompt
 
@@ -850,17 +868,17 @@ Generate a full-page Japanese seinen black-and-white manga storyboard, nighttime
 Draw a vertical four-panel furry slice-of-life comic, set in a room at night, featuring a wolf-dog furry and a tabby cat furry…
 ```
 
-### No. 3: アメリカンホラーコミック ゴッサムの路地
+### No. 3: アメリカン・ホラー・コミック ゴッサムの路地
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix" alt="アメリカンホラーコミック ゴッサムの路地" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix" alt="アメリカン・ホラー・コミック ゴッサムの路地" width="480" />
 
 #### Description
 
-ゴッサムシティの路地を舞台にした、アメリカンホラーコミックスタイルのストーリーボードです。
+ゴッサム・シティの路地を舞台に、アメリカン・ホラー・コミックのスタイルで描かれたストーリーボードです。
 
 #### Prompt
 
@@ -868,17 +886,17 @@ Draw a vertical four-panel furry slice-of-life comic, set in a room at night, fe
 Generate a set of American horror comic storyboards, the story could take place in a Gotham City alley…
 ```
 
-### No. 4: 最高の相棒と最悪の敵 犬デュオ
+### No. 4: 最高と最悪の犬デュオ
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Dyj6bbHWHoFVdFxpOqpc0MyknYe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Dyj6bbHWHoFVdFxpOqpc0MyknYe.jpg?v=20260720fix" alt="最高の相棒と最悪の敵 犬デュオ" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Dyj6bbHWHoFVdFxpOqpc0MyknYe.jpg?v=20260720fix" alt="最高と最悪の犬デュオ" width="480" />
 
 #### Description
 
-2つのパネルが、遊び仲間としての最高の友達と、激しい最悪の敵としての犬たちを示しています。
+2つのパネルが、遊び仲間の親友と激しい敵同士になる犬たちを描いています。
 
 #### Prompt
 
@@ -890,17 +908,17 @@ Top image: two dogs pressing their faces together with playful expressions, capt
 
 ### Film Storyboard (3)
 
-### No. 1: 3パネル 夜の駐車場 映画ストーリーボード
+### No. 1: 3コマ 夜の駐車場 映画ストーリーボード
 
 - **Category:** `Film Storyboard`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix" alt="3パネル 夜の駐車場 映画ストーリーボード" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix" alt="3コマ 夜の駐車場 映画ストーリーボード" width="480" />
 
 #### Description
 
-映画のストーリーボードが、夜の駐車場を3つの横長パネルで示しています。
+夜の駐車場を3つの横長パネルで描いた映画ストーリーボードです。
 
 #### Prompt
 
@@ -908,17 +926,17 @@ Top image: two dogs pressing their faces together with playful expressions, capt
 Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establishing shot of a parking lot at night…
 ```
 
-### No. 2: 6パネル 西部劇の街並み ストーリーボード
+### No. 2: 6コマ 西部劇の街並み ストーリーボード
 
 - **Category:** `Film Storyboard`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix" alt="6パネル 西部劇の街並み ストーリーボード" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix" alt="6コマ 西部劇の街並み ストーリーボード" width="480" />
 
 #### Description
 
-6つのパネルからなる横長のストーリーボードが、クラシックな西部劇の街並みを描いています。
+6つのパネルで構成された横長のストーリーボードで、クラシックな西部劇の街並みを描いています。
 
 #### Prompt
 
@@ -926,17 +944,17 @@ Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establ
 Western film storyboard, 6 panels in wide horizontal ratio, no text throughout: Panel 1, extreme wide shot, both ends of the street…
 ```
 
-### No. 3: アニメスタイル 古代中国・仙侠（Xianxia）
+### No. 3: アニメスタイル 古代中国・仙侠
 
 - **Category:** `Film Storyboard`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix" alt="アニメスタイル 古代中国・仙侠（Xianxia）" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix" alt="アニメスタイル 古代中国・仙侠" width="480" />
 
 #### Description
 
-ストーリーボードが、アニメ画風で古代中国の仙侠シーンを描いています。
+アニメの画風で描かれた古代中国の仙侠シーンをイラスト化したストーリーボードです。
 
 #### Prompt
 
@@ -958,7 +976,7 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 #### Description
 
-オーバーショルダーショットで、40歳前後の悲しげな表情の茶髪の女性を映しています。
+40歳前後の悲しそうな表情をした茶髪の女性を、オーバーショルダーショットで捉えた画像です。
 
 #### Prompt
 
@@ -966,17 +984,17 @@ Anime-style ancient Chinese xianxia scene storyboard…
 Over-the-shoulder shot, featuring a brown-haired European or American woman around 40 years old with a sad expression…
 ```
 
-### No. 2: 黒い金属製の棘スパイク付きブレスレット
+### No. 2: 黒い金属製の棘スパイクブレスレット
 
 - **Category:** `Portrait`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix" alt="黒い金属製の棘スパイク付きブレスレット" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix" alt="黒い金属製の棘スパイクブレスレット" width="480" />
 
 #### Description
 
-正午を指す手首に着けた、スパイクの付いた黒い金属製ブレスレットのクローズアップです。
+正午を指す手首に着けた、スパイクの付いた黒い金属ブレスレットのクローズアップです。
 
 #### Prompt
 
@@ -984,17 +1002,17 @@ Over-the-shoulder shot, featuring a brown-haired European or American woman arou
 Modify the image according to the text requirements in the image: bracelet with metallic black thorn spikes, hands pointing to 12 o'clock sharp
 ```
 
-### No. 3: リムライトのあるハッセルブラッドフィルムポートレート
+### No. 3: ハッセルブラッドフィルムポートレート リムライト付き
 
 - **Category:** `Portrait`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix" alt="リムライトのあるハッセルブラッドフィルムポートレート" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix" alt="ハッセルブラッドフィルムポートレート リムライト付き" width="480" />
 
 #### Description
 
-フィルムグレインテクスチャ、ドラマチックなリムライティング、明るい顔のハイライトを特徴とするポートレートです。
+フィルムグレインテクスチャ、ドラマチックなリムライティング、明るい顔面ハイライトを特徴とするポートレートです。
 
 #### Prompt
 
@@ -1012,7 +1030,7 @@ Hasselblad film texture, light and shadow, rim light, (facial overexposure)…
 
 #### Description
 
-3つのシンプルでクリーンなポートレートがグリッド状に並び、余計なものを排して夏の物語を語っています。
+シンプルでクリーンな3枚のポートレートがグリッド状に並び、余計なものを排した夏の物語を語っています。
 
 #### Prompt
 
@@ -1030,7 +1048,7 @@ Remove all accessories, hairstyle, and background, generate a three-panel grid o
 
 #### Description
 
-ポラロイドスタイルの写真を生成するFujifilmのインスタントカメラの画像です。
+ポラロイドスタイルの写真を生成するFujifilmインスタントカメラの画像です。
 
 #### Prompt
 
@@ -1038,17 +1056,17 @@ Remove all accessories, hairstyle, and background, generate a three-panel grid o
 Fujifilm camera Polaroid
 ```
 
-### No. 6: レトロフューチャリストのバイオリニストのポートレート
+### No. 6: レトロフューチャリストのバイオリニスト肖像
 
 - **Category:** `Portrait`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg?v=20260720fix" alt="レトロフューチャリストのバイオリニストのポートレート" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg?v=20260720fix" alt="レトロフューチャリストのバイオリニスト肖像" width="480" />
 
 #### Description
 
-ロングヘアの男性が、ワインレッドのガウンとサングラスを着用し、レトロフューチャリストスタイルでバイオリンの弓を持っています。
+長髪の男性がワインレッドのガウンとサングラスを着用し、バイオリンの弓を持ったレトロフューチャリストスタイルの肖像です。
 
 #### Prompt
 
@@ -1066,7 +1084,7 @@ Retro-futurism style portrait photography, a middle-aged man with long hair wear
 
 #### Description
 
-特定の手、足、小道具の動きを伴う全身ショットを生成します。
+特定の手、足、小道具の動きを伴った全身ショットを生成してください。
 
 #### Prompt
 
@@ -1078,17 +1096,17 @@ Generate a full-body shot of the person in Image 3, and adjust her pose so her r
 
 ### Illustration (6)
 
-### No. 1: 芸術的な絵本風のスクールユニフォーム
+### No. 1: 芸術的な絵本風スクールユニフォーム
 
 - **Category:** `Illustration`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg?v=20260720fix" alt="芸術的な絵本風のスクールユニフォーム" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg?v=20260720fix" alt="芸術的な絵本風スクールユニフォーム" width="480" />
 
 #### Description
 
-パノラマの絵本イラストが、洗練された芸術的なスタイルで描かれたスクールユニフォームのズボンを描いています。
+パノラマ絵本のイラストが、洗練された芸術的なスタイルでスクールユニフォームのズボンを描いています。
 
 #### Prompt
 
@@ -1096,17 +1114,17 @@ Generate a full-body shot of the person in Image 3, and adjust her pose so her r
 Artistic picture book, panoramic view, school uniform trousers, refined makeup, accessories, illustrated in the style of Raymond Briggs and Mattias Adolfsson…
 ```
 
-### No. 2: 冬の星空と草原の絵画
+### No. 2: 冬の星空草原絵画
 
 - **Category:** `Illustration`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg?v=20260720fix" alt="冬の星空と草原の絵画" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg?v=20260720fix" alt="冬の星空草原絵画" width="480" />
 
 #### Description
 
-柔らかい青緑色のイラストで、年老いた女性が冬の草原に太陽を描いている様子が描かれています。
+柔らかい青緑色のイラストで、冬の草原で太陽を描く年老いた女性が描かれています。
 
 #### Prompt
 
@@ -1124,7 +1142,7 @@ This heartwarming panoramic picture book illustration uses soft cyan-green tones
 
 #### Description
 
-既存のスケッチの前景の道に、歩くキャラクターが追加されています。
+既存のスケッチの前景の小道に、歩くキャラクターが追加されています。
 
 #### Prompt
 
@@ -1142,7 +1160,7 @@ Based on the sketch, add a walking character on the foreground path…
 
 #### Description
 
-スケッチされたビデオゲーム環境の、高品質にレンダリングされた4つのバージョンです。
+スケッチされたビデオゲーム環境の、高品質レンダリング版が4点あります。
 
 #### Prompt
 
@@ -1150,17 +1168,17 @@ Based on the sketch, add a walking character on the foreground path…
 Please transform this sketch into 4 high-quality finished images of a game scene with……
 ```
 
-### No. 5: 画像とパレットの入力
+### No. 5: 画像とパレット入力
 
 - **Category:** `Illustration`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V17FbQ8QroJsnvxfSFocD2nrnlf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V17FbQ8QroJsnvxfSFocD2nrnlf.jpg?v=20260720fix" alt="画像とパレットの入力" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V17FbQ8QroJsnvxfSFocD2nrnlf.jpg?v=20260720fix" alt="画像とパレット入力" width="480" />
 
 #### Description
 
-オリジナル画像と提供されたカラーパレットの参考を併せて処理します。
+元の画像と提供されたカラーパレットの参考画像を一緒に処理してください。
 
 #### Prompt
 
@@ -1178,7 +1196,7 @@ Input Original Image + Color Palette Reference
 
 #### Description
 
-季節のブランチポスター用に、食品を描画スタイルに変換しラベルを付けます。
+季節のブランチポスター用に、食品を描画スタイルに変換し、ラベルを付けてください。
 
 #### Prompt
 
@@ -1200,7 +1218,7 @@ Place the foods from the images on the same table and transform them into a hand
 
 #### Description
 
-巨大な古代中国の女神像の正面、側面、背面を示す正投影図です。
+巨大な彫刻の古代中国の女神像の正面、側面、背面を示す正投影図です。
 
 #### Prompt
 
@@ -1208,13 +1226,13 @@ Place the foods from the images on the same table and transform them into a hand
 Standard three-view orthographic turntable: front view, side view, back view, of a giant ancient Chinese goddess stone statue with an intricately carved stone headpiece and…
 ```
 
-### No. 2: 三面図 ソビエトの郵便配達用自転車
+### No. 2: 三面図 ソビエト郵便配達員自転車
 
 - **Category:** `Character Design`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix" alt="三面図 ソビエトの郵便配達用自転車" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix" alt="三面図 ソビエト郵便配達員自転車" width="480" />
 
 #### Description
 
@@ -1226,17 +1244,17 @@ Standard three-view orthographic turntable: front view, side view, back view, of
 Generate a three-view of a Soviet-era postal messenger bicycle…
 ```
 
-### No. 3: サイバーパンクのハッカー少女 RIN キャラクターシート
+### No. 3: サイバーパンクハッカー少女 RIN キャラクターシート
 
 - **Category:** `Character Design`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix" alt="サイバーパンクのハッカー少女 RIN キャラクターシート" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix" alt="サイバーパンクハッカー少女 RIN キャラクターシート" width="480" />
 
 #### Description
 
-アニメ風のサイバーパンクハッカーキャラクターの複数のビューと詳細を特徴とするデザインシートです。
+アニメスタイルのサイバーパンクハッカーキャラクターの複数のビューと詳細を特徴とするデザインシートです。
 
 #### Prompt
 
@@ -1248,13 +1266,13 @@ Cyberpunk-style anime character design sheet, showing three-view turnaround, clo
 
 ### Style Transfer (4)
 
-### No. 1: リアルなLEGOトイミニチュアシーン
+### No. 1: リアルなLEGOおもちゃミニチュアシーン
 
 - **Category:** `Style Transfer`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ0XbIE5vosDb5xw7PbcOl8Nnrc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ0XbIE5vosDb5xw7PbcOl8Nnrc.jpg?v=20260720fix" alt="リアルなLEGOトイミニチュアシーン" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ0XbIE5vosDb5xw7PbcOl8Nnrc.jpg?v=20260720fix" alt="リアルなLEGOおもちゃミニチュアシーン" width="480" />
 
 #### Description
 
@@ -1294,7 +1312,7 @@ Transform the image style into flat illustration style
 
 #### Description
 
-浮き彫りや成形された彫刻のように見えるように変更された画像です。
+浮き彫り表面を持つ、彫刻または成型された彫刻のように変更された画像です。
 
 #### Prompt
 
@@ -1312,7 +1330,7 @@ Change to relief sculpture style
 
 #### Description
 
-画像に、クラシックなFujifilm Natural Chrome（ネイチャルクローム）フィルムシミュレーションフィルターが適用されています。
+画像に、クラシックなFujifilm Natural Chromeフィルムシミュレーションフィルターが適用されています。
 
 #### Prompt
 
@@ -1324,13 +1342,13 @@ Add Fujifilm NC filter
 
 ### Outfit Transfer (2)
 
-### No. 1: Instagramストリートスタイルの着せ替え
+### No. 1: Instagramストリートスタイル 着こなし転送
 
 - **Category:** `Outfit Transfer`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg?v=20260720fix" alt="Instagramストリートスタイルの着せ替え" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg?v=20260720fix" alt="Instagramストリートスタイル 着こなし転送" width="480" />
 
 #### Description
 
@@ -1342,17 +1360,17 @@ Add Fujifilm NC filter
 Make the woman in Image 1 wear the clothing, jewelry, and accessories from Image 2. The whole photo should look like an Instagram street shot.
 ```
 
-### No. 2: 背景が統一されたウェディング衣装への置き換え
+### No. 2: 結婚衣装への置き換え（背景一貫）
 
 - **Category:** `Outfit Transfer`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix" alt="背景が統一されたウェディング衣装への置き換え" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix" alt="結婚衣装への置き換え（背景一貫）" width="480" />
 
 #### Description
 
-写真に写る二人がウェディング衣装を着ており、背景と照明が一致しています。
+写真に写る二人が結婚衣装を着ており、背景と照明が一致しています。
 
 #### Prompt
 
@@ -1374,7 +1392,7 @@ Replace the outfits of the two people in Image 1 with the wedding attire from Im
 
 #### Description
 
-被写体が鮮明になり、元の色が復元された古い写真です。
+被写体が明確になり、元の色が復元された古い写真です。
 
 #### Prompt
 
@@ -1386,17 +1404,17 @@ Restore this old photo, making the subject clearer and restoring colors
 
 ### Retouching (2)
 
-### No. 1: 逆光補正された画像
+### No. 1: 逆光補正済み画像
 
 - **Category:** `Retouching`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix" alt="逆光補正された画像" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix" alt="逆光補正済み画像" width="480" />
 
 #### Description
 
-逆光の照明を修正するために露出が改善された、同じ画像です。
+逆光の照明を修正するために露出が改善された同じ画像です。
 
 #### Prompt
 
@@ -1404,17 +1422,17 @@ Restore this old photo, making the subject clearer and restoring colors
 Keep the image unchanged and correct the backlighting.
 ```
 
-### No. 2: より強いナチュラルメイク
+### No. 2: より強いナチュラルメイクルック
 
 - **Category:** `Retouching`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DjRPbepoGoVP4KxitW3cK1WhnIp.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DjRPbepoGoVP4KxitW3cK1WhnIp.jpg?v=20260720fix" alt="より強いナチュラルメイク" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DjRPbepoGoVP4KxitW3cK1WhnIp.jpg?v=20260720fix" alt="より強いナチュラルメイクルック" width="480" />
 
 #### Description
 
-全体的には自然に見える、異なる、より強いメイクスタイルです。
+全体的には自然に見える、異なるより強いメイクスタイルです。
 
 #### Prompt
 
@@ -1436,7 +1454,7 @@ Change to a different makeup look with stronger intensity while keeping the over
 
 #### Description
 
-メガネを外した人物が、大きくウェーブのかかった、下ろした髪型になっています。
+メガネを外した人物が、大きくウェーブのかかったロングヘアに変わっています。
 
 #### Prompt
 
@@ -1454,7 +1472,7 @@ Remove glasses, change hairstyle to large wavy hair worn down
 
 #### Description
 
-ラグドール種の子猫の、1インチの証明写真用ポートレートです。
+ラグドール種の子猫の1インチ証明写真ポートレートです。
 
 #### Prompt
 
@@ -1462,13 +1480,13 @@ Remove glasses, change hairstyle to large wavy hair worn down
 Generate a 1-inch ID photo for this Ragdoll kitten
 ```
 
-### No. 3: 女性単身の証明写真
+### No. 3: 女性単身証明写真
 
 - **Category:** `ID Photo`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Orbxbu6HQosMb0xxgVJca592nhd.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Orbxbu6HQosMb0xxgVJca592nhd.jpg?v=20260720fix" alt="女性単身の証明写真" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Orbxbu6HQosMb0xxgVJca592nhd.jpg?v=20260720fix" alt="女性単身証明写真" width="480" />
 
 #### Description
 
@@ -1484,17 +1502,17 @@ Generate a solo ID photo for the woman
 
 ### Creative Fun (4)
 
-### No. 1: 悪魔の歯を見せたニヤリ笑い
+### No. 1: 悪魔の歯を見せたドヤ顔
 
 - **Category:** `Creative Fun`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix" alt="悪魔の歯を見せたニヤリ笑い" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix" alt="悪魔の歯を見せたドヤ顔" width="480" />
 
 #### Description
 
-人物が悪魔の歯を見せてニヤリと笑い、下にテキストが表示されています。
+人物が悪魔の歯を見せてドヤ顔で細目になり、下にテキストが表示されています。
 
 #### Prompt
 
@@ -1520,17 +1538,17 @@ Change expression to a smug grin, eyes squinting into crescents with devil teeth
 Da Vinci and Van Gogh facing the camera making peace signs, with Michelangelo photobombing from behind them…
 ```
 
-### No. 3: 都市のスカイラインを背景にしたアイスクリームコーン
+### No. 3: 都市のスカイラインとアイスクリームコーン
 
 - **Category:** `Creative Fun`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix" alt="都市のスカイラインを背景にしたアイスクリームコーン" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix" alt="都市のスカイラインとアイスクリームコーン" width="480" />
 
 #### Description
 
-都市のスカイラインと青空を背景に、手がアイスクリームコーンを持っています。
+青空と都市のスカイラインを背景に、手がアイスクリームコーンを持っています。
 
 #### Prompt
 
@@ -1548,7 +1566,7 @@ A hand is holding an ice cream cone, with a city skyline and a clear blue sky in
 
 #### Description
 
-青い毛皮の頭が、毛糸玉とブロックの近くで光を反射する泡を観察しています。
+青い毛皮の頭が、毛糸玉とブロックの近くで光を反射する泡を観察しているシュールな情景です。
 
 #### Prompt
 
@@ -1560,13 +1578,13 @@ Red box: a giant blue-furred head with a comically squeezed expression, looking 
 
 ### Stickers (1)
 
-### No. 1: 漫画風感情ステッカーパック
+### No. 1: 漫画感情ステッカーパック
 
 - **Category:** `Stickers`
 - **Language:** `ja`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix" alt="漫画風感情ステッカーパック" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix" alt="漫画感情ステッカーパック" width="480" />
 
 #### Description
 
@@ -1599,4 +1617,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-20T19:02:48.108Z
+> This README is auto-generated. 2026-07-20T19:48:38.457Z

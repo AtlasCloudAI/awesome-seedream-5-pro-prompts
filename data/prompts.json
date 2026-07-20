@@ -964,5 +964,19 @@
     "source_link": "",
     "language": "en",
     "featured": false
+  },
+  {
+    "id": "sd5pro_070",
+    "sort_order": 70,
+    "title": "Replace Photos At Points",
+    "description": "Replace specific points in Image 1 with photos from Images 2, 3, 4, and 5.",
+    "prompt": "Point and bounding box selection: Image 1 <point>518 135</point> replace photo with Image 2; Image 1 <point>556 349</point> replace photo with Image 3; Image 1 <point>549 555</point> replace photo with Image 4; Image 1 <point>632 784</point> replace photo with Image 5.",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg?v=20260720fix",
+    "author_name": "community",
+    "source_platform": "community",
+    "source_link": "",
+    "language": "en",
+    "featured": false
   }
 ]

@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-69%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-70%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,16 +90,16 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **69** |
+| Total Prompts | **70** |
 | Categories | **18** |
-| Preview Images | **69** |
-| Last Updated | **2026-07-20T19:02:48.114Z** |
+| Preview Images | **70** |
+| Last Updated | **2026-07-20T19:48:38.466Z** |
 
 ## 🏷️ Browse by Category
 
 - [`Infographic`](#category-1): **6**
 - [`Slides & Presentation`](#category-2): **5**
-- [`Poster Design`](#category-3): **9**
+- [`Poster Design`](#category-3): **10**
 - [`Brand Design`](#category-4): **2**
 - [`Interior Design`](#category-5): **3**
 - [`E-commerce`](#category-6): **4**
@@ -128,7 +128,7 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 #### Description
 
-رسم بياني معلوماتي يوضح عدد الوفيات السنوية للصحفيين من 2006 إلى 2013، بإجمالي 593 حالة.
+رسم بياني معلوماتي يوضح عدد الوفيات السنوية للصحفيين من عام 2006 إلى 2013، بإجمالي 593 حالة.
 
 #### Prompt
 
@@ -136,13 +136,13 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAFETY OF JOURNALISTS; annual data on journalist fatalities 2006-2013: 70 in 2006, 59 in 2007, 46 in 2008, 77 in 2009, 65 in 2010, 62 in 2011, 123 in 2012, 91 in 2013, totaling 593 cases, averaging 1 death per week; supplement with background factors affecting journalist safety.
 ```
 
-### No. 2: سرد رحلة محطة تشينلينغ في أنتاركتيكا
+### No. 2: سجل رحلة محطة تشينلينغ في أنتاركتيكا
 
 - **Category:** `Infographic`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="سرد رحلة محطة تشينلينغ في أنتاركتيكا" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="سجل رحلة محطة تشينلينغ في أنتاركتيكا" width="480" />
 
 #### Description
 
@@ -164,7 +164,7 @@ An infographic visualizing the chronicle of Antarctica's Qinling Station expedit
 
 #### Description
 
-عرض تقديمي يلخص الاختلافات وأفضل الممارسات لأوامر النصوص للغة، الصور، وتوليد الفيديو.
+عرض تقديمي يلخص الاختلافات وأفضل الممارسات لأوامر النصوص (LLM)، وتوليد الصور والفيديو.
 
 #### Prompt
 
@@ -182,7 +182,7 @@ Based on collected prompt guide trends, create a presentation summarizing the di
 
 #### Description
 
-رسم بياني معلوماتي فلكي يشرح اللون الأحمر للقمر أثناء الخسوف الكلي.
+رسم بياني معلوماتي فلكي يشرح سبب اللون الأحمر للقمر خلال الخسوف الكلي للقمر.
 
 #### Prompt
 
@@ -208,17 +208,17 @@ Generate an astronomy infographic explaining: Why is the moon red during a total
 Annotated diagram of beef cuts…
 ```
 
-### No. 6: دليل المبتدئين لمراقبة الطيور - رسم معلوماتي
+### No. 6: دليل مصور للمبتدئين في مراقبة الطيور
 
 - **Category:** `Infographic`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="دليل المبتدئين لمراقبة الطيور - رسم معلوماتي" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="دليل مصور للمبتدئين في مراقبة الطيور" width="480" />
 
 #### Description
 
-رسم معلوماتي بتصميم شبكي يعرض ثمانية أنواع شائعة من الطيور مع رسوم توضيحية وأسماء.
+رسم بياني معلوماتي بتصميم شبكي يعرض ثمانية أنواع شائعة من الطيور مع رسوم توضيحية وأسماء.
 
 #### Prompt
 
@@ -278,7 +278,7 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 
 #### Description
 
-رسم بياني معلوماتي يوضح عدد الوفيات السنوية للصحفيين من 2006 إلى 2013، بإجمالي 593 حالة.
+رسم بياني معلوماتي يوضح عدد الوفيات السنوية للصحفيين من عام 2006 إلى 2013، بإجمالي 593 حالة.
 
 #### Prompt
 
@@ -286,13 +286,13 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAFETY OF JOURNALISTS; annual data on journalist fatalities 2006-2013: 70 in 2006, 59 in 2007, 46 in 2008, 77 in 2009, 65 in 2010, 62 in 2011, 123 in 2012, 91 in 2013, totaling 593 cases, averaging 1 death per week; supplement with background factors affecting journalist safety.
 ```
 
-### No. 2: سرد رحلة محطة تشينلينغ في أنتاركتيكا
+### No. 2: سجل رحلة محطة تشينلينغ في أنتاركتيكا
 
 - **Category:** `Infographic`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="سرد رحلة محطة تشينلينغ في أنتاركتيكا" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="سجل رحلة محطة تشينلينغ في أنتاركتيكا" width="480" />
 
 #### Description
 
@@ -314,7 +314,7 @@ An infographic visualizing the chronicle of Antarctica's Qinling Station expedit
 
 #### Description
 
-عرض تقديمي يلخص الاختلافات وأفضل الممارسات لأوامر النصوص للغة، الصور، وتوليد الفيديو.
+عرض تقديمي يلخص الاختلافات وأفضل الممارسات لأوامر النصوص (LLM)، وتوليد الصور والفيديو.
 
 #### Prompt
 
@@ -332,7 +332,7 @@ Based on collected prompt guide trends, create a presentation summarizing the di
 
 #### Description
 
-رسم بياني معلوماتي فلكي يشرح اللون الأحمر للقمر أثناء الخسوف الكلي.
+رسم بياني معلوماتي فلكي يشرح سبب اللون الأحمر للقمر خلال الخسوف الكلي للقمر.
 
 #### Prompt
 
@@ -358,17 +358,17 @@ Generate an astronomy infographic explaining: Why is the moon red during a total
 Annotated diagram of beef cuts…
 ```
 
-### No. 6: دليل المبتدئين لمراقبة الطيور - رسم معلوماتي
+### No. 6: دليل مصور للمبتدئين في مراقبة الطيور
 
 - **Category:** `Infographic`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="دليل المبتدئين لمراقبة الطيور - رسم معلوماتي" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="دليل مصور للمبتدئين في مراقبة الطيور" width="480" />
 
 #### Description
 
-رسم معلوماتي بتصميم شبكي يعرض ثمانية أنواع شائعة من الطيور مع رسوم توضيحية وأسماء.
+رسم بياني معلوماتي بتصميم شبكي يعرض ثمانية أنواع شائعة من الطيور مع رسوم توضيحية وأسماء.
 
 #### Prompt
 
@@ -426,7 +426,7 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 
 #### Description
 
-صفحة غلاف تتميز بأعمال الخطوط، المساحات السلبية، وملمس الأكريليك ثلاثي الأبعاد بأسلوب تقني.
+صفحة غلاف تتميز بأعمال خطية، مساحات سلبية، وملمس أكريليك ثلاثي الأبعاد بأسلوب تقني.
 
 #### Prompt
 
@@ -472,7 +472,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 <a id="category-3"></a>
 
-### Poster Design (9)
+### Poster Design (10)
 
 ### No. 1: ملصق بأسلوب Y2K اللطيف مع ملمس الهلام
 
@@ -502,7 +502,7 @@ Create a poster based on my sketch. I want a Y2K cute style with transparent jel
 
 #### Description
 
-ملصق تصميمي متقدم باستخدام كولاج وتخطيط طباعي محدد مع موضوع رئيسي جديد.
+ملصق تصميمي متقدم باستخدام تخطيط طباعي محدد مع موضوع رئيسي جديد.
 
 #### Prompt
 
@@ -520,7 +520,7 @@ Using the typography and layout from Image 1, generate a design-forward marketin
 
 #### Description
 
-ملصق بأسلوب الخيال العلمي بتكوين قطري ونقطة تركيز في المركز-الأسفل.
+ملصق بأسلوب الخيال العلمي بتكوين قطري ونقطة تركيز في المنتصف-الأسفل.
 
 #### Prompt
 
@@ -538,7 +538,7 @@ Sci-fi style, poster design, diagonal composition. Center-bottom of the frame…
 
 #### Description
 
-ملصق بسيط لمهرجان Barrie الموسقي على خلفية سوداء.
+ملصق بسيط لمهرجان Barrie الموسيقي على خلفية سوداء.
 
 #### Prompt
 
@@ -546,17 +546,17 @@ Sci-fi style, poster design, diagonal composition. Center-bottom of the frame…
 Minimalist music festival poster titled "Barrie." The composition features a predominantly black background…
 ```
 
-### No. 5: ملصق تعريض مزدوج لصورة ظلية
+### No. 5: ملصق تعريض مزدوج بصورة ظلية
 
 - **Category:** `Poster Design`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/JPybbJoFhocpoBx4JXTcjuthn6b.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/JPybbJoFhocpoBx4JXTcjuthn6b.jpg?v=20260720fix" alt="ملصق تعريض مزدوج لصورة ظلية" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/JPybbJoFhocpoBx4JXTcjuthn6b.jpg?v=20260720fix" alt="ملصق تعريض مزدوج بصورة ظلية" width="480" />
 
 #### Description
 
-ملصق لفيلم تشويق يظهر صورة ظلية لشخصية بتعريض مزدوج.
+ملصق لفيلم تشويق يظهر صورة ظلية بتعريض مزدوج.
 
 #### Prompt
 
@@ -564,17 +564,17 @@ Minimalist music festival poster titled "Barrie." The composition features a pre
 Double exposure portrait silhouette suspense film poster…
 ```
 
-### No. 6: ملصق مستقبلي لفعالية موسيقية بعنوان PIGITAL TSUNAMI
+### No. 6: ملصق مستقبلي لحدث موسيقي بعنوان PIGITAL TSUNAMI
 
 - **Category:** `Poster Design`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg?v=20260720fix" alt="ملصق مستقبلي لفعالية موسيقية بعنوان PIGITAL TSUNAMI" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg?v=20260720fix" alt="ملصق مستقبلي لحدث موسيقي بعنوان PIGITAL TSUNAMI" width="480" />
 
 #### Description
 
-ملصق لفعالية موسيقية بأسلوب مستقبلي بعنوان PIGITAL TSUNAMI.
+ملصق لحدث موسيقي بأسلوب مستقبلي بعنوان PIGITAL TSUNAMI.
 
 #### Prompt
 
@@ -582,17 +582,17 @@ Double exposure portrait silhouette suspense film poster…
 Futurist style music event poster titled "PIGITAL TSUNAMI"…
 ```
 
-### No. 7: Sweet Sunlight - طباعة قديمة
+### No. 7: Sweet Sunlight بتصميم طباعي كلاسيكي
 
 - **Category:** `Poster Design`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg?v=20260720fix" alt="Sweet Sunlight - طباعة قديمة" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg?v=20260720fix" alt="Sweet Sunlight بتصميم طباعي كلاسيكي" width="480" />
 
 #### Description
 
-تصميم بعنوان Sweet Sunlight بخط آلة كاتبة قديم داخل مربع محيط.
+تصميم بعنوان Sweet Sunlight بخط آلة كاتبة كلاسيكي داخل مربع محيط.
 
 #### Prompt
 
@@ -600,17 +600,17 @@ Futurist style music event poster titled "PIGITAL TSUNAMI"…
 Bounding box on title - "Sweet Sunlight", use vintage typewriter font
 ```
 
-### No. 8: جدول محتويات باللون البنفسجي الداكن
+### No. 8: جدول محتويات Deep Purple
 
 - **Category:** `Poster Design`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix" alt="جدول محتويات باللون البنفسجي الداكن" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix" alt="جدول محتويات Deep Purple" width="480" />
 
 #### Description
 
-تصميم بنص كبير باللون البنفسجي الداكن مكتوب عليه TABLE OF CONTENTS وقائمة مفردات.
+تصميم بنص كبير باللون البنفسجي الغامق مكتوب عليه TABLE OF CONTENTS وقائمة مفردات.
 
 #### Prompt
 
@@ -636,21 +636,39 @@ Generate in the style of Image 1: large deep purple text on the left reading "TA
 Referencing this poster design, create a derivative creative poster for the "Don't Want to Work" series with different copy and visuals
 ```
 
+### No. 10: استبدل الصور عند النقاط
+
+- **Category:** `Poster Design`
+- **Language:** `ar`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg?v=20260720fix" alt="استبدل الصور عند النقاط" width="480" />
+
+#### Description
+
+استبدل نقاطًا محددة في الصورة 1 بصور من الصور 2 و 3 و 4 و 5.
+
+#### Prompt
+
+```text
+Point and bounding box selection: Image 1 <point>518 135</point> replace photo with Image 2; Image 1 <point>556 349</point> replace photo with Image 3; Image 1 <point>549 555</point> replace photo with Image 4; Image 1 <point>632 784</point> replace photo with Image 5.
+```
+
 <a id="category-4"></a>
 
 ### Brand Design (2)
 
-### No. 1: تصميم هوية بصرية بسيط للثعلب الأزرق
+### No. 1: تصميم هوية بصرية بسيط لـ Blue Fox
 
 - **Category:** `Brand Design`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix" alt="تصميم هوية بصرية بسيط للثعلب الأزرق" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix" alt="تصميم هوية بصرية بسيط لـ Blue Fox" width="480" />
 
 #### Description
 
-عرض للهوية البصرية للعلامة التجارية بأسلوب بسيط باستخدام اللون الأزرق الكلايني والفضي مع رسم للثعلب والشعار.
+عرض للهوية البصرية للعلامة التجارية بأسلوب بسيط بألوان الكلين الأزرق والفضي، مع رسم ثعلب وشعار.
 
 #### Prompt
 
@@ -668,7 +686,7 @@ Minimalist brand VI design showcase, featuring Klein blue and silver as primary 
 
 #### Description
 
-إعلان سريالي يدمج منتجًا في مشهد مصغر من الحياة اليومية مع معلومات المنتج.
+إعلان سريالي يدمج منتجًا في مشهد مصغر لحياتية مع معلومات المنتج.
 
 #### Prompt
 
@@ -716,17 +734,17 @@ Refer to the interior design style and color palette in the image, and generate 
 Change color palette. Input image + color palette reference
 ```
 
-### No. 3: تكوين طبيعة صامتة واقعية
+### No. 3: تأليف طبيعة صامتة واقعية
 
 - **Category:** `Interior Design`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HMCjbkxHGodE7dxtjgGckx9Tnof.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HMCjbkxHGodE7dxtjgGckx9Tnof.jpg?v=20260720fix" alt="تكوين طبيعة صامتة واقعية" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HMCjbkxHGodE7dxtjgGckx9Tnof.jpg?v=20260720fix" alt="تأليف طبيعة صامتة واقعية" width="480" />
 
 #### Description
 
-تأليف سبعة أشياء في صورة فوتوغرافية بدقة في المواد والإضاءة.
+رتب سبعة أشياء في صورة فوتوغرافية بدقة في المواد والإضاءة.
 
 #### Prompt
 
@@ -748,7 +766,7 @@ Precisely cut out the 7 white-background objects I provided and compose them int
 
 #### Description
 
-بانر للتجارة الإلكترونية لـ RESHAKE يظهر عارضًا ذكورًا يروج لسترات الشتاء الواقية.
+بانر للتجارة الإلكترونية لـ RESHAKE يظهر عارضًا ذكرًا يروج لسترات الشتاء الواقية.
 
 #### Prompt
 
@@ -756,17 +774,17 @@ Precisely cut out the 7 white-background objects I provided and compose them int
 Generate an e-commerce banner for RESHAKE brand's 2016 winter down jacket collection promotional campaign. On the right side of the frame, a male model facing the camera with a cool, intense expression…
 ```
 
-### No. 2: واجهة بطلة للتجارة الإلكترونية للحيوانات الأليفة مع غروب الشمس
+### No. 2: واجهة بطل للتجارة الإلكترونية للحيوانات الأليفة بغروب الشمس
 
 - **Category:** `E-commerce`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix" alt="واجهة بطلة للتجارة الإلكترونية للحيوانات الأليفة مع غروب الشمس" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix" alt="واجهة بطل للتجارة الإلكترونية للحيوانات الأليفة بغروب الشمس" width="480" />
 
 #### Description
 
-قسم بطولي دافئ الألوان للتجارة الإلكترونية يظهر كلبًا ذهبيًا ثلاثي الأبعاد تخترق كفوفه الإطار لتصل إلى أزرار التنقل.
+قسم رئيسي للتجارة الإلكترونية بألوان دافئة يظهر كلبًا من نوع جولدن ريتريفر ثلاثي الأبعاد تخترق كفوفه الإطار لتصل إلى أزرار التنقل.
 
 #### Prompt
 
@@ -784,7 +802,7 @@ Generate an e-commerce banner for RESHAKE brand's 2016 winter down jacket collec
 
 #### Description
 
-صورة مصقولة وواقعية لقطعة ملابس مبنية على رسم تخطيطي أصلي لمصمم.
+صورة مصقولة وواقعية لقطعة ملابس مبنية على رسم تخطيطي أصلي للمصمم.
 
 #### Prompt
 
@@ -802,7 +820,7 @@ Please transform this fashion design sketch into a high-quality finished product
 
 #### Description
 
-أنشئ تصميمًا باستخدام صورة مُدخَلة ومرجع لوحة ألوان.
+أنشئ تصميمًا باستخدام صورة إدخال ومرجع لوحة ألوان.
 
 #### Prompt
 
@@ -814,17 +832,17 @@ E-commerce design. Input image + color palette reference
 
 ### Comic & Storyboard (4)
 
-### No. 1: لوحة قصص مانجا سينين يابانية لمطاردة ليلية
+### No. 1: لوحة قصص مانغا يابانية من نوع سينين لمطاردة ليلية
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix" alt="لوحة قصص مانجا سينين يابانية لمطاردة ليلية" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix" alt="لوحة قصص مانغا يابانية من نوع سينين لمطاردة ليلية" width="480" />
 
 #### Description
 
-لوحة قصص مانجا بالأبيض والأسود تصور مطاردة سيارة ليلية وفتاة مسلحة في المطاردة.
+لوحة قصص مانغا بالأبيض والأسود تصور مطاردة سيارة ليلية وفتاة مسلحة في المطاردة.
 
 #### Prompt
 
@@ -832,17 +850,17 @@ E-commerce design. Input image + color palette reference
 Generate a full-page Japanese seinen black-and-white manga storyboard, nighttime chase and gunfight theme. Top panel: a car under headlights and chain-link fencing in the dark night; middle: a girl armed with a gun in pursuit…
 ```
 
-### No. 2: قصة مصورة للحياة اليومية للفرو ليلاً
+### No. 2: مانجا شريحة من الحياة الليلية للشخصيات ذات الفراء
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix" alt="قصة مصورة للحياة اليومية للفرو ليلاً" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix" alt="مانجا شريحة من الحياة الليلية للشخصيات ذات الفراء" width="480" />
 
 #### Description
 
-قصة مصورة عمودية من أربع لوحات تظهر كلبًا ذئبيًا وقطة في غرفة ليلاً.
+مانجا عمودية من أربع لوحات تظهر كلبًا ذئبيًا وقطةً في غرفة ليلاً.
 
 #### Prompt
 
@@ -850,17 +868,17 @@ Generate a full-page Japanese seinen black-and-white manga storyboard, nighttime
 Draw a vertical four-panel furry slice-of-life comic, set in a room at night, featuring a wolf-dog furry and a tabby cat furry…
 ```
 
-### No. 3: قصة مصورة رعب أمريكية في زقاق غوثام
+### No. 3: مانجا رعب أمريكية في زقاق غوثام
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix" alt="قصة مصورة رعب أمريكية في زقاق غوثام" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix" alt="مانجا رعب أمريكية في زقاق غوثام" width="480" />
 
 #### Description
 
-لوحات قصصية في زقاق بمدينة غوثام تنقل أسلوب قصة الرعب الأمريكية المصورة.
+لوحات قصص في زقاق بمدينة غوثام تنقل أسلوب مانجا الرعب الأمريكية.
 
 #### Prompt
 
@@ -890,17 +908,17 @@ Top image: two dogs pressing their faces together with playful expressions, capt
 
 ### Film Storyboard (3)
 
-### No. 1: لوحة فيلم من ثلاث لوحات لموقف سيارات ليلاً
+### No. 1: لوحة قصص فيلم من ثلاث لوحات لموقف سيارات ليلاً
 
 - **Category:** `Film Storyboard`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix" alt="لوحة فيلم من ثلاث لوحات لموقف سيارات ليلاً" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix" alt="لوحة قصص فيلم من ثلاث لوحات لموقف سيارات ليلاً" width="480" />
 
 #### Description
 
-لوحة قصصية للفيلم تظهر موقف سيارات ليلاً عبر ثلاث لوحات أفقية.
+لوحة قصص فيلم تظهر موقف سيارات ليلاً عبر ثلاث لوحات أفقية.
 
 #### Prompt
 
@@ -908,17 +926,17 @@ Top image: two dogs pressing their faces together with playful expressions, capt
 Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establishing shot of a parking lot at night…
 ```
 
-### No. 2: لوحة قصصية من ست لوحات لمشهد شارع غربي
+### No. 2: لوحة قصص من ست لوحات لمشهد شارع غربي كلاسيكي
 
 - **Category:** `Film Storyboard`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix" alt="لوحة قصصية من ست لوحات لمشهد شارع غربي" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix" alt="لوحة قصص من ست لوحات لمشهد شارع غربي كلاسيكي" width="480" />
 
 #### Description
 
-لوحة قصصية أفقية عريضة من ست لوحات تصور مشهد شارع كلاسيكي من الغرب الأمريكي.
+لوحة قصص أفقية عريضة من ست لوحات تصور مشهد شارع غربي كلاسيكي.
 
 #### Prompt
 
@@ -926,17 +944,17 @@ Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establ
 Western film storyboard, 6 panels in wide horizontal ratio, no text throughout: Panel 1, extreme wide shot, both ends of the street…
 ```
 
-### No. 3: مشهد من الخيال الصيني القديم (شينشيا) بأسلوب الأنمي
+### No. 3: لوحة قصص بأسلوب الأنيمي لمشهد صيني قديم من نوع Xianxia
 
 - **Category:** `Film Storyboard`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix" alt="مشهد من الخيال الصيني القديم (شينشيا) بأسلوب الأنمي" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix" alt="لوحة قصص بأسلوب الأنيمي لمشهد صيني قديم من نوع Xianxia" width="480" />
 
 #### Description
 
-لوحة قصصية توضح مشهدًا من الخيال الصيني القديم (شينشيا) بأسلوب فن الأنمي.
+لوحة قصص توضح مشهدًا صينيًا قديمًا من نوع Xianxia بأسلوب فن الأنيمي.
 
 #### Prompt
 
@@ -958,7 +976,7 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 #### Description
 
-لقطة من فوق الكتف لامرأة ذات شعر بني تبدو حزينة، في حوالي الأربعين من العمر.
+لقطة من فوق الكتف لامرأة بنية الشعر تبدو حزينة، في حوالي الأربعين من عمرها.
 
 #### Prompt
 
@@ -966,13 +984,13 @@ Anime-style ancient Chinese xianxia scene storyboard…
 Over-the-shoulder shot, featuring a brown-haired European or American woman around 40 years old with a sad expression…
 ```
 
-### No. 2: سوار بشوكات معدنية سوداء شائكة
+### No. 2: سوار بشوكات معدنية سوداء
 
 - **Category:** `Portrait`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix" alt="سوار بشوكات معدنية سوداء شائكة" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix" alt="سوار بشوكات معدنية سوداء" width="480" />
 
 #### Description
 
@@ -984,17 +1002,17 @@ Over-the-shoulder shot, featuring a brown-haired European or American woman arou
 Modify the image according to the text requirements in the image: bracelet with metallic black thorn spikes, hands pointing to 12 o'clock sharp
 ```
 
-### No. 3: صورة شخصية بكاميرا هاسيلبلاد الفيلمية مع إضاءة هامشية
+### No. 3: صورة شخصية بكاميرا Hasselblad الفيلمية مع إضاءة هامشية
 
 - **Category:** `Portrait`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix" alt="صورة شخصية بكاميرا هاسيلبلاد الفيلمية مع إضاءة هامشية" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix" alt="صورة شخصية بكاميرا Hasselblad الفيلمية مع إضاءة هامشية" width="480" />
 
 #### Description
 
-صورة شخصية بملمس حبيبات الفيلم، وإضاءة هامشية درامية، وإبرازات ساطعة على الوجه.
+صورة شخصية ذات نسيج حبيبات الفيلم، وإضاءة هامشية درامية، وإبرازات ساطعة على الوجه.
 
 #### Prompt
 
@@ -1002,17 +1020,17 @@ Modify the image according to the text requirements in the image: bracelet with 
 Hasselblad film texture, light and shadow, rim light, (facial overexposure)…
 ```
 
-### No. 4: شبكة صور شخصية سينمائية صيفية سردية
+### No. 4: شبكة صور سردية سينمائية صيفية
 
 - **Category:** `Portrait`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix" alt="شبكة صور شخصية سينمائية صيفية سردية" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix" alt="شبكة صور سردية سينمائية صيفية" width="480" />
 
 #### Description
 
-ثلاث صور شخصية بسيطة ونظيفة في شبكة، تحكي قصة صيفية دون مشتتات.
+ثلاث صور شخصية بسيطة ونظيفة في شبكة، تروي قصة صيفية دون مشتتات.
 
 #### Prompt
 
@@ -1030,7 +1048,7 @@ Remove all accessories, hairstyle, and background, generate a three-panel grid o
 
 #### Description
 
-صورة لكاميرا فورية من Fujifilm تنتج صورًا بأسلوب Polaroid.
+صورة لكاميرا Fujifilm فورية تنتج صورًا على طراز Polaroid.
 
 #### Prompt
 
@@ -1048,7 +1066,7 @@ Fujifilm camera Polaroid
 
 #### Description
 
-رجل طويل الشعر يرتدي ثوبًا كستنائيًا ونظارات شمسية يمسك قوس كمان بأسلوب المستقبلية الرجعية.
+رجل طويل الشعر يرتدي رداءً كستنائيًا ونظارات شمسية يمسك بقوس كمان بأسلوب المستقبلية الرجعية.
 
 #### Prompt
 
@@ -1066,7 +1084,7 @@ Retro-futurism style portrait photography, a middle-aged man with long hair wear
 
 #### Description
 
-إنشاء لقطة لجسم بالكامل بحركات محددة لليدين والساقين والدعائم.
+أنشئ لقطة لجسم كامل بحركات محددة لليدين والساقين والدعائم.
 
 #### Prompt
 
@@ -1078,17 +1096,17 @@ Generate a full-body shot of the person in Image 3, and adjust her pose so her r
 
 ### Illustration (6)
 
-### No. 1: زي مدرسي من كتاب صور فني
+### No. 1: كتاب فني مصور للزي المدرسي
 
 - **Category:** `Illustration`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg?v=20260720fix" alt="زي مدرسي من كتاب صور فني" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg?v=20260720fix" alt="كتاب فني مصور للزي المدرسي" width="480" />
 
 #### Description
 
-رسم توضيحي بانورامي لكتاب صور يصور بنطلون الزي المدرسي بأسلوب فني راقٍ.
+رسم توضيحي بانورامي لكتاب مصور يصور بنطلون الزي المدرسي بأسلوب فني راقٍ.
 
 #### Prompt
 
@@ -1124,7 +1142,7 @@ This heartwarming panoramic picture book illustration uses soft cyan-green tones
 
 #### Description
 
-تمت إضافة شخصية سائرة إلى المسار الأمامي لرسم تخطيطي موجود مسبقًا.
+تمت إضافة شخصية سائرة إلى مسار المقدمة في رسم تخطيطي موجود مسبقًا.
 
 #### Prompt
 
@@ -1142,7 +1160,7 @@ Based on the sketch, add a walking character on the foreground path…
 
 #### Description
 
-أربع نسخ مُصورة بجودة عالية من بيئة فيديو جيم مرسومة تخطيطيًا.
+أربع نسخ مُصورة بجودة عالية من بيئة لعبة فيديو مرسومة تخطيطيًا.
 
 #### Prompt
 
@@ -1160,7 +1178,7 @@ Please transform this sketch into 4 high-quality finished images of a game scene
 
 #### Description
 
-معالجة صورة أصلية إلى جانب مرجع لوحة ألوان مُقدَّم.
+معالجة صورة أصلية جنبًا إلى جنب مع مرجع لوحة ألوان مُقدم.
 
 #### Prompt
 
@@ -1168,17 +1186,17 @@ Please transform this sketch into 4 high-quality finished images of a game scene
 Input Original Image + Color Palette Reference
 ```
 
-### No. 6: ملصق برانش مرسوم باليد
+### No. 6: ملصق برانش مرسوم يدويًا
 
 - **Category:** `Illustration`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix" alt="ملصق برانش مرسوم باليد" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix" alt="ملصق برانش مرسوم يدويًا" width="480" />
 
 #### Description
 
-تحويل الأطعمة إلى أسلوب رسومي مع تسميات لملصق برانش موسمي.
+حوّل الأطعمة إلى أسلوب رسومي مع تسميات لملصق برانش موسمي.
 
 #### Prompt
 
@@ -1190,17 +1208,17 @@ Place the foods from the images on the same table and transform them into a hand
 
 ### Character Design (3)
 
-### No. 1: تمثال إلهة قديمة بثلاث مناظر
+### No. 1: تمثال إلهة قديمة بثلاثة أوضاع
 
 - **Category:** `Character Design`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg?v=20260720fix" alt="تمثال إلهة قديمة بثلاث مناظر" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg?v=20260720fix" alt="تمثال إلهة قديمة بثلاثة أوضاع" width="480" />
 
 #### Description
 
-مناظر إسقاطية متعامدة تُظهر الواجهة الأمامية والجانبية والخلفية لتمثال إلهة صينية قديمة منحوتة عملاق.
+عروض إسقاطية (أورثوغرافيك) تُظهر المنظر الأمامي والجانبي والخلفي لتمثال إلهة صينية قديمة عملاق منحوت.
 
 #### Prompt
 
@@ -1208,17 +1226,17 @@ Place the foods from the images on the same table and transform them into a hand
 Standard three-view orthographic turntable: front view, side view, back view, of a giant ancient Chinese goddess stone statue with an intricately carved stone headpiece and…
 ```
 
-### No. 2: دراجة ساعي بريد سوفيتي قديم بثلاث مناظر
+### No. 2: دراجة ساعي بريد سوفيتية بثلاثة أوضاع
 
 - **Category:** `Character Design`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix" alt="دراجة ساعي بريد سوفيتي قديم بثلاث مناظر" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix" alt="دراجة ساعي بريد سوفيتية بثلاثة أوضاع" width="480" />
 
 #### Description
 
-رسم تقني يظهر المناظر الأمامية والجانبية والعلوية لدراجة سوفيتية قديمة.
+رسم تقني يُظهر المنظر الأمامي والجانبي والعلوي لدراجة سوفيتية قديمة.
 
 #### Prompt
 
@@ -1226,17 +1244,17 @@ Standard three-view orthographic turntable: front view, side view, back view, of
 Generate a three-view of a Soviet-era postal messenger bicycle…
 ```
 
-### No. 3: ورقة تصميم شخصية RIN هاكر سيبربانك
+### No. 3: ورقة تصميم شخصية RIN الهاكر في عالم السايبربانك
 
 - **Category:** `Character Design`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix" alt="ورقة تصميم شخصية RIN هاكر سيبربانك" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix" alt="ورقة تصميم شخصية RIN الهاكر في عالم السايبربانك" width="480" />
 
 #### Description
 
-ورقة تصميم تعرض مناظر وتفاصيل متعددة لشخصية هاكر سيبربانك بأسلوب الأنمي.
+ورقة تصميم تحتوي على عدة مناظر وتفاصيل لشخصية هاكر سايبربانك على طراز الأنمي.
 
 #### Prompt
 
@@ -1266,17 +1284,17 @@ Cyberpunk-style anime character design sheet, showing three-view turnaround, clo
 Transform the image into a realistic LEGO toy effect with miniature scene styling.
 ```
 
-### No. 2: تحويل إلى أسلوب الرسم التوضيحي المسطح
+### No. 2: تحويل إلى أسلوب الرسم المسطح
 
 - **Category:** `Style Transfer`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg?v=20260720fix" alt="تحويل إلى أسلوب الرسم التوضيحي المسطح" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg?v=20260720fix" alt="تحويل إلى أسلوب الرسم المسطح" width="480" />
 
 #### Description
 
-صورة مُحوّلة إلى تصميم جرافيك حديث بأشكال بسيطة وألوان صلبة.
+صورة مُحوّلة إلى تصميم جرافيكي حديث بأشكال بسيطة وألوان صلبة.
 
 #### Prompt
 
@@ -1294,7 +1312,7 @@ Transform the image style into flat illustration style
 
 #### Description
 
-صورة مُعدّلة لتبدو كمنحوتة محفورة أو مسبوكة بأسطح مرتفعة.
+صورة مُعدّلة لتشبه نحتًا منحوتًا أو مسبوكًا بأسطح مرتفعة.
 
 #### Prompt
 
@@ -1324,17 +1342,17 @@ Add Fujifilm NC filter
 
 ### Outfit Transfer (2)
 
-### No. 1: نقل إطلالة ستايل شارع لإنستغرام
+### No. 1: نقل إطلالة ستايت ستايل لإنستغرام
 
 - **Category:** `Outfit Transfer`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg?v=20260720fix" alt="نقل إطلالة ستايل شارع لإنستغرام" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg?v=20260720fix" alt="نقل إطلالة ستايت ستايل لإنستغرام" width="480" />
 
 #### Description
 
-امرأة ترتدي ملابس وإكسسوارات امرأة أخرى بأسلوب تصوير شارع عارض وموضة.
+امرأة ترتدي ملابس وإكسسوارات امرأة أخرى بأسلوب تصوير الشارع العادي والعصري.
 
 #### Prompt
 
@@ -1352,7 +1370,7 @@ Make the woman in Image 1 wear the clothing, jewelry, and accessories from Image
 
 #### Description
 
-شخصان في صورة يرتديان ملابس زفاف مع خلفية وإضاءة متطابقتين.
+شخصان في صورة يرتديان ملابس الزفاف مع خلفية وإضاءة متطابقة.
 
 #### Prompt
 
@@ -1364,17 +1382,17 @@ Replace the outfits of the two people in Image 1 with the wedding attire from Im
 
 ### Restoration (1)
 
-### No. 1: صورة فوتوغرافية قديمة مُرممة
+### No. 1: صورة فوتوغرافية قديمة مُرمّمة
 
 - **Category:** `Restoration`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg?v=20260720fix" alt="صورة فوتوغرافية قديمة مُرممة" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg?v=20260720fix" alt="صورة فوتوغرافية قديمة مُرمّمة" width="480" />
 
 #### Description
 
-صورة فوتوغرافية قديمة تم توضيح الشخصية فيها وإحياء ألوانها الأصلية.
+صورة قديمة تم توضيح الشخصية فيها وإحياء ألوانها الأصلية.
 
 #### Prompt
 
@@ -1386,17 +1404,17 @@ Restore this old photo, making the subject clearer and restoring colors
 
 ### Retouching (2)
 
-### No. 1: صورة مُصححة من الإضاءة الخلفية
+### No. 1: صورة مُصحّحة من الإضاءة الخلفية
 
 - **Category:** `Retouching`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix" alt="صورة مُصححة من الإضاءة الخلفية" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix" alt="صورة مُصحّحة من الإضاءة الخلفية" width="480" />
 
 #### Description
 
-نفس الصورة مع تحسين التعريض الضوئي لتصحيح الإضاءة الخلفية.
+نفس الصورة مع تحسين التعريض الضوئي لإصلاح مشكلة الإضاءة الخلفية.
 
 #### Prompt
 
@@ -1436,7 +1454,7 @@ Change to a different makeup look with stronger intensity while keeping the over
 
 #### Description
 
-شخص تمت إزالة نظارته الآن لديه شعر كبير ومموج مرسل.
+شخص تمت إزالة نظارته لديه الآن شعر كبير مموج مرسل.
 
 #### Prompt
 
@@ -1444,17 +1462,17 @@ Change to a different makeup look with stronger intensity while keeping the over
 Remove glasses, change hairstyle to large wavy hair worn down
 ```
 
-### No. 2: صورة هوية لقط Ragdoll صغير
+### No. 2: صورة هوية لقط Ragdoll
 
 - **Category:** `ID Photo`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix" alt="صورة هوية لقط Ragdoll صغير" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix" alt="صورة هوية لقط Ragdoll" width="480" />
 
 #### Description
 
-صورة هوية بحجم بوصة واحدة لقط من سلالة Ragdoll.
+صورة هوية بحجم بوصة واحدة لقطة من سلالة Ragdoll.
 
 #### Prompt
 
@@ -1462,13 +1480,13 @@ Remove glasses, change hairstyle to large wavy hair worn down
 Generate a 1-inch ID photo for this Ragdoll kitten
 ```
 
-### No. 3: صورة هوية للمرأة بمفردها
+### No. 3: صورة هوية للمرأة وحدها
 
 - **Category:** `ID Photo`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Orbxbu6HQosMb0xxgVJca592nhd.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Orbxbu6HQosMb0xxgVJca592nhd.jpg?v=20260720fix" alt="صورة هوية للمرأة بمفردها" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Orbxbu6HQosMb0xxgVJca592nhd.jpg?v=20260720fix" alt="صورة هوية للمرأة وحدها" width="480" />
 
 #### Description
 
@@ -1502,17 +1520,17 @@ Generate a solo ID photo for the woman
 Change expression to a smug grin, eyes squinting into crescents with devil teeth showing at the corners of the mouth, add text "准备更坏" centered at the bottom of the image in white bold font.
 ```
 
-### No. 2: دا فنشي وفان غوخ يرفعان علامة السلام
+### No. 2: دا فنشي وفان غوخ يرفعان إشارة السلام
 
 - **Category:** `Creative Fun`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg?v=20260720fix" alt="دا فنشي وفان غوخ يرفعان علامة السلام" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg?v=20260720fix" alt="دا فنشي وفان غوخ يرفعان إشارة السلام" width="480" />
 
 #### Description
 
-دا فنشي وفان غوخ يرفعان علامة السلام بينما مايكل أنجلو يظهر خلفهما في الصورة.
+دا فنشي وفان غوخ يرفعان إشارة السلام بينما مايكل أنجلو يظهر خلفهما في الصورة فجأة.
 
 #### Prompt
 
@@ -1530,7 +1548,7 @@ Da Vinci and Van Gogh facing the camera making peace signs, with Michelangelo ph
 
 #### Description
 
-يد تمسك مخروط مثلجات على خلفية أفق مدينة وسماء زرقاء.
+يد تمسك بمثلجات مخروطية أمام خلفية أفق مدينة وسماء زرقاء.
 
 #### Prompt
 
@@ -1548,7 +1566,7 @@ A hand is holding an ice cream cone, with a city skyline and a clear blue sky in
 
 #### Description
 
-رأس أزرق الفراء يراقب فقاعة تعكس الضوء قرب كرة خيط ومكعبات.
+رأس ذو فراء أزرق يراقب فقاعة تعكس الضوء بالقرب من كرة خيوط ومكعبات.
 
 #### Prompt
 
@@ -1560,17 +1578,17 @@ Red box: a giant blue-furred head with a comically squeezed expression, looking 
 
 ### Stickers (1)
 
-### No. 1: حزمة ملصقات عاطفية كرتونية
+### No. 1: حزمة ملصقات كرتونية للتعبير عن المشاعر
 
 - **Category:** `Stickers`
 - **Language:** `ar`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix" alt="حزمة ملصقات عاطفية كرتونية" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix" alt="حزمة ملصقات كرتونية للتعبير عن المشاعر" width="480" />
 
 #### Description
 
-مجموعة ملصقات من أربع لوحات تظهر شخصية كرتونية تعبر عن مشاعر مختلفة.
+مجموعة ملصقات من أربع لوحات تظهر شخصية كرتونية تعبّر عن مشاعر مختلفة.
 
 #### Prompt
 
@@ -1599,4 +1617,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-20T19:02:48.114Z
+> This README is auto-generated. 2026-07-20T19:48:38.466Z

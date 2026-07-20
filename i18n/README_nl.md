@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-69%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-70%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,16 +90,16 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **69** |
+| Total Prompts | **70** |
 | Categories | **18** |
-| Preview Images | **69** |
-| Last Updated | **2026-07-20T19:02:48.115Z** |
+| Preview Images | **70** |
+| Last Updated | **2026-07-20T19:48:38.467Z** |
 
 ## 🏷️ Browse by Category
 
 - [`Infographic`](#category-1): **6**
 - [`Slides & Presentation`](#category-2): **5**
-- [`Poster Design`](#category-3): **9**
+- [`Poster Design`](#category-3): **10**
 - [`Brand Design`](#category-4): **2**
 - [`Interior Design`](#category-5): **3**
 - [`E-commerce`](#category-6): **4**
@@ -136,13 +136,13 @@ Een infographic toont het jaarlijkse aantal dodelijke slachtoffers onder journal
 Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAFETY OF JOURNALISTS; annual data on journalist fatalities 2006-2013: 70 in 2006, 59 in 2007, 46 in 2008, 77 in 2009, 65 in 2010, 62 in 2011, 123 in 2012, 91 in 2013, totaling 593 cases, averaging 1 death per week; supplement with background factors affecting journalist safety.
 ```
 
-### No. 2: Expeditieverslag van Antarctica Qinling Station
+### No. 2: Expeditieverslag van het Antarctica Qinling Station
 
 - **Category:** `Infographic`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="Expeditieverslag van Antarctica Qinling Station" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="Expeditieverslag van het Antarctica Qinling Station" width="480" />
 
 #### Description
 
@@ -154,13 +154,13 @@ Een infographic visualiseert de structuur van het station, een tijdlijn en verge
 An infographic visualizing the chronicle of Antarctica's Qinling Station expedition, with the station's main structure placed at the center; surrounded by a research development timeline, bar charts comparing the scale of five research stations, a pie chart of station energy sources, a line chart of monthly sunlight hours, supplemented by field photos of research equipment, a summer meteorology panel, a seven-step fieldwork workflow, and on-site sampling photography, comprehensively showcasing China's Antarctic research operations.
 ```
 
-### No. 3: Handleiding voor promptdesign voor AI-modellen
+### No. 3: Prompt Design Gids voor AI-modellen
 
 - **Category:** `Infographic`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix" alt="Handleiding voor promptdesign voor AI-modellen" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix" alt="Prompt Design Gids voor AI-modellen" width="480" />
 
 #### Description
 
@@ -226,13 +226,13 @@ Een infographic in rasteropstelling toont acht veelvoorkomende vogelsoorten met 
 Generate a beginner birdwatching guide infographic with a fresh color palette and grid layout, showcasing 8 common bird species with scientific illustrations, Chinese and English names, and identification features.
 ```
 
-### No. 7: Inhoudsopgave lancering nieuwe energie voertuig
+### No. 7: Inhoudsopgave lancering nieuw energieve voertuig
 
 - **Category:** `Slides & Presentation`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="Inhoudsopgave lancering nieuwe energie voertuig" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="Inhoudsopgave lancering nieuw energieve voertuig" width="480" />
 
 #### Description
 
@@ -286,13 +286,13 @@ Een infographic toont het jaarlijkse aantal dodelijke slachtoffers onder journal
 Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAFETY OF JOURNALISTS; annual data on journalist fatalities 2006-2013: 70 in 2006, 59 in 2007, 46 in 2008, 77 in 2009, 65 in 2010, 62 in 2011, 123 in 2012, 91 in 2013, totaling 593 cases, averaging 1 death per week; supplement with background factors affecting journalist safety.
 ```
 
-### No. 2: Expeditieverslag van Antarctica Qinling Station
+### No. 2: Expeditieverslag van het Antarctica Qinling Station
 
 - **Category:** `Infographic`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="Expeditieverslag van Antarctica Qinling Station" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="Expeditieverslag van het Antarctica Qinling Station" width="480" />
 
 #### Description
 
@@ -304,13 +304,13 @@ Een infographic visualiseert de structuur van het station, een tijdlijn en verge
 An infographic visualizing the chronicle of Antarctica's Qinling Station expedition, with the station's main structure placed at the center; surrounded by a research development timeline, bar charts comparing the scale of five research stations, a pie chart of station energy sources, a line chart of monthly sunlight hours, supplemented by field photos of research equipment, a summer meteorology panel, a seven-step fieldwork workflow, and on-site sampling photography, comprehensively showcasing China's Antarctic research operations.
 ```
 
-### No. 3: Handleiding voor promptdesign voor AI-modellen
+### No. 3: Prompt Design Gids voor AI-modellen
 
 - **Category:** `Infographic`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix" alt="Handleiding voor promptdesign voor AI-modellen" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix" alt="Prompt Design Gids voor AI-modellen" width="480" />
 
 #### Description
 
@@ -380,13 +380,13 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 
 ### Slides & Presentation (5)
 
-### No. 1: Inhoudsopgave lancering nieuwe energie voertuig
+### No. 1: Inhoudsopgave lancering nieuw energieve voertuig
 
 - **Category:** `Slides & Presentation`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="Inhoudsopgave lancering nieuwe energie voertuig" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="Inhoudsopgave lancering nieuw energieve voertuig" width="480" />
 
 #### Description
 
@@ -416,17 +416,17 @@ Een enkele presentatiedia vat de Louis Vuitton merkstrategie op emotionele wijze
 Distill the Louis Vuitton brand strategy…into a single, emotionally resonant presentation slide
 ```
 
-### No. 3: Tech presentatie omslag met 3D acryl
+### No. 3: Tech presentatie cover met 3D acryl
 
 - **Category:** `Slides & Presentation`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix" alt="Tech presentatie omslag met 3D acryl" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix" alt="Tech presentatie cover met 3D acryl" width="480" />
 
 #### Description
 
-Een omslagpagina met lijnwerk, negatieve ruimte en 3D acryltextuur in een tech-stijl.
+Een voorpagina met lijnwerk, negatieve ruimte en 3D acryltextuur in een tech-stijl.
 
 #### Prompt
 
@@ -434,17 +434,17 @@ Een omslagpagina met lijnwerk, negatieve ruimte en 3D acryltextuur in een tech-s
 Generate a tech-themed presentation cover page with linework, negative space design, 3D acrylic texture, Blender style, C4D effect
 ```
 
-### No. 4: Interactieve dia sectiescheider
+### No. 4: Interactieve dia's sectiescheider
 
 - **Category:** `Slides & Presentation`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg?v=20260720fix" alt="Interactieve dia sectiescheider" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg?v=20260720fix" alt="Interactieve dia's sectiescheider" width="480" />
 
 #### Description
 
-Een presentatie scheiderpagina ontworpen met lagen voor interactieve bewerking.
+Een presentatiescheidingspagina ontworpen met lagen voor interactieve bewerking.
 
 #### Prompt
 
@@ -472,7 +472,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 <a id="category-3"></a>
 
-### Poster Design (9)
+### Poster Design (10)
 
 ### No. 1: Y2K schattige stijl poster met jelly textuur
 
@@ -484,7 +484,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 #### Description
 
-Een poster in lichtblauw in Y2K schattige stijl met transparante jelly-textuurelementen.
+Een poster in lichtblauw met Y2K schattige stijl en transparante jelly-textuurelementen.
 
 #### Prompt
 
@@ -502,7 +502,7 @@ Create a poster based on my sketch. I want a Y2K cute style with transparent jel
 
 #### Description
 
-Een design-forward collageposter die een gespecificeerde typografie-opmaak gebruikt met een nieuw hoofdonderwerp.
+Een design-forward collageposter met een gespecificeerde typografie-opmaak en een nieuw hoofdonderwerp.
 
 #### Prompt
 
@@ -520,7 +520,7 @@ Using the typography and layout from Image 1, generate a design-forward marketin
 
 #### Description
 
-Een sci-fi stijl poster met een diagonale compositie en een focuspunt in het midden-onder.
+Een sci-fi stijl poster met een diagonale compositie en een brandpunt in het midden-onder.
 
 #### Prompt
 
@@ -556,7 +556,7 @@ Minimalist music festival poster titled "Barrie." The composition features a pre
 
 #### Description
 
-Een suspense filmposter met een dubbele belichting portret silhouet.
+Een suspense filmposter met een dubbele belichting portretsilhouet.
 
 #### Prompt
 
@@ -592,7 +592,7 @@ Futurist style music event poster titled "PIGITAL TSUNAMI"…
 
 #### Description
 
-Een ontwerp met de titel Sweet Sunlight in een vintage typemachine lettertype binnen een begrenzingskader.
+Een ontwerp met de titel Sweet Sunlight in een vintage typemachinelettertype binnen een begrenzingskader.
 
 #### Prompt
 
@@ -610,7 +610,7 @@ Bounding box on title - "Sweet Sunlight", use vintage typewriter font
 
 #### Description
 
-Een ontwerp met grote dieppaarse tekst die TABLE OF CONTENTS leest en een gespecificeerde opsomming.
+Een ontwerp met grote dieppaarse tekst die TABLE OF CONTENTS leest en een gespecificeerde lijst.
 
 #### Prompt
 
@@ -618,17 +618,17 @@ Een ontwerp met grote dieppaarse tekst die TABLE OF CONTENTS leest en een gespec
 Generate in the style of Image 1: large deep purple text on the left reading "TABLE OF CONTENTS", with itemized listing on the right…
 ```
 
-### No. 9: Dont Want To Work serie poster
+### No. 9: Dont Want To Work Series Poster
 
 - **Category:** `Poster Design`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix" alt="Dont Want To Work serie poster" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix" alt="Dont Want To Work Series Poster" width="480" />
 
 #### Description
 
-Een creatieve poster met nieuwe tekst en beeld, gebaseerd op het referentieontwerp.
+Een creatieve poster met nieuwe tekst en beeldmateriaal gebaseerd op het gerefereerde ontwerp.
 
 #### Prompt
 
@@ -636,21 +636,39 @@ Een creatieve poster met nieuwe tekst en beeld, gebaseerd op het referentieontwe
 Referencing this poster design, create a derivative creative poster for the "Don't Want to Work" series with different copy and visuals
 ```
 
+### No. 10: Vervang Foto's op Punten
+
+- **Category:** `Poster Design`
+- **Language:** `nl`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg?v=20260720fix" alt="Vervang Foto's op Punten" width="480" />
+
+#### Description
+
+Vervang specifieke punten in Afbeelding 1 met foto's uit Afbeeldingen 2, 3, 4 en 5.
+
+#### Prompt
+
+```text
+Point and bounding box selection: Image 1 <point>518 135</point> replace photo with Image 2; Image 1 <point>556 349</point> replace photo with Image 3; Image 1 <point>549 555</point> replace photo with Image 4; Image 1 <point>632 784</point> replace photo with Image 5.
+```
+
 <a id="category-4"></a>
 
 ### Brand Design (2)
 
-### No. 1: Blue Fox minimalistische VI design
+### No. 1: Blauwe Vos minimalistische VI-ontwerp
 
 - **Category:** `Brand Design`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix" alt="Blue Fox minimalistische VI design" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix" alt="Blauwe Vos minimalistische VI-ontwerp" width="480" />
 
 #### Description
 
-Een minimalistische merk VI presentatie in Klein blauw en zilver met een vos-grafiek en logo.
+Een minimalistische merk VI-showcase in Klein blauw en zilver met een vosgrafiek en logo.
 
 #### Prompt
 
@@ -668,7 +686,7 @@ Minimalist brand VI design showcase, featuring Klein blue and silver as primary 
 
 #### Description
 
-Een surrealistische advertentie die een product integreert in een miniatuur levensstijlscène met productinformatie.
+Een surrealistische advertentie die een product integreert in een miniatuurlevensstijlscène met productinformatie.
 
 #### Prompt
 
@@ -690,7 +708,7 @@ A surreal miniature landscape creative commercial product advertisement, integra
 
 #### Description
 
-Een slaapkamer rendering in een moderne-kunst stijl gebruikmakend van een gerefereerd interieurontwerp kleurenpalet.
+Een slaapkamerrendering in een moderne-kunst stijl met een gerefereerd interieurontwerppalet.
 
 #### Prompt
 
@@ -756,17 +774,17 @@ Een e-commerce banner voor RESHAKE met een mannelijk model dat winter donsjassen
 Generate an e-commerce banner for RESHAKE brand's 2016 winter down jacket collection promotional campaign. On the right side of the frame, a male model facing the camera with a cool, intense expression…
 ```
 
-### No. 2: Huisdier e-commerce hero zonsondergang UI
+### No. 2: Huisdieren e-commerce hero zonsondergang UI
 
 - **Category:** `E-commerce`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix" alt="Huisdier e-commerce hero zonsondergang UI" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix" alt="Huisdieren e-commerce hero zonsondergang UI" width="480" />
 
 #### Description
 
-Een warm getinte e-commerce hero sectie met een 3D Golden Retriever wiens poten door het frame breken op navigatieknoppen.
+Een warm getinte e-commerce hero-sectie met een 3D Golden Retriever wiens poten door het frame breken op navigatieknoppen.
 
 #### Prompt
 
@@ -774,13 +792,13 @@ Een warm getinte e-commerce hero sectie met een 3D Golden Retriever wiens poten 
 16:9 pet e-commerce hero section UI, sunset warm tone, layered shadows. Top navigation…golden capsule button; right side Golden Retriever image, 3D effect: the Retriever's front paws break through the right frame, resting on the left-side buttons.
 ```
 
-### No. 3: Voltooide modeontwerp productafbeelding
+### No. 3: Voltooide Modeontwerp Productafbeelding
 
 - **Category:** `E-commerce`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix" alt="Voltooide modeontwerp productafbeelding" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix" alt="Voltooide Modeontwerp Productafbeelding" width="480" />
 
 #### Description
 
@@ -832,17 +850,17 @@ Een zwart-wit manga storyboard toont een nachtelijke autoachtervolging en een ge
 Generate a full-page Japanese seinen black-and-white manga storyboard, nighttime chase and gunfight theme. Top panel: a car under headlights and chain-link fencing in the dark night; middle: a girl armed with a gun in pursuit…
 ```
 
-### No. 2: Nachtelijk furry slice of life strip
+### No. 2: Nachtelijke furry slice of life strip
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix" alt="Nachtelijk furry slice of life strip" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix" alt="Nachtelijke furry slice of life strip" width="480" />
 
 #### Description
 
-Een verticale vierpaneel strip toont een wolfshond en een tabby kat in een kamer 's nachts.
+Een verticale vierpaneelstrip toont een wolfshond en een tabbykat in een kamer 's nachts.
 
 #### Prompt
 
@@ -850,17 +868,17 @@ Een verticale vierpaneel strip toont een wolfshond en een tabby kat in een kamer
 Draw a vertical four-panel furry slice-of-life comic, set in a room at night, featuring a wolf-dog furry and a tabby cat furry…
 ```
 
-### No. 3: Amerikaanse horror strip Gotham steeg
+### No. 3: Amerikaanse horror strip Gotham steegje
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix" alt="Amerikaanse horror strip Gotham steeg" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix" alt="Amerikaanse horror strip Gotham steegje" width="480" />
 
 #### Description
 
-Storyboards gesitueerd in een Gotham City steeg die een Amerikaanse horror strip stijl overbrengen.
+Storyboards in een Gotham City steegje die een Amerikaanse horror strip stijl overbrengen.
 
 #### Prompt
 
@@ -868,13 +886,13 @@ Storyboards gesitueerd in een Gotham City steeg die een Amerikaanse horror strip
 Generate a set of American horror comic storyboards, the story could take place in a Gotham City alley…
 ```
 
-### No. 4: Beste en slechtste honden duo
+### No. 4: Beste En Slechtste Hondenduo
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Dyj6bbHWHoFVdFxpOqpc0MyknYe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Dyj6bbHWHoFVdFxpOqpc0MyknYe.jpg?v=20260720fix" alt="Beste en slechtste honden duo" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Dyj6bbHWHoFVdFxpOqpc0MyknYe.jpg?v=20260720fix" alt="Beste En Slechtste Hondenduo" width="480" />
 
 #### Description
 
@@ -918,7 +936,7 @@ Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establ
 
 #### Description
 
-Een breed horizontaal storyboard met zes panelen beeldt een klassiek Western straatscène uit.
+Een breed horizontaal storyboard met zes panelen toont een klassiek Western straattafereel.
 
 #### Prompt
 
@@ -936,7 +954,7 @@ Western film storyboard, 6 panels in wide horizontal ratio, no text throughout: 
 
 #### Description
 
-Een storyboard illustreert een oud Chinese xianxia scène in een anime kunststijl.
+Een storyboard illustreert een oud Chinees xianxia tafereel in een anime kunststijl.
 
 #### Prompt
 
@@ -966,17 +984,17 @@ Een over-de-schouder shot toont een verdrietig uitziende bruinharige vrouw van r
 Over-the-shoulder shot, featuring a brown-haired European or American woman around 40 years old with a sad expression…
 ```
 
-### No. 2: Armband met zwarte metalen doornstekels
+### No. 2: Armband Met Zwart Metalen Doorn Spikes
 
 - **Category:** `Portrait`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix" alt="Armband met zwarte metalen doornstekels" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix" alt="Armband Met Zwart Metalen Doorn Spikes" width="480" />
 
 #### Description
 
-Een close-up van een zwarte metalen armband met stekels op een pols die naar twaalf uur wijst.
+Een close-up van een geblokte zwarte metalen armband op een pols die naar twaalf uur wijst.
 
 #### Prompt
 
@@ -984,17 +1002,17 @@ Een close-up van een zwarte metalen armband met stekels op een pols die naar twa
 Modify the image according to the text requirements in the image: bracelet with metallic black thorn spikes, hands pointing to 12 o'clock sharp
 ```
 
-### No. 3: Hasselblad filmportret met tegenlichtrand
+### No. 3: Hasselblad Film Portret Met Contourlicht
 
 - **Category:** `Portrait`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix" alt="Hasselblad filmportret met tegenlichtrand" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix" alt="Hasselblad Film Portret Met Contourlicht" width="480" />
 
 #### Description
 
-Een portret met filmkorreltextuur, dramatisch tegenlicht en heldere gezichtshighlights.
+Een portret met filmkorreltextuur, dramatisch contourlicht en heldere gezichtshighlights.
 
 #### Prompt
 
@@ -1002,17 +1020,17 @@ Een portret met filmkorreltextuur, dramatisch tegenlicht en heldere gezichtshigh
 Hasselblad film texture, light and shadow, rim light, (facial overexposure)…
 ```
 
-### No. 4: Cinematische zomer verhalend portretrooster
+### No. 4: Cinematische Zomer Narratief Portret Raster
 
 - **Category:** `Portrait`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix" alt="Cinematische zomer verhalend portretrooster" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix" alt="Cinematische Zomer Narratief Portret Raster" width="480" />
 
 #### Description
 
-Drie eenvoudige, strakke portretten in een rooster, die een zomerverhaal vertellen zonder afleiding.
+Drie eenvoudige, schone portretten in een raster, die een zomerverhaal vertellen zonder afleiding.
 
 #### Prompt
 
@@ -1020,13 +1038,13 @@ Drie eenvoudige, strakke portretten in een rooster, die een zomerverhaal vertell
 Remove all accessories, hairstyle, and background, generate a three-panel grid of cinematic summer narrative portraits
 ```
 
-### No. 5: Fujifilm Polaroid camera
+### No. 5: Fujifilm Polaroid Camera
 
 - **Category:** `Portrait`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Y6bTb6x7zoM2kFxkGtXcPH5unUh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Y6bTb6x7zoM2kFxkGtXcPH5unUh.jpg?v=20260720fix" alt="Fujifilm Polaroid camera" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Y6bTb6x7zoM2kFxkGtXcPH5unUh.jpg?v=20260720fix" alt="Fujifilm Polaroid Camera" width="480" />
 
 #### Description
 
@@ -1038,17 +1056,17 @@ Een afbeelding van een Fujifilm instant camera die Polaroid-stijl foto's produce
 Fujifilm camera Polaroid
 ```
 
-### No. 6: Retro futurist violist portret
+### No. 6: Retro Futurist Violist Portret
 
 - **Category:** `Portrait`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg?v=20260720fix" alt="Retro futurist violist portret" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg?v=20260720fix" alt="Retro Futurist Violist Portret" width="480" />
 
 #### Description
 
-Een langharige man in een bordeauxrode toga en een zonnebril houdt een vioolstok vast in een retro-futuristische stijl.
+Een langharige man in een bordeauxrode toga en een zonnebril houdt een strijkstok vast in een retro-futuristische stijl.
 
 #### Prompt
 
@@ -1066,7 +1084,7 @@ Retro-futurism style portrait photography, a middle-aged man with long hair wear
 
 #### Description
 
-Genereer een full-body foto met specifieke hand-, been- en accessoirebewegingen.
+Genereer een full-body shot met specifieke hand-, been- en accessoirebewegingen.
 
 #### Prompt
 
@@ -1078,17 +1096,17 @@ Generate a full-body shot of the person in Image 3, and adjust her pose so her r
 
 ### Illustration (6)
 
-### No. 1: Artistiek prentenboek schooluniform
+### No. 1: Artistiek Prentenboek Schooluniform
 
 - **Category:** `Illustration`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg?v=20260720fix" alt="Artistiek prentenboek schooluniform" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg?v=20260720fix" alt="Artistiek Prentenboek Schooluniform" width="480" />
 
 #### Description
 
-Een panoramische prentenboekillustratie toont een schooluniformbroek in een verfijnde, artistieke stijl.
+Een panoramische prentenboekillustratie toont schooluniformbroeken in een verfijnde, artistieke stijl.
 
 #### Prompt
 
@@ -1096,17 +1114,17 @@ Een panoramische prentenboekillustratie toont een schooluniformbroek in een verf
 Artistic picture book, panoramic view, school uniform trousers, refined makeup, accessories, illustrated in the style of Raymond Briggs and Mattias Adolfsson…
 ```
 
-### No. 2: Winter sterrenhemel graslandschilderij
+### No. 2: Winter Sterrenhemel Graslandschap Schilderij
 
 - **Category:** `Illustration`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg?v=20260720fix" alt="Winter sterrenhemel graslandschilderij" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg?v=20260720fix" alt="Winter Sterrenhemel Graslandschap Schilderij" width="480" />
 
 #### Description
 
-Een zachte cyaangroene illustratie toont een oudere vrouw die de zon schildert op een wintergrasland.
+Een zacht cyaangroene illustratie toont een oudere vrouw die de zon schildert op een wintergrasland.
 
 #### Prompt
 
@@ -1114,17 +1132,17 @@ Een zachte cyaangroene illustratie toont een oudere vrouw die de zon schildert o
 This heartwarming panoramic picture book illustration uses soft cyan-green tones to depict a serene grassland under a winter starry sky, where an elderly woman paints the sun at an easel while a child plays with a puppy beside a yurt…
 ```
 
-### No. 3: Voeg lopend personage toe aan schets
+### No. 3: Voeg Wandelend Personage Toe Aan Schets
 
 - **Category:** `Illustration`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MlA2bxTw4oD6FgxZmF0cntf7nCf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MlA2bxTw4oD6FgxZmF0cntf7nCf.jpg?v=20260720fix" alt="Voeg lopend personage toe aan schets" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MlA2bxTw4oD6FgxZmF0cntf7nCf.jpg?v=20260720fix" alt="Voeg Wandelend Personage Toe Aan Schets" width="480" />
 
 #### Description
 
-Een lopend personage is toegevoegd aan het voorgrondpad van een bestaande schets.
+Een wandelend personage wordt toegevoegd aan het voorgrondpad van een bestaande schets.
 
 #### Prompt
 
@@ -1132,17 +1150,17 @@ Een lopend personage is toegevoegd aan het voorgrondpad van een bestaande schets
 Based on the sketch, add a walking character on the foreground path…
 ```
 
-### No. 4: Vier voltooide game scene afbeeldingen
+### No. 4: Vier Voltooide Game Scene Afbeeldingen
 
 - **Category:** `Illustration`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BURCblKzlovIMYxrcSZcF71MnQc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BURCblKzlovIMYxrcSZcF71MnQc.jpg?v=20260720fix" alt="Vier voltooide game scene afbeeldingen" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BURCblKzlovIMYxrcSZcF71MnQc.jpg?v=20260720fix" alt="Vier Voltooide Game Scene Afbeeldingen" width="480" />
 
 #### Description
 
-Vier hoogwaardige gerenderde versies van een geschetste videogame-omgeving.
+Vier hoogwaardig gerenderde versies van een geschetste videogame-omgeving.
 
 #### Prompt
 
@@ -1160,7 +1178,7 @@ Please transform this sketch into 4 high-quality finished images of a game scene
 
 #### Description
 
-Verwerk een originele afbeelding samen met een verstrekte kleurenpaletreferentie.
+Verwerk een originele afbeelding samen met een meegeleverde kleurenpaletreferentie.
 
 #### Prompt
 
@@ -1168,17 +1186,17 @@ Verwerk een originele afbeelding samen met een verstrekte kleurenpaletreferentie
 Input Original Image + Color Palette Reference
 ```
 
-### No. 6: Handgetekende Brunch Poster
+### No. 6: Handgetekende Brunchposter
 
 - **Category:** `Illustration`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix" alt="Handgetekende Brunch Poster" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix" alt="Handgetekende Brunchposter" width="480" />
 
 #### Description
 
-Transformeer etenswaren naar een getekende stijl met labels voor een seizoensgebonden brunch poster.
+Transformeer etenswaren in een getekende stijl met labels voor een seizoensgebonden brunchposter.
 
 #### Prompt
 
@@ -1190,17 +1208,17 @@ Place the foods from the images on the same table and transform them into a hand
 
 ### Character Design (3)
 
-### No. 1: Drie-aanzichten oude godinnenbeeld
+### No. 1: Drie Aanzichten Oude Godin Standbeeld
 
 - **Category:** `Character Design`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg?v=20260720fix" alt="Drie-aanzichten oude godinnenbeeld" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg?v=20260720fix" alt="Drie Aanzichten Oude Godin Standbeeld" width="480" />
 
 #### Description
 
-Orthografische aanzichten tonen de voor-, zij- en achterkant van een gigantisch uitgehouwen oud Chinees godinnenbeeld.
+Orthografische aanzichten tonen de voor-, zij- en achterkant van een gigantisch uitgehouwen oud Chinees godinnenstandbeeld.
 
 #### Prompt
 
@@ -1208,17 +1226,17 @@ Orthografische aanzichten tonen de voor-, zij- en achterkant van een gigantisch 
 Standard three-view orthographic turntable: front view, side view, back view, of a giant ancient Chinese goddess stone statue with an intricately carved stone headpiece and…
 ```
 
-### No. 2: Sovjet postbode fiets drie-aanzichten
+### No. 2: Sovjet Postkoeriersfiets Drie Aanzichten
 
 - **Category:** `Character Design`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix" alt="Sovjet postbode fiets drie-aanzichten" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix" alt="Sovjet Postkoeriersfiets Drie Aanzichten" width="480" />
 
 #### Description
 
-Een technische tekening met voor-, zij- en bovenaanzicht van een vintage Sovjet-fiets.
+Een technische tekening die voor-, zij- en bovenaanzichten toont van een vintage Sovjet-fiets.
 
 #### Prompt
 
@@ -1226,13 +1244,13 @@ Een technische tekening met voor-, zij- en bovenaanzicht van een vintage Sovjet-
 Generate a three-view of a Soviet-era postal messenger bicycle…
 ```
 
-### No. 3: Cyberpunk hacker girl RIN karakterblad
+### No. 3: Cyberpunk Hacker Girl RIN Character Sheet
 
 - **Category:** `Character Design`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix" alt="Cyberpunk hacker girl RIN karakterblad" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix" alt="Cyberpunk Hacker Girl RIN Character Sheet" width="480" />
 
 #### Description
 
@@ -1248,13 +1266,13 @@ Cyberpunk-style anime character design sheet, showing three-view turnaround, clo
 
 ### Style Transfer (4)
 
-### No. 1: Realistisch LEGO speelgoed miniatuur scene
+### No. 1: Realistisch LEGO Speelgoed Miniatuur Scene
 
 - **Category:** `Style Transfer`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ0XbIE5vosDb5xw7PbcOl8Nnrc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ0XbIE5vosDb5xw7PbcOl8Nnrc.jpg?v=20260720fix" alt="Realistisch LEGO speelgoed miniatuur scene" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ0XbIE5vosDb5xw7PbcOl8Nnrc.jpg?v=20260720fix" alt="Realistisch LEGO Speelgoed Miniatuur Scene" width="480" />
 
 #### Description
 
@@ -1266,13 +1284,13 @@ Een afbeelding getransformeerd om eruit te zien als een gedetailleerde LEGO-set 
 Transform the image into a realistic LEGO toy effect with miniature scene styling.
 ```
 
-### No. 2: Flat illustration stijl transformatie
+### No. 2: Flat Illustration Stijl Transformatie
 
 - **Category:** `Style Transfer`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg?v=20260720fix" alt="Flat illustration stijl transformatie" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg?v=20260720fix" alt="Flat Illustration Stijl Transformatie" width="480" />
 
 #### Description
 
@@ -1284,17 +1302,17 @@ Een afbeelding omgezet in een moderne grafische ontwerpstijl met eenvoudige vorm
 Transform the image style into flat illustration style
 ```
 
-### No. 3: Reliëf sculptuur stijl verandering
+### No. 3: Reliëf Sculptuur Stijl Verandering
 
 - **Category:** `Style Transfer`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FLbhbxeAloklCUxOWWxckvx2ntf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FLbhbxeAloklCUxOWWxckvx2ntf.jpg?v=20260720fix" alt="Reliëf sculptuur stijl verandering" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FLbhbxeAloklCUxOWWxckvx2ntf.jpg?v=20260720fix" alt="Reliëf Sculptuur Stijl Verandering" width="480" />
 
 #### Description
 
-Een afbeelding aangepast om te lijken op een uitgehouwen of gegoten sculptuur met verhoogde oppervlakken.
+Een afbeelding aangepast om te lijken op een gebeeldhouwde of gegoten sculptuur met verhoogde oppervlakken.
 
 #### Prompt
 
@@ -1302,13 +1320,13 @@ Een afbeelding aangepast om te lijken op een uitgehouwen of gegoten sculptuur me
 Change to relief sculpture style
 ```
 
-### No. 4: Fujifilm NC filter toegepast
+### No. 4: Fujifilm NC Filter Toegepast
 
 - **Category:** `Style Transfer`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg?v=20260720fix" alt="Fujifilm NC filter toegepast" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg?v=20260720fix" alt="Fujifilm NC Filter Toegepast" width="480" />
 
 #### Description
 
@@ -1324,13 +1342,13 @@ Add Fujifilm NC filter
 
 ### Outfit Transfer (2)
 
-### No. 1: Instagram straatstijl outfit transfer
+### No. 1: Instagram Street Style Outfit Overdracht
 
 - **Category:** `Outfit Transfer`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg?v=20260720fix" alt="Instagram straatstijl outfit transfer" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg?v=20260720fix" alt="Instagram Street Style Outfit Overdracht" width="480" />
 
 #### Description
 
@@ -1342,13 +1360,13 @@ Een vrouw draagt de kleding en accessoires van een ander in een casual, trendy s
 Make the woman in Image 1 wear the clothing, jewelry, and accessories from Image 2. The whole photo should look like an Instagram street shot.
 ```
 
-### No. 2: Trouwkleding vervanging met consistente achtergrond
+### No. 2: Trouwkleding Vervanging Met Consistent Achtergrond
 
 - **Category:** `Outfit Transfer`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix" alt="Trouwkleding vervanging met consistente achtergrond" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix" alt="Trouwkleding Vervanging Met Consistent Achtergrond" width="480" />
 
 #### Description
 
@@ -1364,17 +1382,17 @@ Replace the outfits of the two people in Image 1 with the wedding attire from Im
 
 ### Restoration (1)
 
-### No. 1: Gerestaureerde oude foto
+### No. 1: Gerestaureerde Oude Foto
 
 - **Category:** `Restoration`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg?v=20260720fix" alt="Gerestaureerde oude foto" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg?v=20260720fix" alt="Gerestaureerde Oude Foto" width="480" />
 
 #### Description
 
-Een oude foto waarbij het onderwerp is verduidelijkt en de originele kleuren zijn hersteld.
+Een oude foto waarop het onderwerp is verduidelijkt en de originele kleuren zijn hersteld.
 
 #### Prompt
 
@@ -1386,13 +1404,13 @@ Restore this old photo, making the subject clearer and restoring colors
 
 ### Retouching (2)
 
-### No. 1: Tegenlicht gecorrigeerde afbeelding
+### No. 1: Tegenlicht Gecorrigeerde Afbeelding
 
 - **Category:** `Retouching`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix" alt="Tegenlicht gecorrigeerde afbeelding" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix" alt="Tegenlicht Gecorrigeerde Afbeelding" width="480" />
 
 #### Description
 
@@ -1404,17 +1422,17 @@ Dezelfde afbeelding met verbeterde belichting om het tegenlichtprobleem op te lo
 Keep the image unchanged and correct the backlighting.
 ```
 
-### No. 2: Sterkere natuurlijke make-up look
+### No. 2: Sterkere Natuurlijke Make-up Look
 
 - **Category:** `Retouching`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DjRPbepoGoVP4KxitW3cK1WhnIp.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DjRPbepoGoVP4KxitW3cK1WhnIp.jpg?v=20260720fix" alt="Sterkere natuurlijke make-up look" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DjRPbepoGoVP4KxitW3cK1WhnIp.jpg?v=20260720fix" alt="Sterkere Natuurlijke Make-up Look" width="480" />
 
 #### Description
 
-Een andere, meer intense make-up stijl die er toch over het algemeen natuurlijk uitziet.
+Een andere, intensere make-upstijl die er toch over het algemeen natuurlijk uitziet.
 
 #### Prompt
 
@@ -1426,17 +1444,17 @@ Change to a different makeup look with stronger intensity while keeping the over
 
 ### ID Photo (3)
 
-### No. 1: Nieuw kapsel zonder bril
+### No. 1: Nieuw Kapsel Zonder Bril
 
 - **Category:** `ID Photo`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Qk1dbIVDqo7DPxxwPJuc7muCneb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Qk1dbIVDqo7DPxxwPJuc7muCneb.jpg?v=20260720fix" alt="Nieuw kapsel zonder bril" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Qk1dbIVDqo7DPxxwPJuc7muCneb.jpg?v=20260720fix" alt="Nieuw Kapsel Zonder Bril" width="480" />
 
 #### Description
 
-Een persoon bij wie de bril is verwijderd, heeft nu groot, golvend haar dat los gedragen wordt.
+Een persoon bij wie de bril is verwijderd heeft nu groot, golvend haar dat los wordt gedragen.
 
 #### Prompt
 
@@ -1444,17 +1462,17 @@ Een persoon bij wie de bril is verwijderd, heeft nu groot, golvend haar dat los 
 Remove glasses, change hairstyle to large wavy hair worn down
 ```
 
-### No. 2: Ragdoll kitten pasfoto
+### No. 2: Ragdoll Kitten ID Foto
 
 - **Category:** `ID Photo`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix" alt="Ragdoll kitten pasfoto" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix" alt="Ragdoll Kitten ID Foto" width="480" />
 
 #### Description
 
-Een één-inch pasfoto portret van een kitten van het Ragdoll ras.
+Een pasfoto-portret van een kitten van het Ragdoll ras.
 
 #### Prompt
 
@@ -1462,13 +1480,13 @@ Een één-inch pasfoto portret van een kitten van het Ragdoll ras.
 Generate a 1-inch ID photo for this Ragdoll kitten
 ```
 
-### No. 3: Vrouw solo pasfoto
+### No. 3: Vrouw Solo ID Foto
 
 - **Category:** `ID Photo`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Orbxbu6HQosMb0xxgVJca592nhd.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Orbxbu6HQosMb0xxgVJca592nhd.jpg?v=20260720fix" alt="Vrouw solo pasfoto" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Orbxbu6HQosMb0xxgVJca592nhd.jpg?v=20260720fix" alt="Vrouw Solo ID Foto" width="480" />
 
 #### Description
 
@@ -1484,17 +1502,17 @@ Generate a solo ID photo for the woman
 
 ### Creative Fun (4)
 
-### No. 1: Gemeen grijns met duiveltanden
+### No. 1: Zelfgenoegzame Grijns Met Duiveltanden
 
 - **Category:** `Creative Fun`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix" alt="Gemeen grijns met duiveltanden" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix" alt="Zelfgenoegzame Grijns Met Duiveltanden" width="480" />
 
 #### Description
 
-Een persoon knijpt met de ogen en grijnst gemeen, waarbij duiveltanden zichtbaar zijn en er tekst onder staat.
+Een persoon knijpt met de ogen terwijl hij een zelfgenoegzame grijns toont met duiveltanden en tekst eronder.
 
 #### Prompt
 
@@ -1502,17 +1520,17 @@ Een persoon knijpt met de ogen en grijnst gemeen, waarbij duiveltanden zichtbaar
 Change expression to a smug grin, eyes squinting into crescents with devil teeth showing at the corners of the mouth, add text "准备更坏" centered at the bottom of the image in white bold font.
 ```
 
-### No. 2: Da Vinci Van Gogh peace tekens
+### No. 2: Da Vinci Van Gogh Peace Signs
 
 - **Category:** `Creative Fun`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg?v=20260720fix" alt="Da Vinci Van Gogh peace tekens" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg?v=20260720fix" alt="Da Vinci Van Gogh Peace Signs" width="480" />
 
 #### Description
 
-Da Vinci en Van Gogh maken een peace-teken terwijl Michelangelo hen van achteren fotobomt.
+Da Vinci en Van Gogh maken vredestekens terwijl Michelangelo hen van achteren fotobomt.
 
 #### Prompt
 
@@ -1520,17 +1538,17 @@ Da Vinci en Van Gogh maken een peace-teken terwijl Michelangelo hen van achteren
 Da Vinci and Van Gogh facing the camera making peace signs, with Michelangelo photobombing from behind them…
 ```
 
-### No. 3: IJshoorntje met stadsskyline
+### No. 3: IJshoorntje Met Stadssilhouet
 
 - **Category:** `Creative Fun`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix" alt="IJshoorntje met stadsskyline" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix" alt="IJshoorntje Met Stadssilhouet" width="480" />
 
 #### Description
 
-Een hand houdt een ijshoorntje tegen een achtergrond van een stadsskyline en blauwe lucht.
+Een hand houdt een ijshoorntje tegen een achtergrond van een stadssilhouet en blauwe lucht.
 
 #### Prompt
 
@@ -1538,17 +1556,17 @@ Een hand houdt een ijshoorntje tegen een achtergrond van een stadsskyline en bla
 A hand is holding an ice cream cone, with a city skyline and a clear blue sky in the background.……
 ```
 
-### No. 4: Surrealistisch speelgoed tafereel
+### No. 4: Surrealistisch Speelgoed Tafereel
 
 - **Category:** `Creative Fun`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Onlsb5mmCo6wkaxco5cczzLgnUf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Onlsb5mmCo6wkaxco5cczzLgnUf.jpg?v=20260720fix" alt="Surrealistisch speelgoed tafereel" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Onlsb5mmCo6wkaxco5cczzLgnUf.jpg?v=20260720fix" alt="Surrealistisch Speelgoed Tafereel" width="480" />
 
 #### Description
 
-Een blauwharig hoofd observeert een licht reflecterende zeepbel naast een bol wol en blokken.
+Een blauw behaard hoofd observeert een zeepbel die licht reflecteert naast een bol garen en blokken.
 
 #### Prompt
 
@@ -1560,17 +1578,17 @@ Red box: a giant blue-furred head with a comically squeezed expression, looking 
 
 ### Stickers (1)
 
-### No. 1: Cartoon emotie stickerpakket
+### No. 1: Cartoon Emotie Stickerpakket
 
 - **Category:** `Stickers`
 - **Language:** `nl`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix" alt="Cartoon emotie stickerpakket" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix" alt="Cartoon Emotie Stickerpakket" width="480" />
 
 #### Description
 
-Een vierdelige stickerset met een cartoonpersonage dat verschillende emoties uitdrukt.
+Een vierdelig stickerpakket dat een cartoonpersonage toont dat verschillende emoties uitdrukt.
 
 #### Prompt
 
@@ -1599,4 +1617,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-20T19:02:48.115Z
+> This README is auto-generated. 2026-07-20T19:48:38.467Z

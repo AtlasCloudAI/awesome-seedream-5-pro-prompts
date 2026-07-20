@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-69%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-70%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,16 +90,16 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **69** |
+| Total Prompts | **70** |
 | Categories | **18** |
-| Preview Images | **69** |
-| Last Updated | **2026-07-20T19:02:48.116Z** |
+| Preview Images | **70** |
+| Last Updated | **2026-07-20T19:48:38.468Z** |
 
 ## 🏷️ Browse by Category
 
 - [`Infographic`](#category-1): **6**
 - [`Slides & Presentation`](#category-2): **5**
-- [`Poster Design`](#category-3): **9**
+- [`Poster Design`](#category-3): **10**
 - [`Brand Design`](#category-4): **2**
 - [`Interior Design`](#category-5): **3**
 - [`E-commerce`](#category-6): **4**
@@ -128,7 +128,7 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 #### Description
 
-Инфографика показывает ежегодное количество погибших журналистов с 2006 по 2013 год, всего 593 случая.
+Инфографика показывает ежегодное количество смертей журналистов с 2006 по 2013 год, всего 593 случая.
 
 #### Prompt
 
@@ -164,7 +164,7 @@ An infographic visualizing the chronicle of Antarctica's Qinling Station expedit
 
 #### Description
 
-Презентация суммирует различия и лучшие практики для промптов генерации текста, изображений и видео.
+Презентация обобщает различия и лучшие практики для промптов, генерирующих текст, изображения и видео.
 
 #### Prompt
 
@@ -208,13 +208,13 @@ Generate an astronomy infographic explaining: Why is the moon red during a total
 Annotated diagram of beef cuts…
 ```
 
-### No. 6: Инфографика: руководство для начинающих по наблюдению за птицами
+### No. 6: Инфографика: руководство для начинающего бердвотчера
 
 - **Category:** `Infographic`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="Инфографика: руководство для начинающих по наблюдению за птицами" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="Инфографика: руководство для начинающего бердвотчера" width="480" />
 
 #### Description
 
@@ -226,17 +226,17 @@ Annotated diagram of beef cuts…
 Generate a beginner birdwatching guide infographic with a fresh color palette and grid layout, showcasing 8 common bird species with scientific illustrations, Chinese and English names, and identification features.
 ```
 
-### No. 7: Оглавление презентации запуска нового энергетического автомобиля
+### No. 7: Оглавление презентации о запуске нового энергетического автомобиля
 
 - **Category:** `Slides & Presentation`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="Оглавление презентации запуска нового энергетического автомобиля" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="Оглавление презентации о запуске нового энергетического автомобиля" width="480" />
 
 #### Description
 
-Страница презентации отображает оглавление для мероприятия по запуску автомобиля.
+Страница презентации отображает оглавление мероприятия по запуску автомобиля.
 
 #### Prompt
 
@@ -244,17 +244,17 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 Design a table of contents page for a new energy vehicle launch event presentation. The TOC text is…
 ```
 
-### No. 8: Слайд стратегии бренда Louis Vuitton
+### No. 8: Слайд со стратегией бренда Louis Vuitton
 
 - **Category:** `Slides & Presentation`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix" alt="Слайд стратегии бренда Louis Vuitton" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix" alt="Слайд со стратегией бренда Louis Vuitton" width="480" />
 
 #### Description
 
-Один слайд презентации эмоционально передает суть бренд-стратегии Louis Vuitton.
+Один слайд презентации эмоционально передает суть стратегии бренда Louis Vuitton.
 
 #### Prompt
 
@@ -278,7 +278,7 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 
 #### Description
 
-Инфографика показывает ежегодное количество погибших журналистов с 2006 по 2013 год, всего 593 случая.
+Инфографика показывает ежегодное количество смертей журналистов с 2006 по 2013 год, всего 593 случая.
 
 #### Prompt
 
@@ -314,7 +314,7 @@ An infographic visualizing the chronicle of Antarctica's Qinling Station expedit
 
 #### Description
 
-Презентация суммирует различия и лучшие практики для промптов генерации текста, изображений и видео.
+Презентация обобщает различия и лучшие практики для промптов, генерирующих текст, изображения и видео.
 
 #### Prompt
 
@@ -358,13 +358,13 @@ Generate an astronomy infographic explaining: Why is the moon red during a total
 Annotated diagram of beef cuts…
 ```
 
-### No. 6: Инфографика: руководство для начинающих по наблюдению за птицами
+### No. 6: Инфографика: руководство для начинающего бердвотчера
 
 - **Category:** `Infographic`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="Инфографика: руководство для начинающих по наблюдению за птицами" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="Инфографика: руководство для начинающего бердвотчера" width="480" />
 
 #### Description
 
@@ -380,17 +380,17 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 
 ### Slides & Presentation (5)
 
-### No. 1: Оглавление презентации запуска нового энергетического автомобиля
+### No. 1: Оглавление презентации о запуске нового энергетического автомобиля
 
 - **Category:** `Slides & Presentation`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="Оглавление презентации запуска нового энергетического автомобиля" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="Оглавление презентации о запуске нового энергетического автомобиля" width="480" />
 
 #### Description
 
-Страница презентации отображает оглавление для мероприятия по запуску автомобиля.
+Страница презентации отображает оглавление мероприятия по запуску автомобиля.
 
 #### Prompt
 
@@ -398,17 +398,17 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 Design a table of contents page for a new energy vehicle launch event presentation. The TOC text is…
 ```
 
-### No. 2: Слайд стратегии бренда Louis Vuitton
+### No. 2: Слайд со стратегией бренда Louis Vuitton
 
 - **Category:** `Slides & Presentation`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix" alt="Слайд стратегии бренда Louis Vuitton" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix" alt="Слайд со стратегией бренда Louis Vuitton" width="480" />
 
 #### Description
 
-Один слайд презентации эмоционально передает суть бренд-стратегии Louis Vuitton.
+Один слайд презентации эмоционально передает суть стратегии бренда Louis Vuitton.
 
 #### Prompt
 
@@ -416,17 +416,17 @@ Design a table of contents page for a new energy vehicle launch event presentati
 Distill the Louis Vuitton brand strategy…into a single, emotionally resonant presentation slide
 ```
 
-### No. 3: Обложка технической презентации с 3D акриловой текстурой
+### No. 3: Обложка технопрезентации с 3D акриловой текстурой
 
 - **Category:** `Slides & Presentation`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix" alt="Обложка технической презентации с 3D акриловой текстурой" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix" alt="Обложка технопрезентации с 3D акриловой текстурой" width="480" />
 
 #### Description
 
-Титульная страница в техническом стиле с линейной графикой, негативным пространством и текстурой 3D акрила.
+Титульная страница в техническом стиле с линейной графикой, негативным пространством и 3D акриловой текстурой.
 
 #### Prompt
 
@@ -444,7 +444,7 @@ Generate a tech-themed presentation cover page with linework, negative space des
 
 #### Description
 
-Разделительная страница презентации, разработанная со слоями для интерактивного редактирования.
+Страница-разделитель для презентации, разработанная со слоями для интерактивного редактирования.
 
 #### Prompt
 
@@ -462,7 +462,7 @@ Slides section divider page. Interactive edit: layer separation
 
 #### Description
 
-Слайд презентации, посвященный снижению конверсии клиентов для сервиса кормления питомцев.
+Слайд презентации, посвященный снижению конверсии клиентов для сервиса кормления домашних животных.
 
 #### Prompt
 
@@ -472,7 +472,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 <a id="category-3"></a>
 
-### Poster Design (9)
+### Poster Design (10)
 
 ### No. 1: Постер в милом стиле Y2K с желеобразной текстурой
 
@@ -484,7 +484,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 #### Description
 
-Постер в светло-голубом цвете в милом стиле Y2K с прозрачными желеобразными элементами.
+Постер в светло-голубом цвете в милом стиле Y2K с прозрачными элементами желеобразной текстуры.
 
 #### Prompt
 
@@ -510,13 +510,13 @@ Create a poster based on my sketch. I want a Y2K cute style with transparent jel
 Using the typography and layout from Image 1, generate a design-forward marketing poster in the same series, collage style, with Image 2 as the main subject…
 ```
 
-### No. 3: Научно-фантастический постер с диагональной композицией
+### No. 3: Диагональный постер в стиле научной фантастики
 
 - **Category:** `Poster Design`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg?v=20260720fix" alt="Научно-фантастический постер с диагональной композицией" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg?v=20260720fix" alt="Диагональный постер в стиле научной фантастики" width="480" />
 
 #### Description
 
@@ -528,17 +528,17 @@ Using the typography and layout from Image 1, generate a design-forward marketin
 Sci-fi style, poster design, diagonal composition. Center-bottom of the frame…
 ```
 
-### No. 4: Минималистский музыкальный постер Barrie
+### No. 4: Минималистичный музыкальный постер Barrie
 
 - **Category:** `Poster Design`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg?v=20260720fix" alt="Минималистский музыкальный постер Barrie" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg?v=20260720fix" alt="Минималистичный музыкальный постер Barrie" width="480" />
 
 #### Description
 
-Минималистский постер для музыкального фестиваля Barrie на черном фоне.
+Минималистичный постер для музыкального фестиваля Barrie на черном фоне.
 
 #### Prompt
 
@@ -592,7 +592,7 @@ Futurist style music event poster titled "PIGITAL TSUNAMI"…
 
 #### Description
 
-Дизайн с заголовком Sweet Sunlight, выполненным винтажным шрифтом пишущей машинки, внутри ограничивающей рамки.
+Дизайн с заголовком Sweet Sunlight, выполненным винтажным шрифтом пишущей машинки в ограничивающей рамке.
 
 #### Prompt
 
@@ -600,17 +600,17 @@ Futurist style music event poster titled "PIGITAL TSUNAMI"…
 Bounding box on title - "Sweet Sunlight", use vintage typewriter font
 ```
 
-### No. 8: Оглавление Deep Purple
+### No. 8: Оглавление в глубоком пурпурном цвете
 
 - **Category:** `Poster Design`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix" alt="Оглавление Deep Purple" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix" alt="Оглавление в глубоком пурпурном цвете" width="480" />
 
 #### Description
 
-Дизайн с крупным текстом глубокого пурпурного цвета, гласящим TABLE OF CONTENTS, и маркированным списком.
+Дизайн с крупным текстом глубокого пурпурного цвета, гласящим TABLE OF CONTENTS, и перечнем пунктов.
 
 #### Prompt
 
@@ -618,13 +618,13 @@ Bounding box on title - "Sweet Sunlight", use vintage typewriter font
 Generate in the style of Image 1: large deep purple text on the left reading "TABLE OF CONTENTS", with itemized listing on the right…
 ```
 
-### No. 9: Постер серии "Не хочу работать"
+### No. 9: Постер серии 'Не хочу работать'
 
 - **Category:** `Poster Design`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix" alt="Постер серии "Не хочу работать"" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix" alt="Постер серии 'Не хочу работать'" width="480" />
 
 #### Description
 
@@ -636,21 +636,39 @@ Generate in the style of Image 1: large deep purple text on the left reading "TA
 Referencing this poster design, create a derivative creative poster for the "Don't Want to Work" series with different copy and visuals
 ```
 
+### No. 10: Заменить фотографии в точках
+
+- **Category:** `Poster Design`
+- **Language:** `ru`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg?v=20260720fix" alt="Заменить фотографии в точках" width="480" />
+
+#### Description
+
+Замените определенные точки на Изображении 1 фотографиями из Изображений 2, 3, 4 и 5.
+
+#### Prompt
+
+```text
+Point and bounding box selection: Image 1 <point>518 135</point> replace photo with Image 2; Image 1 <point>556 349</point> replace photo with Image 3; Image 1 <point>549 555</point> replace photo with Image 4; Image 1 <point>632 784</point> replace photo with Image 5.
+```
+
 <a id="category-4"></a>
 
 ### Brand Design (2)
 
-### No. 1: Минималистский дизайн айдентики Blue Fox
+### No. 1: Минималистичный дизайн айдентики Blue Fox
 
 - **Category:** `Brand Design`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix" alt="Минималистский дизайн айдентики Blue Fox" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix" alt="Минималистичный дизайн айдентики Blue Fox" width="480" />
 
 #### Description
 
-Минималистская презентация брендинга в клейновском синем и серебряном цветах с графикой лисы и логотипом.
+Минималистичная презентация брендовой айдентики в кобальтово-синем и серебристом цветах с графикой лисы и логотипом.
 
 #### Prompt
 
@@ -658,13 +676,13 @@ Referencing this poster design, create a derivative creative poster for the "Don
 Minimalist brand VI design showcase, featuring Klein blue and silver as primary colors, color-blocking aesthetic, fox graphic motif, highlighting the English brand logo "Blue Fox"…
 ```
 
-### No. 2: Сюрреалистичная реклама миниатюрного пейзажа
+### No. 2: Сюрреалистичная реклама миниатюрного ландшафта
 
 - **Category:** `Brand Design`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XaGSbPeDCoS9m1xdfu7c4ZNBnZf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XaGSbPeDCoS9m1xdfu7c4ZNBnZf.jpg?v=20260720fix" alt="Сюрреалистичная реклама миниатюрного пейзажа" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XaGSbPeDCoS9m1xdfu7c4ZNBnZf.jpg?v=20260720fix" alt="Сюрреалистичная реклама миниатюрного ландшафта" width="480" />
 
 #### Description
 
@@ -680,17 +698,17 @@ A surreal miniature landscape creative commercial product advertisement, integra
 
 ### Interior Design (3)
 
-### No. 1: Визуализация спальни в стиле современного искусства
+### No. 1: Рендеринг спальни в стиле современного искусства
 
 - **Category:** `Interior Design`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PmSAbA4P1oaDQpxBj6VceHLinwc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PmSAbA4P1oaDQpxBj6VceHLinwc.jpg?v=20260720fix" alt="Визуализация спальни в стиле современного искусства" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PmSAbA4P1oaDQpxBj6VceHLinwc.jpg?v=20260720fix" alt="Рендеринг спальни в стиле современного искусства" width="480" />
 
 #### Description
 
-Визуализация спальни в стиле современного искусства с использованием заданной палитры интерьерного дизайна.
+Рендеринг спальни в стиле современного искусства с использованием заданной палитры интерьерного дизайна.
 
 #### Prompt
 
@@ -698,13 +716,13 @@ A surreal miniature landscape creative commercial product advertisement, integra
 Refer to the interior design style and color palette in the image, and generate a modern-art-style bedroom rendering.
 ```
 
-### No. 2: Преобразование цветовой палитры
+### No. 2: Трансформация цветовой палитры
 
 - **Category:** `Interior Design`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KxmgbM7KjoX9VMxdaPTcrEaLnfh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KxmgbM7KjoX9VMxdaPTcrEaLnfh.jpg?v=20260720fix" alt="Преобразование цветовой палитры" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KxmgbM7KjoX9VMxdaPTcrEaLnfh.jpg?v=20260720fix" alt="Трансформация цветовой палитры" width="480" />
 
 #### Description
 
@@ -726,7 +744,7 @@ Change color palette. Input image + color palette reference
 
 #### Description
 
-Скомпонуйте семь объектов в фотографию с точной передачей материалов и освещения.
+Составьте семь объектов в фотографическую композицию с точной передачей материалов и освещения.
 
 #### Prompt
 
@@ -738,17 +756,17 @@ Precisely cut out the 7 white-background objects I provided and compose them int
 
 ### E-commerce (4)
 
-### No. 1: Баннер зимней пуховой куртки RESHAKE
+### No. 1: Баннер зимней пуховиков RESHAKE
 
 - **Category:** `E-commerce`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg?v=20260720fix" alt="Баннер зимней пуховой куртки RESHAKE" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg?v=20260720fix" alt="Баннер зимней пуховиков RESHAKE" width="480" />
 
 #### Description
 
-Рекламный баннер для интернет-магазина RESHAKE с мужчиной-моделью, рекламирующим зимние пуховые куртки.
+Рекламный баннер для интернет-магазина RESHAKE с мужчиной-моделью, рекламирующим зимние пуховики.
 
 #### Prompt
 
@@ -756,17 +774,17 @@ Precisely cut out the 7 white-background objects I provided and compose them int
 Generate an e-commerce banner for RESHAKE brand's 2016 winter down jacket collection promotional campaign. On the right side of the frame, a male model facing the camera with a cool, intense expression…
 ```
 
-### No. 2: Главный баннер интернет-магазина для питомцев с закатным UI
+### No. 2: Главный баннер для интернет-магазина питомцев с закатным UI
 
 - **Category:** `E-commerce`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix" alt="Главный баннер интернет-магазина для питомцев с закатным UI" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix" alt="Главный баннер для интернет-магазина питомцев с закатным UI" width="480" />
 
 #### Description
 
-Теплый по тону главный раздел интернет-магазина с 3D-золотистым ретривером, чьи лапы прорываются за рамку на навигационные кнопки.
+Главный раздел интернет-магазина в теплых тонах с 3D-золотистым ретривером, чьи лапы прорываются за рамку на кнопки навигации.
 
 #### Prompt
 
@@ -774,17 +792,17 @@ Generate an e-commerce banner for RESHAKE brand's 2016 winter down jacket collec
 16:9 pet e-commerce hero section UI, sunset warm tone, layered shadows. Top navigation…golden capsule button; right side Golden Retriever image, 3D effect: the Retriever's front paws break through the right frame, resting on the left-side buttons.
 ```
 
-### No. 3: Готовое изображение продукта дизайна одежды
+### No. 3: Готовое изображение продукта модного дизайна
 
 - **Category:** `E-commerce`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix" alt="Готовое изображение продукта дизайна одежды" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix" alt="Готовое изображение продукта модного дизайна" width="480" />
 
 #### Description
 
-Отполированное, реалистичное изображение предмета одежды, основанное на оригинальном эскизе дизайнера.
+Отполированное, реалистичное изображение предмета одежды на основе оригинального эскиза дизайнера.
 
 #### Prompt
 
@@ -802,7 +820,7 @@ Please transform this fashion design sketch into a high-quality finished product
 
 #### Description
 
-Создайте дизайн, используя исходное изображение и референс цветовой палитры.
+Создайте дизайн, используя исходное изображение и образец цветовой палитры.
 
 #### Prompt
 
@@ -814,17 +832,17 @@ E-commerce design. Input image + color palette reference
 
 ### Comic & Storyboard (4)
 
-### No. 1: Сториборд в японском стиле сэйнэн: ночная погоня
+### No. 1: Сториборд в стиле японского сэйнэна: ночная погоня
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix" alt="Сториборд в японском стиле сэйнэн: ночная погоня" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix" alt="Сториборд в стиле японского сэйнэна: ночная погоня" width="480" />
 
 #### Description
 
-Черно-белый манга-сториборд изображает ночную автомобильную погоню и вооруженную девушку в преследовании.
+Черно-белый сториборд в стиле манги изображает ночную автомобильную погоню и вооруженную девушку в погоне.
 
 #### Prompt
 
@@ -842,7 +860,7 @@ Generate a full-page Japanese seinen black-and-white manga storyboard, nighttime
 
 #### Description
 
-Вертикальный четырехпанельный комикс показывает волка-собаку и полосатого кота в комнате ночью.
+Вертикальный комикс из четырех панелей показывает волка-пса и полосатого кота в комнате ночью.
 
 #### Prompt
 
@@ -890,17 +908,17 @@ Top image: two dogs pressing their faces together with playful expressions, capt
 
 ### Film Storyboard (3)
 
-### No. 1: Трехпанельный фильмовый сториборд: ночная парковка
+### No. 1: Трехпанельный фильм: парковка ночью
 
 - **Category:** `Film Storyboard`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix" alt="Трехпанельный фильмовый сториборд: ночная парковка" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix" alt="Трехпанельный фильм: парковка ночью" width="480" />
 
 #### Description
 
-Киносториборд показывает парковку ночью в трех горизонтальных панелях.
+Кинематографический сториборд показывает парковку ночью в трех горизонтальных панелях.
 
 #### Prompt
 
@@ -926,17 +944,17 @@ Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establ
 Western film storyboard, 6 panels in wide horizontal ratio, no text throughout: Panel 1, extreme wide shot, both ends of the street…
 ```
 
-### No. 3: Сцена из древнекитайского сянься в аниме-стиле
+### No. 3: Сцена древнекитайского сянься в аниме-стиле
 
 - **Category:** `Film Storyboard`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix" alt="Сцена из древнекитайского сянься в аниме-стиле" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix" alt="Сцена древнекитайского сянься в аниме-стиле" width="480" />
 
 #### Description
 
-Сториборд иллюстрирует сцену из древнекитайского сянься в аниме-стиле.
+Сториборд иллюстрирует сцену из древнекитайского сянься в стиле аниме.
 
 #### Prompt
 
@@ -976,7 +994,7 @@ Over-the-shoulder shot, featuring a brown-haired European or American woman arou
 
 #### Description
 
-Крупный план браслета с шипами из черного металла на запястье, указывающем на полдень.
+Крупный план браслета с шипами из черного металла на запястье, указывающем на 12 часов.
 
 #### Prompt
 
@@ -994,7 +1012,7 @@ Modify the image according to the text requirements in the image: bracelet with 
 
 #### Description
 
-Портрет с текстурой зернистости пленки, драматическим контровым освещением и яркими бликами на лице.
+Портрет с текстурой пленочного зерна, драматическим контровым освещением и яркими бликами на лице.
 
 #### Prompt
 
@@ -1002,13 +1020,13 @@ Modify the image according to the text requirements in the image: bracelet with 
 Hasselblad film texture, light and shadow, rim light, (facial overexposure)…
 ```
 
-### No. 4: Кинематографическая повествовательная портретная сетка лета
+### No. 4: Кинематографичная повествовательная портретная сетка на летнюю тему
 
 - **Category:** `Portrait`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix" alt="Кинематографическая повествовательная портретная сетка лета" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix" alt="Кинематографичная повествовательная портретная сетка на летнюю тему" width="480" />
 
 #### Description
 
@@ -1030,7 +1048,7 @@ Remove all accessories, hairstyle, and background, generate a three-panel grid o
 
 #### Description
 
-Изображение моментальной камеры Fujifilm, которая производит фотографии в стиле Polaroid.
+Изображение камеры мгновенной печати Fujifilm, которая производит фотографии в стиле Polaroid.
 
 #### Prompt
 
@@ -1048,7 +1066,7 @@ Fujifilm camera Polaroid
 
 #### Description
 
-Длинноволосый мужчина в бордовом халате и солнцезащитных очках держит смычок скрипки в ретрофутуристическом стиле.
+Длинноволосый мужчина в бордовом халате и солнцезащитных очках держит смычок в ретрофутуристическом стиле.
 
 #### Prompt
 
@@ -1066,7 +1084,7 @@ Retro-futurism style portrait photography, a middle-aged man with long hair wear
 
 #### Description
 
-Сгенерируйте полноростовой кадр с определенными движениями рук, ног и использованием реквизита.
+Сгенерируйте снимок в полный рост с определенными движениями рук, ног и использованием реквизита.
 
 #### Prompt
 
@@ -1088,7 +1106,7 @@ Generate a full-body shot of the person in Image 3, and adjust her pose so her r
 
 #### Description
 
-Панорамная иллюстрация в стиле художественной книжной графики, изображающая брюки школьной формы в утонченном, артистичном стиле.
+Панорамная иллюстрация в стиле книжной картинки изображает школьные брюки в утонченном, художественном стиле.
 
 #### Prompt
 
@@ -1096,17 +1114,17 @@ Generate a full-body shot of the person in Image 3, and adjust her pose so her r
 Artistic picture book, panoramic view, school uniform trousers, refined makeup, accessories, illustrated in the style of Raymond Briggs and Mattias Adolfsson…
 ```
 
-### No. 2: Картина зимнего звездного неба на лугу
+### No. 2: Картина зимнего звездного неба над степью
 
 - **Category:** `Illustration`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg?v=20260720fix" alt="Картина зимнего звездного неба на лугу" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg?v=20260720fix" alt="Картина зимнего звездного неба над степью" width="480" />
 
 #### Description
 
-Мягкая бирюзово-зеленая иллюстрация показывает пожилую женщину, рисующую солнце на зимнем лугу.
+Мягкая бирюзово-зеленая иллюстрация показывает пожилую женщину, рисующую солнце на зимней степи.
 
 #### Prompt
 
@@ -1124,7 +1142,7 @@ This heartwarming panoramic picture book illustration uses soft cyan-green tones
 
 #### Description
 
-Идущий персонаж добавлен на передний план дорожки существующего наброска.
+Идущий персонаж добавлен на передний план тропинки существующего наброска.
 
 #### Prompt
 
@@ -1150,17 +1168,17 @@ Based on the sketch, add a walking character on the foreground path…
 Please transform this sketch into 4 high-quality finished images of a game scene with……
 ```
 
-### No. 5: Ввод изображения и палитры
+### No. 5: Изображение и палитра на входе
 
 - **Category:** `Illustration`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V17FbQ8QroJsnvxfSFocD2nrnlf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V17FbQ8QroJsnvxfSFocD2nrnlf.jpg?v=20260720fix" alt="Ввод изображения и палитры" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V17FbQ8QroJsnvxfSFocD2nrnlf.jpg?v=20260720fix" alt="Изображение и палитра на входе" width="480" />
 
 #### Description
 
-Обработайте исходное изображение вместе с предоставленной референсной цветовой палитрой.
+Обработайте исходное изображение вместе с предоставленным образцом цветовой палитры.
 
 #### Prompt
 
@@ -1258,7 +1276,7 @@ Cyberpunk-style anime character design sheet, showing three-view turnaround, clo
 
 #### Description
 
-Изображение преобразовано, чтобы выглядеть как детализированный набор LEGO в стиле миниатюрного диорамы.
+Изображение преобразовано так, чтобы выглядеть как детализированный набор LEGO в стиле миниатюрного диорамы.
 
 #### Prompt
 
@@ -1294,7 +1312,7 @@ Transform the image style into flat illustration style
 
 #### Description
 
-Изображение изменено, чтобы напоминать резную или лепную скульптуру с выпуклыми поверхностями.
+Изображение изменено так, чтобы напоминать резную или лепную скульптуру с выпуклыми поверхностями.
 
 #### Prompt
 
@@ -1334,7 +1352,7 @@ Add Fujifilm NC filter
 
 #### Description
 
-Женщина носит одежду и аксессуары другой в непринужденном, модном стиле уличной фотографии.
+Женщина носит одежду и аксессуары другой в непринужденном, трендовом стиле уличной фотографии.
 
 #### Prompt
 
@@ -1364,13 +1382,13 @@ Replace the outfits of the two people in Image 1 with the wedding attire from Im
 
 ### Restoration (1)
 
-### No. 1: Реставрированная старая фотография
+### No. 1: Восстановленная старая фотография
 
 - **Category:** `Restoration`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg?v=20260720fix" alt="Реставрированная старая фотография" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg?v=20260720fix" alt="Восстановленная старая фотография" width="480" />
 
 #### Description
 
@@ -1386,13 +1404,13 @@ Restore this old photo, making the subject clearer and restoring colors
 
 ### Retouching (2)
 
-### No. 1: Изображение с исправленным контровым освещением
+### No. 1: Изображение с исправленным контровым светом
 
 - **Category:** `Retouching`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix" alt="Изображение с исправленным контровым освещением" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix" alt="Изображение с исправленным контровым светом" width="480" />
 
 #### Description
 
@@ -1414,7 +1432,7 @@ Keep the image unchanged and correct the backlighting.
 
 #### Description
 
-Другой, более интенсивный стиль макияжа, который все равно выглядит в целом естественно.
+Другой, более интенсивный стиль макияжа, который все еще выглядит в целом естественным.
 
 #### Prompt
 
@@ -1484,17 +1502,17 @@ Generate a solo ID photo for the woman
 
 ### Creative Fun (4)
 
-### No. 1: Самодовольная ухмылка с чертовскими зубами
+### No. 1: Самодовольная ухмылка с дьявольскими зубами
 
 - **Category:** `Creative Fun`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix" alt="Самодовольная ухмылка с чертовскими зубами" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix" alt="Самодовольная ухмылка с дьявольскими зубами" width="480" />
 
 #### Description
 
-Человек щурится с самодовольной ухмылкой, показывая чертовские зубы, и с текстом внизу.
+Человек щурится с самодовольной ухмылкой, показывая дьявольские зубы, и текстом ниже.
 
 #### Prompt
 
@@ -1520,17 +1538,17 @@ Change expression to a smug grin, eyes squinting into crescents with devil teeth
 Da Vinci and Van Gogh facing the camera making peace signs, with Michelangelo photobombing from behind them…
 ```
 
-### No. 3: Рожок мороженого с силуэтом города
+### No. 3: Рожок мороженого на фоне городского горизонта
 
 - **Category:** `Creative Fun`
 - **Language:** `ru`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix" alt="Рожок мороженого с силуэтом города" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix" alt="Рожок мороженого на фоне городского горизонта" width="480" />
 
 #### Description
 
-Рука держит рожок мороженого на фоне силуэта городских высоток и голубого неба.
+Рука держит рожок мороженого на фоне горизонта города и голубого неба.
 
 #### Prompt
 
@@ -1599,4 +1617,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-20T19:02:48.116Z
+> This README is auto-generated. 2026-07-20T19:48:38.468Z
