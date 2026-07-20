@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-64%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-63%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,48 +90,45 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **64** |
-| Categories | **21** |
-| Preview Images | **64** |
-| Last Updated | **2026-07-20T09:40:08.709Z** |
+| Total Prompts | **63** |
+| Categories | **18** |
+| Preview Images | **63** |
+| Last Updated | **2026-07-20T16:42:35.393Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Infographic`](#category-1): **5**
+- [`Infographic`](#category-1): **6**
 - [`Slides & Presentation`](#category-2): **5**
-- [`Poster Design`](#category-3): **8**
-- [`Brand Design`](#category-4): **3**
+- [`Poster Design`](#category-3): **9**
+- [`Brand Design`](#category-4): **2**
 - [`Interior Design`](#category-5): **2**
 - [`E-commerce`](#category-6): **3**
-- [`Comic & Storyboard`](#category-7): **3**
-- [`Film Storyboard`](#category-8): **4**
-- [`Illustration`](#category-9): **3**
-- [`Character Design`](#category-10): **3**
-- [`Line Art & Finished Work`](#category-11): **3**
-- [`Portrait`](#category-12): **3**
-- [`Multi-Image Fusion`](#category-13): **2**
-- [`Outfit Transfer`](#category-14): **2**
-- [`Style Transfer`](#category-15): **2**
-- [`Restoration`](#category-16): **2**
-- [`Retouching`](#category-17): **2**
-- [`Stickers`](#category-18): **3**
-- [`ID Photo`](#category-19): **1**
-- [`Social Media`](#category-20): **1**
-- [`Creative Fun`](#category-21): **4**
+- [`Comic & Storyboard`](#category-7): **4**
+- [`Film Storyboard`](#category-8): **3**
+- [`Portrait`](#category-9): **6**
+- [`Illustration`](#category-10): **4**
+- [`Character Design`](#category-11): **3**
+- [`Style Transfer`](#category-12): **4**
+- [`Outfit Transfer`](#category-13): **2**
+- [`Restoration`](#category-14): **1**
+- [`Retouching`](#category-15): **2**
+- [`ID Photo`](#category-16): **3**
+- [`Creative Fun`](#category-17): **3**
+- [`Stickers`](#category-18): **1**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Fakta och siffror om journalisters säkerhet
+### No. 1: Konstnärlig bilderbokspanorama
 
 - **Category:** `Infographic`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg" alt="Fakta och siffror om journalisters säkerhet" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg?v=20260720fix" alt="Konstnärlig bilderbokspanorama" width="480" />
 
 #### Description
 
-En infografik visar årliga dödstal bland journalister från 2006 till 2013, totalt 593 fall med ett genomsnitt på ett dödsfall per vecka.
+Ett panoramabilderboksillustration av en skoluniformskarakär i stilen av Briggs och Adolfsson.
 
 #### Prompt
 
@@ -139,17 +136,17 @@ En infografik visar årliga dödstal bland journalister från 2006 till 2013, to
 Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAFETY OF JOURNALISTS; annual data on journalist fatalities 2006-2013: 70 in 2006, 59 in 2007, 46 in 2008, 77 in 2009, 65 in 2010, 62 in 2011, 123 in 2012, 91 in 2013, totaling 593 cases, averaging 1 death per week; supplement with background factors affecting journalist safety.
 ```
 
-### No. 2: Expeditionskrönika för Antarktisstationen Qinling
+### No. 2: Vinterstjärnhimmel Målning Scen
 
 - **Category:** `Infographic`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg" alt="Expeditionskrönika för Antarktisstationen Qinling" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="Vinterstjärnhimmel Målning Scen" width="480" />
 
 #### Description
 
-En infografik visualiserar stationens struktur, forskningstidslinje, jämförelser med andra stationer, energikällor och solljustimmar tillsammans med fältfoton.
+En hjärtvärmande panoramabild av en äldre kvinna som målar under en vinterstjärnhimmel.
 
 #### Prompt
 
@@ -157,17 +154,17 @@ En infografik visualiserar stationens struktur, forskningstidslinje, jämförels
 An infographic visualizing the chronicle of Antarctica's Qinling Station expedition, with the station's main structure placed at the center; surrounded by a research development timeline, bar charts comparing the scale of five research stations, a pie chart of station energy sources, a line chart of monthly sunlight hours, supplemented by field photos of research equipment, a summer meteorology panel, a seven-step fieldwork workflow, and on-site sampling photography, comprehensively showcasing China's Antarctic research operations.
 ```
 
-### No. 3: Guide för promptdesign till AI-modeller
+### No. 3: Lägg Till Gående Karaktär Till Skiss
 
 - **Category:** `Infographic`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg" alt="Guide för promptdesign till AI-modeller" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix" alt="Lägg Till Gående Karaktär Till Skiss" width="480" />
 
 #### Description
 
-En presentation sammanfattar skillnader och bästa praxis inom promptdesign för LLM-, bild- och videogenereringsmodeller.
+En karaktär läggs till som går på stigen i förgrunden av en skiss.
 
 #### Prompt
 
@@ -175,17 +172,17 @@ En presentation sammanfattar skillnader och bästa praxis inom promptdesign för
 Based on collected prompt guide trends, create a presentation summarizing the differences and best practices in prompt design for LLM, image generation, and video generation models. The slide structure should be logical and easy to compare. After creation, provide explanatory text for each model category, including why this writing approach works and common failure cases.
 ```
 
-### No. 4: Varför månen blir röd
+### No. 4: Fornkinesisk Gudinnastaty Vy
 
 - **Category:** `Infographic`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg" alt="Varför månen blir röd" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix" alt="Fornkinesisk Gudinnastaty Vy" width="480" />
 
 #### Description
 
-En astronomiinfografik förklarar fenomenet med en röd måne under en total månförmörkelse.
+En tre-vy ortografisk turntable av en gigantisk fornkinesisk gudinnastatystat.
 
 #### Prompt
 
@@ -193,17 +190,35 @@ En astronomiinfografik förklarar fenomenet med en röd måne under en total må
 Generate an astronomy infographic explaining: Why is the moon red during a total lunar eclipse?
 ```
 
-### No. 5: Infografikguide för nybörjare inom fågelskådning
+### No. 5: Sovjetisk Postbudscykel Vy
 
 - **Category:** `Infographic`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg" alt="Infografikguide för nybörjare inom fågelskådning" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix" alt="Sovjetisk Postbudscykel Vy" width="480" />
 
 #### Description
 
-En infografik i rutnätslayout presenterar åtta vanliga fågelarter med illustrationer, namn och identifieringskännetecken.
+En tre-vy ortografisk teckning av en sovjetisk postbudscykel.
+
+#### Prompt
+
+```text
+Annotated diagram of beef cuts…
+```
+
+### No. 6: Cyberpunk Hacker Tjej Karaktärsblad
+
+- **Category:** `Infographic`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="Cyberpunk Hacker Tjej Karaktärsblad" width="480" />
+
+#### Description
+
+Ett karaktärsdesignblad med turnaround-vyer för en cyberpunk anime hacker tjej.
 
 #### Prompt
 
@@ -211,17 +226,17 @@ En infografik i rutnätslayout presenterar åtta vanliga fågelarter med illustr
 Generate a beginner birdwatching guide infographic with a fresh color palette and grid layout, showcasing 8 common bird species with scientific illustrations, Chinese and English names, and identification features.
 ```
 
-### No. 6: Innehållsförteckning för lansering av nytt energifordon
+### No. 7: Förvandla Skiss Till Spelscener
 
 - **Category:** `Slides & Presentation`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg" alt="Innehållsförteckning för lansering av nytt energifordon" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="Förvandla Skiss Till Spelscener" width="480" />
 
 #### Description
 
-En sida med innehållsförteckning är designad för en presentationshändelse vid lansering av ett nytt energifordon.
+En skiss förvandlas till fyra högkvalitativa färdiga spelscenbilder.
 
 #### Prompt
 
@@ -229,17 +244,17 @@ En sida med innehållsförteckning är designad för en presentationshändelse v
 Design a table of contents page for a new energy vehicle launch event presentation. The TOC text is…
 ```
 
-### No. 7: Varumärkesstrategisida för Louis Vuitton
+### No. 8: Modeskiss Till Färdig Produkt
 
 - **Category:** `Slides & Presentation`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg" alt="Varumärkesstrategisida för Louis Vuitton" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix" alt="Modeskiss Till Färdig Produkt" width="480" />
 
 #### Description
 
-En enskild presentationssida destillerar Louis Vuittons varumärkesstrategi till en visuellt känslomässigt resonerande bild.
+En modeskiss förvandlas till en högkvalitativ färdig produktbild.
 
 #### Prompt
 
@@ -247,41 +262,23 @@ En enskild presentationssida destillerar Louis Vuittons varumärkesstrategi till
 Distill the Louis Vuitton brand strategy…into a single, emotionally resonant presentation slide
 ```
 
-### No. 8: Teknikpresentationsomslag med 3D-textur
-
-- **Category:** `Slides & Presentation`
-- **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg" alt="Teknikpresentationsomslag med 3D-textur" width="480" />
-
-#### Description
-
-Ett tekniktemat presentationsomslag har linjekonst, negativt utrymme och 3D-akryltextur i Blender- eller C4D-stil.
-
-#### Prompt
-
-```text
-Generate a tech-themed presentation cover page with linework, negative space design, 3D acrylic texture, Blender style, C4D effect
-```
-
 ## 📋 All Prompts
 
 <a id="category-1"></a>
 
-### Infographic (5)
+### Infographic (6)
 
-### No. 1: Fakta och siffror om journalisters säkerhet
+### No. 1: Konstnärlig bilderbokspanorama
 
 - **Category:** `Infographic`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg" alt="Fakta och siffror om journalisters säkerhet" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg?v=20260720fix" alt="Konstnärlig bilderbokspanorama" width="480" />
 
 #### Description
 
-En infografik visar årliga dödstal bland journalister från 2006 till 2013, totalt 593 fall med ett genomsnitt på ett dödsfall per vecka.
+Ett panoramabilderboksillustration av en skoluniformskarakär i stilen av Briggs och Adolfsson.
 
 #### Prompt
 
@@ -289,17 +286,17 @@ En infografik visar årliga dödstal bland journalister från 2006 till 2013, to
 Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAFETY OF JOURNALISTS; annual data on journalist fatalities 2006-2013: 70 in 2006, 59 in 2007, 46 in 2008, 77 in 2009, 65 in 2010, 62 in 2011, 123 in 2012, 91 in 2013, totaling 593 cases, averaging 1 death per week; supplement with background factors affecting journalist safety.
 ```
 
-### No. 2: Expeditionskrönika för Antarktisstationen Qinling
+### No. 2: Vinterstjärnhimmel Målning Scen
 
 - **Category:** `Infographic`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg" alt="Expeditionskrönika för Antarktisstationen Qinling" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="Vinterstjärnhimmel Målning Scen" width="480" />
 
 #### Description
 
-En infografik visualiserar stationens struktur, forskningstidslinje, jämförelser med andra stationer, energikällor och solljustimmar tillsammans med fältfoton.
+En hjärtvärmande panoramabild av en äldre kvinna som målar under en vinterstjärnhimmel.
 
 #### Prompt
 
@@ -307,17 +304,17 @@ En infografik visualiserar stationens struktur, forskningstidslinje, jämförels
 An infographic visualizing the chronicle of Antarctica's Qinling Station expedition, with the station's main structure placed at the center; surrounded by a research development timeline, bar charts comparing the scale of five research stations, a pie chart of station energy sources, a line chart of monthly sunlight hours, supplemented by field photos of research equipment, a summer meteorology panel, a seven-step fieldwork workflow, and on-site sampling photography, comprehensively showcasing China's Antarctic research operations.
 ```
 
-### No. 3: Guide för promptdesign till AI-modeller
+### No. 3: Lägg Till Gående Karaktär Till Skiss
 
 - **Category:** `Infographic`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg" alt="Guide för promptdesign till AI-modeller" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix" alt="Lägg Till Gående Karaktär Till Skiss" width="480" />
 
 #### Description
 
-En presentation sammanfattar skillnader och bästa praxis inom promptdesign för LLM-, bild- och videogenereringsmodeller.
+En karaktär läggs till som går på stigen i förgrunden av en skiss.
 
 #### Prompt
 
@@ -325,17 +322,17 @@ En presentation sammanfattar skillnader och bästa praxis inom promptdesign för
 Based on collected prompt guide trends, create a presentation summarizing the differences and best practices in prompt design for LLM, image generation, and video generation models. The slide structure should be logical and easy to compare. After creation, provide explanatory text for each model category, including why this writing approach works and common failure cases.
 ```
 
-### No. 4: Varför månen blir röd
+### No. 4: Fornkinesisk Gudinnastaty Vy
 
 - **Category:** `Infographic`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg" alt="Varför månen blir röd" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix" alt="Fornkinesisk Gudinnastaty Vy" width="480" />
 
 #### Description
 
-En astronomiinfografik förklarar fenomenet med en röd måne under en total månförmörkelse.
+En tre-vy ortografisk turntable av en gigantisk fornkinesisk gudinnastatystat.
 
 #### Prompt
 
@@ -343,17 +340,35 @@ En astronomiinfografik förklarar fenomenet med en röd måne under en total må
 Generate an astronomy infographic explaining: Why is the moon red during a total lunar eclipse?
 ```
 
-### No. 5: Infografikguide för nybörjare inom fågelskådning
+### No. 5: Sovjetisk Postbudscykel Vy
 
 - **Category:** `Infographic`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg" alt="Infografikguide för nybörjare inom fågelskådning" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix" alt="Sovjetisk Postbudscykel Vy" width="480" />
 
 #### Description
 
-En infografik i rutnätslayout presenterar åtta vanliga fågelarter med illustrationer, namn och identifieringskännetecken.
+En tre-vy ortografisk teckning av en sovjetisk postbudscykel.
+
+#### Prompt
+
+```text
+Annotated diagram of beef cuts…
+```
+
+### No. 6: Cyberpunk Hacker Tjej Karaktärsblad
+
+- **Category:** `Infographic`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="Cyberpunk Hacker Tjej Karaktärsblad" width="480" />
+
+#### Description
+
+Ett karaktärsdesignblad med turnaround-vyer för en cyberpunk anime hacker tjej.
 
 #### Prompt
 
@@ -365,17 +380,17 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 
 ### Slides & Presentation (5)
 
-### No. 1: Innehållsförteckning för lansering av nytt energifordon
+### No. 1: Förvandla Skiss Till Spelscener
 
 - **Category:** `Slides & Presentation`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg" alt="Innehållsförteckning för lansering av nytt energifordon" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="Förvandla Skiss Till Spelscener" width="480" />
 
 #### Description
 
-En sida med innehållsförteckning är designad för en presentationshändelse vid lansering av ett nytt energifordon.
+En skiss förvandlas till fyra högkvalitativa färdiga spelscenbilder.
 
 #### Prompt
 
@@ -383,17 +398,17 @@ En sida med innehållsförteckning är designad för en presentationshändelse v
 Design a table of contents page for a new energy vehicle launch event presentation. The TOC text is…
 ```
 
-### No. 2: Varumärkesstrategisida för Louis Vuitton
+### No. 2: Modeskiss Till Färdig Produkt
 
 - **Category:** `Slides & Presentation`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg" alt="Varumärkesstrategisida för Louis Vuitton" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix" alt="Modeskiss Till Färdig Produkt" width="480" />
 
 #### Description
 
-En enskild presentationssida destillerar Louis Vuittons varumärkesstrategi till en visuellt känslomässigt resonerande bild.
+En modeskiss förvandlas till en högkvalitativ färdig produktbild.
 
 #### Prompt
 
@@ -401,17 +416,17 @@ En enskild presentationssida destillerar Louis Vuittons varumärkesstrategi till
 Distill the Louis Vuitton brand strategy…into a single, emotionally resonant presentation slide
 ```
 
-### No. 3: Teknikpresentationsomslag med 3D-textur
+### No. 3: Realistisk LEGO Leksakseffekt Scen
 
 - **Category:** `Slides & Presentation`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg" alt="Teknikpresentationsomslag med 3D-textur" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix" alt="Realistisk LEGO Leksakseffekt Scen" width="480" />
 
 #### Description
 
-Ett tekniktemat presentationsomslag har linjekonst, negativt utrymme och 3D-akryltextur i Blender- eller C4D-stil.
+En bild förvandlas till en realistisk LEGO leksakseffekt med miniatyrstil.
 
 #### Prompt
 
@@ -419,17 +434,17 @@ Ett tekniktemat presentationsomslag har linjekonst, negativt utrymme och 3D-akry
 Generate a tech-themed presentation cover page with linework, negative space design, 3D acrylic texture, Blender style, C4D effect
 ```
 
-### No. 4: Interaktiv avdelare för presentationssektioner
+### No. 4: Armband Med Metallsvarta Taggspetsar
 
 - **Category:** `Slides & Presentation`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg" alt="Interaktiv avdelare för presentationssektioner" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg?v=20260720fix" alt="Armband Med Metallsvarta Taggspetsar" width="480" />
 
 #### Description
 
-En sida som avdelar presentationssektioner är designad med lager separerade för interaktiv redigering.
+En bild modifieras för att visa ett armband med metallsvarta taggspetsar.
 
 #### Prompt
 
@@ -437,17 +452,17 @@ En sida som avdelar presentationssektioner är designad med lager separerade fö
 Slides section divider page. Interactive edit: layer separation
 ```
 
-### No. 5: Konverteringssida för hembesöksutfodring av husdjur
+### No. 5: Hasselblad Filmtextur Porträtt
 
 - **Category:** `Slides & Presentation`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Lm9kb41yBoiquuxBt6Zc8B2Knuh.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Lm9kb41yBoiquuxBt6Zc8B2Knuh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Lm9kb41yBoiquuxBt6Zc8B2Knuh.jpg" alt="Konverteringssida för hembesöksutfodring av husdjur" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Lm9kb41yBoiquuxBt6Zc8B2Knuh.jpg?v=20260720fix" alt="Hasselblad Filmtextur Porträtt" width="480" />
 
 #### Description
 
-En presentationssida adresserar nedgången i kundkonvertering för en dörr-till-dörr-utfodringstjänst för husdjur.
+Ett porträtt med Hasselblad filmtextur, kantljus och ansiktsöverexponering.
 
 #### Prompt
 
@@ -457,19 +472,19 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 <a id="category-3"></a>
 
-### Poster Design (8)
+### Poster Design (9)
 
-### No. 1: Y2K-söt stil Geléaffisch
+### No. 1: Filmisk Sommar Berättande Porträtt Rutnät
 
 - **Category:** `Poster Design`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YYaBbQd0eohXQPxZTrLczomsnzt.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/M75obSWkXoiE51xElVNc39e2nIo.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YYaBbQd0eohXQPxZTrLczomsnzt.jpg" alt="Y2K-söt stil Geléaffisch" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/M75obSWkXoiE51xElVNc39e2nIo.jpg?v=20260720fix" alt="Filmisk Sommar Berättande Porträtt Rutnät" width="480" />
 
 #### Description
 
-En affisch har Y2K-söt stil med genomskinliga gelétexturerade element och ett lätt genomskinligt ljusblått färgschema.
+Ett tre-panels rutnät av filmiska sommarberättande porträtt utan accessoarer.
 
 #### Prompt
 
@@ -477,17 +492,17 @@ En affisch har Y2K-söt stil med genomskinliga gelétexturerade element och ett 
 Create a poster based on my sketch. I want a Y2K cute style with transparent jelly-textured elements and an overall translucent light blue color palette
 ```
 
-### No. 2: Marknadsföringsaffischserie i kollagestil
+### No. 2: Kvinna Bär Outfit Från Annan Bild
 
 - **Category:** `Poster Design`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/M75obSWkXoiE51xElVNc39e2nIo.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SCz7bLkM0oH2qXx8M9HctwYFnIh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/M75obSWkXoiE51xElVNc39e2nIo.jpg" alt="Marknadsföringsaffischserie i kollagestil" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SCz7bLkM0oH2qXx8M9HctwYFnIh.jpg?v=20260720fix" alt="Kvinna Bär Outfit Från Annan Bild" width="480" />
 
 #### Description
 
-En designorienterad marknadsföringsaffisch använder en specifik typografi och layout i kollagestil med ett utsett huvudämne.
+En kvinna bär kläder och accessoarer från en annan bild i en Instagram-stil bild.
 
 #### Prompt
 
@@ -495,17 +510,17 @@ En designorienterad marknadsföringsaffisch använder en specifik typografi och 
 Using the typography and layout from Image 1, generate a design-forward marketing poster in the same series, collage style, with Image 2 as the main subject…
 ```
 
-### No. 3: Sci-fi-affisch med diagonal komposition
+### No. 3: Ersätt Outfits Med Bröllopskläder
 
 - **Category:** `Poster Design`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg" alt="Sci-fi-affisch med diagonal komposition" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg?v=20260720fix" alt="Ersätt Outfits Med Bröllopskläder" width="480" />
 
 #### Description
 
-En sci-fi-stilaffisch har en diagonal komposition med nyckelelement placerade i mitten-botten av bilden.
+Två personers outfits ersätts med bröllopskläder från andra bilder.
 
 #### Prompt
 
@@ -513,17 +528,17 @@ En sci-fi-stilaffisch har en diagonal komposition med nyckelelement placerade i 
 Sci-fi style, poster design, diagonal composition. Center-bottom of the frame…
 ```
 
-### No. 4: Minimalistisk affisch för Barrie musikfestival
+### No. 4: Förvandla Till Flat Illustration Stil
 
 - **Category:** `Poster Design`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg" alt="Minimalistisk affisch för Barrie musikfestival" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg?v=20260720fix" alt="Förvandla Till Flat Illustration Stil" width="480" />
 
 #### Description
 
-En minimalistisk affisch för Barrie musikfestival har en övervägande svart bakgrund och en enkel komposition.
+En bilds stil förvandlas till en flat illustrationstil.
 
 #### Prompt
 
@@ -531,17 +546,17 @@ En minimalistisk affisch för Barrie musikfestival har en övervägande svart ba
 Minimalist music festival poster titled "Barrie." The composition features a predominantly black background…
 ```
 
-### No. 5: Filmaffisch med dubbel exponering i silhuett
+### No. 5: Ändra Till Relieft Skulptur Stil
 
 - **Category:** `Poster Design`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/JPybbJoFhocpoBx4JXTcjuthn6b.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/JPybbJoFhocpoBx4JXTcjuthn6b.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/JPybbJoFhocpoBx4JXTcjuthn6b.jpg" alt="Filmaffisch med dubbel exponering i silhuett" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/JPybbJoFhocpoBx4JXTcjuthn6b.jpg?v=20260720fix" alt="Ändra Till Relieft Skulptur Stil" width="480" />
 
 #### Description
 
-En spänningsfilmaffisch använder en dubbel exponeringsteknik inom en porträttsilhuett.
+En bilds stil ändras till en relieft skulpturstil.
 
 #### Prompt
 
@@ -549,17 +564,17 @@ En spänningsfilmaffisch använder en dubbel exponeringsteknik inom en porträtt
 Double exposure portrait silhouette suspense film poster…
 ```
 
-### No. 6: Futuristisk affisch för PIGITAL TSUNAMI evenemang
+### No. 6: Seedream Exempel
 
 - **Category:** `Poster Design`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg" alt="Futuristisk affisch för PIGITAL TSUNAMI evenemang" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-En futuristisk stilaffisch är designad för ett musikevenemang med titeln "PIGITAL TSUNAMI".
+Futuristisk stil musikaffisch med titeln "PIGITAL TSUNAMI"…
 
 #### Prompt
 
@@ -567,17 +582,17 @@ En futuristisk stilaffisch är designad för ett musikevenemang med titeln "PIGI
 Futurist style music event poster titled "PIGITAL TSUNAMI"…
 ```
 
-### No. 7: Vintageaffisch med Sweet Sunlight
+### No. 7: Seedream Exempel
 
 - **Category:** `Poster Design`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EohwbPkM1oSPnkxYrRxc1daSnWf.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EohwbPkM1oSPnkxYrRxc1daSnWf.jpg" alt="Vintageaffisch med Sweet Sunlight" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-En affischdesign har titeln Sweet Sunlight i ett vintage skrivmaskinsfont inom en avgränsande ram.
+Bounding box på titel - "Sweet Sunlight", använd vintage skrivmaskinsfont
 
 #### Prompt
 
@@ -585,17 +600,17 @@ En affischdesign har titeln Sweet Sunlight i ett vintage skrivmaskinsfont inom e
 Bounding box on title - "Sweet Sunlight", use vintage typewriter font
 ```
 
-### No. 8: Djuplila innehållsförteckning
+### No. 8: Seedream Exempel
 
 - **Category:** `Poster Design`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg" alt="Djuplila innehållsförteckning" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-En affisch har stor djuplila text som lyder TABLE OF CONTENTS till vänster med en punktförteckning till höger.
+Generera i stilen av Bild 1: stor djuplila text till vänster som lyder "TABLE OF CONTENTS", med punktlista
 
 #### Prompt
 
@@ -603,21 +618,39 @@ En affisch har stor djuplila text som lyder TABLE OF CONTENTS till vänster med 
 Generate in the style of Image 1: large deep purple text on the left reading "TABLE OF CONTENTS", with itemized listing on the right…
 ```
 
-<a id="category-4"></a>
+### No. 9: Don't Want To Work Series Poster
 
-### Brand Design (3)
-
-### No. 1: Minimalistisk varumärkespresentation av Blue Fox
-
-- **Category:** `Brand Design`
+- **Category:** `Poster Design`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg" alt="Minimalistisk varumärkespresentation av Blue Fox" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix" alt="Don't Want To Work Series Poster" width="480" />
 
 #### Description
 
-Ett minimalistiskt varumärkes-VI använder Kleinblått och silverfärgad blockering med ett räv-motiv och logotypen Blue Fox.
+En kreativ affisch med nya visuella uttryck och copy baserat på referensdesignen.
+
+#### Prompt
+
+```text
+Referencing this poster design, create a derivative creative poster for the "Don't Want to Work" series with different copy and visuals
+```
+
+<a id="category-4"></a>
+
+### Brand Design (2)
+
+### No. 1: Seedream Exempel
+
+- **Category:** `Brand Design`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
+
+#### Description
+
+Minimalistisk varumärkes VI-design showcase, med Kleinblått och silver som primära färger, färgblock estetik, rävgr
 
 #### Prompt
 
@@ -625,17 +658,17 @@ Ett minimalistiskt varumärkes-VI använder Kleinblått och silverfärgad blocke
 Minimalist brand VI design showcase, featuring Klein blue and silver as primary colors, color-blocking aesthetic, fox graphic motif, highlighting the English brand logo "Blue Fox"…
 ```
 
-### No. 2: Surrealistisk miniatyrproduktlandskap
+### No. 2: Seedream Exempel
 
 - **Category:** `Brand Design`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZFaQbExfsoT8M9xXftEcSEv5ndg.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XaGSbPeDCoS9m1xdfu7c4ZNBnZf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZFaQbExfsoT8M9xXftEcSEv5ndg.jpg" alt="Surrealistisk miniatyrproduktlandskap" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XaGSbPeDCoS9m1xdfu7c4ZNBnZf.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-Ett surrealistiskt miniatyrlandskap integrerar en produkt i en livsstilsscen för en kommersiell reklamaffisch.
+En surrealistisk miniatyrlandskap kreativ kommersiell produktannons, integrerar produkten i en passande livsstil
 
 #### Prompt
 
@@ -643,39 +676,21 @@ Ett surrealistiskt miniatyrlandskap integrerar en produkt i en livsstilsscen fö
 A surreal miniature landscape creative commercial product advertisement, integrating the product into a fitting lifestyle scene, highlighting product information, suitable for commercial poster promotion…
 ```
 
-### No. 3: Surreal karaktärsscen i fyra lådor
-
-- **Category:** `Brand Design`
-- **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AbuMbTZBPoG0sdx1EhQcJsaFnub.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AbuMbTZBPoG0sdx1EhQcJsaFnub.jpg" alt="Surreal karaktärsscen i fyra lådor" width="480" />
-
-#### Description
-
-Fyra färgade lådor visar ett ihopklämt blått huvud, en reflekterande bubbla, ett garnnystan och staplade byggklossar.
-
-#### Prompt
-
-```text
-Red box: a giant blue-furred head with a comically squeezed expression, looking at the bubble in front; Green box: a transparent bubble reflecting indoor lighting; Yellow box: a large warm beige yarn ball; Blue box: building blocks stacked together — warm dark gray arch shape, warm light gray semi-cylinder, lake blue cylinder, deep lake blue ramp, cobalt blue semi-disc; Purple box: a grass-green blanket with fringe draped over a sofa
-```
-
 <a id="category-5"></a>
 
 ### Interior Design (2)
 
-### No. 1: Sovrumsrendering i modern konststil
+### No. 1: Seedream Exempel
 
 - **Category:** `Interior Design`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HQdmbIPwSo4b3YxvPDVcaDgBnSg.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PmSAbA4P1oaDQpxBj6VceHLinwc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HQdmbIPwSo4b3YxvPDVcaDgBnSg.jpg" alt="Sovrumsrendering i modern konststil" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PmSAbA4P1oaDQpxBj6VceHLinwc.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-En sovrumsinredningsrendering är skapad i modern konststil med ett refererat färgschema och design.
+Referera till inredningsstilen och färgpaletten i bilden, och generera en modern-konst-stil sovrumsrendering.
 
 #### Prompt
 
@@ -683,17 +698,17 @@ En sovrumsinredningsrendering är skapad i modern konststil med ett refererat f�
 Refer to the interior design style and color palette in the image, and generate a modern-art-style bedroom rendering.
 ```
 
-### No. 2: Färgpalettbyte för interiördesign
+### No. 2: Seedream Exempel
 
 - **Category:** `Interior Design`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PmSAbA4P1oaDQpxBj6VceHLinwc.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KxmgbM7KjoX9VMxdaPTcrEaLnfh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PmSAbA4P1oaDQpxBj6VceHLinwc.jpg" alt="Färgpalettbyte för interiördesign" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KxmgbM7KjoX9VMxdaPTcrEaLnfh.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-En interiördesignbild modifieras genom att applicera ett nytt färgschema från en referens.
+Ändra färgpalett. Inmatningsbild + färgpalettreferens
 
 #### Prompt
 
@@ -705,35 +720,17 @@ Change color palette. Input image + color palette reference
 
 ### E-commerce (3)
 
-### No. 1: Färgreferens för e-handelsdesign
+### No. 1: Seedream Exempel
 
 - **Category:** `E-commerce`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YeMwbbJS0oiut7xbl1RcAGKNnvg.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YeMwbbJS0oiut7xbl1RcAGKNnvg.jpg" alt="Färgreferens för e-handelsdesign" width="480" />
-
-#### Description
-
-En e-handelsdesign skapas med hjälp av en indatabild och ett refererat färgschema.
-
-#### Prompt
-
-```text
-E-commerce design. Input image + color palette reference
-```
-
-### No. 2: RESHAKE vinterdunjackebanderoll
-
-- **Category:** `E-commerce`
-- **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg" alt="RESHAKE vinterdunjackebanderoll" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-En e-handelsbanderoll har en manlig modell som marknadsför RESHAKE:s vinterdunjackekollektion 2016.
+Generera en e-handelsbanner för RESHAKE varumärkets 2016 vinterdunjackekollektion kampanj. Till höger
 
 #### Prompt
 
@@ -741,17 +738,17 @@ En e-handelsbanderoll har en manlig modell som marknadsför RESHAKE:s vinterdunj
 Generate an e-commerce banner for RESHAKE brand's 2016 winter down jacket collection promotional campaign. On the right side of the frame, a male model facing the camera with a cool, intense expression…
 ```
 
-### No. 3: Solnedgångs UI för husdjurs-e-handel
+### No. 2: Seedream Exempel
 
 - **Category:** `E-commerce`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg" alt="Solnedgångs UI för husdjurs-e-handel" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-Ett 16:9 UI för husdjurs-e-handel har en solnedgångston, en Golden Retriever med 3D-tassar som bryter ramen.
+16:9 husdjur e-handels hero sektion UI, solnedgång varm ton, skiktade skuggor. Top navigation…guldkapselknapp; höger sida
 
 #### Prompt
 
@@ -759,21 +756,39 @@ Ett 16:9 UI för husdjurs-e-handel har en solnedgångston, en Golden Retriever m
 16:9 pet e-commerce hero section UI, sunset warm tone, layered shadows. Top navigation…golden capsule button; right side Golden Retriever image, 3D effect: the Retriever's front paws break through the right frame, resting on the left-side buttons.
 ```
 
-<a id="category-7"></a>
+### No. 3: Seedream Exempel
 
-### Comic & Storyboard (3)
-
-### No. 1: Seinen-manga storyboard för nattjakt
-
-- **Category:** `Comic & Storyboard`
+- **Category:** `E-commerce`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg" alt="Seinen-manga storyboard för nattjakt" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-Ett svartvitt manga-storyboard visar en biljakt på natten och en flicka med pistol i förföljelse.
+Vänligen omvandla denna modedesignskiss till en högkvalitativ färdig produktbild.
+
+#### Prompt
+
+```text
+Please transform this fashion design sketch into a high-quality finished product image.……
+```
+
+<a id="category-7"></a>
+
+### Comic & Storyboard (4)
+
+### No. 1: Seedream Exempel
+
+- **Category:** `Comic & Storyboard`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
+
+#### Description
+
+Generera en helsida japansk seinen svartvit manga storyboard, nattlig jakt och skottväxling tema. Top panel: en
 
 #### Prompt
 
@@ -781,17 +796,17 @@ Ett svartvitt manga-storyboard visar en biljakt på natten och en flicka med pis
 Generate a full-page Japanese seinen black-and-white manga storyboard, nighttime chase and gunfight theme. Top panel: a car under headlights and chain-link fencing in the dark night; middle: a girl armed with a gun in pursuit…
 ```
 
-### No. 2: Vertikal furry vardagsserie
+### No. 2: Seedream Exempel
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg" alt="Vertikal furry vardagsserie" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-En fyrrutan serie har en varghund och en randig katt-furry i ett rum på natten.
+Rita en vertikal fyra-panels furry vardagslivs serie, utspelar sig i ett rum på natten, med en varg-hund furry och en randig katt
 
 #### Prompt
 
@@ -799,17 +814,17 @@ En fyrrutan serie har en varghund och en randig katt-furry i ett rum på natten.
 Draw a vertical four-panel furry slice-of-life comic, set in a room at night, featuring a wolf-dog furry and a tabby cat furry…
 ```
 
-### No. 3: Amerikansk skräckcomic i Gotham-gränd
+### No. 3: Seedream Exempel
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg" alt="Amerikansk skräckcomic i Gotham-gränd" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-Ett set med amerikanska skräckcomic-storyboards utspelar sig i en gränd i Gotham City.
+Generera ett set av amerikansk skräck serie storyboards, historien kan utspela sig i en Gotham City gränd…
 
 #### Prompt
 
@@ -817,21 +832,39 @@ Ett set med amerikanska skräckcomic-storyboards utspelar sig i en gränd i Goth
 Generate a set of American horror comic storyboards, the story could take place in a Gotham City alley…
 ```
 
-<a id="category-8"></a>
+### No. 4: Bästa Och Sämsta Hundduo Kontrast
 
-### Film Storyboard (4)
-
-### No. 1: Trepane films storyboard för parkeringsplats
-
-- **Category:** `Film Storyboard`
+- **Category:** `Comic & Storyboard`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Dyj6bbHWHoFVdFxpOqpc0MyknYe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg" alt="Trepane films storyboard för parkeringsplats" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Dyj6bbHWHoFVdFxpOqpc0MyknYe.jpg?v=20260720fix" alt="Bästa Och Sämsta Hundduo Kontrast" width="480" />
 
 #### Description
 
-Ett filmstoryboard har tre lika stora paneler som visar en bred etableringsbild av en parkeringsplats på natten.
+Två kontrasterande bilder av hundar som den bästa och sämsta duon med bildtexter.
+
+#### Prompt
+
+```text
+Top image: two dogs pressing their faces together with playful expressions, caption "We're the best duo ever"; Bottom image: two dogs fighting with fierce expressions, caption "We're the worst duo ever".
+```
+
+<a id="category-8"></a>
+
+### Film Storyboard (3)
+
+### No. 1: Seedream Exempel
+
+- **Category:** `Film Storyboard`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
+
+#### Description
+
+Film storyboard, 3 paneler i lika bred horisontell layout: Panel 1, bred etableringsbild av en parkeringsplats på natten…
 
 #### Prompt
 
@@ -839,17 +872,17 @@ Ett filmstoryboard har tre lika stora paneler som visar en bred etableringsbild 
 Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establishing shot of a parking lot at night…
 ```
 
-### No. 2: Sexpanelers västernfilms storyboard för gata
+### No. 2: Seedream Exempel
 
 - **Category:** `Film Storyboard`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg" alt="Sexpanelers västernfilms storyboard för gata" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-Ett brett horisontellt storyboard har sex textlösa paneler som skildrar båda ändarna av en västernstadgata.
+Västernfilm storyboard, 6 paneler i bred horisontell ratio, ingen text genomgående: Panel 1, extrem bred bild, båda ändarna av
 
 #### Prompt
 
@@ -857,35 +890,17 @@ Ett brett horisontellt storyboard har sex textlösa paneler som skildrar båda �
 Western film storyboard, 6 panels in wide horizontal ratio, no text throughout: Panel 1, extreme wide shot, both ends of the street…
 ```
 
-### No. 3: Över-axeln-bild av ledsen kvinna
+### No. 3: Seedream Exempel
 
 - **Category:** `Film Storyboard`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg" alt="Över-axeln-bild av ledsen kvinna" width="480" />
-
-#### Description
-
-En över-axeln-bild visar en ledsen brunhårig europeisk eller amerikansk kvinna runt 40 års ålder.
-
-#### Prompt
-
-```text
-Over-the-shoulder shot, featuring a brown-haired European or American woman around 40 years old with a sad expression…
-```
-
-### No. 4: Xianxia-scen Anime Storyboard
-
-- **Category:** `Film Storyboard`
-- **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg" alt="Xianxia-scen Anime Storyboard" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-Ett anime-stilat storyboard som skildrar en antik kinesisk xianxia-fantasyscen.
+Anime-stil fornkinesisk xianxia scen storyboard…
 
 #### Prompt
 
@@ -895,193 +910,37 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 <a id="category-9"></a>
 
-### Illustration (3)
+### Portrait (6)
 
-### No. 1: Konstnärlig Bilderbokspanorama
-
-- **Category:** `Illustration`
-- **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg" alt="Konstnärlig Bilderbokspanorama" width="480" />
-
-#### Description
-
-Ett panoramabilderboksillustration visar en elev i uniform med förfinad smink och accessoarer.
-
-#### Prompt
-
-```text
-Artistic picture book, panoramic view, school uniform trousers, refined makeup, accessories, illustrated in the style of Raymond Briggs and Mattias Adolfsson…
-```
-
-### No. 2: Vinterstjärnhimmel Målning Scen
-
-- **Category:** `Illustration`
-- **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg" alt="Vinterstjärnhimmel Målning Scen" width="480" />
-
-#### Description
-
-En mjuk cyan-grön illustration visar en äldre kvinna som målar solen på en fridfull vintergräsmark.
-
-#### Prompt
-
-```text
-This heartwarming panoramic picture book illustration uses soft cyan-green tones to depict a serene grassland under a winter starry sky, where an elderly woman paints the sun at an easel while a child plays with a puppy beside a yurt…
-```
-
-### No. 3: Lägg Till Karaktär På Förgrundsväg
-
-- **Category:** `Illustration`
-- **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EKwtbwJTSofQZrxdwafcQDYrnXc.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EKwtbwJTSofQZrxdwafcQDYrnXc.jpg" alt="Lägg Till Karaktär På Förgrundsväg" width="480" />
-
-#### Description
-
-En gående karaktär läggs till på förgrundsvägen i en skisserad panoramail lustration.
-
-#### Prompt
-
-```text
-Based on the sketch, add a walking character on the foreground path…
-```
-
-<a id="category-10"></a>
-
-### Character Design (3)
-
-### No. 1: Antik Gudinnastaty Tre Vyer
-
-- **Category:** `Character Design`
-- **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg" alt="Antik Gudinnastaty Tre Vyer" width="480" />
-
-#### Description
-
-Ett tre-vyers ortografiskt ark visar en gigantisk antik kinesisk gudinnastaty med utskuren huvudprydnad.
-
-#### Prompt
-
-```text
-Standard three-view orthographic turntable: front view, side view, back view, of a giant ancient Chinese goddess stone statue with an intricately carved stone headpiece and…
-```
-
-### No. 2: Sovjetisk Postcykel Tre Vyer
-
-- **Category:** `Character Design`
-- **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg" alt="Sovjetisk Postcykel Tre Vyer" width="480" />
-
-#### Description
-
-Ett tre-vyers designark skildrar en sovjetisk postbudscykel från perioden.
-
-#### Prompt
-
-```text
-Generate a three-view of a Soviet-era postal messenger bicycle…
-```
-
-### No. 3: Cyberpunk Hacker Tjej Designark
-
-- **Category:** `Character Design`
-- **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg" alt="Cyberpunk Hacker Tjej Designark" width="480" />
-
-#### Description
-
-Ett cyberpunk anime-karaktärsark visar tre vyer och detaljer av en hackertjej vid namn RIN.
-
-#### Prompt
-
-```text
-Cyberpunk-style anime character design sheet, showing three-view turnaround, close-up portraits, and accessory details of a hacker girl named "RIN"…
-```
-
-<a id="category-11"></a>
-
-### Line Art & Finished Work (3)
-
-### No. 1: Förvandla Skiss Till Spelscener
-
-- **Category:** `Line Art & Finished Work`
-- **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Yq3VbgKpeocFYqxLLybcERktnHe.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Yq3VbgKpeocFYqxLLybcERktnHe.jpg" alt="Förvandla Skiss Till Spelscener" width="480" />
-
-#### Description
-
-En skiss förvandlas till fyra högkvalitativa färdiga bilder av en spelscen.
-
-#### Prompt
-
-```text
-Please transform this sketch into 4 high-quality finished images of a game scene with……
-```
-
-### No. 2: Modeskiss Till Färdig Produkt
-
-- **Category:** `Line Art & Finished Work`
-- **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BURCblKzlovIMYxrcSZcF71MnQc.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BURCblKzlovIMYxrcSZcF71MnQc.jpg" alt="Modeskiss Till Färdig Produkt" width="480" />
-
-#### Description
-
-En modedesignskiss förvandlas till en högkvalitativ färdig produktbild.
-
-#### Prompt
-
-```text
-Please transform this fashion design sketch into a high-quality finished product image.……
-```
-
-### No. 3: Realistisk Lego Leksakseffekt Scen
-
-- **Category:** `Line Art & Finished Work`
-- **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UXbVbZLTvoeJkZxqNmecinZFnbd.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UXbVbZLTvoeJkZxqNmecinZFnbd.jpg" alt="Realistisk Lego Leksakseffekt Scen" width="480" />
-
-#### Description
-
-En bild förvandlas för att ha en realistisk LEGO leksakseffekt med miniatyrscenstil.
-
-#### Prompt
-
-```text
-Transform the image into a realistic LEGO toy effect with miniature scene styling.
-```
-
-<a id="category-12"></a>
-
-### Portrait (3)
-
-### No. 1: Porträtt Med Taggigt Armband Händer
+### No. 1: Seedream Exempel
 
 - **Category:** `Portrait`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UznubLD3woRBDwx3BwtcdYEJnJh.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UznubLD3woRBDwx3BwtcdYEJnJh.jpg" alt="Porträtt Med Taggigt Armband Händer" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-Ett porträtt visar händer med ett metalliskt svart törntaggigt armband som pekar mot klockan 12.
+Över-axeln bild, med en brunhårig europeisk eller amerikansk kvinna runt 40 år med ett ledset uttryck…
+
+#### Prompt
+
+```text
+Over-the-shoulder shot, featuring a brown-haired European or American woman around 40 years old with a sad expression…
+```
+
+### No. 2: Seedream Exempel
+
+- **Category:** `Portrait`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
+
+#### Description
+
+Modifiera bilden enligt textkraven i bilden: armband med metalliska svarta törntaggar, händer pekar...
 
 #### Prompt
 
@@ -1089,17 +948,17 @@ Ett porträtt visar händer med ett metalliskt svart törntaggigt armband som pe
 Modify the image according to the text requirements in the image: bracelet with metallic black thorn spikes, hands pointing to 12 o'clock sharp
 ```
 
-### No. 2: Hasselblad Filmtextur Porträtt
+### No. 3: Seedream Exempel
 
 - **Category:** `Portrait`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg" alt="Hasselblad Filmtextur Porträtt" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-Ett porträtt har Hasselblad filmtextur med kantljus och överexponerat ansikte.
+Hasselblad filmtextur, ljus och skugga, kantbelysning, (ansiktsöverexponering)...
 
 #### Prompt
 
@@ -1107,17 +966,17 @@ Ett porträtt har Hasselblad filmtextur med kantljus och överexponerat ansikte.
 Hasselblad film texture, light and shadow, rim light, (facial overexposure)…
 ```
 
-### No. 3: Filmisk Sommarberättelse Rutnät
+### No. 4: Seedream Exempel
 
 - **Category:** `Portrait`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NO81bbDXSobbejx4tVycewI6nve.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NO81bbDXSobbejx4tVycewI6nve.jpg" alt="Filmisk Sommarberättelse Rutnät" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-Ett tre-rutors rutnät visar filmiska sommarberättelseporträtt utan accessoarer eller bakgrund.
+Ta bort alla accessoarer, frisyr och bakgrund, generera ett tre-rutors rutnät av filmiska sommarberättande porträtt.
 
 #### Prompt
 
@@ -1125,101 +984,209 @@ Ett tre-rutors rutnät visar filmiska sommarberättelseporträtt utan accessoare
 Remove all accessories, hairstyle, and background, generate a three-panel grid of cinematic summer narrative portraits
 ```
 
-<a id="category-13"></a>
+### No. 5: Fujifilm Kamera Polaroid Bild
 
-### Multi-Image Fusion (2)
-
-### No. 1: Sammanfogad Helkroppsbild Med Pose
-
-- **Category:** `Multi-Image Fusion`
+- **Category:** `Portrait`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Q8txbHeE0olIdzxsgh5c9GINn9b.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Y6bTb6x7zoM2kFxkGtXcPH5unUh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Q8txbHeE0olIdzxsgh5c9GINn9b.jpg" alt="Sammanfogad Helkroppsbild Med Pose" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Y6bTb6x7zoM2kFxkGtXcPH5unUh.jpg?v=20260720fix" alt="Fujifilm Kamera Polaroid Bild" width="480" />
 
 #### Description
 
-En helkroppsbild fogar samman poser och objekt från flera bilder till en sammanhängande figur.
+En bild bearbetad för att se ut som ett Fujifilm kamera Polaroid-fotografi.
 
 #### Prompt
 
 ```text
-Generate a full-body shot of the person in Image 3, and adjust her pose so her right hand motion matches Image 1, holding the first speaker from Image 4, and her leg motion matches Image 2
+Fujifilm camera Polaroid
 ```
 
-### No. 2: Komponerad Realistisk Stilleben
+### No. 6: Retrofuturism Porträtt Med Fiolstråke
 
-- **Category:** `Multi-Image Fusion`
+- **Category:** `Portrait`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HMCjbkxHGodE7dxtjgGckx9Tnof.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HMCjbkxHGodE7dxtjgGckx9Tnof.jpg" alt="Komponerad Realistisk Stilleben" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg?v=20260720fix" alt="Retrofuturism Porträtt Med Fiolstråke" width="480" />
 
 #### Description
 
-Sju objekt är komponerade till ett realistiskt stilleben med korrekt belysning och materialdetaljer.
+Ett retrofuturism porträtt av en man i en klänning som håller en fiolstråke.
 
 #### Prompt
 
 ```text
-Precisely cut out the 7 white-background objects I provided and compose them into a realistic still life photograph with the specified composition. Ensure correct perspective, lighting, shadow, and spatial relationships. Faithfully reproduce material details of wood grain, leather, lace, glass jelly, and feathers, creating a high-quality image that interweaves realism with playfulness and blends retro with modern aesthetics.
+Retro-futurism style portrait photography, a middle-aged man with long hair wearing a burgundy gown and sunglasses, holding a violin bow…
 ```
 
-<a id="category-14"></a>
+<a id="category-10"></a>
 
-### Outfit Transfer (2)
+### Illustration (4)
 
-### No. 1: Instagram Gatufoto Outbyte Överföring
+### No. 1: Seedream Exempel
 
-- **Category:** `Outfit Transfer`
+- **Category:** `Illustration`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg" alt="Instagram Gatufoto Outbyte Överföring" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-En kvinna bär en annan persons kläder och accessoarer i ett Instagram-stilat gatufoto.
+Konstnärlig bilderbok, panoramavy, skoluniformsbyxor, raffinerad sminkning, accessoarer, illustrerad i stilen av
 
 #### Prompt
 
 ```text
-Make the woman in Image 1 wear the clothing, jewelry, and accessories from Image 2. The whole photo should look like an Instagram street shot.
+Artistic picture book, panoramic view, school uniform trousers, refined makeup, accessories, illustrated in the style of Raymond Briggs and Mattias Adolfsson…
 ```
 
-### No. 2: Bröllopsklädsel Överföring På Par
+### No. 2: Seedream Exempel
 
-- **Category:** `Outfit Transfer`
+- **Category:** `Illustration`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg" alt="Bröllopsklädsel Överföring På Par" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-Ett par bär bröllopsklädsel från referensbilder i deras ursprungliga miljö med justerad belysning.
+Denna hjärtvärmande panoramabilderboksillustration använder mjuka cyan-gröna toner för att skildra en fridfull gräsmark under en vacker himmel.
 
 #### Prompt
 
 ```text
-Replace the outfits of the two people in Image 1 with the wedding attire from Images 2 and 3, keep the background color consistent, and adjust lighting to match the overall style…
+This heartwarming panoramic picture book illustration uses soft cyan-green tones to depict a serene grassland under a winter starry sky, where an elderly woman paints the sun at an easel while a child plays with a puppy beside a yurt…
 ```
 
-<a id="category-15"></a>
+### No. 3: Seedream Exempel
 
-### Style Transfer (2)
+- **Category:** `Illustration`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MlA2bxTw4oD6FgxZmF0cntf7nCf.jpg?v=20260720fix)
 
-### No. 1: Platt Illustration Stil Transformation
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MlA2bxTw4oD6FgxZmF0cntf7nCf.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
+
+#### Description
+
+Baserat på skissen, lägg till en gående karaktär på stigen i förgrunden...
+
+#### Prompt
+
+```text
+Based on the sketch, add a walking character on the foreground path…
+```
+
+### No. 4: Seedream Exempel
+
+- **Category:** `Illustration`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BURCblKzlovIMYxrcSZcF71MnQc.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BURCblKzlovIMYxrcSZcF71MnQc.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
+
+#### Description
+
+Vänligen omvandla denna skiss till 4 högkvalitativa färdiga bilder av en spelscen med...
+
+#### Prompt
+
+```text
+Please transform this sketch into 4 high-quality finished images of a game scene with……
+```
+
+<a id="category-11"></a>
+
+### Character Design (3)
+
+### No. 1: Seedream Exempel
+
+- **Category:** `Character Design`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
+
+#### Description
+
+Standard tre-vy ortografisk svängskiva: framsida, sida, baksida, av en gigantisk forntida kinesisk gudinnastatym i sten.
+
+#### Prompt
+
+```text
+Standard three-view orthographic turntable: front view, side view, back view, of a giant ancient Chinese goddess stone statue with an intricately carved stone headpiece and…
+```
+
+### No. 2: Seedream Exempel
+
+- **Category:** `Character Design`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
+
+#### Description
+
+Generera en tre-vy av en sovjetisk postbudscykel...
+
+#### Prompt
+
+```text
+Generate a three-view of a Soviet-era postal messenger bicycle…
+```
+
+### No. 3: Seedream Exempel
+
+- **Category:** `Character Design`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
+
+#### Description
+
+Cyberpunk-stil anime karaktärsdesignblad, visar tre-vy svängskiva, närbildsporträtt och accessoar detaljer.
+
+#### Prompt
+
+```text
+Cyberpunk-style anime character design sheet, showing three-view turnaround, close-up portraits, and accessory details of a hacker girl named "RIN"…
+```
+
+<a id="category-12"></a>
+
+### Style Transfer (4)
+
+### No. 1: Seedream Exempel
 
 - **Category:** `Style Transfer`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MCZfbhD9lowIH0xu5H9c6UWVnMf.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ0XbIE5vosDb5xw7PbcOl8Nnrc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MCZfbhD9lowIH0xu5H9c6UWVnMf.jpg" alt="Platt Illustration Stil Transformation" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ0XbIE5vosDb5xw7PbcOl8Nnrc.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-En bild förvandlas till en ren, grafisk platt illustrationstil.
+Omvandla bilden till en realistisk LEGO-leksakseffekt med miniatyrscenstyling.
+
+#### Prompt
+
+```text
+Transform the image into a realistic LEGO toy effect with miniature scene styling.
+```
+
+### No. 2: Seedream Exempel
+
+- **Category:** `Style Transfer`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
+
+#### Description
+
+Omvandla bildstilen till flat illustrationstil.
 
 #### Prompt
 
@@ -1227,39 +1194,97 @@ En bild förvandlas till en ren, grafisk platt illustrationstil.
 Transform the image style into flat illustration style
 ```
 
-### No. 2: Derivat Dont Work Affisch
+### No. 3: Seedream Exempel
 
 - **Category:** `Style Transfer`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FLbhbxeAloklCUxOWWxckvx2ntf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg" alt="Derivat Dont Work Affisch" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FLbhbxeAloklCUxOWWxckvx2ntf.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
 
 #### Description
 
-En ny affisch för 'Don't Want to Work'-serien skapas med annan text och visuella element.
+Ändra till relieft skulpturstil.
 
 #### Prompt
 
 ```text
-Referencing this poster design, create a derivative creative poster for the "Don't Want to Work" series with different copy and visuals
+Change to relief sculpture style
 ```
 
-<a id="category-16"></a>
+### No. 4: Bild Med Fujifilm NC-filter
 
-### Restoration (2)
-
-### No. 1: Gammalt Foto Restaurering Och Färgläggning
-
-- **Category:** `Restoration`
+- **Category:** `Style Transfer`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IitgbjnaLodOltxJxVOci4T2ncc.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IitgbjnaLodOltxJxVOci4T2ncc.jpg" alt="Gammalt Foto Restaurering Och Färgläggning" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg?v=20260720fix" alt="Bild Med Fujifilm NC-filter" width="480" />
 
 #### Description
 
-Ett gammalt foto restaureras med ett tydligare motiv och återupplivade färger.
+En bild förbättrad med Fujifilm NC-färgfilter applicerat.
+
+#### Prompt
+
+```text
+Add Fujifilm NC filter
+```
+
+<a id="category-13"></a>
+
+### Outfit Transfer (2)
+
+### No. 1: Seedream Exempel
+
+- **Category:** `Outfit Transfer`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
+
+#### Description
+
+Få kvinnan i Bild 1 att bära kläderna, smyckena och accessoarerna från Bild 2. Hela fotot ska se ut som ett enhetligt modefoto.
+
+#### Prompt
+
+```text
+Make the woman in Image 1 wear the clothing, jewelry, and accessories from Image 2. The whole photo should look like an Instagram street shot.
+```
+
+### No. 2: Seedream Exempel
+
+- **Category:** `Outfit Transfer`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix" alt="Seedream Exempel" width="480" />
+
+#### Description
+
+Byt ut kläderna på de två personerna i Bild 1 mot bröllopskläderna från Bild 2 och 3, behåll bakgrundsfärgerna och ljuset.
+
+#### Prompt
+
+```text
+Replace the outfits of the two people in Image 1 with the wedding attire from Images 2 and 3, keep the background color consistent, and adjust lighting to match the overall style…
+```
+
+<a id="category-14"></a>
+
+### Restoration (1)
+
+### No. 1: Restaurerat Gammalt Foto Med Tydligt Motiv
+
+- **Category:** `Restoration`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg?v=20260720fix" alt="Restaurerat Gammalt Foto Med Tydligt Motiv" width="480" />
+
+#### Description
+
+En restaurering av ett gammalt foto som gör motivet tydligare och färgerna livfullare.
 
 #### Prompt
 
@@ -1267,17 +1292,21 @@ Ett gammalt foto restaureras med ett tydligare motiv och återupplivade färger.
 Restore this old photo, making the subject clearer and restoring colors
 ```
 
-### No. 2: Motljus Korrigering För Bild
+<a id="category-15"></a>
 
-- **Category:** `Restoration`
+### Retouching (2)
+
+### No. 1: Korrigerad Motljusbild
+
+- **Category:** `Retouching`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg" alt="Motljus Korrigering För Bild" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix" alt="Korrigerad Motljusbild" width="480" />
 
 #### Description
 
-En bilds motljus korrigeras utan att andra element förändras.
+Bilden hålls oförändrad med korrigerat motljus för bättre exponering.
 
 #### Prompt
 
@@ -1285,39 +1314,17 @@ En bilds motljus korrigeras utan att andra element förändras.
 Keep the image unchanged and correct the backlighting.
 ```
 
-<a id="category-17"></a>
-
-### Retouching (2)
-
-### No. 1: Porträtt Glasögon Borttagning Och Hårbyte
+### No. 2: Naturligt Smink Med Starkare Intensitet
 
 - **Category:** `Retouching`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DjRPbepoGoVP4KxitW3cK1WhnIp.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg" alt="Porträtt Glasögon Borttagning Och Hårbyte" width="480" />
-
-#### Description
-
-Ett porträtt får glasögon borttagna och frisyr ändrad till löst, stort vågigt hår.
-
-#### Prompt
-
-```text
-Remove glasses, change hairstyle to large wavy hair worn down
-```
-
-### No. 2: Starkare Ändå Naturligt Smink Look
-
-- **Category:** `Retouching`
-- **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VVkmbTEpUoMHltxa90EccUOfn5e.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VVkmbTEpUoMHltxa90EccUOfn5e.jpg" alt="Starkare Ändå Naturligt Smink Look" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DjRPbepoGoVP4KxitW3cK1WhnIp.jpg?v=20260720fix" alt="Naturligt Smink Med Starkare Intensitet" width="480" />
 
 #### Description
 
-Ett porträtts smink ändras till en mer intensiv men fortfarande naturlig framtoning.
+Ett sminklook ändrat till starkare intensitet samtidigt som en naturlig övergripande känsla behålls.
 
 #### Prompt
 
@@ -1325,79 +1332,39 @@ Ett porträtts smink ändras till en mer intensiv men fortfarande naturlig framt
 Change to a different makeup look with stronger intensity while keeping the overall makeup natural
 ```
 
-<a id="category-18"></a>
+<a id="category-16"></a>
 
-### Stickers (3)
+### ID Photo (3)
 
-### No. 1: Självbelåten Flin Klistermärke Med Text
-
-- **Category:** `Stickers`
-- **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZyADbn7lvoJhuAxduyVcYmkpnCd.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZyADbn7lvoJhuAxduyVcYmkpnCd.jpg" alt="Självbelåten Flin Klistermärke Med Text" width="480" />
-
-#### Description
-
-Ett klistermärke visar ett självbelåtet flin med djävulstandar och texten '准备更坏'.
-
-#### Prompt
-
-```text
-Change expression to a smug grin, eyes squinting into crescents with devil teeth showing at the corners of the mouth, add text "准备更坏" centered at the bottom of the image in white bold font.
-```
-
-### No. 2: Hundduo Bästa Och Sämsta Klistermärken
-
-- **Category:** `Stickers`
-- **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg" alt="Hundduo Bästa Och Sämsta Klistermärken" width="480" />
-
-#### Description
-
-Två klistermärken visar hundar som det bästa lekfulla duot och det sämsta bråkiga duot.
-
-#### Prompt
-
-```text
-Top image: two dogs pressing their faces together with playful expressions, caption "We're the best duo ever"; Bottom image: two dogs fighting with fierce expressions, caption "We're the worst duo ever".
-```
-
-### No. 3: Fyra Rutor Serie Känslo Klistermärken
-
-- **Category:** `Stickers`
-- **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BqcNb4CzSoacw1xkh8CcmhsKnzh.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BqcNb4CzSoacw1xkh8CcmhsKnzh.jpg" alt="Fyra Rutor Serie Känslo Klistermärken" width="480" />
-
-#### Description
-
-Ett fyra-rutors klistermärkespaket visar en seriefigur som uttrycker olika känslor.
-
-#### Prompt
-
-```text
-Based on the cartoon character, design different emotions — happy, sad, aggrieved, angry — and generate a four-panel sticker pack
-```
-
-<a id="category-19"></a>
-
-### ID Photo (1)
-
-### No. 1: Ragdoll Kattunge En Tums ID Foto
+### No. 1: Porträtt Med Ny Frisyr Och Inga Glasögon
 
 - **Category:** `ID Photo`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkgRbmVP1o4KqixE60RcpRk3nme.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Qk1dbIVDqo7DPxxwPJuc7muCneb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkgRbmVP1o4KqixE60RcpRk3nme.jpg" alt="Ragdoll Kattunge En Tums ID Foto" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Qk1dbIVDqo7DPxxwPJuc7muCneb.jpg?v=20260720fix" alt="Porträtt Med Ny Frisyr Och Inga Glasögon" width="480" />
 
 #### Description
 
-Ett en-tums ID-foto genereras för en Ragdoll-kattunge.
+Ett porträtt där glasögonen är borttagna och frisyren ändrad till stort vågigt hår.
+
+#### Prompt
+
+```text
+Remove glasses, change hairstyle to large wavy hair worn down
+```
+
+### No. 2: Ragdoll Kattunge Passfoto
+
+- **Category:** `ID Photo`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix" alt="Ragdoll Kattunge Passfoto" width="480" />
+
+#### Description
+
+Ett passfoto genererat för en Ragdoll kattunge.
 
 #### Prompt
 
@@ -1405,43 +1372,57 @@ Ett en-tums ID-foto genereras för en Ragdoll-kattunge.
 Generate a 1-inch ID photo for this Ragdoll kitten
 ```
 
-<a id="category-20"></a>
+### No. 3: Solo Passfoto För Kvinnan
 
-### Social Media (1)
-
-### No. 1: Handritad Brunch Reklamaffisch
-
-- **Category:** `Social Media`
+- **Category:** `ID Photo`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Orbxbu6HQosMb0xxgVJca592nhd.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg" alt="Handritad Brunch Reklamaffisch" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Orbxbu6HQosMb0xxgVJca592nhd.jpg?v=20260720fix" alt="Solo Passfoto För Kvinnan" width="480" />
 
 #### Description
 
-En affisch har handritade maträtter med vita etiketter och kinesiska annoteringar.
+Ett genererat solo passfoto för den angivna kvinnan.
 
 #### Prompt
 
 ```text
-Place the foods from the images on the same table and transform them into a hand-drawn style. Use white linework to label each dish and add handwritten-style Chinese annotations. Create a promotional poster for a dish for “Seasonal Limited Brunch.”
+Generate a solo ID photo for the woman
 ```
 
-<a id="category-21"></a>
+<a id="category-17"></a>
 
-### Creative Fun (4)
+### Creative Fun (3)
 
-### No. 1: Da Vinci Van Gogh Fredstecken
+### No. 1: Karaktär Med Självbelåten Flin Och Djävulstander
 
 - **Category:** `Creative Fun`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg" alt="Da Vinci Van Gogh Fredstecken" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix" alt="Karaktär Med Självbelåten Flin Och Djävulstander" width="480" />
 
 #### Description
 
-Da Vinci och Van Gogh gör fredstecken med Michelangelo som fotobombar bakom.
+En karaktär med ett självbelåtet flin, månformade ögon, djävulstander och centrerad text.
+
+#### Prompt
+
+```text
+Change expression to a smug grin, eyes squinting into crescents with devil teeth showing at the corners of the mouth, add text "准备更坏" centered at the bottom of the image in white bold font.
+```
+
+### No. 2: Da Vinci Van Gogh Och Michelangelo
+
+- **Category:** `Creative Fun`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg?v=20260720fix" alt="Da Vinci Van Gogh Och Michelangelo" width="480" />
+
+#### Description
+
+Da Vinci och Van Gogh gör fredstecken medan Michelangelo fotobombar.
 
 #### Prompt
 
@@ -1449,13 +1430,13 @@ Da Vinci och Van Gogh gör fredstecken med Michelangelo som fotobombar bakom.
 Da Vinci and Van Gogh facing the camera making peace signs, with Michelangelo photobombing from behind them…
 ```
 
-### No. 2: Hand Håller Glassstrut
+### No. 3: Hand Håller Glassstrut Mot Stadssilhuett
 
 - **Category:** `Creative Fun`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg" alt="Hand Håller Glassstrut" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix" alt="Hand Håller Glassstrut Mot Stadssilhuett" width="480" />
 
 #### Description
 
@@ -1467,40 +1448,26 @@ En hand håller en glassstrut mot en stadssilhuett och blå himmel.
 A hand is holding an ice cream cone, with a city skyline and a clear blue sky in the background.……
 ```
 
-### No. 3: Retrofuturism Porträtt Med Fiolstråke
+<a id="category-18"></a>
 
-- **Category:** `Creative Fun`
+### Stickers (1)
+
+### No. 1: Tecknad Karaktär Känsleklistermärkespaket
+
+- **Category:** `Stickers`
 - **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg" alt="Retrofuturism Porträtt Med Fiolstråke" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix" alt="Tecknad Karaktär Känsleklistermärkespaket" width="480" />
 
 #### Description
 
-En långhårig man i en vinröd klänning håller en fiolstråke i ett retrofuturistiskt porträtt.
+Ett fyra-rutors klistermärkespaket som visar en tecknad karaktärs olika känslor.
 
 #### Prompt
 
 ```text
-Retro-futurism style portrait photography, a middle-aged man with long hair wearing a burgundy gown and sunglasses, holding a violin bow…
-```
-
-### No. 4: Punktbaserade Fotoersättningar I Bild
-
-- **Category:** `Creative Fun`
-- **Language:** `sv`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg" alt="Punktbaserade Fotoersättningar I Bild" width="480" />
-
-#### Description
-
-Specifika punkter i en bild ersätts med foton från andra bilder.
-
-#### Prompt
-
-```text
-Point and bounding box selection: Image 1 <point>518 135</point> replace photo with Image 2; Image 1 <point>556 349</point> replace photo with Image 3; Image 1 <point>549 555</point> replace photo with Image 4; Image 1 <point>632 784</point> replace photo with Image 5.
+Based on the cartoon character, design different emotions — happy, sad, aggrieved, angry — and generate a four-panel sticker pack
 ```
 
 ## Local Usage
@@ -1524,4 +1491,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-20T09:40:08.709Z
+> This README is auto-generated. 2026-07-20T16:42:35.393Z

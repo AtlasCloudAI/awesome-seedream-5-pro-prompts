@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-64%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-63%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,48 +90,45 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **64** |
-| Categories | **21** |
-| Preview Images | **64** |
-| Last Updated | **2026-07-20T09:40:08.704Z** |
+| Total Prompts | **63** |
+| Categories | **18** |
+| Preview Images | **63** |
+| Last Updated | **2026-07-20T16:42:35.389Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Infographic`](#category-1): **5**
+- [`Infographic`](#category-1): **6**
 - [`Slides & Presentation`](#category-2): **5**
-- [`Poster Design`](#category-3): **8**
-- [`Brand Design`](#category-4): **3**
+- [`Poster Design`](#category-3): **9**
+- [`Brand Design`](#category-4): **2**
 - [`Interior Design`](#category-5): **2**
 - [`E-commerce`](#category-6): **3**
-- [`Comic & Storyboard`](#category-7): **3**
-- [`Film Storyboard`](#category-8): **4**
-- [`Illustration`](#category-9): **3**
-- [`Character Design`](#category-10): **3**
-- [`Line Art & Finished Work`](#category-11): **3**
-- [`Portrait`](#category-12): **3**
-- [`Multi-Image Fusion`](#category-13): **2**
-- [`Outfit Transfer`](#category-14): **2**
-- [`Style Transfer`](#category-15): **2**
-- [`Restoration`](#category-16): **2**
-- [`Retouching`](#category-17): **2**
-- [`Stickers`](#category-18): **3**
-- [`ID Photo`](#category-19): **1**
-- [`Social Media`](#category-20): **1**
-- [`Creative Fun`](#category-21): **4**
+- [`Comic & Storyboard`](#category-7): **4**
+- [`Film Storyboard`](#category-8): **3**
+- [`Portrait`](#category-9): **6**
+- [`Illustration`](#category-10): **4**
+- [`Character Design`](#category-11): **3**
+- [`Style Transfer`](#category-12): **4**
+- [`Outfit Transfer`](#category-13): **2**
+- [`Restoration`](#category-14): **1**
+- [`Retouching`](#category-15): **2**
+- [`ID Photo`](#category-16): **3**
+- [`Creative Fun`](#category-17): **3**
+- [`Stickers`](#category-18): **1**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Journalist Safety Facts And Figures
+### No. 1: Panoramica di un Libro Illustrato Artistico
 
 - **Category:** `Infographic`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg" alt="Journalist Safety Facts And Figures" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg?v=20260720fix" alt="Panoramica di un Libro Illustrato Artistico" width="480" />
 
 #### Description
 
-An infographic shows annual journalist fatalities from 2006 to 2013, totaling 593 cases with an average of one death per week.
+Un'illustrazione panoramica da libro illustrato di un personaggio in uniforme scolastica, nello stile di Briggs e Adolfsson.
 
 #### Prompt
 
@@ -139,17 +136,17 @@ An infographic shows annual journalist fatalities from 2006 to 2013, totaling 59
 Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAFETY OF JOURNALISTS; annual data on journalist fatalities 2006-2013: 70 in 2006, 59 in 2007, 46 in 2008, 77 in 2009, 65 in 2010, 62 in 2011, 123 in 2012, 91 in 2013, totaling 593 cases, averaging 1 death per week; supplement with background factors affecting journalist safety.
 ```
 
-### No. 2: Antarctica Qinling Station Expedition Chronicle
+### No. 2: Scena Pittorica con Cielo Stellato Invernale
 
 - **Category:** `Infographic`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg" alt="Antarctica Qinling Station Expedition Chronicle" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="Scena Pittorica con Cielo Stellato Invernale" width="480" />
 
 #### Description
 
-An infographic visualizes the station's structure, research timeline, station comparisons, energy sources, and sunlight hours with field photos.
+Un'illustrazione panoramica che scalda il cuore, raffigurante un'anziana signora che dipinge sotto un cielo stellato invernale.
 
 #### Prompt
 
@@ -157,17 +154,17 @@ An infographic visualizes the station's structure, research timeline, station co
 An infographic visualizing the chronicle of Antarctica's Qinling Station expedition, with the station's main structure placed at the center; surrounded by a research development timeline, bar charts comparing the scale of five research stations, a pie chart of station energy sources, a line chart of monthly sunlight hours, supplemented by field photos of research equipment, a summer meteorology panel, a seven-step fieldwork workflow, and on-site sampling photography, comprehensively showcasing China's Antarctic research operations.
 ```
 
-### No. 3: Prompt Design Guide For AI Models
+### No. 3: Aggiungi un Personaggio che Cammina allo Schizzo
 
 - **Category:** `Infographic`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg" alt="Prompt Design Guide For AI Models" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix" alt="Aggiungi un Personaggio che Cammina allo Schizzo" width="480" />
 
 #### Description
 
-A presentation summarizes differences and best practices in prompt design for LLM, image, and video generation models.
+Un personaggio viene aggiunto mentre cammina sul sentiero in primo piano di uno schizzo.
 
 #### Prompt
 
@@ -175,17 +172,17 @@ A presentation summarizes differences and best practices in prompt design for LL
 Based on collected prompt guide trends, create a presentation summarizing the differences and best practices in prompt design for LLM, image generation, and video generation models. The slide structure should be logical and easy to compare. After creation, provide explanatory text for each model category, including why this writing approach works and common failure cases.
 ```
 
-### No. 4: Why The Moon Turns Red
+### No. 4: Viste di un'Antica Statua Cinese della Dea
 
 - **Category:** `Infographic`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg" alt="Why The Moon Turns Red" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix" alt="Viste di un'Antica Statua Cinese della Dea" width="480" />
 
 #### Description
 
-An astronomy infographic explains the phenomenon of a red moon during a total lunar eclipse.
+Una girandola ortografica a tre viste di una gigantesca antica statua di pietra cinese raffigurante una dea.
 
 #### Prompt
 
@@ -193,17 +190,35 @@ An astronomy infographic explains the phenomenon of a red moon during a total lu
 Generate an astronomy infographic explaining: Why is the moon red during a total lunar eclipse?
 ```
 
-### No. 5: Beginner Birdwatching Guide Infographic
+### No. 5: Viste di una Bicicletta da Portalettere Sovietica
 
 - **Category:** `Infographic`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg" alt="Beginner Birdwatching Guide Infographic" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix" alt="Viste di una Bicicletta da Portalettere Sovietica" width="480" />
 
 #### Description
 
-A grid layout infographic showcases eight common bird species with illustrations, names, and identification features.
+Un disegno ortografico a tre viste di una bicicletta da portalettere dell'era sovietica.
+
+#### Prompt
+
+```text
+Annotated diagram of beef cuts…
+```
+
+### No. 6: Scheda del Personaggio Cyberpunk Hacker Girl
+
+- **Category:** `Infographic`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="Scheda del Personaggio Cyberpunk Hacker Girl" width="480" />
+
+#### Description
+
+Una scheda di design del personaggio con viste di rotazione per una ragazza hacker cyberpunk in stile anime.
 
 #### Prompt
 
@@ -211,17 +226,17 @@ A grid layout infographic showcases eight common bird species with illustrations
 Generate a beginner birdwatching guide infographic with a fresh color palette and grid layout, showcasing 8 common bird species with scientific illustrations, Chinese and English names, and identification features.
 ```
 
-### No. 6: New Energy Vehicle Launch TOC
+### No. 7: Trasforma uno Schizzo in Scene di Gioco
 
 - **Category:** `Slides & Presentation`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg" alt="New Energy Vehicle Launch TOC" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="Trasforma uno Schizzo in Scene di Gioco" width="480" />
 
 #### Description
 
-A table of contents page is designed for a new energy vehicle launch event presentation.
+Uno schizzo viene trasformato in quattro immagini finite e di alta qualità di scene di gioco.
 
 #### Prompt
 
@@ -229,17 +244,17 @@ A table of contents page is designed for a new energy vehicle launch event prese
 Design a table of contents page for a new energy vehicle launch event presentation. The TOC text is…
 ```
 
-### No. 7: Louis Vuitton Brand Strategy Slide
+### No. 8: Da Schizzo di Moda a Prodotto Finito
 
 - **Category:** `Slides & Presentation`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg" alt="Louis Vuitton Brand Strategy Slide" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix" alt="Da Schizzo di Moda a Prodotto Finito" width="480" />
 
 #### Description
 
-A single presentation slide distills the Louis Vuitton brand strategy into an emotionally resonant visual.
+Uno schizzo di design di moda viene trasformato in un'immagine di alta qualità del prodotto finito.
 
 #### Prompt
 
@@ -247,41 +262,23 @@ A single presentation slide distills the Louis Vuitton brand strategy into an em
 Distill the Louis Vuitton brand strategy…into a single, emotionally resonant presentation slide
 ```
 
-### No. 8: Tech Presentation Cover With 3D Texture
-
-- **Category:** `Slides & Presentation`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg" alt="Tech Presentation Cover With 3D Texture" width="480" />
-
-#### Description
-
-A tech-themed presentation cover page features linework, negative space, and 3D acrylic texture in a Blender or C4D style.
-
-#### Prompt
-
-```text
-Generate a tech-themed presentation cover page with linework, negative space design, 3D acrylic texture, Blender style, C4D effect
-```
-
 ## 📋 All Prompts
 
 <a id="category-1"></a>
 
-### Infographic (5)
+### Infographic (6)
 
-### No. 1: Journalist Safety Facts And Figures
+### No. 1: Panoramica di un Libro Illustrato Artistico
 
 - **Category:** `Infographic`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg" alt="Journalist Safety Facts And Figures" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg?v=20260720fix" alt="Panoramica di un Libro Illustrato Artistico" width="480" />
 
 #### Description
 
-An infographic shows annual journalist fatalities from 2006 to 2013, totaling 593 cases with an average of one death per week.
+Un'illustrazione panoramica da libro illustrato di un personaggio in uniforme scolastica, nello stile di Briggs e Adolfsson.
 
 #### Prompt
 
@@ -289,17 +286,17 @@ An infographic shows annual journalist fatalities from 2006 to 2013, totaling 59
 Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAFETY OF JOURNALISTS; annual data on journalist fatalities 2006-2013: 70 in 2006, 59 in 2007, 46 in 2008, 77 in 2009, 65 in 2010, 62 in 2011, 123 in 2012, 91 in 2013, totaling 593 cases, averaging 1 death per week; supplement with background factors affecting journalist safety.
 ```
 
-### No. 2: Antarctica Qinling Station Expedition Chronicle
+### No. 2: Scena Pittorica con Cielo Stellato Invernale
 
 - **Category:** `Infographic`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg" alt="Antarctica Qinling Station Expedition Chronicle" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix" alt="Scena Pittorica con Cielo Stellato Invernale" width="480" />
 
 #### Description
 
-An infographic visualizes the station's structure, research timeline, station comparisons, energy sources, and sunlight hours with field photos.
+Un'illustrazione panoramica che scalda il cuore, raffigurante un'anziana signora che dipinge sotto un cielo stellato invernale.
 
 #### Prompt
 
@@ -307,17 +304,17 @@ An infographic visualizes the station's structure, research timeline, station co
 An infographic visualizing the chronicle of Antarctica's Qinling Station expedition, with the station's main structure placed at the center; surrounded by a research development timeline, bar charts comparing the scale of five research stations, a pie chart of station energy sources, a line chart of monthly sunlight hours, supplemented by field photos of research equipment, a summer meteorology panel, a seven-step fieldwork workflow, and on-site sampling photography, comprehensively showcasing China's Antarctic research operations.
 ```
 
-### No. 3: Prompt Design Guide For AI Models
+### No. 3: Aggiungi un Personaggio che Cammina allo Schizzo
 
 - **Category:** `Infographic`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg" alt="Prompt Design Guide For AI Models" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix" alt="Aggiungi un Personaggio che Cammina allo Schizzo" width="480" />
 
 #### Description
 
-A presentation summarizes differences and best practices in prompt design for LLM, image, and video generation models.
+Un personaggio viene aggiunto mentre cammina sul sentiero in primo piano di uno schizzo.
 
 #### Prompt
 
@@ -325,17 +322,17 @@ A presentation summarizes differences and best practices in prompt design for LL
 Based on collected prompt guide trends, create a presentation summarizing the differences and best practices in prompt design for LLM, image generation, and video generation models. The slide structure should be logical and easy to compare. After creation, provide explanatory text for each model category, including why this writing approach works and common failure cases.
 ```
 
-### No. 4: Why The Moon Turns Red
+### No. 4: Viste di un'Antica Statua Cinese della Dea
 
 - **Category:** `Infographic`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg" alt="Why The Moon Turns Red" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix" alt="Viste di un'Antica Statua Cinese della Dea" width="480" />
 
 #### Description
 
-An astronomy infographic explains the phenomenon of a red moon during a total lunar eclipse.
+Una girandola ortografica a tre viste di una gigantesca antica statua di pietra cinese raffigurante una dea.
 
 #### Prompt
 
@@ -343,17 +340,35 @@ An astronomy infographic explains the phenomenon of a red moon during a total lu
 Generate an astronomy infographic explaining: Why is the moon red during a total lunar eclipse?
 ```
 
-### No. 5: Beginner Birdwatching Guide Infographic
+### No. 5: Viste di una Bicicletta da Portalettere Sovietica
 
 - **Category:** `Infographic`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg" alt="Beginner Birdwatching Guide Infographic" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix" alt="Viste di una Bicicletta da Portalettere Sovietica" width="480" />
 
 #### Description
 
-A grid layout infographic showcases eight common bird species with illustrations, names, and identification features.
+Un disegno ortografico a tre viste di una bicicletta da portalettere dell'era sovietica.
+
+#### Prompt
+
+```text
+Annotated diagram of beef cuts…
+```
+
+### No. 6: Scheda del Personaggio Cyberpunk Hacker Girl
+
+- **Category:** `Infographic`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="Scheda del Personaggio Cyberpunk Hacker Girl" width="480" />
+
+#### Description
+
+Una scheda di design del personaggio con viste di rotazione per una ragazza hacker cyberpunk in stile anime.
 
 #### Prompt
 
@@ -365,17 +380,17 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 
 ### Slides & Presentation (5)
 
-### No. 1: New Energy Vehicle Launch TOC
+### No. 1: Trasforma uno Schizzo in Scene di Gioco
 
 - **Category:** `Slides & Presentation`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg" alt="New Energy Vehicle Launch TOC" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix" alt="Trasforma uno Schizzo in Scene di Gioco" width="480" />
 
 #### Description
 
-A table of contents page is designed for a new energy vehicle launch event presentation.
+Uno schizzo viene trasformato in quattro immagini finite e di alta qualità di scene di gioco.
 
 #### Prompt
 
@@ -383,17 +398,17 @@ A table of contents page is designed for a new energy vehicle launch event prese
 Design a table of contents page for a new energy vehicle launch event presentation. The TOC text is…
 ```
 
-### No. 2: Louis Vuitton Brand Strategy Slide
+### No. 2: Da Schizzo di Moda a Prodotto Finito
 
 - **Category:** `Slides & Presentation`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg" alt="Louis Vuitton Brand Strategy Slide" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix" alt="Da Schizzo di Moda a Prodotto Finito" width="480" />
 
 #### Description
 
-A single presentation slide distills the Louis Vuitton brand strategy into an emotionally resonant visual.
+Uno schizzo di design di moda viene trasformato in un'immagine di alta qualità del prodotto finito.
 
 #### Prompt
 
@@ -401,17 +416,17 @@ A single presentation slide distills the Louis Vuitton brand strategy into an em
 Distill the Louis Vuitton brand strategy…into a single, emotionally resonant presentation slide
 ```
 
-### No. 3: Tech Presentation Cover With 3D Texture
+### No. 3: Scena con Effetto Giocattolo LEGO Realistico
 
 - **Category:** `Slides & Presentation`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg" alt="Tech Presentation Cover With 3D Texture" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix" alt="Scena con Effetto Giocattolo LEGO Realistico" width="480" />
 
 #### Description
 
-A tech-themed presentation cover page features linework, negative space, and 3D acrylic texture in a Blender or C4D style.
+Un'immagine viene trasformata con un effetto realistico da giocattolo LEGO e uno stile in miniatura.
 
 #### Prompt
 
@@ -419,17 +434,17 @@ A tech-themed presentation cover page features linework, negative space, and 3D 
 Generate a tech-themed presentation cover page with linework, negative space design, 3D acrylic texture, Blender style, C4D effect
 ```
 
-### No. 4: Interactive Slides Section Divider
+### No. 4: Bracciale con Spuntoni Metallici Neri
 
 - **Category:** `Slides & Presentation`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg" alt="Interactive Slides Section Divider" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg?v=20260720fix" alt="Bracciale con Spuntoni Metallici Neri" width="480" />
 
 #### Description
 
-A slides section divider page is designed with layers separated for interactive editing.
+Un'immagine viene modificata per mostrare un bracciale con spuntoni a spina di colore nero metallico.
 
 #### Prompt
 
@@ -437,17 +452,17 @@ A slides section divider page is designed with layers separated for interactive 
 Slides section divider page. Interactive edit: layer separation
 ```
 
-### No. 5: Pet Feeding Service Conversion Slide
+### No. 5: Ritratto con Texture Pellicola Hasselblad
 
 - **Category:** `Slides & Presentation`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Lm9kb41yBoiquuxBt6Zc8B2Knuh.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Lm9kb41yBoiquuxBt6Zc8B2Knuh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Lm9kb41yBoiquuxBt6Zc8B2Knuh.jpg" alt="Pet Feeding Service Conversion Slide" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Lm9kb41yBoiquuxBt6Zc8B2Knuh.jpg?v=20260720fix" alt="Ritratto con Texture Pellicola Hasselblad" width="480" />
 
 #### Description
 
-A presentation slide addresses the decline in customer conversion for a pet door-to-door feeding service.
+Un ritratto con texture da pellicola Hasselblad, luce di controluce e sovraesposizione facciale.
 
 #### Prompt
 
@@ -457,19 +472,19 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 <a id="category-3"></a>
 
-### Poster Design (8)
+### Poster Design (9)
 
-### No. 1: Y2K Cute Style Jelly Poster
+### No. 1: Griglia di Ritratti Narrativi Cinematografici Estivi
 
 - **Category:** `Poster Design`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YYaBbQd0eohXQPxZTrLczomsnzt.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/M75obSWkXoiE51xElVNc39e2nIo.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YYaBbQd0eohXQPxZTrLczomsnzt.jpg" alt="Y2K Cute Style Jelly Poster" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/M75obSWkXoiE51xElVNc39e2nIo.jpg?v=20260720fix" alt="Griglia di Ritratti Narrativi Cinematografici Estivi" width="480" />
 
 #### Description
 
-A poster features a Y2K cute style with transparent jelly-textured elements and a translucent light blue color palette.
+Una griglia a tre pannelli di ritratti narrativi cinematografici estivi, senza accessori.
 
 #### Prompt
 
@@ -477,17 +492,17 @@ A poster features a Y2K cute style with transparent jelly-textured elements and 
 Create a poster based on my sketch. I want a Y2K cute style with transparent jelly-textured elements and an overall translucent light blue color palette
 ```
 
-### No. 2: Collage Style Marketing Poster Series
+### No. 2: Donna Indossa un Abbigliamento da un'Altra Immagine
 
 - **Category:** `Poster Design`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/M75obSWkXoiE51xElVNc39e2nIo.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SCz7bLkM0oH2qXx8M9HctwYFnIh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/M75obSWkXoiE51xElVNc39e2nIo.jpg" alt="Collage Style Marketing Poster Series" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SCz7bLkM0oH2qXx8M9HctwYFnIh.jpg?v=20260720fix" alt="Donna Indossa un Abbigliamento da un'Altra Immagine" width="480" />
 
 #### Description
 
-A design-forward marketing poster uses a specific typography and layout in a collage style with a designated main subject.
+Una donna indossa abiti e accessori presi da un'altra immagine, in uno scatto in stile Instagram.
 
 #### Prompt
 
@@ -495,17 +510,17 @@ A design-forward marketing poster uses a specific typography and layout in a col
 Using the typography and layout from Image 1, generate a design-forward marketing poster in the same series, collage style, with Image 2 as the main subject…
 ```
 
-### No. 3: Sci Fi Poster With Diagonal Composition
+### No. 3: Sostituisci gli Abiti con Abiti Nuziali
 
 - **Category:** `Poster Design`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg" alt="Sci Fi Poster With Diagonal Composition" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg?v=20260720fix" alt="Sostituisci gli Abiti con Abiti Nuziali" width="480" />
 
 #### Description
 
-A sci-fi style poster features a diagonal composition with key elements placed at the center-bottom of the frame.
+Gli abiti di due persone vengono sostituiti con abiti nuziali presi da altre immagini.
 
 #### Prompt
 
@@ -513,17 +528,17 @@ A sci-fi style poster features a diagonal composition with key elements placed a
 Sci-fi style, poster design, diagonal composition. Center-bottom of the frame…
 ```
 
-### No. 4: Minimalist Barrie Music Festival Poster
+### No. 4: Trasforma in Stile Illustrazione Piatta
 
 - **Category:** `Poster Design`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg" alt="Minimalist Barrie Music Festival Poster" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg?v=20260720fix" alt="Trasforma in Stile Illustrazione Piatta" width="480" />
 
 #### Description
 
-A minimalist poster for the Barrie music festival features a predominantly black background and a simple composition.
+Lo stile di un'immagine viene trasformato in uno stile di illustrazione piatta.
 
 #### Prompt
 
@@ -531,17 +546,17 @@ A minimalist poster for the Barrie music festival features a predominantly black
 Minimalist music festival poster titled "Barrie." The composition features a predominantly black background…
 ```
 
-### No. 5: Double Exposure Silhouette Film Poster
+### No. 5: Cambia in Stile Scultura a Rilievo
 
 - **Category:** `Poster Design`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/JPybbJoFhocpoBx4JXTcjuthn6b.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/JPybbJoFhocpoBx4JXTcjuthn6b.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/JPybbJoFhocpoBx4JXTcjuthn6b.jpg" alt="Double Exposure Silhouette Film Poster" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/JPybbJoFhocpoBx4JXTcjuthn6b.jpg?v=20260720fix" alt="Cambia in Stile Scultura a Rilievo" width="480" />
 
 #### Description
 
-A suspense film poster uses a double exposure technique within a portrait silhouette.
+Lo stile di un'immagine viene cambiato in uno stile di scultura a rilievo.
 
 #### Prompt
 
@@ -549,17 +564,17 @@ A suspense film poster uses a double exposure technique within a portrait silhou
 Double exposure portrait silhouette suspense film poster…
 ```
 
-### No. 6: Futurist Pigital Tsunami Event Poster
+### No. 6: Campione Seedream
 
 - **Category:** `Poster Design`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg" alt="Futurist Pigital Tsunami Event Poster" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
 
 #### Description
 
-A futurist style poster is designed for a music event titled "PIGITAL TSUNAMI".
+Manifesto per evento musicale in stile futurista dal titolo "PIGITAL TSUNAMI"…
 
 #### Prompt
 
@@ -567,17 +582,17 @@ A futurist style poster is designed for a music event titled "PIGITAL TSUNAMI".
 Futurist style music event poster titled "PIGITAL TSUNAMI"…
 ```
 
-### No. 7: Sweet Sunlight Vintage Poster
+### No. 7: Campione Seedream
 
 - **Category:** `Poster Design`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EohwbPkM1oSPnkxYrRxc1daSnWf.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EohwbPkM1oSPnkxYrRxc1daSnWf.jpg" alt="Sweet Sunlight Vintage Poster" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
 
 #### Description
 
-A poster design features the title Sweet Sunlight in a vintage typewriter font within a bounding box.
+Riquadro di delimitazione sul titolo - "Sweet Sunlight", usa un font da macchina da scrivere vintage
 
 #### Prompt
 
@@ -585,17 +600,17 @@ A poster design features the title Sweet Sunlight in a vintage typewriter font w
 Bounding box on title - "Sweet Sunlight", use vintage typewriter font
 ```
 
-### No. 8: Deep Purple Table Of Contents
+### No. 8: Campione Seedream
 
 - **Category:** `Poster Design`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg" alt="Deep Purple Table Of Contents" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
 
 #### Description
 
-A poster has large deep purple text reading TABLE OF CONTENTS on the left with an itemized listing on the right.
+Genera nello stile dell'Immagine 1: grande testo viola scuro sulla sinistra che recita "TABLE OF CONTENTS", con elenco puntato
 
 #### Prompt
 
@@ -603,21 +618,39 @@ A poster has large deep purple text reading TABLE OF CONTENTS on the left with a
 Generate in the style of Image 1: large deep purple text on the left reading "TABLE OF CONTENTS", with itemized listing on the right…
 ```
 
-<a id="category-4"></a>
+### No. 9: Poster della Serie 'Don't Want To Work'
 
-### Brand Design (3)
-
-### No. 1: Minimalist Blue Fox Brand Showcase
-
-- **Category:** `Brand Design`
+- **Category:** `Poster Design`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg" alt="Minimalist Blue Fox Brand Showcase" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix" alt="Poster della Serie 'Don't Want To Work'" width="480" />
 
 #### Description
 
-A minimalist brand VI uses Klein blue and silver color-blocking with a fox motif and the logo Blue Fox.
+Un poster creativo con nuove immagini e testi basato sul design di riferimento.
+
+#### Prompt
+
+```text
+Referencing this poster design, create a derivative creative poster for the "Don't Want to Work" series with different copy and visuals
+```
+
+<a id="category-4"></a>
+
+### Brand Design (2)
+
+### No. 1: Campione Seedream
+
+- **Category:** `Brand Design`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
+
+#### Description
+
+Mostra di design dell'identità visiva di marca minimalista, con blu Klein e argento come colori primari, estetica a blocchi di colore, logo della volpe
 
 #### Prompt
 
@@ -625,17 +658,17 @@ A minimalist brand VI uses Klein blue and silver color-blocking with a fox motif
 Minimalist brand VI design showcase, featuring Klein blue and silver as primary colors, color-blocking aesthetic, fox graphic motif, highlighting the English brand logo "Blue Fox"…
 ```
 
-### No. 2: Surreal Miniature Product Landscape
+### No. 2: Campione Seedream
 
 - **Category:** `Brand Design`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZFaQbExfsoT8M9xXftEcSEv5ndg.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XaGSbPeDCoS9m1xdfu7c4ZNBnZf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZFaQbExfsoT8M9xXftEcSEv5ndg.jpg" alt="Surreal Miniature Product Landscape" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XaGSbPeDCoS9m1xdfu7c4ZNBnZf.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
 
 #### Description
 
-A surreal miniature landscape integrates a product into a lifestyle scene for a commercial advertisement poster.
+Un'immagine pubblicitaria creativa per prodotto con paesaggio in miniatura surreale, integrando il prodotto in uno stile di vita adatto
 
 #### Prompt
 
@@ -643,39 +676,21 @@ A surreal miniature landscape integrates a product into a lifestyle scene for a 
 A surreal miniature landscape creative commercial product advertisement, integrating the product into a fitting lifestyle scene, highlighting product information, suitable for commercial poster promotion…
 ```
 
-### No. 3: Four Box Surreal Character Scene
-
-- **Category:** `Brand Design`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AbuMbTZBPoG0sdx1EhQcJsaFnub.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AbuMbTZBPoG0sdx1EhQcJsaFnub.jpg" alt="Four Box Surreal Character Scene" width="480" />
-
-#### Description
-
-Four colored boxes show a squeezed blue head, a reflective bubble, a yarn ball, and stacked building blocks.
-
-#### Prompt
-
-```text
-Red box: a giant blue-furred head with a comically squeezed expression, looking at the bubble in front; Green box: a transparent bubble reflecting indoor lighting; Yellow box: a large warm beige yarn ball; Blue box: building blocks stacked together — warm dark gray arch shape, warm light gray semi-cylinder, lake blue cylinder, deep lake blue ramp, cobalt blue semi-disc; Purple box: a grass-green blanket with fringe draped over a sofa
-```
-
 <a id="category-5"></a>
 
 ### Interior Design (2)
 
-### No. 1: Modern Art Style Bedroom Rendering
+### No. 1: Campione Seedream
 
 - **Category:** `Interior Design`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HQdmbIPwSo4b3YxvPDVcaDgBnSg.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PmSAbA4P1oaDQpxBj6VceHLinwc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HQdmbIPwSo4b3YxvPDVcaDgBnSg.jpg" alt="Modern Art Style Bedroom Rendering" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PmSAbA4P1oaDQpxBj6VceHLinwc.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
 
 #### Description
 
-A bedroom interior rendering is created in a modern art style using a referenced color palette and design.
+Fai riferimento allo stile di design d'interni e alla palette di colori nell'immagine, e genera un rendering di una camera da letto in stile arte moderna.
 
 #### Prompt
 
@@ -683,17 +698,17 @@ A bedroom interior rendering is created in a modern art style using a referenced
 Refer to the interior design style and color palette in the image, and generate a modern-art-style bedroom rendering.
 ```
 
-### No. 2: Interior Design Color Palette Change
+### No. 2: Campione Seedream
 
 - **Category:** `Interior Design`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PmSAbA4P1oaDQpxBj6VceHLinwc.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KxmgbM7KjoX9VMxdaPTcrEaLnfh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PmSAbA4P1oaDQpxBj6VceHLinwc.jpg" alt="Interior Design Color Palette Change" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KxmgbM7KjoX9VMxdaPTcrEaLnfh.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
 
 #### Description
 
-An interior design image is modified by applying a new color palette from a reference.
+Cambia la palette di colori. Immagine di input + riferimento palette di colori
 
 #### Prompt
 
@@ -705,35 +720,17 @@ Change color palette. Input image + color palette reference
 
 ### E-commerce (3)
 
-### No. 1: E Commerce Design Color Reference
+### No. 1: Campione Seedream
 
 - **Category:** `E-commerce`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YeMwbbJS0oiut7xbl1RcAGKNnvg.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YeMwbbJS0oiut7xbl1RcAGKNnvg.jpg" alt="E Commerce Design Color Reference" width="480" />
-
-#### Description
-
-An e-commerce design is created using an input image and a referenced color palette.
-
-#### Prompt
-
-```text
-E-commerce design. Input image + color palette reference
-```
-
-### No. 2: RESHAKE Winter Down Jacket Banner
-
-- **Category:** `E-commerce`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg" alt="RESHAKE Winter Down Jacket Banner" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
 
 #### Description
 
-An e-commerce banner features a male model promoting RESHAKE's 2016 winter down jacket collection.
+Genera un banner e-commerce per la campagna promozionale della collezione di giubbotti invernali 2016 del brand RESHAKE. Sulla destra
 
 #### Prompt
 
@@ -741,17 +738,17 @@ An e-commerce banner features a male model promoting RESHAKE's 2016 winter down 
 Generate an e-commerce banner for RESHAKE brand's 2016 winter down jacket collection promotional campaign. On the right side of the frame, a male model facing the camera with a cool, intense expression…
 ```
 
-### No. 3: Sunset Pet E Commerce Hero UI
+### No. 2: Campione Seedream
 
 - **Category:** `E-commerce`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg" alt="Sunset Pet E Commerce Hero UI" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
 
 #### Description
 
-A 16:9 pet e-commerce UI has a sunset tone, a Golden Retriever with 3D paws breaking the frame.
+Sezione hero UI per e-commerce di animali domestici in formato 16:9, toni caldi del tramonto, ombre sfalsate. Navigazione in alto…pulsante capsula dorato; lato destro
 
 #### Prompt
 
@@ -759,21 +756,39 @@ A 16:9 pet e-commerce UI has a sunset tone, a Golden Retriever with 3D paws brea
 16:9 pet e-commerce hero section UI, sunset warm tone, layered shadows. Top navigation…golden capsule button; right side Golden Retriever image, 3D effect: the Retriever's front paws break through the right frame, resting on the left-side buttons.
 ```
 
-<a id="category-7"></a>
+### No. 3: Campione Seedream
 
-### Comic & Storyboard (3)
-
-### No. 1: Seinen Manga Night Chase Storyboard
-
-- **Category:** `Comic & Storyboard`
+- **Category:** `E-commerce`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg" alt="Seinen Manga Night Chase Storyboard" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
 
 #### Description
 
-A black-and-white manga storyboard shows a nighttime car chase and a girl with a gun in pursuit.
+Trasforma questo schizzo di design di moda in un'immagine di prodotto finito di alta qualità……
+
+#### Prompt
+
+```text
+Please transform this fashion design sketch into a high-quality finished product image.……
+```
+
+<a id="category-7"></a>
+
+### Comic & Storyboard (4)
+
+### No. 1: Campione Seedream
+
+- **Category:** `Comic & Storyboard`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
+
+#### Description
+
+Genera uno storyboard completo per manga seinen giapponese in bianco e nero, tema di inseguimento e sparatoria notturna. Pannello superiore: un
 
 #### Prompt
 
@@ -781,17 +796,17 @@ A black-and-white manga storyboard shows a nighttime car chase and a girl with a
 Generate a full-page Japanese seinen black-and-white manga storyboard, nighttime chase and gunfight theme. Top panel: a car under headlights and chain-link fencing in the dark night; middle: a girl armed with a gun in pursuit…
 ```
 
-### No. 2: Vertical Furry Slice Of Life Comic
+### No. 2: Campione Seedream
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg" alt="Vertical Furry Slice Of Life Comic" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
 
 #### Description
 
-A four-panel comic features a wolf-dog and a tabby cat furry in a room at night.
+Disegna un fumetto furry a fette di vita in quattro pannelli verticali, ambientato in una stanza di notte, con un furry lupo-cane e un gatto soriano
 
 #### Prompt
 
@@ -799,17 +814,17 @@ A four-panel comic features a wolf-dog and a tabby cat furry in a room at night.
 Draw a vertical four-panel furry slice-of-life comic, set in a room at night, featuring a wolf-dog furry and a tabby cat furry…
 ```
 
-### No. 3: American Horror Comic Gotham Alley
+### No. 3: Campione Seedream
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg" alt="American Horror Comic Gotham Alley" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
 
 #### Description
 
-A set of American horror comic storyboards is set in a Gotham City alley.
+Genera una serie di storyboard per fumetto horror americano, la storia potrebbe svolgersi in un vicolo di Gotham City…
 
 #### Prompt
 
@@ -817,21 +832,39 @@ A set of American horror comic storyboards is set in a Gotham City alley.
 Generate a set of American horror comic storyboards, the story could take place in a Gotham City alley…
 ```
 
-<a id="category-8"></a>
+### No. 4: Contrasto del Miglior e Peggior Duo di Cani
 
-### Film Storyboard (4)
-
-### No. 1: Three Panel Film Parking Lot Storyboard
-
-- **Category:** `Film Storyboard`
+- **Category:** `Comic & Storyboard`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Dyj6bbHWHoFVdFxpOqpc0MyknYe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg" alt="Three Panel Film Parking Lot Storyboard" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Dyj6bbHWHoFVdFxpOqpc0MyknYe.jpg?v=20260720fix" alt="Contrasto del Miglior e Peggior Duo di Cani" width="480" />
 
 #### Description
 
-A film storyboard has three equal panels showing a wide establishing shot of a night parking lot.
+Due immagini contrastanti di cani come il miglior e il peggior duo con didascalie.
+
+#### Prompt
+
+```text
+Top image: two dogs pressing their faces together with playful expressions, caption "We're the best duo ever"; Bottom image: two dogs fighting with fierce expressions, caption "We're the worst duo ever".
+```
+
+<a id="category-8"></a>
+
+### Film Storyboard (3)
+
+### No. 1: Campione Seedream
+
+- **Category:** `Film Storyboard`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
+
+#### Description
+
+Storyboard cinematografico, 3 pannelli in layout orizzontale di uguale larghezza: Pannello 1, ampia inquadratura di ambientazione di un parcheggio di notte…
 
 #### Prompt
 
@@ -839,17 +872,17 @@ A film storyboard has three equal panels showing a wide establishing shot of a n
 Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establishing shot of a parking lot at night…
 ```
 
-### No. 2: Six Panel Western Film Street Storyboard
+### No. 2: Campione Seedream
 
 - **Category:** `Film Storyboard`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg" alt="Six Panel Western Film Street Storyboard" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
 
 #### Description
 
-A wide horizontal storyboard has six textless panels depicting both ends of a Western street.
+Storyboard per film western, 6 pannelli in rapporto orizzontale ampio, nessun testo in tutto: Pannello 1, inquadratura estremamente ampia, entrambe le estremità di
 
 #### Prompt
 
@@ -857,35 +890,17 @@ A wide horizontal storyboard has six textless panels depicting both ends of a We
 Western film storyboard, 6 panels in wide horizontal ratio, no text throughout: Panel 1, extreme wide shot, both ends of the street…
 ```
 
-### No. 3: Over Shoulder Shot Of Sad Woman
+### No. 3: Campione Seedream
 
 - **Category:** `Film Storyboard`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg" alt="Over Shoulder Shot Of Sad Woman" width="480" />
-
-#### Description
-
-An over-the-shoulder shot shows a sad-looking brown-haired European or American woman around age 40.
-
-#### Prompt
-
-```text
-Over-the-shoulder shot, featuring a brown-haired European or American woman around 40 years old with a sad expression…
-```
-
-### No. 4: Scena Xianxia Storyboard Anime
-
-- **Category:** `Film Storyboard`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg" alt="Scena Xianxia Storyboard Anime" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
 
 #### Description
 
-Uno storyboard in stile anime raffigura un'antica scena fantasy cinese xianxia.
+Storyboard per una scena di xianxia cinese antica in stile anime…
 
 #### Prompt
 
@@ -895,193 +910,37 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 <a id="category-9"></a>
 
-### Illustration (3)
+### Portrait (6)
 
-### No. 1: Panorama Artistico da Libro Illustrato
-
-- **Category:** `Illustration`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg" alt="Panorama Artistico da Libro Illustrato" width="480" />
-
-#### Description
-
-Un'illustrazione panoramica da libro illustrato mostra una studentessa in uniforme con trucco e accessori raffinati.
-
-#### Prompt
-
-```text
-Artistic picture book, panoramic view, school uniform trousers, refined makeup, accessories, illustrated in the style of Raymond Briggs and Mattias Adolfsson…
-```
-
-### No. 2: Scena Pittorica con Cielo Stellato Invernale
-
-- **Category:** `Illustration`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg" alt="Scena Pittorica con Cielo Stellato Invernale" width="480" />
-
-#### Description
-
-Una morbida illustrazione in ciano-verde mostra un'anziana donna che dipinge il sole su una serena prateria invernale.
-
-#### Prompt
-
-```text
-This heartwarming panoramic picture book illustration uses soft cyan-green tones to depict a serene grassland under a winter starry sky, where an elderly woman paints the sun at an easel while a child plays with a puppy beside a yurt…
-```
-
-### No. 3: Aggiungi Personaggio al Sentiero in Primo Piano
-
-- **Category:** `Illustration`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EKwtbwJTSofQZrxdwafcQDYrnXc.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EKwtbwJTSofQZrxdwafcQDYrnXc.jpg" alt="Aggiungi Personaggio al Sentiero in Primo Piano" width="480" />
-
-#### Description
-
-Un personaggio che cammina viene aggiunto al sentiero in primo piano di un'illustrazione panoramica schizzata.
-
-#### Prompt
-
-```text
-Based on the sketch, add a walking character on the foreground path…
-```
-
-<a id="category-10"></a>
-
-### Character Design (3)
-
-### No. 1: Tre Viste di Antica Statua di Dea
-
-- **Category:** `Character Design`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg" alt="Tre Viste di Antica Statua di Dea" width="480" />
-
-#### Description
-
-Un foglio ortografico a tre viste mostra un'enorme antica statua cinese di una dea con un copricapo scolpito.
-
-#### Prompt
-
-```text
-Standard three-view orthographic turntable: front view, side view, back view, of a giant ancient Chinese goddess stone statue with an intricately carved stone headpiece and…
-```
-
-### No. 2: Tre Viste di Bicicletta Postale Sovietica
-
-- **Category:** `Character Design`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg" alt="Tre Viste di Bicicletta Postale Sovietica" width="480" />
-
-#### Description
-
-Un foglio di progetto a tre viste raffigura una bicicletta da messaggero postale dell'epoca sovietica.
-
-#### Prompt
-
-```text
-Generate a three-view of a Soviet-era postal messenger bicycle…
-```
-
-### No. 3: Scheda di Design della Ragazza Hacker Cyberpunk
-
-- **Category:** `Character Design`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg" alt="Scheda di Design della Ragazza Hacker Cyberpunk" width="480" />
-
-#### Description
-
-Una scheda personaggio anime cyberpunk mostra le tre viste e i dettagli di una ragazza hacker di nome RIN.
-
-#### Prompt
-
-```text
-Cyberpunk-style anime character design sheet, showing three-view turnaround, close-up portraits, and accessory details of a hacker girl named "RIN"…
-```
-
-<a id="category-11"></a>
-
-### Line Art & Finished Work (3)
-
-### No. 1: Trasforma Schizzo in Scene di Gioco
-
-- **Category:** `Line Art & Finished Work`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Yq3VbgKpeocFYqxLLybcERktnHe.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Yq3VbgKpeocFYqxLLybcERktnHe.jpg" alt="Trasforma Schizzo in Scene di Gioco" width="480" />
-
-#### Description
-
-Uno schizzo viene trasformato in quattro immagini finite di alta qualità di una scena di gioco.
-
-#### Prompt
-
-```text
-Please transform this sketch into 4 high-quality finished images of a game scene with……
-```
-
-### No. 2: Da Schizzo di Moda a Prodotto Finito
-
-- **Category:** `Line Art & Finished Work`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BURCblKzlovIMYxrcSZcF71MnQc.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BURCblKzlovIMYxrcSZcF71MnQc.jpg" alt="Da Schizzo di Moda a Prodotto Finito" width="480" />
-
-#### Description
-
-Uno schizzo di design di moda viene trasformato in un'immagine di prodotto finito di alta qualità.
-
-#### Prompt
-
-```text
-Please transform this fashion design sketch into a high-quality finished product image.……
-```
-
-### No. 3: Scena con Effetto Giocattolo Lego Realistico
-
-- **Category:** `Line Art & Finished Work`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UXbVbZLTvoeJkZxqNmecinZFnbd.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UXbVbZLTvoeJkZxqNmecinZFnbd.jpg" alt="Scena con Effetto Giocattolo Lego Realistico" width="480" />
-
-#### Description
-
-Un'immagine viene trasformata per avere un effetto realistico da giocattolo LEGO con uno stile da scena in miniatura.
-
-#### Prompt
-
-```text
-Transform the image into a realistic LEGO toy effect with miniature scene styling.
-```
-
-<a id="category-12"></a>
-
-### Portrait (3)
-
-### No. 1: Ritratto con Mani e Bracciale a Punte
+### No. 1: Campione Seedream
 
 - **Category:** `Portrait`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UznubLD3woRBDwx3BwtcdYEJnJh.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UznubLD3woRBDwx3BwtcdYEJnJh.jpg" alt="Ritratto con Mani e Bracciale a Punte" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
 
 #### Description
 
-Un ritratto mostra delle mani con un bracciale metallico nero a punte spinose che punta alle 12 in punto.
+Inquadratura over-the-shoulder, che mostra una donna europea o americana con capelli castani di circa 40 anni con un'espressione triste…
+
+#### Prompt
+
+```text
+Over-the-shoulder shot, featuring a brown-haired European or American woman around 40 years old with a sad expression…
+```
+
+### No. 2: Campione Seedream
+
+- **Category:** `Portrait`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
+
+#### Description
+
+Modifica l'immagine secondo i requisiti testuali presenti nell'immagine: braccialetto con spuntoni neri metallici, mani che puntano...
 
 #### Prompt
 
@@ -1089,17 +948,17 @@ Un ritratto mostra delle mani con un bracciale metallico nero a punte spinose ch
 Modify the image according to the text requirements in the image: bracelet with metallic black thorn spikes, hands pointing to 12 o'clock sharp
 ```
 
-### No. 2: Ritratto con Texture Pellicola Hasselblad
+### No. 3: Campione Seedream
 
 - **Category:** `Portrait`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg" alt="Ritratto con Texture Pellicola Hasselblad" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
 
 #### Description
 
-Un ritratto ha la texture di una pellicola Hasselblad con luce controluce e sovraesposizione facciale.
+Texture pellicola Hasselblad, luce e ombra, controluce, (sovraesposizione del viso)…
 
 #### Prompt
 
@@ -1107,17 +966,17 @@ Un ritratto ha la texture di una pellicola Hasselblad con luce controluce e sovr
 Hasselblad film texture, light and shadow, rim light, (facial overexposure)…
 ```
 
-### No. 3: Griglia Narrativa Cinematografica Estiva
+### No. 4: Campione Seedream
 
 - **Category:** `Portrait`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NO81bbDXSobbejx4tVycewI6nve.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NO81bbDXSobbejx4tVycewI6nve.jpg" alt="Griglia Narrativa Cinematografica Estiva" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
 
 #### Description
 
-Una griglia a tre pannelli mostra ritratti narrativi cinematografici estivi senza accessori o sfondo.
+Rimuovi tutti gli accessori, l'acconciatura e lo sfondo, genera una griglia a tre pannelli di ritratti narrativi estivi cinematografici
 
 #### Prompt
 
@@ -1125,359 +984,35 @@ Una griglia a tre pannelli mostra ritratti narrativi cinematografici estivi senz
 Remove all accessories, hairstyle, and background, generate a three-panel grid of cinematic summer narrative portraits
 ```
 
-<a id="category-13"></a>
+### No. 5: Immagine Polaroid Fotocamera Fujifilm
 
-### Multi-Image Fusion (2)
-
-### No. 1: Scatto Full Body Fuso con Posa
-
-- **Category:** `Multi-Image Fusion`
+- **Category:** `Portrait`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Q8txbHeE0olIdzxsgh5c9GINn9b.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Y6bTb6x7zoM2kFxkGtXcPH5unUh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Q8txbHeE0olIdzxsgh5c9GINn9b.jpg" alt="Scatto Full Body Fuso con Posa" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Y6bTb6x7zoM2kFxkGtXcPH5unUh.jpg?v=20260720fix" alt="Immagine Polaroid Fotocamera Fujifilm" width="480" />
 
 #### Description
 
-Uno scatto a figura intera fonde pose e oggetti da più immagini in una figura coerente.
+Un'immagine elaborata per sembrare una fotografia Polaroid scattata con una fotocamera Fujifilm.
 
 #### Prompt
 
 ```text
-Generate a full-body shot of the person in Image 3, and adjust her pose so her right hand motion matches Image 1, holding the first speaker from Image 4, and her leg motion matches Image 2
+Fujifilm camera Polaroid
 ```
 
-### No. 2: Natura Morta Realistica Composta
+### No. 6: Ritratto Retro-Futurista con Archetto di Violino
 
-- **Category:** `Multi-Image Fusion`
+- **Category:** `Portrait`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HMCjbkxHGodE7dxtjgGckx9Tnof.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HMCjbkxHGodE7dxtjgGckx9Tnof.jpg" alt="Natura Morta Realistica Composta" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg?v=20260720fix" alt="Ritratto Retro-Futurista con Archetto di Violino" width="480" />
 
 #### Description
 
-Sette oggetti sono composti in una natura morta realistica con illuminazione e dettagli materiali corretti.
-
-#### Prompt
-
-```text
-Precisely cut out the 7 white-background objects I provided and compose them into a realistic still life photograph with the specified composition. Ensure correct perspective, lighting, shadow, and spatial relationships. Faithfully reproduce material details of wood grain, leather, lace, glass jelly, and feathers, creating a high-quality image that interweaves realism with playfulness and blends retro with modern aesthetics.
-```
-
-<a id="category-14"></a>
-
-### Outfit Transfer (2)
-
-### No. 1: Trasferimento Outfit in Scatto di Stile Instagram
-
-- **Category:** `Outfit Transfer`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg" alt="Trasferimento Outfit in Scatto di Stile Instagram" width="480" />
-
-#### Description
-
-Una donna indossa abbigliamento e accessori di un'altra in uno scatto di strada in stile Instagram.
-
-#### Prompt
-
-```text
-Make the woman in Image 1 wear the clothing, jewelry, and accessories from Image 2. The whole photo should look like an Instagram street shot.
-```
-
-### No. 2: Trasferimento Abiti Nuziali su Coppia
-
-- **Category:** `Outfit Transfer`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg" alt="Trasferimento Abiti Nuziali su Coppia" width="480" />
-
-#### Description
-
-Una coppia indossa abiti nuziali da immagini di riferimento nel loro ambiente originale con illuminazione regolata.
-
-#### Prompt
-
-```text
-Replace the outfits of the two people in Image 1 with the wedding attire from Images 2 and 3, keep the background color consistent, and adjust lighting to match the overall style…
-```
-
-<a id="category-15"></a>
-
-### Style Transfer (2)
-
-### No. 1: Trasformazione in Stile Illustrazione Piatta
-
-- **Category:** `Style Transfer`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MCZfbhD9lowIH0xu5H9c6UWVnMf.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MCZfbhD9lowIH0xu5H9c6UWVnMf.jpg" alt="Trasformazione in Stile Illustrazione Piatta" width="480" />
-
-#### Description
-
-Un'immagine viene trasformata in uno stile di illustrazione grafica pulito e piatto.
-
-#### Prompt
-
-```text
-Transform the image style into flat illustration style
-```
-
-### No. 2: Poster Derivato Dont Work
-
-- **Category:** `Style Transfer`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg" alt="Poster Derivato Dont Work" width="480" />
-
-#### Description
-
-Viene creato un nuovo poster per la serie 'Don't Want to Work' con testo e immagini diverse.
-
-#### Prompt
-
-```text
-Referencing this poster design, create a derivative creative poster for the "Don't Want to Work" series with different copy and visuals
-```
-
-<a id="category-16"></a>
-
-### Restoration (2)
-
-### No. 1: Restauro e Colorizzazione di Vecchia Foto
-
-- **Category:** `Restoration`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IitgbjnaLodOltxJxVOci4T2ncc.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IitgbjnaLodOltxJxVOci4T2ncc.jpg" alt="Restauro e Colorizzazione di Vecchia Foto" width="480" />
-
-#### Description
-
-Una vecchia foto viene restaurata con un soggetto più nitido e colori rivitalizzati.
-
-#### Prompt
-
-```text
-Restore this old photo, making the subject clearer and restoring colors
-```
-
-### No. 2: Correzione Controluce per Immagine
-
-- **Category:** `Restoration`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg" alt="Correzione Controluce per Immagine" width="480" />
-
-#### Description
-
-La controluce di un'immagine viene corretta senza alterare altri elementi.
-
-#### Prompt
-
-```text
-Keep the image unchanged and correct the backlighting.
-```
-
-<a id="category-17"></a>
-
-### Retouching (2)
-
-### No. 1: Rimozione Occhiali e Cambio Capelli nel Ritratto
-
-- **Category:** `Retouching`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg" alt="Rimozione Occhiali e Cambio Capelli nel Ritratto" width="480" />
-
-#### Description
-
-In un ritratto vengono rimossi gli occhiali e lo stile dei capelli viene cambiato in onde larghe e sciolte.
-
-#### Prompt
-
-```text
-Remove glasses, change hairstyle to large wavy hair worn down
-```
-
-### No. 2: Look di Trucco Più Intenso ma Naturale
-
-- **Category:** `Retouching`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VVkmbTEpUoMHltxa90EccUOfn5e.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VVkmbTEpUoMHltxa90EccUOfn5e.jpg" alt="Look di Trucco Più Intenso ma Naturale" width="480" />
-
-#### Description
-
-Il trucco di un ritratto viene cambiato in un aspetto più intenso ma comunque naturale.
-
-#### Prompt
-
-```text
-Change to a different makeup look with stronger intensity while keeping the overall makeup natural
-```
-
-<a id="category-18"></a>
-
-### Stickers (3)
-
-### No. 1: Adesivo con Ghigno Sfacciato e Testo
-
-- **Category:** `Stickers`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZyADbn7lvoJhuAxduyVcYmkpnCd.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZyADbn7lvoJhuAxduyVcYmkpnCd.jpg" alt="Adesivo con Ghigno Sfacciato e Testo" width="480" />
-
-#### Description
-
-Un adesivo mostra un ghigno sfacciato con denti da diavolo e il testo '准备更坏'.
-
-#### Prompt
-
-```text
-Change expression to a smug grin, eyes squinting into crescents with devil teeth showing at the corners of the mouth, add text "准备更坏" centered at the bottom of the image in white bold font.
-```
-
-### No. 2: Adesivi Duo di Cani Migliore e Peggiore
-
-- **Category:** `Stickers`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg" alt="Adesivi Duo di Cani Migliore e Peggiore" width="480" />
-
-#### Description
-
-Due adesivi mostrano cani come il duo giocoso migliore e il duo litigioso peggiore.
-
-#### Prompt
-
-```text
-Top image: two dogs pressing their faces together with playful expressions, caption "We're the best duo ever"; Bottom image: two dogs fighting with fierce expressions, caption "We're the worst duo ever".
-```
-
-### No. 3: Adesivi Emotivi a Quattro Pannelli
-
-- **Category:** `Stickers`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BqcNb4CzSoacw1xkh8CcmhsKnzh.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BqcNb4CzSoacw1xkh8CcmhsKnzh.jpg" alt="Adesivi Emotivi a Quattro Pannelli" width="480" />
-
-#### Description
-
-Un pacchetto di adesivi a quattro pannelli mostra un personaggio dei cartoni animati che esprime emozioni diverse.
-
-#### Prompt
-
-```text
-Based on the cartoon character, design different emotions — happy, sad, aggrieved, angry — and generate a four-panel sticker pack
-```
-
-<a id="category-19"></a>
-
-### ID Photo (1)
-
-### No. 1: Foto Tessera di un Gattino Ragdoll
-
-- **Category:** `ID Photo`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkgRbmVP1o4KqixE60RcpRk3nme.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkgRbmVP1o4KqixE60RcpRk3nme.jpg" alt="Foto Tessera di un Gattino Ragdoll" width="480" />
-
-#### Description
-
-Viene generata una foto tessera da un pollice per un gattino Ragdoll.
-
-#### Prompt
-
-```text
-Generate a 1-inch ID photo for this Ragdoll kitten
-```
-
-<a id="category-20"></a>
-
-### Social Media (1)
-
-### No. 1: Poster Promozionale Brunch Disegnato a Mano
-
-- **Category:** `Social Media`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg" alt="Poster Promozionale Brunch Disegnato a Mano" width="480" />
-
-#### Description
-
-Un poster presenta cibi disegnati a mano con etichette bianche e annotazioni in cinese.
-
-#### Prompt
-
-```text
-Place the foods from the images on the same table and transform them into a hand-drawn style. Use white linework to label each dish and add handwritten-style Chinese annotations. Create a promotional poster for a dish for “Seasonal Limited Brunch.”
-```
-
-<a id="category-21"></a>
-
-### Creative Fun (4)
-
-### No. 1: Da Vinci e Van Gogh Fanno Segno di Pace
-
-- **Category:** `Creative Fun`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg" alt="Da Vinci e Van Gogh Fanno Segno di Pace" width="480" />
-
-#### Description
-
-Da Vinci e Van Gogh fanno il segno di pace con Michelangelo che fa photobombing dietro.
-
-#### Prompt
-
-```text
-Da Vinci and Van Gogh facing the camera making peace signs, with Michelangelo photobombing from behind them…
-```
-
-### No. 2: Mano che Tiene un Cono Gelato
-
-- **Category:** `Creative Fun`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg" alt="Mano che Tiene un Cono Gelato" width="480" />
-
-#### Description
-
-Una mano tiene un cono gelato contro lo skyline di una città e un cielo blu.
-
-#### Prompt
-
-```text
-A hand is holding an ice cream cone, with a city skyline and a clear blue sky in the background.……
-```
-
-### No. 3: Ritratto Retro-Futurista con Archetto di Violino
-
-- **Category:** `Creative Fun`
-- **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg)
-
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg" alt="Ritratto Retro-Futurista con Archetto di Violino" width="480" />
-
-#### Description
-
-Un uomo dai capelli lunghi in una veste bordeaux tiene un archetto di violino in un ritratto retro-futurista.
+Un ritratto retro-futurista di un uomo in toga che tiene un archetto di violino.
 
 #### Prompt
 
@@ -1485,22 +1020,454 @@ Un uomo dai capelli lunghi in una veste bordeaux tiene un archetto di violino in
 Retro-futurism style portrait photography, a middle-aged man with long hair wearing a burgundy gown and sunglasses, holding a violin bow…
 ```
 
-### No. 4: Sostituzioni Fotografiche Basate su Punti nell'Immagine
+<a id="category-10"></a>
 
-- **Category:** `Creative Fun`
+### Illustration (4)
+
+### No. 1: Campione Seedream
+
+- **Category:** `Illustration`
 - **Language:** `it`
-- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg)
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/De0obnlNAoqAuIxBlK5c8taOnrh.jpg" alt="Sostituzioni Fotografiche Basate su Punti nell'Immagine" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
 
 #### Description
 
-Punti specifici in un'immagine vengono sostituiti con foto provenienti da altre immagini.
+Libro illustrato artistico, vista panoramica, pantaloni della divisa scolastica, trucco raffinato, accessori, illustrato nello stile di
 
 #### Prompt
 
 ```text
-Point and bounding box selection: Image 1 <point>518 135</point> replace photo with Image 2; Image 1 <point>556 349</point> replace photo with Image 3; Image 1 <point>549 555</point> replace photo with Image 4; Image 1 <point>632 784</point> replace photo with Image 5.
+Artistic picture book, panoramic view, school uniform trousers, refined makeup, accessories, illustrated in the style of Raymond Briggs and Mattias Adolfsson…
+```
+
+### No. 2: Campione Seedream
+
+- **Category:** `Illustration`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
+
+#### Description
+
+Questa commovente illustrazione panoramica da libro illustrato utilizza tenui toni ciano-verdi per raffigurare una serena distesa erbosa sotto un cielo...
+
+#### Prompt
+
+```text
+This heartwarming panoramic picture book illustration uses soft cyan-green tones to depict a serene grassland under a winter starry sky, where an elderly woman paints the sun at an easel while a child plays with a puppy beside a yurt…
+```
+
+### No. 3: Campione Seedream
+
+- **Category:** `Illustration`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MlA2bxTw4oD6FgxZmF0cntf7nCf.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MlA2bxTw4oD6FgxZmF0cntf7nCf.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
+
+#### Description
+
+Basandosi sullo schizzo, aggiungi un personaggio che cammina sul sentiero in primo piano...
+
+#### Prompt
+
+```text
+Based on the sketch, add a walking character on the foreground path…
+```
+
+### No. 4: Campione Seedream
+
+- **Category:** `Illustration`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BURCblKzlovIMYxrcSZcF71MnQc.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BURCblKzlovIMYxrcSZcF71MnQc.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
+
+#### Description
+
+Trasforma questo schizzo in 4 immagini finite di alta qualità di una scena di gioco con……
+
+#### Prompt
+
+```text
+Please transform this sketch into 4 high-quality finished images of a game scene with……
+```
+
+<a id="category-11"></a>
+
+### Character Design (3)
+
+### No. 1: Campione Seedream
+
+- **Category:** `Character Design`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
+
+#### Description
+
+Viste ortogonali standard a tre prospettive (giravista): vista frontale, vista laterale, vista posteriore, di un'enorme statua di pietra di un'antica dea cinese
+
+#### Prompt
+
+```text
+Standard three-view orthographic turntable: front view, side view, back view, of a giant ancient Chinese goddess stone statue with an intricately carved stone headpiece and…
+```
+
+### No. 2: Campione Seedream
+
+- **Category:** `Character Design`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
+
+#### Description
+
+Genera le tre viste (prospettiche) di una bicicletta da portalettere dell'era sovietica...
+
+#### Prompt
+
+```text
+Generate a three-view of a Soviet-era postal messenger bicycle…
+```
+
+### No. 3: Campione Seedream
+
+- **Category:** `Character Design`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
+
+#### Description
+
+Scheda di design di un personaggio anime in stile cyberpunk, che mostra le tre viste di rotazione (turnaround), ritratti ravvicinati e dettagli degli accessori
+
+#### Prompt
+
+```text
+Cyberpunk-style anime character design sheet, showing three-view turnaround, close-up portraits, and accessory details of a hacker girl named "RIN"…
+```
+
+<a id="category-12"></a>
+
+### Style Transfer (4)
+
+### No. 1: Campione Seedream
+
+- **Category:** `Style Transfer`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ0XbIE5vosDb5xw7PbcOl8Nnrc.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ0XbIE5vosDb5xw7PbcOl8Nnrc.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
+
+#### Description
+
+Trasforma l'immagine in un effetto realistico di giocattolo LEGO con uno stile di scena in miniatura.
+
+#### Prompt
+
+```text
+Transform the image into a realistic LEGO toy effect with miniature scene styling.
+```
+
+### No. 2: Campione Seedream
+
+- **Category:** `Style Transfer`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
+
+#### Description
+
+Trasforma lo stile dell'immagine in uno stile di illustrazione piatta
+
+#### Prompt
+
+```text
+Transform the image style into flat illustration style
+```
+
+### No. 3: Campione Seedream
+
+- **Category:** `Style Transfer`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FLbhbxeAloklCUxOWWxckvx2ntf.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FLbhbxeAloklCUxOWWxckvx2ntf.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
+
+#### Description
+
+Cambia in stile scultura a rilievo
+
+#### Prompt
+
+```text
+Change to relief sculpture style
+```
+
+### No. 4: Immagine con Filtro Fujifilm NC
+
+- **Category:** `Style Transfer`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg?v=20260720fix" alt="Immagine con Filtro Fujifilm NC" width="480" />
+
+#### Description
+
+Un'immagine migliorata con l'applicazione del filtro colore Fujifilm NC.
+
+#### Prompt
+
+```text
+Add Fujifilm NC filter
+```
+
+<a id="category-13"></a>
+
+### Outfit Transfer (2)
+
+### No. 1: Campione Seedream
+
+- **Category:** `Outfit Transfer`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
+
+#### Description
+
+Fai indossare alla donna nell'Immagine 1 gli abiti, i gioielli e gli accessori dell'Immagine 2. L'intera foto dovrebbe sembrare una...
+
+#### Prompt
+
+```text
+Make the woman in Image 1 wear the clothing, jewelry, and accessories from Image 2. The whole photo should look like an Instagram street shot.
+```
+
+### No. 2: Campione Seedream
+
+- **Category:** `Outfit Transfer`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix" alt="Campione Seedream" width="480" />
+
+#### Description
+
+Sostituisci gli abiti delle due persone nell'Immagine 1 con l'abbigliamento nuziale delle Immagini 2 e 3, mantieni il colore di sfondo
+
+#### Prompt
+
+```text
+Replace the outfits of the two people in Image 1 with the wedding attire from Images 2 and 3, keep the background color consistent, and adjust lighting to match the overall style…
+```
+
+<a id="category-14"></a>
+
+### Restoration (1)
+
+### No. 1: Vecchia Foto Restaurata con Soggetto Nitido
+
+- **Category:** `Restoration`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg?v=20260720fix" alt="Vecchia Foto Restaurata con Soggetto Nitido" width="480" />
+
+#### Description
+
+Un restauro di una vecchia foto che rende il soggetto più nitido e i colori vivaci.
+
+#### Prompt
+
+```text
+Restore this old photo, making the subject clearer and restoring colors
+```
+
+<a id="category-15"></a>
+
+### Retouching (2)
+
+### No. 1: Immagine con Controluce Corretto
+
+- **Category:** `Retouching`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix" alt="Immagine con Controluce Corretto" width="480" />
+
+#### Description
+
+L'immagine viene mantenuta invariata con il controluce corretto per un'esposizione migliore.
+
+#### Prompt
+
+```text
+Keep the image unchanged and correct the backlighting.
+```
+
+### No. 2: Trucco Naturale con Intensità Maggiore
+
+- **Category:** `Retouching`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DjRPbepoGoVP4KxitW3cK1WhnIp.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DjRPbepoGoVP4KxitW3cK1WhnIp.jpg?v=20260720fix" alt="Trucco Naturale con Intensità Maggiore" width="480" />
+
+#### Description
+
+Un look di trucco modificato per avere un'intensità maggiore pur mantenendo una sensazione complessiva naturale.
+
+#### Prompt
+
+```text
+Change to a different makeup look with stronger intensity while keeping the overall makeup natural
+```
+
+<a id="category-16"></a>
+
+### ID Photo (3)
+
+### No. 1: Ritratto con Nuova Acconciatura e Senza Occhiali
+
+- **Category:** `ID Photo`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Qk1dbIVDqo7DPxxwPJuc7muCneb.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Qk1dbIVDqo7DPxxwPJuc7muCneb.jpg?v=20260720fix" alt="Ritratto con Nuova Acconciatura e Senza Occhiali" width="480" />
+
+#### Description
+
+Un ritratto in cui gli occhiali vengono rimossi e l'acconciatura cambiata in capelli mossi lunghi.
+
+#### Prompt
+
+```text
+Remove glasses, change hairstyle to large wavy hair worn down
+```
+
+### No. 2: Foto Tessera di un Gattino Ragdoll
+
+- **Category:** `ID Photo`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix" alt="Foto Tessera di un Gattino Ragdoll" width="480" />
+
+#### Description
+
+Una foto tessera da un pollice generata per un gattino Ragdoll.
+
+#### Prompt
+
+```text
+Generate a 1-inch ID photo for this Ragdoll kitten
+```
+
+### No. 3: Foto Tessera Singola per la Donna
+
+- **Category:** `ID Photo`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Orbxbu6HQosMb0xxgVJca592nhd.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Orbxbu6HQosMb0xxgVJca592nhd.jpg?v=20260720fix" alt="Foto Tessera Singola per la Donna" width="480" />
+
+#### Description
+
+Una foto tessera singola generata per la donna specificata.
+
+#### Prompt
+
+```text
+Generate a solo ID photo for the woman
+```
+
+<a id="category-17"></a>
+
+### Creative Fun (3)
+
+### No. 1: Personaggio con Ghigno Compiaciuto e Denti da Diavolo
+
+- **Category:** `Creative Fun`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix" alt="Personaggio con Ghigno Compiaciuto e Denti da Diavolo" width="480" />
+
+#### Description
+
+Un personaggio con un ghigno compiaciuto, occhi a mezzaluna, denti da diavolo e testo centrato.
+
+#### Prompt
+
+```text
+Change expression to a smug grin, eyes squinting into crescents with devil teeth showing at the corners of the mouth, add text "准备更坏" centered at the bottom of the image in white bold font.
+```
+
+### No. 2: Da Vinci, Van Gogh e Michelangelo
+
+- **Category:** `Creative Fun`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg?v=20260720fix" alt="Da Vinci, Van Gogh e Michelangelo" width="480" />
+
+#### Description
+
+Da Vinci e Van Gogh fanno il segno della pace mentre Michelangelo fa photobombing.
+
+#### Prompt
+
+```text
+Da Vinci and Van Gogh facing the camera making peace signs, with Michelangelo photobombing from behind them…
+```
+
+### No. 3: Mano che Tiene un Cono Gelato con Skyline
+
+- **Category:** `Creative Fun`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix" alt="Mano che Tiene un Cono Gelato con Skyline" width="480" />
+
+#### Description
+
+Una mano tiene un cono gelato contro lo skyline di una città e un cielo azzurro.
+
+#### Prompt
+
+```text
+A hand is holding an ice cream cone, with a city skyline and a clear blue sky in the background.……
+```
+
+<a id="category-18"></a>
+
+### Stickers (1)
+
+### No. 1: Pacchetto Adesivi Emozioni Personaggio Cartone Animato
+
+- **Category:** `Stickers`
+- **Language:** `it`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix" alt="Pacchetto Adesivi Emozioni Personaggio Cartone Animato" width="480" />
+
+#### Description
+
+Un pacchetto adesivi a quattro pannelli che mostra le diverse emozioni di un personaggio dei cartoni animati.
+
+#### Prompt
+
+```text
+Based on the cartoon character, design different emotions — happy, sad, aggrieved, angry — and generate a four-panel sticker pack
 ```
 
 ## Local Usage
@@ -1524,4 +1491,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-20T09:40:08.704Z
+> This README is auto-generated. 2026-07-20T16:42:35.389Z
