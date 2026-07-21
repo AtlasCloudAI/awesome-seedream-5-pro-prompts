@@ -3,7 +3,7 @@
     "id": "sd5pro_001",
     "sort_order": 1,
     "title": "記者安全事實與數據",
-    "description": "一張資訊圖表顯示了2006年至2013年間每年記者死亡人數，總計593例。",
+    "description": "一張資訊圖表顯示了從2006年到2013年每年的記者死亡人數，總計593例。",
     "prompt": "Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAFETY OF JOURNALISTS; annual data on journalist fatalities 2006-2013: 70 in 2006, 59 in 2007, 46 in 2008, 77 in 2009, 65 in 2010, 62 in 2011, 123 in 2012, 91 in 2013, totaling 593 cases, averaging 1 death per week; supplement with background factors affecting journalist safety.",
     "category": "Infographic",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg?v=20260720fix",
@@ -17,7 +17,7 @@
     "id": "sd5pro_002",
     "sort_order": 2,
     "title": "南極秦嶺站探險紀實",
-    "description": "一張資訊圖表視覺化呈現了該站的結構、時間軸以及比較數據圖表。",
+    "description": "一張資訊圖表視覺化了該站的結構、時間軸以及比較數據圖表。",
     "prompt": "An infographic visualizing the chronicle of Antarctica's Qinling Station expedition, with the station's main structure placed at the center; surrounded by a research development timeline, bar charts comparing the scale of five research stations, a pie chart of station energy sources, a line chart of monthly sunlight hours, supplemented by field photos of research equipment, a summer meteorology panel, a seven-step fieldwork workflow, and on-site sampling photography, comprehensively showcasing China's Antarctic research operations.",
     "category": "Infographic",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkM0bISNZowM4JxJZyYcj7Vtnt5.jpg?v=20260720fix",
@@ -45,7 +45,7 @@
     "id": "sd5pro_004",
     "sort_order": 4,
     "title": "月亮為何變紅",
-    "description": "一張天文學資訊圖表解釋了月全食期間月亮呈現紅色的原因。",
+    "description": "一張天文學資訊圖解釋了月全食期間月亮呈現紅色的原因。",
     "prompt": "Generate an astronomy infographic explaining: Why is the moon red during a total lunar eclipse?",
     "category": "Infographic",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix",
@@ -58,7 +58,7 @@
   {
     "id": "sd5pro_005",
     "sort_order": 5,
-    "title": "牛肉部位註解圖",
+    "title": "牛肉部位標註圖解",
     "description": "一張圖解標註並說明了牛肉的各個部位。",
     "prompt": "Annotated diagram of beef cuts…",
     "category": "Infographic",
@@ -73,7 +73,7 @@
     "id": "sd5pro_006",
     "sort_order": 6,
     "title": "新手觀鳥指南資訊圖",
-    "description": "一張網格佈局的資訊圖展示了八種常見鳥類，配有插圖和名稱。",
+    "description": "一張網格佈局的資訊圖展示了八種常見鳥類，附有插圖和名稱。",
     "prompt": "Generate a beginner birdwatching guide infographic with a fresh color palette and grid layout, showcasing 8 common bird species with scientific illustrations, Chinese and English names, and identification features.",
     "category": "Infographic",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix",
@@ -86,8 +86,8 @@
   {
     "id": "sd5pro_007",
     "sort_order": 7,
-    "title": "新能源汽車發布會目錄",
-    "description": "一份簡報頁面展示了車輛發布活動的目錄。",
+    "title": "新能源汽車發表會目錄",
+    "description": "一份簡報頁面展示了車輛發表活動的目錄。",
     "prompt": "Design a table of contents page for a new energy vehicle launch event presentation. The TOC text is…",
     "category": "Slides & Presentation",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix",
@@ -101,7 +101,7 @@
     "id": "sd5pro_008",
     "sort_order": 8,
     "title": "Louis Vuitton品牌策略簡報頁",
-    "description": "一張簡報頁面以情感化的方式精煉呈現了Louis Vuitton的品牌策略。",
+    "description": "一張簡報頁面以情感化的方式精煉了Louis Vuitton的品牌策略。",
     "prompt": "Distill the Louis Vuitton brand strategy…into a single, emotionally resonant presentation slide",
     "category": "Slides & Presentation",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix",
@@ -114,7 +114,7 @@
   {
     "id": "sd5pro_009",
     "sort_order": 9,
-    "title": "科技風簡報封面（3D壓克力質感）",
+    "title": "科技簡報封面（3D壓克力風格）",
     "description": "封面頁採用線條、負空間和3D壓克力質感，呈現科技風格。",
     "prompt": "Generate a tech-themed presentation cover page with linework, negative space design, 3D acrylic texture, Blender style, C4D effect",
     "category": "Slides & Presentation",
@@ -129,7 +129,7 @@
     "id": "sd5pro_010",
     "sort_order": 10,
     "title": "互動式簡報章節分隔頁",
-    "description": "一個簡報分隔頁面採用分層設計，便於互動編輯。",
+    "description": "一個簡報分隔頁設計採用圖層，便於互動編輯。",
     "prompt": "Slides section divider page. Interactive edit: layer separation",
     "category": "Slides & Presentation",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg?v=20260720fix",
@@ -142,8 +142,8 @@
   {
     "id": "sd5pro_011",
     "sort_order": 11,
-    "title": "寵物餵食服務轉化率下降",
-    "description": "一張簡報頁面探討了寵物餵食服務客戶轉化率下降的問題。",
+    "title": "寵物餵食服務轉換率下降",
+    "description": "一張簡報頁面討論了寵物餵食服務客戶轉換率下降的問題。",
     "prompt": "Create a presentation slide addressing the decline in pet door-to-door feeding customer conversion…",
     "category": "Slides & Presentation",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Lm9kb41yBoiquuxBt6Zc8B2Knuh.jpg?v=20260720fix",
@@ -157,7 +157,7 @@
     "id": "sd5pro_012",
     "sort_order": 12,
     "title": "Y2K可愛風格海報（果凍質感）",
-    "description": "一張淺藍色海報採用Y2K可愛風格，並帶有透明果凍質感元素。",
+    "description": "一張淺藍色海報採用Y2K可愛風格，帶有透明果凍質感元素。",
     "prompt": "Create a poster based on my sketch. I want a Y2K cute style with transparent jelly-textured elements and an overall translucent light blue color palette",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/M75obSWkXoiE51xElVNc39e2nIo.jpg?v=20260720fix",
@@ -165,13 +165,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YYaBbQd0eohXQPxZTrLczomsnzt.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_013",
     "sort_order": 13,
     "title": "拼貼系列行銷海報",
-    "description": "一張設計感十足的拼貼海報，採用指定的字體排版佈局並置入新的主體。",
+    "description": "一張設計導向的拼貼海報，使用指定的字體排版佈局，並置入新的主體。",
     "prompt": "Using the typography and layout from Image 1, generate a design-forward marketing poster in the same series, collage style, with Image 2 as the main subject…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SCz7bLkM0oH2qXx8M9HctwYFnIh.jpg?v=20260720fix",
@@ -179,12 +182,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NkGHbivHQo33YrxzUKzc3ZmNnUk.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KlM2bV7fYozJs4x2dkUcUiJOnTc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_014",
     "sort_order": 14,
-    "title": "對角線構圖科幻海報",
+    "title": "對角線科幻海報",
     "description": "一張科幻風格海報，採用對角線構圖，焦點位於中下方。",
     "prompt": "Sci-fi style, poster design, diagonal composition. Center-bottom of the frame…",
     "category": "Poster Design",
@@ -213,7 +220,7 @@
     "id": "sd5pro_016",
     "sort_order": 16,
     "title": "剪影雙重曝光海報",
-    "description": "一張懸疑電影海報，以雙重曝光手法呈現人物剪影。",
+    "description": "一張懸疑電影海報，以剪影肖像進行雙重曝光處理。",
     "prompt": "Double exposure portrait silhouette suspense film poster…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/JPybbJoFhocpoBx4JXTcjuthn6b.jpg?v=20260720fix",
@@ -226,7 +233,7 @@
   {
     "id": "sd5pro_017",
     "sort_order": 17,
-    "title": "PIGITAL TSUNAMI未來主義音樂活動海報",
+    "title": "PIGITAL TSUNAMI未來主義海報",
     "description": "一張未來主義風格的音樂活動海報，標題為PIGITAL TSUNAMI。",
     "prompt": "Futurist style music event poster titled \"PIGITAL TSUNAMI\"…",
     "category": "Poster Design",
@@ -241,7 +248,7 @@
     "id": "sd5pro_018",
     "sort_order": 18,
     "title": "甜蜜陽光復古字體設計",
-    "description": "一個設計作品，標題\"Sweet Sunlight\"採用復古打字機字體，置於邊框內。",
+    "description": "一個設計，標題「Sweet Sunlight」使用復古打字機字體，置於邊框內。",
     "prompt": "Bounding box on title - \"Sweet Sunlight\", use vintage typewriter font",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg?v=20260720fix",
@@ -249,13 +256,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EohwbPkM1oSPnkxYrRxc1daSnWf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_019",
     "sort_order": 19,
     "title": "深紫色目錄設計",
-    "description": "一個設計作品，使用大型深紫色文字寫著\"TABLE OF CONTENTS\"，並附有條目列表。",
+    "description": "一個設計，使用大型深紫色文字寫著「TABLE OF CONTENTS」，並附有條列式清單。",
     "prompt": "Generate in the style of Image 1: large deep purple text on the left reading \"TABLE OF CONTENTS\", with itemized listing on the right…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix",
@@ -263,13 +273,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EohwbPkM1oSPnkxYrRxc1daSnWf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_020",
     "sort_order": 20,
     "title": "藍狐極簡品牌視覺識別設計",
-    "description": "一個極簡的品牌視覺識別展示，採用克萊因藍和銀色，搭配狐狸圖形和標誌。",
+    "description": "一個極簡的品牌視覺識別展示，採用克萊因藍與銀色，搭配狐狸圖形和標誌。",
     "prompt": "Minimalist brand VI design showcase, featuring Klein blue and silver as primary colors, color-blocking aesthetic, fox graphic motif, highlighting the English brand logo \"Blue Fox\"…",
     "category": "Brand Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix",
@@ -283,7 +296,7 @@
     "id": "sd5pro_021",
     "sort_order": 21,
     "title": "超現實微型景觀廣告",
-    "description": "一則超現實廣告，將產品融入微型生活場景，並附有產品資訊。",
+    "description": "一個超現實廣告，將產品融入微型生活場景中，並附有產品資訊。",
     "prompt": "A surreal miniature landscape creative commercial product advertisement, integrating the product into a fitting lifestyle scene, highlighting product information, suitable for commercial poster promotion…",
     "category": "Brand Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XaGSbPeDCoS9m1xdfu7c4ZNBnZf.jpg?v=20260720fix",
@@ -291,13 +304,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZFaQbExfsoT8M9xXftEcSEv5ndg.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_022",
     "sort_order": 22,
     "title": "現代藝術風格臥室渲染圖",
-    "description": "一張臥室渲染圖，採用現代藝術風格，並參考了指定的室內設計配色方案。",
+    "description": "一張臥室渲染圖，採用現代藝術風格，使用了參考的室內設計配色方案。",
     "prompt": "Refer to the interior design style and color palette in the image, and generate a modern-art-style bedroom rendering.",
     "category": "Interior Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PmSAbA4P1oaDQpxBj6VceHLinwc.jpg?v=20260720fix",
@@ -305,13 +321,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HQdmbIPwSo4b3YxvPDVcaDgBnSg.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_023",
     "sort_order": 23,
-    "title": "色彩調色盤轉換",
-    "description": "一張圖片經過修改，應用了新的參考色彩調色盤。",
+    "title": "配色方案轉換",
+    "description": "一張圖像，透過應用新的參考配色方案進行了修改。",
     "prompt": "Change color palette. Input image + color palette reference",
     "category": "Interior Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KxmgbM7KjoX9VMxdaPTcrEaLnfh.jpg?v=20260720fix",
@@ -319,13 +338,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OKdXbkgYuoUuSAxy1mBcqk3sn4b.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_024",
     "sort_order": 24,
     "title": "RESHAKE冬季羽絨服橫幅廣告",
-    "description": "一張RESHAKE的電商橫幅廣告，由男模特兒展示推廣冬季羽絨服。",
+    "description": "一個RESHAKE的電商橫幅廣告，由男模特兒展示推廣冬季羽絨服。",
     "prompt": "Generate an e-commerce banner for RESHAKE brand's 2016 winter down jacket collection promotional campaign. On the right side of the frame, a male model facing the camera with a cool, intense expression…",
     "category": "E-commerce",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg?v=20260720fix",
@@ -338,8 +360,8 @@
   {
     "id": "sd5pro_025",
     "sort_order": 25,
-    "title": "寵物電商首頁英雄區（日落暖色UI）",
-    "description": "一個暖色調的電商首頁英雄區，展示一隻3D黃金獵犬，其爪子突破畫面框架觸及導航按鈕。",
+    "title": "寵物電商首圖（日落UI）",
+    "description": "一個暖色調的電商首圖區塊，展示一隻3D黃金獵犬，其爪子突破畫面框架觸及導航按鈕。",
     "prompt": "16:9 pet e-commerce hero section UI, sunset warm tone, layered shadows. Top navigation…golden capsule button; right side Golden Retriever image, 3D effect: the Retriever's front paws break through the right frame, resting on the left-side buttons.",
     "category": "E-commerce",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix",
@@ -352,8 +374,8 @@
   {
     "id": "sd5pro_026",
     "sort_order": 26,
-    "title": "日本青年漫畫夜間追逐故事板",
-    "description": "一個黑白漫畫故事板，描繪了夜間汽車追逐以及一名持槍女孩追捕的場景。",
+    "title": "日本青年漫畫夜間追逐分鏡",
+    "description": "一張黑白漫畫分鏡圖，描繪了夜間汽車追逐以及一名持槍女孩追捕的場景。",
     "prompt": "Generate a full-page Japanese seinen black-and-white manga storyboard, nighttime chase and gunfight theme. Top panel: a car under headlights and chain-link fencing in the dark night; middle: a girl armed with a gun in pursuit…",
     "category": "Comic & Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix",
@@ -366,7 +388,7 @@
   {
     "id": "sd5pro_027",
     "sort_order": 27,
-    "title": "夜間獸迷日常漫畫",
+    "title": "夜間獸人日常四格漫畫",
     "description": "一個垂直四格漫畫，展示了一隻狼犬和一隻虎斑貓在夜晚房間裡的場景。",
     "prompt": "Draw a vertical four-panel furry slice-of-life comic, set in a room at night, featuring a wolf-dog furry and a tabby cat furry…",
     "category": "Comic & Storyboard",
@@ -381,7 +403,7 @@
     "id": "sd5pro_028",
     "sort_order": 28,
     "title": "美國恐怖漫畫高譚市巷弄",
-    "description": "故事板設定在高譚市的一條巷弄中，傳達出美國恐怖漫畫的風格。",
+    "description": "分鏡設定在高譚市的一條巷弄中，傳達出美國恐怖漫畫的風格。",
     "prompt": "Generate a set of American horror comic storyboards, the story could take place in a Gotham City alley…",
     "category": "Comic & Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix",
@@ -394,8 +416,8 @@
   {
     "id": "sd5pro_029",
     "sort_order": 29,
-    "title": "三格夜間停車場電影故事板",
-    "description": "一個電影故事板，橫跨三個水平畫格展示了夜晚的停車場。",
+    "title": "三格夜間停車場電影分鏡",
+    "description": "一個電影分鏡圖，以三個水平畫格展示了夜晚的停車場。",
     "prompt": "Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establishing shot of a parking lot at night…",
     "category": "Film Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix",
@@ -408,8 +430,8 @@
   {
     "id": "sd5pro_030",
     "sort_order": 30,
-    "title": "六格西部街道故事板",
-    "description": "一個寬幅水平故事板，包含六個畫格，描繪了經典的西部街道場景。",
+    "title": "六格西部街道分鏡",
+    "description": "一個寬幅水平分鏡圖，包含六個畫格，描繪了經典的西部街道場景。",
     "prompt": "Western film storyboard, 6 panels in wide horizontal ratio, no text throughout: Panel 1, extreme wide shot, both ends of the street…",
     "category": "Film Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix",
@@ -422,8 +444,8 @@
   {
     "id": "sd5pro_031",
     "sort_order": 31,
-    "title": "過肩鏡頭：悲傷女子",
-    "description": "一個過肩鏡頭展示了一位約四十歲、棕色頭髮、神情悲傷的女子。",
+    "title": "過肩鏡頭中的悲傷女性",
+    "description": "一個過肩鏡頭展示了一位約四十歲、神情悲傷的棕髮女性。",
     "prompt": "Over-the-shoulder shot, featuring a brown-haired European or American woman around 40 years old with a sad expression…",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg?v=20260720fix",
@@ -436,8 +458,8 @@
   {
     "id": "sd5pro_032",
     "sort_order": 32,
-    "title": "動漫風格中國古代仙俠場景",
-    "description": "一個故事板以動漫藝術風格描繪了一個中國古代仙俠場景。",
+    "title": "動漫風格中國古代仙俠",
+    "description": "一個分鏡圖，以動漫藝術風格描繪了一個中國古代仙俠場景。",
     "prompt": "Anime-style ancient Chinese xianxia scene storyboard…",
     "category": "Film Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix",
@@ -451,7 +473,7 @@
     "id": "sd5pro_033",
     "sort_order": 33,
     "title": "藝術繪本風格校服",
-    "description": "一幅全景繪本插圖，以精緻、藝術的風格描繪校服褲子。",
+    "description": "一幅全景繪本插圖，以精緻藝術風格描繪校服褲子。",
     "prompt": "Artistic picture book, panoramic view, school uniform trousers, refined makeup, accessories, illustrated in the style of Raymond Briggs and Mattias Adolfsson…",
     "category": "Illustration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg?v=20260720fix",
@@ -464,7 +486,7 @@
   {
     "id": "sd5pro_034",
     "sort_order": 34,
-    "title": "冬日星空草原繪畫",
+    "title": "冬日星空草原畫作",
     "description": "一幅柔和的青綠色插圖，展示一位老婦人在冬日草原上繪畫太陽。",
     "prompt": "This heartwarming panoramic picture book illustration uses soft cyan-green tones to depict a serene grassland under a winter starry sky, where an elderly woman paints the sun at an easel while a child plays with a puppy beside a yurt…",
     "category": "Illustration",
@@ -487,13 +509,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EKwtbwJTSofQZrxdwafcQDYrnXc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_036",
     "sort_order": 36,
     "title": "三視圖古代女神雕像",
-    "description": "正投影視圖展示了巨型雕刻的中國古代女神雕像的正面、側面和背面。",
+    "description": "正投影視圖展示了一尊巨型雕刻的中國古代女神雕像的前面、側面和背面。",
     "prompt": "Standard three-view orthographic turntable: front view, side view, back view, of a giant ancient Chinese goddess stone statue with an intricately carved stone headpiece and…",
     "category": "Character Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg?v=20260720fix",
@@ -507,7 +532,7 @@
     "id": "sd5pro_037",
     "sort_order": 37,
     "title": "蘇聯郵差自行車三視圖",
-    "description": "一幅技術繪圖，展示了一輛復古蘇聯自行車的正面、側面和頂部視圖。",
+    "description": "展示一輛復古蘇聯自行車前視圖、側視圖和俯視圖的技術圖紙。",
     "prompt": "Generate a three-view of a Soviet-era postal messenger bicycle…",
     "category": "Character Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix",
@@ -520,8 +545,8 @@
   {
     "id": "sd5pro_038",
     "sort_order": 38,
-    "title": "賽博朋克駭客女孩 RIN 角色設定圖",
-    "description": "一張設計圖，展示了動漫風格賽博朋克駭客角色的多個視圖和細節。",
+    "title": "賽博朋克駭客女孩RIN角色設定圖",
+    "description": "一張設計圖，包含多個視角和細節，展示動漫風格賽博朋克駭客角色。",
     "prompt": "Cyberpunk-style anime character design sheet, showing three-view turnaround, close-up portraits, and accessory details of a hacker girl named \"RIN\"…",
     "category": "Character Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix",
@@ -535,7 +560,7 @@
     "id": "sd5pro_039",
     "sort_order": 39,
     "title": "四張完成的遊戲場景圖像",
-    "description": "四張高品質渲染的遊戲環境草圖版本。",
+    "description": "四張根據草圖渲染而成的高品質電子遊戲環境圖像。",
     "prompt": "Please transform this sketch into 4 high-quality finished images of a game scene with……",
     "category": "Illustration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BURCblKzlovIMYxrcSZcF71MnQc.jpg?v=20260720fix",
@@ -543,13 +568,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Yq3VbgKpeocFYqxLLybcERktnHe.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_040",
     "sort_order": 40,
-    "title": "完成的時裝設計產品圖像",
-    "description": "基於設計師原始草圖，一件服裝經過拋光、逼真的圖像。",
+    "title": "完成的時裝設計產品圖",
+    "description": "基於設計師原始草圖，呈現一件服裝的拋光、逼真圖像。",
     "prompt": "Please transform this fashion design sketch into a high-quality finished product image.……",
     "category": "E-commerce",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix",
@@ -557,13 +585,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UXbVbZLTvoeJkZxqNmecinZFnbd.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_041",
     "sort_order": 41,
     "title": "逼真樂高玩具微縮場景",
-    "description": "一張圖像經過轉換，看起來像一個微縮立體模型風格的細節樂高套裝。",
+    "description": "一張圖像被轉換成具有微縮場景風格的細節豐富的樂高套裝外觀。",
     "prompt": "Transform the image into a realistic LEGO toy effect with miniature scene styling.",
     "category": "Style Transfer",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ0XbIE5vosDb5xw7PbcOl8Nnrc.jpg?v=20260720fix",
@@ -571,13 +602,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QSD8b1VDCoy3A3xOHedcV0nJn8c.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_042",
     "sort_order": 42,
-    "title": "帶黑色金屬荊棘尖刺的手鐲",
-    "description": "特寫一隻帶有尖刺的黑色金屬手鐲，戴在指向正午方向的手腕上。",
+    "title": "黑色金屬尖刺手鐲",
+    "description": "手腕上佩戴的尖刺黑色金屬手鐲特寫，手指指向正午方向。",
     "prompt": "Modify the image according to the text requirements in the image: bracelet with metallic black thorn spikes, hands pointing to 12 o'clock sharp",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix",
@@ -585,13 +619,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UznubLD3woRBDwx3BwtcdYEJnJh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_043",
     "sort_order": 43,
-    "title": "哈蘇膠片人像與輪廓光",
-    "description": "一張帶有膠片顆粒質感、戲劇性輪廓光和明亮面部高光的人像。",
+    "title": "哈蘇膠片輪廓光人像",
+    "description": "一張帶有膠片顆粒質感、戲劇性輪廓光及明亮面部高光的人像照片。",
     "prompt": "Hasselblad film texture, light and shadow, rim light, (facial overexposure)…",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix",
@@ -599,13 +636,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NO81bbDXSobbejx4tVycewI6nve.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_044",
     "sort_order": 44,
-    "title": "電影感夏日敘事人像網格",
-    "description": "網格中的三張簡潔、乾淨的人像，講述一個夏日故事，沒有多餘干擾。",
+    "title": "電影感夏日敘事肖像拼圖",
+    "description": "三張簡潔乾淨的肖像組成拼圖，講述一個夏日故事，無多餘干擾。",
     "prompt": "Remove all accessories, hairstyle, and background, generate a three-panel grid of cinematic summer narrative portraits",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TAEJbdtqOoQcMDxylgXcQQq4n9f.jpg?v=20260720fix",
@@ -613,13 +653,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/J4jHbIvC9o99PKxaVoDcrgP1nkd.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_045",
     "sort_order": 45,
-    "title": "Instagram 街頭風格穿搭轉換",
-    "description": "一位女性穿著另一位女性的服裝和配飾，呈現休閒、時尚的街頭攝影風格。",
+    "title": "Instagram街頭風格穿搭轉換",
+    "description": "一位女性以休閒時尚的街頭攝影風格，穿著另一位女性的服裝和配飾。",
     "prompt": "Make the woman in Image 1 wear the clothing, jewelry, and accessories from Image 2. The whole photo should look like an Instagram street shot.",
     "category": "Outfit Transfer",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg?v=20260720fix",
@@ -627,13 +670,17 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KT1Nb6xRoo1ZO0xiVlJckcMnn8f.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Fj9YbcMUSoVUYZxC1oycjyOqndh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_046",
     "sort_order": 46,
-    "title": "婚禮服裝替換與一致背景",
-    "description": "照片中的兩人穿著婚禮服裝，背景和光線保持一致。",
+    "title": "婚禮服裝替換與背景一致",
+    "description": "照片中的兩人換上了婚禮服裝，背景和光線與原圖保持一致。",
     "prompt": "Replace the outfits of the two people in Image 1 with the wedding attire from Images 2 and 3, keep the background color consistent, and adjust lighting to match the overall style…",
     "category": "Outfit Transfer",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix",
@@ -641,13 +688,18 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TLzebexBFopDUHxLBhic6IlGnIh.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/P1mpbUYeyoQDZ1x5RetcHV6bnjc.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BEI6bcYzMoVqOKxXYjgcSjsbn6e.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_047",
     "sort_order": 47,
-    "title": "平面插畫風格轉換",
-    "description": "一張圖像被轉換成具有簡單形狀和純色的現代平面設計風格。",
+    "title": "扁平插畫風格轉換",
+    "description": "將圖像轉換為使用簡單形狀和純色塊的現代平面設計風格。",
     "prompt": "Transform the image style into flat illustration style",
     "category": "Style Transfer",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg?v=20260720fix",
@@ -655,13 +707,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MCZfbhD9lowIH0xu5H9c6UWVnMf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_048",
     "sort_order": 48,
-    "title": "浮雕雕塑風格改變",
-    "description": "一張圖像被修改成類似帶有凸起表面的雕刻或模製雕塑風格。",
+    "title": "浮雕雕塑風格轉換",
+    "description": "將圖像修改成類似帶有凸起表面的雕刻或模製雕塑風格。",
     "prompt": "Change to relief sculpture style",
     "category": "Style Transfer",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FLbhbxeAloklCUxOWWxckvx2ntf.jpg?v=20260720fix",
@@ -669,13 +724,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WIvBbFHDWoCQ5hxHojjci0R8nZg.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_049",
     "sort_order": 49,
-    "title": "Dont Want To Work 系列海報",
-    "description": "一張創意海報，基於參考設計，具有新的文字和視覺元素。",
+    "title": "「不想上班」系列海報",
+    "description": "基於參考設計，創作出帶有新文字和視覺效果的創意海報。",
     "prompt": "Referencing this poster design, create a derivative creative poster for the \"Don't Want to Work\" series with different copy and visuals",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix",
@@ -683,13 +741,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/LFA9bvRIZoj2zmxZXy9ckcifnDf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_050",
     "sort_order": 50,
     "title": "修復的老照片",
-    "description": "一張老照片，主體變清晰，原始色彩得以復原。",
+    "description": "一張老照片，主體變得更清晰，原始色彩得以復原。",
     "prompt": "Restore this old photo, making the subject clearer and restoring colors",
     "category": "Restoration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg?v=20260720fix",
@@ -697,13 +758,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IitgbjnaLodOltxJxVOci4T2ncc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_051",
     "sort_order": 51,
-    "title": "背光修正圖像",
-    "description": "同一張圖像經過曝光改善，修正了背光照明問題。",
+    "title": "修正逆光的圖像",
+    "description": "同一張圖像經過曝光調整，修正了逆光照明問題。",
     "prompt": "Keep the image unchanged and correct the backlighting.",
     "category": "Retouching",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix",
@@ -711,13 +775,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BQP6b9QPzoGfFixThbDcTNzrnXf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_052",
     "sort_order": 52,
-    "title": "應用富士 NC 濾鏡",
-    "description": "圖像現在應用了經典的富士 Natural Chrome 菲林模擬濾鏡。",
+    "title": "應用富士NC濾鏡",
+    "description": "圖像現在應用了經典的富士Natural Chrome菲林模擬濾鏡。",
     "prompt": "Add Fujifilm NC filter",
     "category": "Style Transfer",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg?v=20260720fix",
@@ -725,13 +792,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VVkmbTEpUoMHltxa90EccUOfn5e.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_053",
     "sort_order": 53,
-    "title": "新髮型無眼鏡",
-    "description": "一位摘掉眼鏡的人現在擁有一頭披散下來的大波浪髮型。",
+    "title": "無眼鏡新髮型",
+    "description": "一位摘掉眼鏡的人，現在擁有一頭披散下來的大波浪髮型。",
     "prompt": "Remove glasses, change hairstyle to large wavy hair worn down",
     "category": "ID Photo",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Qk1dbIVDqo7DPxxwPJuc7muCneb.jpg?v=20260720fix",
@@ -739,7 +809,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SIS2bDqYuoJuIpxZw5LcDzdhn5f.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_054",
@@ -753,13 +826,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/H31MbrQrWoT8ztxARFkcN29Infh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_055",
     "sort_order": 55,
-    "title": "帶著魔鬼牙齒的得意壞笑",
-    "description": "一個人瞇著眼，帶著得意的壞笑露出魔鬼牙齒，下方有文字。",
+    "title": "露出魔鬼牙齒的得意壞笑",
+    "description": "一個人瞇著眼露出得意的壞笑，展示魔鬼牙齒，下方有文字。",
     "prompt": "Change expression to a smug grin, eyes squinting into crescents with devil teeth showing at the corners of the mouth, add text \"准备更坏\" centered at the bottom of the image in white bold font.",
     "category": "Creative Fun",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix",
@@ -767,13 +843,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZyADbn7lvoJhuAxduyVcYmkpnCd.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_056",
     "sort_order": 56,
     "title": "最佳與最差狗狗搭檔",
-    "description": "兩個面板展示了狗狗們既是嬉戲的最佳朋友，又是兇猛的最差敵人。",
+    "description": "兩個面板分別展示狗狗們是嬉戲玩耍的最佳朋友和兇猛對峙的最差敵人。",
     "prompt": "Top image: two dogs pressing their faces together with playful expressions, caption \"We're the best duo ever\"; Bottom image: two dogs fighting with fierce expressions, caption \"We're the worst duo ever\".",
     "category": "Comic & Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Dyj6bbHWHoFVdFxpOqpc0MyknYe.jpg?v=20260720fix",
@@ -786,8 +865,8 @@
   {
     "id": "sd5pro_057",
     "sort_order": 57,
-    "title": "卡通情緒表情貼圖包",
-    "description": "一套四格表情貼圖，展示了一個卡通角色表達不同的情緒。",
+    "title": "卡通情緒貼圖包",
+    "description": "四格貼圖套組，展示一個卡通角色表達不同的情緒。",
     "prompt": "Based on the cartoon character, design different emotions — happy, sad, aggrieved, angry — and generate a four-panel sticker pack",
     "category": "Stickers",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix",
@@ -795,13 +874,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FytBb0AgVoL6pKxpL3zc4EdanQc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_058",
     "sort_order": 58,
     "title": "富士拍立得相機",
-    "description": "一台富士即時成像相機的圖像，可拍攝拍立得風格的照片。",
+    "description": "一台富士即時成像相機的圖像，可拍攝拍立得風格照片。",
     "prompt": "Fujifilm camera Polaroid",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Y6bTb6x7zoM2kFxkGtXcPH5unUh.jpg?v=20260720fix",
@@ -809,7 +891,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkgRbmVP1o4KqixE60RcpRk3nme.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_059",
@@ -823,7 +908,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KbRXbSAQ5or3aXxSdcncUEagnie.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_060",
@@ -837,12 +925,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AwNZb9apxoOFzfxVW2TcoJCwnTf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_061",
     "sort_order": 61,
-    "title": "達文西與梵谷的和平手勢",
+    "title": "達文西與梵谷比和平手勢",
     "description": "達文西和梵谷比出和平手勢，而米開朗基羅從他們身後亂入鏡頭。",
     "prompt": "Da Vinci and Van Gogh facing the camera making peace signs, with Michelangelo photobombing from behind them…",
     "category": "Creative Fun",
@@ -856,7 +947,7 @@
   {
     "id": "sd5pro_062",
     "sort_order": 62,
-    "title": "城市天際線下的冰淇淋甜筒",
+    "title": "城市天際線冰淇淋甜筒",
     "description": "一隻手拿著冰淇淋甜筒，背景是城市天際線和藍天。",
     "prompt": "A hand is holding an ice cream cone, with a city skyline and a clear blue sky in the background.……",
     "category": "Creative Fun",
@@ -870,8 +961,8 @@
   {
     "id": "sd5pro_063",
     "sort_order": 63,
-    "title": "復古未來主義小提琴家肖像",
-    "description": "一位長髮男子穿著勃艮第長袍，戴著太陽鏡，手持小提琴弓，呈現復古未來主義風格。",
+    "title": "復古未來主義小提琴手肖像",
+    "description": "一位長髮男子身穿勃艮第長袍、戴著太陽眼鏡，手持小提琴弓，呈現復古未來主義風格。",
     "prompt": "Retro-futurism style portrait photography, a middle-aged man with long hair wearing a burgundy gown and sunglasses, holding a violin bow…",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg?v=20260720fix",
@@ -885,7 +976,7 @@
     "id": "sd5pro_064",
     "sort_order": 64,
     "title": "超現實玩具場景",
-    "description": "一個藍色毛髮的頭部觀察著一個反射光線的泡泡，附近有一個毛線球和積木。",
+    "description": "一個藍色毛茸茸的頭部觀察著一個反射光線的泡泡，旁邊有毛線球和積木。",
     "prompt": "Red box: a giant blue-furred head with a comically squeezed expression, looking at the bubble in front; Green box: a transparent bubble reflecting indoor lighting; Yellow box: a large warm beige yarn ball; Blue box: building blocks stacked together — warm dark gray arch shape, warm light gray semi-cylinder, lake blue cylinder, deep lake blue ramp, cobalt blue semi-disc; Purple box: a grass-green blanket with fringe draped over a sofa",
     "category": "Creative Fun",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Onlsb5mmCo6wkaxco5cczzLgnUf.jpg?v=20260720fix",
@@ -893,13 +984,17 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KrdNbd9vdoI63exU35qc9jsonCb.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AbuMbTZBPoG0sdx1EhQcJsaFnub.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_065",
     "sort_order": 65,
     "title": "電商視覺設計",
-    "description": "使用輸入圖像和色板參考來創建設計。",
+    "description": "使用輸入圖像和色板參考來創建一個設計。",
     "prompt": "E-commerce design. Input image + color palette reference",
     "category": "E-commerce",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix",
@@ -907,7 +1002,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VGIXbHnD5oBnfpxWd3wcdj7HnDb.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_066",
@@ -921,13 +1019,17 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VdA8bfmQqosANbxi7GQckz1LnZg.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DSrPbOoUboeWuOxkxSUcyFomnXe.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_067",
     "sort_order": 67,
     "title": "複合角色姿勢",
-    "description": "生成包含特定手部、腿部動作和道具運用的全身照。",
+    "description": "生成包含特定手部、腿部動作及道具的全身照。",
     "prompt": "Generate a full-body shot of the person in Image 3, and adjust her pose so her right hand motion matches Image 1, holding the first speaker from Image 4, and her leg motion matches Image 2",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Q8txbHeE0olIdzxsgh5c9GINn9b.jpg?v=20260720fix",
@@ -935,13 +1037,19 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/J2VSbwVtvowr86x6Z0rcGBmsnEf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DD2fbj4Hlo4rUjxaXWUc40rFnib.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OzyxbA971oALRYxilMlc2HmFn7e.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A3bUbP6H2oTFWjxyzmrcvvUOn1b.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_068",
     "sort_order": 68,
     "title": "寫實靜物構圖",
-    "description": "將七個物件組合成具有準確材質和光影的攝影作品。",
+    "description": "將七個物體構圖成一張照片，具有準確的材質和光影。",
     "prompt": "Precisely cut out the 7 white-background objects I provided and compose them into a realistic still life photograph with the specified composition. Ensure correct perspective, lighting, shadow, and spatial relationships. Faithfully reproduce material details of wood grain, leather, lace, glass jelly, and feathers, creating a high-quality image that interweaves realism with playfulness and blends retro with modern aesthetics.",
     "category": "Interior Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HMCjbkxHGodE7dxtjgGckx9Tnof.jpg?v=20260720fix",
@@ -949,13 +1057,24 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YkWAbvfTqo10mEx57ircGKHinxg.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KPTVbFTheoPOUrx3EemcWsImn4c.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PRjIbiAUcoC3WFxM2tOceWAOn5f.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/GP2EbV2ICoVXFVxCj7QcErA6nrr.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KBLJbBLLjoRKbkx7LzocajDUnmE.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SdudbHux2oMzKxxO0XccTuJHn8g.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QrmabEKi2oLQn3xh50wcQFldn1c.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ILCcbkdK7oHPMbx6RDMcCimvnVf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SlbJbgP5hocPBGxJuMKc9UlUnHh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_069",
     "sort_order": 69,
     "title": "手繪早午餐海報",
-    "description": "將食物轉化為手繪風格，並為季節性早午餐海報添加標籤。",
+    "description": "將食物轉化為繪畫風格，並為季節性早午餐海報添加標籤。",
     "prompt": "Place the foods from the images on the same table and transform them into a hand-drawn style. Use white linework to label each dish and add handwritten-style Chinese annotations. Create a promotional poster for a dish for “Seasonal Limited Brunch.”",
     "category": "Illustration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix",
@@ -963,7 +1082,13 @@
     "source_platform": "community",
     "source_link": "",
     "language": "zh-TW",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YXQ3bzVAhods3bxS1EMcCy3ZnCc.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BgxbboCT3oZcqkxpxoccxdDQnng.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ebn1bhCbZoyGpjxzCpYckSh2n1c.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YQn8bVEwvosqnRxQJMOcfqQ4nbh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_070",
@@ -976,6 +1101,293 @@
     "author_name": "community",
     "source_platform": "community",
     "source_link": "",
+    "language": "zh-TW",
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QNB2bJ0bJoLtJxx2FGkcvtOEnlf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CycubNaK5oQEBZxQeNrcxUhHnCf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V0ovbK3VXoLfSqx3vyJcp9Fznkh.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SliLbSSaxogsxaxhlIRc2Disniy.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KXENb0zUyod0Fmx63PfcPkzXnqc.jpg?v=20260720fix"
+    ]
+  },
+  {
+    "id": "sd5pro_071",
+    "sort_order": 71,
+    "title": "維京戰士戰場",
+    "description": "一位電影感的維京戰士蓄勢待發，臉上帶血，盔甲上插著箭矢。",
+    "prompt": "create an image of a cinematic vikking style warrior with his big sword ready on a battlefield with blood on this face, arrows stuck on to his armour facing the",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_eca49bc5ea95.jpg?v=20260720fix",
+    "author_name": "Adithya Thatipalli",
+    "source_platform": "x",
+    "source_link": "https://x.com/adithatipalli/status/2075113723719729261",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_072",
+    "sort_order": 72,
+    "title": "引號內文字",
+    "description": "添加引號以確保像「早安！」這樣的文字出現在圖像中。",
+    "prompt": "Add quote marks around text to ensure the text appears in your image \"Good morning!\" \"Happy Caturday!\"",
+    "category": "Social Media",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_5258598740a5.jpg?v=20260720fix",
+    "author_name": "Cayla Catz",
+    "source_platform": "x",
+    "source_link": "https://x.com/CaylaCatz/status/2075960554917941515",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_073",
+    "sort_order": 73,
+    "title": "時尚雜誌封面",
+    "description": "一張超寫實的高級時尚封面，模特擁有瓷器般的肌膚和雕塑感的帽子。",
+    "prompt": "Ultra-realistic high-fashion editorial magazine cover featuring a stunning female model with flawless porcelain skin, piercing emerald eyes, and matte burgundy lips. She wears an oversized ivory sculptural hat, a sleek black turtleneck,",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_b9a3c7f63650.jpg?v=20260720fix",
+    "author_name": "Snow",
+    "source_platform": "x",
+    "source_link": "https://x.com/iamrealsnow/status/2075797065427529769",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_074",
+    "sort_order": 74,
+    "title": "日本稻田",
+    "description": "一張電影劇照般的畫面，從四分之三角度展示夏日鄉村的日本稻田。",
+    "prompt": "Cinematic film still, rural Japanese rice paddy landscape in summer, three-quarter angle view down a narrow",
+    "category": "Social Media",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_ee34d8a6bbbf.jpg?v=20260720fix",
+    "author_name": "TSUBAKI",
+    "source_platform": "x",
+    "source_link": "https://x.com/AI__TSUBAKI/status/2076624942553330149",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_075",
+    "sort_order": 75,
+    "title": "品牌廣告合成",
+    "description": "一個創意合成廣告，將產品照片與手繪黑色元素無縫整合。",
+    "prompt": "Creative composite brand advertisement, 16:9 horizontal aspect ratio, clean white background, studio lighting, sharp focus. A real-life photograph of a [BRAND PRODUCT] is physically placed and seamlessly integrated with a hand-drawn black",
+    "category": "Brand Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f1af42cb8262.jpg?v=20260720fix",
+    "author_name": "Zephyra Leigh",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZephyraLeigh/status/2076309161801887774",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_076",
+    "sort_order": 76,
+    "title": "東京雨中的太空人",
+    "description": "一位電影感的太空人行走在雨中的東京街頭，霓虹燈光反射，超寫實風格。",
+    "prompt": "A cinematic astronaut walking through Tokyo in the rain, neon reflections, ultra realistic.",
+    "category": "Infographic",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dd2056ba59c3.jpg?v=20260720fix",
+    "author_name": "LinkModel",
+    "source_platform": "x",
+    "source_link": "https://x.com/link_model_ai/status/2076305578885030256",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_077",
+    "sort_order": 77,
+    "title": "街頭服飾編輯海報",
+    "description": "一張垂直海報，使用米白色背景和泡泡字體，呈現大膽的青年文化美學。",
+    "prompt": "Create a vertical streetwear editorial poster with a bold youth-culture aesthetic. Use an off-white paper background and a clean magazine-style layout. At the top, place oversized rounded bubble",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_768d731baa75.jpg?v=20260720fix",
+    "author_name": "Linus ✦ Ekenstam",
+    "source_platform": "x",
+    "source_link": "https://x.com/LinusEkenstam/status/2076273553964687462",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_078",
+    "sort_order": 78,
+    "title": "復古80年代動漫鎖屏",
+    "description": "一個極簡鎖屏畫面，採用復古80年代動漫賽璐璐插畫風格，帶有噴槍漸變效果。",
+    "prompt": "Retro 80s anime cel illustration with airbrushed gradients and film grain. Minimalist lock screen",
+    "category": "Illustration",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f1549f674d93.jpg?v=20260720fix",
+    "author_name": "Magnific",
+    "source_platform": "x",
+    "source_link": "https://x.com/magnific/status/2076964679784780139",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_079",
+    "sort_order": 79,
+    "title": "青春成長車站",
+    "description": "一張電影感的肖像，描繪一位日本女學生在明亮夏日下午的郊區車站。",
+    "prompt": "A cinematic coming-of-age portrait of a Japanese high school girl at a suburban train station on a bright summer afternoon, wearing a white sailor-style school uniform with a light blue skirt, carrying a navy school bag and backpack. Natural wind",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_e618ac7cdcf4.jpg?v=20260720fix",
+    "author_name": "Kashberg",
+    "source_platform": "x",
+    "source_link": "https://x.com/Kashberg_0/status/2077421901656572021",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_080",
+    "sort_order": 80,
+    "title": "極簡旅行海報",
+    "description": "一張高級極簡海報，透過一個大型白色窗框構圖，框住一個標誌性地標。",
+    "prompt": "Create a premium minimalist travel poster with a clean editorial aesthetic. A large open white-framed window is centered in the composition, perfectly framing an iconic landmark or scenic destination",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_4761b6b5b076.jpg?v=20260720fix",
+    "author_name": "simeon-sanai",
+    "source_platform": "x",
+    "source_link": "https://x.com/Naiknelofar788/status/2077317872662233456",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_081",
+    "sort_order": 81,
+    "title": "憂鬱黃金時刻肖像",
+    "description": "一位憂鬱的年輕女子在黃金時刻坐在窗邊，被柔和的陽光照射。",
+    "prompt": "A melancholic young East Asian woman with long, slightly messy black hair sits quietly beside a large window during golden hour, soft sunlight illuminating her face with warm cinematic tones. She gazes thoughtfully into the distance, natural makeup",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f6ea00c7b24a.jpg?v=20260720fix",
+    "author_name": "K",
+    "source_platform": "x",
+    "source_link": "https://x.com/ChillaiKalan__/status/2077627547173695645",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_082",
+    "sort_order": 82,
+    "title": "人群中的女子",
+    "description": "一位女子在城市街道上平靜地行走，周圍是模糊的熙攘人群，她正看向側方。",
+    "prompt": "A woman walking calmly in the middle of a bustling crowd, with everyone else in motion and slightly blurred. She is looking to the side and slightly upward, with a calm, neutral expression and perhaps a very faint, subtle smile. The scene takes place on a city street.",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_6acc27c6f60b.jpg?v=20260720fix",
+    "author_name": "Kashberg",
+    "source_platform": "x",
+    "source_link": "https://x.com/Kashberg_0/status/2077624267752218752",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_083",
+    "sort_order": 83,
+    "title": "寫實編輯肖像",
+    "description": "一張寫實的半身肖像，主角是一位性感迷人的20多歲日韓女性。",
+    "prompt": "Create a photorealistic editorial portrait. Waist-up portrait, eye-level view, front-left three-quarter view A 20s seductive stunning Japanese or Korean",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dda1aa7a7755.jpg?v=20260720fix",
+    "author_name": "Nailai7981",
+    "source_platform": "x",
+    "source_link": "https://x.com/VIBEQUIRKLABS/status/2077756195021177249",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_084",
+    "sort_order": 84,
+    "title": "街角快照",
+    "description": "一張快照捕捉了一位年輕中國女子在安靜街道上，轉身靠在一輛深藍色自行車旁。",
+    "prompt": "A quick snapshot taken on a quiet street corner, looks like someone called her name and she turned around mid-stride. A young Chinese woman in her early 20s stands beside a dark blue bicycle, her body half-turned, one hand resting on the bicycle seat, the",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_fd46b8756855.jpg?v=20260720fix",
+    "author_name": "simeon-sanai",
+    "source_platform": "x",
+    "source_link": "https://x.com/Naiknelofar788/status/2078669518839468367",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_085",
+    "sort_order": 85,
+    "title": "水彩都市速寫",
+    "description": "一幅精緻的橫向水彩速寫，描繪了一個城市中寧靜的標誌性戶外地點。",
+    "prompt": "Create a refined horizontal aquarelle urban sketch of a peaceful, iconic outdoor location in [PLACE], [CITY], using delicate freehand ink, restrained transparent watercolor",
+    "category": "Illustration",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_a45476c94dcf.jpg?v=20260720fix",
+    "author_name": "Zara",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZaraIrahh/status/2078405764910043477",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_086",
+    "sort_order": 86,
+    "title": "單色時尚海報",
+    "description": "一張超寫實的單色時尚海報，以自信的女性為主角，採用大膽的黑白構圖。",
+    "prompt": "Ultra-realistic IMAX-level Netflix-style cinematic monochrome fashion poster, 9:16 vertical composition, create a powerful women-perspective editorial poster featuring a confident stylish young adult woman in a bold black-and-white",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_50e950417186.jpg?v=20260720fix",
+    "author_name": "Zunaira Ai",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZunairaAi/status/2079030858238009582",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_087",
+    "sort_order": 87,
+    "title": "奇幻馬匹插畫",
+    "description": "一幅奇幻插畫，展示一匹馬在蒲公英田中，種子隨風飄揚。",
+    "prompt": "a whimsical illustration of a horse standing in a field of dandelions under a bright blue sky. Dandelion seeds float around the horse, and some are caught in the wind.",
+    "category": "Illustration",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dfe8fd820f44.jpg?v=20260720fix",
+    "author_name": "Heather Green",
+    "source_platform": "x",
+    "source_link": "https://x.com/heathergreen/status/2078996056080269496",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_088",
+    "sort_order": 88,
+    "title": "獨行街頭的女子",
+    "description": "一張照片聚焦於一位女子面無表情的臉，而模糊的身影在廣角街道上遠去。",
+    "prompt": "Photo of a woman standing alone on the street, surrounded by blurred figures representing people moving aWCy from her. the focus is on her expression t and posture as she looks around straight poker face. she wears jeans and a red sweater. wide-angle",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dfd56154a3ad.jpg?v=20260720fix",
+    "author_name": "K",
+    "source_platform": "x",
+    "source_link": "https://x.com/ChillaiKalan__/status/2078753991820017828",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_089",
+    "sort_order": 89,
+    "title": "電影感特寫肖像",
+    "description": "一張寫實的電影感特寫肖像，一位絕美女子背靠素色淺牆。",
+    "prompt": "Reference image: conceptual variant. Photorealistic cinematic close-up portrait of a stunning young woman against a plain light wall during soft even studio lighting with gentle side illumination",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_a87b40f94188.jpg?v=20260720fix",
+    "author_name": "dreamy digital arts",
+    "source_platform": "x",
+    "source_link": "https://x.com/dreamydigiarts/status/2078797004688249229",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_090",
+    "sort_order": 90,
+    "title": "輪廓線時尚編輯",
+    "description": "時尚編輯攝影運用輪廓線元素和破損美學，營造概念性風格。",
+    "prompt": "Fashion-editorial photography style, using outlined elements and the distressed",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_d7dfb264c619.jpg?v=20260720fix",
+    "author_name": "WenyeBot",
+    "source_platform": "x",
+    "source_link": "https://x.com/WenyeBot/status/2078739130822066220",
     "language": "zh-TW",
     "featured": false
   }

@@ -3,7 +3,7 @@
     "id": "sd5pro_001",
     "sort_order": 1,
     "title": "Feiten en cijfers over veiligheid van journalisten",
-    "description": "Een infographic toont het jaarlijkse aantal dodelijke slachtoffers onder journalisten van 2006 tot 2013, in totaal 593 gevallen.",
+    "description": "Een infographic toont het jaarlijks aantal dodelijke slachtoffers onder journalisten van 2006 tot 2013, in totaal 593 gevallen.",
     "prompt": "Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAFETY OF JOURNALISTS; annual data on journalist fatalities 2006-2013: 70 in 2006, 59 in 2007, 46 in 2008, 77 in 2009, 65 in 2010, 62 in 2011, 123 in 2012, 91 in 2013, totaling 593 cases, averaging 1 death per week; supplement with background factors affecting journalist safety.",
     "category": "Infographic",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XpH0bYacwommfAxioLYcPeBZnlb.jpg?v=20260720fix",
@@ -16,7 +16,7 @@
   {
     "id": "sd5pro_002",
     "sort_order": 2,
-    "title": "Expeditieverslag van het Antarctica Qinling Station",
+    "title": "Expeditieverslag van Antarctica Qinling Station",
     "description": "Een infographic visualiseert de structuur van het station, een tijdlijn en vergelijkende gegevensgrafieken.",
     "prompt": "An infographic visualizing the chronicle of Antarctica's Qinling Station expedition, with the station's main structure placed at the center; surrounded by a research development timeline, bar charts comparing the scale of five research stations, a pie chart of station energy sources, a line chart of monthly sunlight hours, supplemented by field photos of research equipment, a summer meteorology panel, a seven-step fieldwork workflow, and on-site sampling photography, comprehensively showcasing China's Antarctic research operations.",
     "category": "Infographic",
@@ -30,7 +30,7 @@
   {
     "id": "sd5pro_003",
     "sort_order": 3,
-    "title": "Prompt Design Gids voor AI-modellen",
+    "title": "Prompt-ontwerpgids voor AI-modellen",
     "description": "Een presentatie vat de verschillen en beste praktijken samen voor prompts voor LLM, beeld- en videogeneratie.",
     "prompt": "Based on collected prompt guide trends, create a presentation summarizing the differences and best practices in prompt design for LLM, image generation, and video generation models. The slide structure should be logical and easy to compare. After creation, provide explanatory text for each model category, including why this writing approach works and common failure cases.",
     "category": "Infographic",
@@ -58,7 +58,7 @@
   {
     "id": "sd5pro_005",
     "sort_order": 5,
-    "title": "Geannoteerd diagram van rundvleesstukken",
+    "title": "Gelabeld diagram van rundvleesstukken",
     "description": "Een diagram labelt en illustreert de verschillende stukken rundvlees.",
     "prompt": "Annotated diagram of beef cuts…",
     "category": "Infographic",
@@ -86,7 +86,7 @@
   {
     "id": "sd5pro_007",
     "sort_order": 7,
-    "title": "Inhoudsopgave lancering nieuw energieve voertuig",
+    "title": "Inhoudsopgave lancering nieuwe energie voertuig",
     "description": "Een presentatiepagina toont de inhoudsopgave voor een voertuiglanceringsevenement.",
     "prompt": "Design a table of contents page for a new energy vehicle launch event presentation. The TOC text is…",
     "category": "Slides & Presentation",
@@ -114,8 +114,8 @@
   {
     "id": "sd5pro_009",
     "sort_order": 9,
-    "title": "Tech presentatie cover met 3D acryl",
-    "description": "Een voorpagina met lijnwerk, negatieve ruimte en 3D acryltextuur in een tech-stijl.",
+    "title": "Tech presentatie-omslag met 3D acryl",
+    "description": "Een omslagpagina met lijnwerk, negatieve ruimte en 3D acryltextuur in een tech-stijl.",
     "prompt": "Generate a tech-themed presentation cover page with linework, negative space design, 3D acrylic texture, Blender style, C4D effect",
     "category": "Slides & Presentation",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix",
@@ -128,8 +128,8 @@
   {
     "id": "sd5pro_010",
     "sort_order": 10,
-    "title": "Interactieve dia's sectiescheider",
-    "description": "Een presentatiescheidingspagina ontworpen met lagen voor interactieve bewerking.",
+    "title": "Interactieve dia sectiescheider",
+    "description": "Een presentatie-scheiderpagina ontworpen met lagen voor interactieve bewerking.",
     "prompt": "Slides section divider page. Interactive edit: layer separation",
     "category": "Slides & Presentation",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg?v=20260720fix",
@@ -142,7 +142,7 @@
   {
     "id": "sd5pro_011",
     "sort_order": 11,
-    "title": "Daling in conversie voor huisdierenvoedingsservice",
+    "title": "Daling conversie huisdierenvoedingsservice",
     "description": "Een presentatiedia behandelt de daling in klantconversie voor een huisdierenvoedingsservice.",
     "prompt": "Create a presentation slide addressing the decline in pet door-to-door feeding customer conversion…",
     "category": "Slides & Presentation",
@@ -165,7 +165,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YYaBbQd0eohXQPxZTrLczomsnzt.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_013",
@@ -179,13 +182,17 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NkGHbivHQo33YrxzUKzc3ZmNnUk.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KlM2bV7fYozJs4x2dkUcUiJOnTc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_014",
     "sort_order": 14,
     "title": "Diagonale sci-fi poster",
-    "description": "Een sci-fi stijl poster met een diagonale compositie en een brandpunt in het midden-onder.",
+    "description": "Een sci-fi stijl poster met een diagonale compositie en een focuspunt midden-onder.",
     "prompt": "Sci-fi style, poster design, diagonal composition. Center-bottom of the frame…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg?v=20260720fix",
@@ -213,7 +220,7 @@
     "id": "sd5pro_016",
     "sort_order": 16,
     "title": "Silhouet dubbele belichting poster",
-    "description": "Een suspense filmposter met een dubbele belichting portretsilhouet.",
+    "description": "Een suspense filmposter met een dubbele belichting portret-silhouet.",
     "prompt": "Double exposure portrait silhouette suspense film poster…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/JPybbJoFhocpoBx4JXTcjuthn6b.jpg?v=20260720fix",
@@ -241,7 +248,7 @@
     "id": "sd5pro_018",
     "sort_order": 18,
     "title": "Sweet Sunlight vintage typografie",
-    "description": "Een ontwerp met de titel Sweet Sunlight in een vintage typemachinelettertype binnen een begrenzingskader.",
+    "description": "Een ontwerp met de titel Sweet Sunlight in een vintage typemachine-lettertype binnen een begrenzingskader.",
     "prompt": "Bounding box on title - \"Sweet Sunlight\", use vintage typewriter font",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg?v=20260720fix",
@@ -249,13 +256,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EohwbPkM1oSPnkxYrRxc1daSnWf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_019",
     "sort_order": 19,
     "title": "Deep Purple inhoudsopgave",
-    "description": "Een ontwerp met grote dieppaarse tekst die TABLE OF CONTENTS leest en een gespecificeerde lijst.",
+    "description": "Een ontwerp met grote dieppaarse tekst 'TABLE OF CONTENTS' en een gespecificeerde lijst.",
     "prompt": "Generate in the style of Image 1: large deep purple text on the left reading \"TABLE OF CONTENTS\", with itemized listing on the right…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix",
@@ -263,13 +273,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EohwbPkM1oSPnkxYrRxc1daSnWf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_020",
     "sort_order": 20,
     "title": "Blauwe Vos minimalistische VI-ontwerp",
-    "description": "Een minimalistische merk VI-showcase in Klein blauw en zilver met een vosgrafiek en logo.",
+    "description": "Een minimalistische merk VI-presentatie in Klein blauw en zilver met een vos-illustratie en logo.",
     "prompt": "Minimalist brand VI design showcase, featuring Klein blue and silver as primary colors, color-blocking aesthetic, fox graphic motif, highlighting the English brand logo \"Blue Fox\"…",
     "category": "Brand Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix",
@@ -283,7 +296,7 @@
     "id": "sd5pro_021",
     "sort_order": 21,
     "title": "Surrealistische miniatuurlandschap advertentie",
-    "description": "Een surrealistische advertentie die een product integreert in een miniatuurlevensstijlscène met productinformatie.",
+    "description": "Een surrealistische advertentie die een product integreert in een miniatuur levensstijlscène met productinformatie.",
     "prompt": "A surreal miniature landscape creative commercial product advertisement, integrating the product into a fitting lifestyle scene, highlighting product information, suitable for commercial poster promotion…",
     "category": "Brand Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XaGSbPeDCoS9m1xdfu7c4ZNBnZf.jpg?v=20260720fix",
@@ -291,13 +304,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZFaQbExfsoT8M9xXftEcSEv5ndg.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_022",
     "sort_order": 22,
     "title": "Moderne kunst stijl slaapkamer rendering",
-    "description": "Een slaapkamerrendering in een moderne-kunst stijl met een gerefereerd interieurontwerppalet.",
+    "description": "Een slaapkamer rendering in een moderne-kunst stijl met een gerefereerd interieurontwerp kleurenpalet.",
     "prompt": "Refer to the interior design style and color palette in the image, and generate a modern-art-style bedroom rendering.",
     "category": "Interior Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PmSAbA4P1oaDQpxBj6VceHLinwc.jpg?v=20260720fix",
@@ -305,7 +321,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HQdmbIPwSo4b3YxvPDVcaDgBnSg.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_023",
@@ -319,7 +338,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OKdXbkgYuoUuSAxy1mBcqk3sn4b.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_024",
@@ -339,7 +361,7 @@
     "id": "sd5pro_025",
     "sort_order": 25,
     "title": "Huisdieren e-commerce hero zonsondergang UI",
-    "description": "Een warm getinte e-commerce hero-sectie met een 3D Golden Retriever wiens poten door het frame breken op navigatieknoppen.",
+    "description": "Een warm getinte e-commerce hero-sectie met een 3D Golden Retriever wiens poten door het kader breken op navigatieknoppen.",
     "prompt": "16:9 pet e-commerce hero section UI, sunset warm tone, layered shadows. Top navigation…golden capsule button; right side Golden Retriever image, 3D effect: the Retriever's front paws break through the right frame, resting on the left-side buttons.",
     "category": "E-commerce",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix",
@@ -353,7 +375,7 @@
     "id": "sd5pro_026",
     "sort_order": 26,
     "title": "Japanse Seinen nachtelijke achtervolging storyboard",
-    "description": "Een zwart-wit manga storyboard toont een nachtelijke autoachtervolging en een gewapend meisje in de achtervolging.",
+    "description": "Een zwart-wit manga storyboard toont een nachtelijke auto-achtervolging en een gewapend meisje in de achtervolging.",
     "prompt": "Generate a full-page Japanese seinen black-and-white manga storyboard, nighttime chase and gunfight theme. Top panel: a car under headlights and chain-link fencing in the dark night; middle: a girl armed with a gun in pursuit…",
     "category": "Comic & Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix",
@@ -366,8 +388,8 @@
   {
     "id": "sd5pro_027",
     "sort_order": 27,
-    "title": "Nachtelijke furry slice of life strip",
-    "description": "Een verticale vierpaneelstrip toont een wolfshond en een tabbykat in een kamer 's nachts.",
+    "title": "Nachtelijk furry slice of life strip",
+    "description": "Een verticale vierpans strip toont een wolfshond en een tabby kat in een kamer 's nachts.",
     "prompt": "Draw a vertical four-panel furry slice-of-life comic, set in a room at night, featuring a wolf-dog furry and a tabby cat furry…",
     "category": "Comic & Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix",
@@ -380,8 +402,8 @@
   {
     "id": "sd5pro_028",
     "sort_order": 28,
-    "title": "Amerikaanse horror strip Gotham steegje",
-    "description": "Storyboards in een Gotham City steegje die een Amerikaanse horror strip stijl overbrengen.",
+    "title": "Amerikaanse horror strip Gotham steeg",
+    "description": "Storyboards in een Gotham City steeg in de stijl van een Amerikaanse horrorstrip.",
     "prompt": "Generate a set of American horror comic storyboards, the story could take place in a Gotham City alley…",
     "category": "Comic & Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix",
@@ -394,8 +416,8 @@
   {
     "id": "sd5pro_029",
     "sort_order": 29,
-    "title": "Drie paneel nachtelijke parkeerplaats film",
-    "description": "Een film storyboard toont een parkeerplaats 's nachts over drie horizontale panelen.",
+    "title": "Drie-pans nachtelijke parkeerplaats film",
+    "description": "Een film storyboard toont een parkeerplaats 's nachts in drie horizontale panelen.",
     "prompt": "Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establishing shot of a parking lot at night…",
     "category": "Film Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix",
@@ -408,7 +430,7 @@
   {
     "id": "sd5pro_030",
     "sort_order": 30,
-    "title": "Zes paneel western straat storyboard",
+    "title": "Zes-pans western straat storyboard",
     "description": "Een breed horizontaal storyboard met zes panelen toont een klassiek Western straattafereel.",
     "prompt": "Western film storyboard, 6 panels in wide horizontal ratio, no text throughout: Panel 1, extreme wide shot, both ends of the street…",
     "category": "Film Storyboard",
@@ -450,7 +472,7 @@
   {
     "id": "sd5pro_033",
     "sort_order": 33,
-    "title": "Artistiek Prentenboek Schooluniform",
+    "title": "Artistieke Prentenboek Schooluniform",
     "description": "Een panoramische prentenboekillustratie toont schooluniformbroeken in een verfijnde, artistieke stijl.",
     "prompt": "Artistic picture book, panoramic view, school uniform trousers, refined makeup, accessories, illustrated in the style of Raymond Briggs and Mattias Adolfsson…",
     "category": "Illustration",
@@ -464,7 +486,7 @@
   {
     "id": "sd5pro_034",
     "sort_order": 34,
-    "title": "Winter Sterrenhemel Graslandschap Schilderij",
+    "title": "Winter Sterrenhemel Graslandschilderij",
     "description": "Een zacht cyaangroene illustratie toont een oudere vrouw die de zon schildert op een wintergrasland.",
     "prompt": "This heartwarming panoramic picture book illustration uses soft cyan-green tones to depict a serene grassland under a winter starry sky, where an elderly woman paints the sun at an easel while a child plays with a puppy beside a yurt…",
     "category": "Illustration",
@@ -478,8 +500,8 @@
   {
     "id": "sd5pro_035",
     "sort_order": 35,
-    "title": "Voeg Wandelend Personage Toe Aan Schets",
-    "description": "Een wandelend personage wordt toegevoegd aan het voorgrondpad van een bestaande schets.",
+    "title": "Voeg Loopkarakter Toe Aan Schets",
+    "description": "Een lopend karakter wordt toegevoegd aan het voorgrondpad van een bestaande schets.",
     "prompt": "Based on the sketch, add a walking character on the foreground path…",
     "category": "Illustration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MlA2bxTw4oD6FgxZmF0cntf7nCf.jpg?v=20260720fix",
@@ -487,13 +509,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EKwtbwJTSofQZrxdwafcQDYrnXc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_036",
     "sort_order": 36,
-    "title": "Drie Aanzichten Oude Godin Standbeeld",
-    "description": "Orthografische aanzichten tonen de voor-, zij- en achterkant van een gigantisch uitgehouwen oud Chinees godinnenstandbeeld.",
+    "title": "Drie Aanzichten Oud Godinnenbeeld",
+    "description": "Orthografische aanzichten tonen de voor-, zij- en achterkant van een gigantisch uitgehouwen oud Chinees godinnenbeeld.",
     "prompt": "Standard three-view orthographic turntable: front view, side view, back view, of a giant ancient Chinese goddess stone statue with an intricately carved stone headpiece and…",
     "category": "Character Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg?v=20260720fix",
@@ -507,7 +532,7 @@
     "id": "sd5pro_037",
     "sort_order": 37,
     "title": "Sovjet Postkoeriersfiets Drie Aanzichten",
-    "description": "Een technische tekening die voor-, zij- en bovenaanzichten toont van een vintage Sovjet-fiets.",
+    "description": "Een technische tekening die voor-, zij- en bovenaanzichten van een vintage Sovjet-fiets toont.",
     "prompt": "Generate a three-view of a Soviet-era postal messenger bicycle…",
     "category": "Character Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix",
@@ -520,8 +545,8 @@
   {
     "id": "sd5pro_038",
     "sort_order": 38,
-    "title": "Cyberpunk Hacker Girl RIN Character Sheet",
-    "description": "Een ontwerpsheet met meerdere aanzichten en details van een anime-stijl cyberpunk hackerpersonage.",
+    "title": "Cyberpunk Hackermeisje RIN Karakterblad",
+    "description": "Een ontwerpblad met meerdere aanzichten en details van een anime-stijl cyberpunk hackerpersonage.",
     "prompt": "Cyberpunk-style anime character design sheet, showing three-view turnaround, close-up portraits, and accessory details of a hacker girl named \"RIN\"…",
     "category": "Character Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix",
@@ -534,7 +559,7 @@
   {
     "id": "sd5pro_039",
     "sort_order": 39,
-    "title": "Vier Voltooide Game Scene Afbeeldingen",
+    "title": "Vier Afgewerkte Game Scene Afbeeldingen",
     "description": "Vier hoogwaardig gerenderde versies van een geschetste videogame-omgeving.",
     "prompt": "Please transform this sketch into 4 high-quality finished images of a game scene with……",
     "category": "Illustration",
@@ -543,12 +568,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Yq3VbgKpeocFYqxLLybcERktnHe.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_040",
     "sort_order": 40,
-    "title": "Voltooide Modeontwerp Productafbeelding",
+    "title": "Afgewerkte Modeontwerp Productafbeelding",
     "description": "Een gepolijste, realistische afbeelding van een kledingstuk gebaseerd op het originele schetsontwerp van een ontwerper.",
     "prompt": "Please transform this fashion design sketch into a high-quality finished product image.……",
     "category": "E-commerce",
@@ -557,7 +585,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UXbVbZLTvoeJkZxqNmecinZFnbd.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_041",
@@ -571,13 +602,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QSD8b1VDCoy3A3xOHedcV0nJn8c.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_042",
     "sort_order": 42,
-    "title": "Armband Met Zwart Metalen Doorn Spikes",
-    "description": "Een close-up van een geblokte zwarte metalen armband op een pols die naar twaalf uur wijst.",
+    "title": "Armband Met Zwart Metalen Doornspikes",
+    "description": "Een close-up van een met spikes bedekte zwarte metalen armband op een pols die naar twaalf uur wijst.",
     "prompt": "Modify the image according to the text requirements in the image: bracelet with metallic black thorn spikes, hands pointing to 12 o'clock sharp",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix",
@@ -585,7 +619,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UznubLD3woRBDwx3BwtcdYEJnJh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_043",
@@ -599,12 +636,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NO81bbDXSobbejx4tVycewI6nve.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_044",
     "sort_order": 44,
-    "title": "Cinematische Zomer Narratief Portret Raster",
+    "title": "Cinematische Zomer Verhalend Portret Raster",
     "description": "Drie eenvoudige, schone portretten in een raster, die een zomerverhaal vertellen zonder afleiding.",
     "prompt": "Remove all accessories, hairstyle, and background, generate a three-panel grid of cinematic summer narrative portraits",
     "category": "Portrait",
@@ -613,7 +653,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/J4jHbIvC9o99PKxaVoDcrgP1nkd.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_045",
@@ -627,12 +670,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KT1Nb6xRoo1ZO0xiVlJckcMnn8f.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Fj9YbcMUSoVUYZxC1oycjyOqndh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_046",
     "sort_order": 46,
-    "title": "Trouwkleding Vervanging Met Consistent Achtergrond",
+    "title": "Trouwoutfit Vervanging Met Consistent Achtergrond",
     "description": "Twee mensen op een foto zijn gekleed in trouwkleding met een bijpassende achtergrond en belichting.",
     "prompt": "Replace the outfits of the two people in Image 1 with the wedding attire from Images 2 and 3, keep the background color consistent, and adjust lighting to match the overall style…",
     "category": "Outfit Transfer",
@@ -641,7 +688,12 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TLzebexBFopDUHxLBhic6IlGnIh.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/P1mpbUYeyoQDZ1x5RetcHV6bnjc.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BEI6bcYzMoVqOKxXYjgcSjsbn6e.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_047",
@@ -655,13 +707,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MCZfbhD9lowIH0xu5H9c6UWVnMf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_048",
     "sort_order": 48,
     "title": "Reliëf Sculptuur Stijl Verandering",
-    "description": "Een afbeelding aangepast om te lijken op een gebeeldhouwde of gegoten sculptuur met verhoogde oppervlakken.",
+    "description": "Een afbeelding aangepast om te lijken op een uitgehouwen of gegoten sculptuur met verhoogde oppervlakken.",
     "prompt": "Change to relief sculpture style",
     "category": "Style Transfer",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FLbhbxeAloklCUxOWWxckvx2ntf.jpg?v=20260720fix",
@@ -669,13 +724,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WIvBbFHDWoCQ5hxHojjci0R8nZg.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_049",
     "sort_order": 49,
     "title": "Dont Want To Work Series Poster",
-    "description": "Een creatieve poster met nieuwe tekst en beeldmateriaal gebaseerd op het gerefereerde ontwerp.",
+    "description": "Een creatieve poster met nieuwe tekst en beeld gebaseerd op het referentieontwerp.",
     "prompt": "Referencing this poster design, create a derivative creative poster for the \"Don't Want to Work\" series with different copy and visuals",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix",
@@ -683,13 +741,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/LFA9bvRIZoj2zmxZXy9ckcifnDf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_050",
     "sort_order": 50,
     "title": "Gerestaureerde Oude Foto",
-    "description": "Een oude foto waarop het onderwerp is verduidelijkt en de originele kleuren zijn hersteld.",
+    "description": "Een oude foto waarbij het onderwerp verduidelijkt en de originele kleuren hersteld zijn.",
     "prompt": "Restore this old photo, making the subject clearer and restoring colors",
     "category": "Restoration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg?v=20260720fix",
@@ -697,7 +758,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IitgbjnaLodOltxJxVOci4T2ncc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_051",
@@ -711,13 +775,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BQP6b9QPzoGfFixThbDcTNzrnXf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_052",
     "sort_order": 52,
     "title": "Fujifilm NC Filter Toegepast",
-    "description": "De afbeelding heeft nu het klassieke Fujifilm Natural Chrome film simulatie filter.",
+    "description": "De afbeelding heeft nu het klassieke Fujifilm Natural Chrome filmsimulatiefilter.",
     "prompt": "Add Fujifilm NC filter",
     "category": "Style Transfer",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg?v=20260720fix",
@@ -725,7 +792,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VVkmbTEpUoMHltxa90EccUOfn5e.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_053",
@@ -739,13 +809,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SIS2bDqYuoJuIpxZw5LcDzdhn5f.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_054",
     "sort_order": 54,
     "title": "Sterkere Natuurlijke Make-up Look",
-    "description": "Een andere, intensere make-upstijl die er toch over het algemeen natuurlijk uitziet.",
+    "description": "Een andere, meer intense make-upstijl die er toch overwegend natuurlijk uitziet.",
     "prompt": "Change to a different makeup look with stronger intensity while keeping the overall makeup natural",
     "category": "Retouching",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DjRPbepoGoVP4KxitW3cK1WhnIp.jpg?v=20260720fix",
@@ -753,13 +826,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/H31MbrQrWoT8ztxARFkcN29Infh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_055",
     "sort_order": 55,
-    "title": "Zelfgenoegzame Grijns Met Duiveltanden",
-    "description": "Een persoon knijpt met de ogen terwijl hij een zelfgenoegzame grijns toont met duiveltanden en tekst eronder.",
+    "title": "Zelfvoldane Grijns Met Duiveltanden",
+    "description": "Een persoon knijpt met de ogen en heeft een zelfvoldane grijns waarbij duiveltanden zichtbaar zijn, met tekst eronder.",
     "prompt": "Change expression to a smug grin, eyes squinting into crescents with devil teeth showing at the corners of the mouth, add text \"准备更坏\" centered at the bottom of the image in white bold font.",
     "category": "Creative Fun",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix",
@@ -767,7 +843,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZyADbn7lvoJhuAxduyVcYmkpnCd.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_056",
@@ -787,7 +866,7 @@
     "id": "sd5pro_057",
     "sort_order": 57,
     "title": "Cartoon Emotie Stickerpakket",
-    "description": "Een vierdelig stickerpakket dat een cartoonpersonage toont dat verschillende emoties uitdrukt.",
+    "description": "Een vierdelige stickerset die een cartoonpersonage toont dat verschillende emoties uitdrukt.",
     "prompt": "Based on the cartoon character, design different emotions — happy, sad, aggrieved, angry — and generate a four-panel sticker pack",
     "category": "Stickers",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix",
@@ -795,13 +874,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FytBb0AgVoL6pKxpL3zc4EdanQc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_058",
     "sort_order": 58,
     "title": "Fujifilm Polaroid Camera",
-    "description": "Een afbeelding van een Fujifilm instant camera die Polaroid-stijl foto's produceert.",
+    "description": "Een afbeelding van een Fujifilm instantcamera die Polaroid-stijl foto's produceert.",
     "prompt": "Fujifilm camera Polaroid",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Y6bTb6x7zoM2kFxkGtXcPH5unUh.jpg?v=20260720fix",
@@ -809,13 +891,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkgRbmVP1o4KqixE60RcpRk3nme.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_059",
     "sort_order": 59,
     "title": "Ragdoll Kitten ID Foto",
-    "description": "Een pasfoto-portret van een kitten van het Ragdoll ras.",
+    "description": "Een één-inch identificatieportretfoto van een kitten van het Ragdoll-ras.",
     "prompt": "Generate a 1-inch ID photo for this Ragdoll kitten",
     "category": "ID Photo",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix",
@@ -823,13 +908,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KbRXbSAQ5or3aXxSdcncUEagnie.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_060",
     "sort_order": 60,
     "title": "Vrouw Solo ID Foto",
-    "description": "Een standaard pasfoto met alleen de vrouw zelf.",
+    "description": "Een standaard identificatiefoto met alleen de vrouw zelf.",
     "prompt": "Generate a solo ID photo for the woman",
     "category": "ID Photo",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Orbxbu6HQosMb0xxgVJca592nhd.jpg?v=20260720fix",
@@ -837,13 +925,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AwNZb9apxoOFzfxVW2TcoJCwnTf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_061",
     "sort_order": 61,
     "title": "Da Vinci Van Gogh Peace Signs",
-    "description": "Da Vinci en Van Gogh maken vredestekens terwijl Michelangelo hen van achteren fotobomt.",
+    "description": "Da Vinci en Van Gogh maken een vredesteken terwijl Michelangelo hen van achteren fotobomt.",
     "prompt": "Da Vinci and Van Gogh facing the camera making peace signs, with Michelangelo photobombing from behind them…",
     "category": "Creative Fun",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg?v=20260720fix",
@@ -870,8 +961,8 @@
   {
     "id": "sd5pro_063",
     "sort_order": 63,
-    "title": "Retro Futurist Violist Portret",
-    "description": "Een langharige man in een bordeauxrode toga en een zonnebril houdt een strijkstok vast in een retro-futuristische stijl.",
+    "title": "Retro Futuristisch Violist Portret",
+    "description": "Een langharige man in een bordeauxrode toga en een zonnebril houdt een vioolstok vast in een retro-futuristische stijl.",
     "prompt": "Retro-futurism style portrait photography, a middle-aged man with long hair wearing a burgundy gown and sunglasses, holding a violin bow…",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg?v=20260720fix",
@@ -884,8 +975,8 @@
   {
     "id": "sd5pro_064",
     "sort_order": 64,
-    "title": "Surrealistisch Speelgoed Tafereel",
-    "description": "Een blauw behaard hoofd observeert een zeepbel die licht reflecteert naast een bol garen en blokken.",
+    "title": "Surrealistische Speelgoedscene",
+    "description": "Een blauwbehaard hoofd observeert een bel die licht reflecteert naast een bol garen en blokken.",
     "prompt": "Red box: a giant blue-furred head with a comically squeezed expression, looking at the bubble in front; Green box: a transparent bubble reflecting indoor lighting; Yellow box: a large warm beige yarn ball; Blue box: building blocks stacked together — warm dark gray arch shape, warm light gray semi-cylinder, lake blue cylinder, deep lake blue ramp, cobalt blue semi-disc; Purple box: a grass-green blanket with fringe draped over a sofa",
     "category": "Creative Fun",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Onlsb5mmCo6wkaxco5cczzLgnUf.jpg?v=20260720fix",
@@ -893,12 +984,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KrdNbd9vdoI63exU35qc9jsonCb.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AbuMbTZBPoG0sdx1EhQcJsaFnub.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_065",
     "sort_order": 65,
-    "title": "Visueel Ontwerp voor E-commerce",
+    "title": "Visueel ontwerp voor e-commerce",
     "description": "Creëer een ontwerp met behulp van een invoerafbeelding en een kleurenpaletreferentie.",
     "prompt": "E-commerce design. Input image + color palette reference",
     "category": "E-commerce",
@@ -907,12 +1002,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VGIXbHnD5oBnfpxWd3wcdj7HnDb.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_066",
     "sort_order": 66,
-    "title": "Afbeelding en Palet Invoer",
+    "title": "Afbeelding en palet invoer",
     "description": "Verwerk een originele afbeelding samen met een meegeleverde kleurenpaletreferentie.",
     "prompt": "Input Original Image + Color Palette Reference",
     "category": "Illustration",
@@ -921,12 +1019,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VdA8bfmQqosANbxi7GQckz1LnZg.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DSrPbOoUboeWuOxkxSUcyFomnXe.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_067",
     "sort_order": 67,
-    "title": "Samengestelde Karakterhouding",
+    "title": "Samengestelde karakterpose",
     "description": "Genereer een full-body shot met specifieke hand-, been- en accessoirebewegingen.",
     "prompt": "Generate a full-body shot of the person in Image 3, and adjust her pose so her right hand motion matches Image 1, holding the first speaker from Image 4, and her leg motion matches Image 2",
     "category": "Portrait",
@@ -935,12 +1037,18 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/J2VSbwVtvowr86x6Z0rcGBmsnEf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DD2fbj4Hlo4rUjxaXWUc40rFnib.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OzyxbA971oALRYxilMlc2HmFn7e.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A3bUbP6H2oTFWjxyzmrcvvUOn1b.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_068",
     "sort_order": 68,
-    "title": "Realistische Stillevencompositie",
+    "title": "Realistische stillevencompositie",
     "description": "Composeer zeven objecten tot een foto met nauwkeurige materialen en belichting.",
     "prompt": "Precisely cut out the 7 white-background objects I provided and compose them into a realistic still life photograph with the specified composition. Ensure correct perspective, lighting, shadow, and spatial relationships. Faithfully reproduce material details of wood grain, leather, lace, glass jelly, and feathers, creating a high-quality image that interweaves realism with playfulness and blends retro with modern aesthetics.",
     "category": "Interior Design",
@@ -949,13 +1057,24 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YkWAbvfTqo10mEx57ircGKHinxg.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KPTVbFTheoPOUrx3EemcWsImn4c.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PRjIbiAUcoC3WFxM2tOceWAOn5f.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/GP2EbV2ICoVXFVxCj7QcErA6nrr.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KBLJbBLLjoRKbkx7LzocajDUnmE.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SdudbHux2oMzKxxO0XccTuJHn8g.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QrmabEKi2oLQn3xh50wcQFldn1c.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ILCcbkdK7oHPMbx6RDMcCimvnVf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SlbJbgP5hocPBGxJuMKc9UlUnHh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_069",
     "sort_order": 69,
-    "title": "Handgetekende Brunchposter",
-    "description": "Transformeer etenswaren in een getekende stijl met labels voor een seizoensgebonden brunchposter.",
+    "title": "Handgetekende brunchposter",
+    "description": "Transformeer voedingsmiddelen in een getekende stijl met labels voor een seizoensgebonden brunchposter.",
     "prompt": "Place the foods from the images on the same table and transform them into a hand-drawn style. Use white linework to label each dish and add handwritten-style Chinese annotations. Create a promotional poster for a dish for “Seasonal Limited Brunch.”",
     "category": "Illustration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix",
@@ -963,12 +1082,18 @@
     "source_platform": "community",
     "source_link": "",
     "language": "nl",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YXQ3bzVAhods3bxS1EMcCy3ZnCc.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BgxbboCT3oZcqkxpxoccxdDQnng.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ebn1bhCbZoyGpjxzCpYckSh2n1c.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YQn8bVEwvosqnRxQJMOcfqQ4nbh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_070",
     "sort_order": 70,
-    "title": "Vervang Foto's op Punten",
+    "title": "Vervang foto's op punten",
     "description": "Vervang specifieke punten in Afbeelding 1 met foto's uit Afbeeldingen 2, 3, 4 en 5.",
     "prompt": "Point and bounding box selection: Image 1 <point>518 135</point> replace photo with Image 2; Image 1 <point>556 349</point> replace photo with Image 3; Image 1 <point>549 555</point> replace photo with Image 4; Image 1 <point>632 784</point> replace photo with Image 5.",
     "category": "Poster Design",
@@ -976,6 +1101,293 @@
     "author_name": "community",
     "source_platform": "community",
     "source_link": "",
+    "language": "nl",
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QNB2bJ0bJoLtJxx2FGkcvtOEnlf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CycubNaK5oQEBZxQeNrcxUhHnCf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V0ovbK3VXoLfSqx3vyJcp9Fznkh.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SliLbSSaxogsxaxhlIRc2Disniy.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KXENb0zUyod0Fmx63PfcPkzXnqc.jpg?v=20260720fix"
+    ]
+  },
+  {
+    "id": "sd5pro_071",
+    "sort_order": 71,
+    "title": "Vikingkrijger op slagveld",
+    "description": "Een cinematografische Vikingkrijger staat klaar met een bloedig gezicht en pijlen in zijn harnas.",
+    "prompt": "create an image of a cinematic vikking style warrior with his big sword ready on a battlefield with blood on this face, arrows stuck on to his armour facing the",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_eca49bc5ea95.jpg?v=20260720fix",
+    "author_name": "Adithya Thatipalli",
+    "source_platform": "x",
+    "source_link": "https://x.com/adithatipalli/status/2075113723719729261",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_072",
+    "sort_order": 72,
+    "title": "Tekst in aanhalingstekens",
+    "description": "Voeg aanhalingstekens toe om ervoor te zorgen dat tekst zoals 'Good morning!' in de afbeelding verschijnt.",
+    "prompt": "Add quote marks around text to ensure the text appears in your image \"Good morning!\" \"Happy Caturday!\"",
+    "category": "Social Media",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_5258598740a5.jpg?v=20260720fix",
+    "author_name": "Cayla Catz",
+    "source_platform": "x",
+    "source_link": "https://x.com/CaylaCatz/status/2075960554917941515",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_073",
+    "sort_order": 73,
+    "title": "Modebladomslag",
+    "description": "Een ultrarealistisch high-fashion omslag toont een model met porseleinen huid en een sculpturale hoed.",
+    "prompt": "Ultra-realistic high-fashion editorial magazine cover featuring a stunning female model with flawless porcelain skin, piercing emerald eyes, and matte burgundy lips. She wears an oversized ivory sculptural hat, a sleek black turtleneck,",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_b9a3c7f63650.jpg?v=20260720fix",
+    "author_name": "Snow",
+    "source_platform": "x",
+    "source_link": "https://x.com/iamrealsnow/status/2075797065427529769",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_074",
+    "sort_order": 74,
+    "title": "Japanse rijstveld",
+    "description": "Een cinematografische filmstill toont een landelijk Japans rijstveld in de zomer vanuit een driekwart hoek.",
+    "prompt": "Cinematic film still, rural Japanese rice paddy landscape in summer, three-quarter angle view down a narrow",
+    "category": "Social Media",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_ee34d8a6bbbf.jpg?v=20260720fix",
+    "author_name": "TSUBAKI",
+    "source_platform": "x",
+    "source_link": "https://x.com/AI__TSUBAKI/status/2076624942553330149",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_075",
+    "sort_order": 75,
+    "title": "Merkadvertentiecomposiet",
+    "description": "Een creatieve composietadvertentie integreert naadloos een productfoto met handgetekende zwarte elementen.",
+    "prompt": "Creative composite brand advertisement, 16:9 horizontal aspect ratio, clean white background, studio lighting, sharp focus. A real-life photograph of a [BRAND PRODUCT] is physically placed and seamlessly integrated with a hand-drawn black",
+    "category": "Brand Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f1af42cb8262.jpg?v=20260720fix",
+    "author_name": "Zephyra Leigh",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZephyraLeigh/status/2076309161801887774",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_076",
+    "sort_order": 76,
+    "title": "Astronaut in Tokio-regen",
+    "description": "Een cinematografische astronaut loopt door regenachtig Tokio met neonreflecties, ultrarealistisch.",
+    "prompt": "A cinematic astronaut walking through Tokyo in the rain, neon reflections, ultra realistic.",
+    "category": "Infographic",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dd2056ba59c3.jpg?v=20260720fix",
+    "author_name": "LinkModel",
+    "source_platform": "x",
+    "source_link": "https://x.com/link_model_ai/status/2076305578885030256",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_077",
+    "sort_order": 77,
+    "title": "Streetwear editoriale poster",
+    "description": "Een verticale poster gebruikt een off-witte achtergrond en bubbeltypografie voor een gedurfde jeugdcultuur esthetiek.",
+    "prompt": "Create a vertical streetwear editorial poster with a bold youth-culture aesthetic. Use an off-white paper background and a clean magazine-style layout. At the top, place oversized rounded bubble",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_768d731baa75.jpg?v=20260720fix",
+    "author_name": "Linus ✦ Ekenstam",
+    "source_platform": "x",
+    "source_link": "https://x.com/LinusEkenstam/status/2076273553964687462",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_078",
+    "sort_order": 78,
+    "title": "Retro 80s anime lockscherm",
+    "description": "Een minimalistisch lockscherm toont een retro 80s anime cel illustratie met airbrushgradiënten.",
+    "prompt": "Retro 80s anime cel illustration with airbrushed gradients and film grain. Minimalist lock screen",
+    "category": "Illustration",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f1549f674d93.jpg?v=20260720fix",
+    "author_name": "Magnific",
+    "source_platform": "x",
+    "source_link": "https://x.com/magnific/status/2076964679784780139",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_079",
+    "sort_order": 79,
+    "title": "Coming-of-age treinstation",
+    "description": "Een cinematografisch portret van een Japans schoolmeisje op een voorstadsstation op een heldere zomermiddag.",
+    "prompt": "A cinematic coming-of-age portrait of a Japanese high school girl at a suburban train station on a bright summer afternoon, wearing a white sailor-style school uniform with a light blue skirt, carrying a navy school bag and backpack. Natural wind",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_e618ac7cdcf4.jpg?v=20260720fix",
+    "author_name": "Kashberg",
+    "source_platform": "x",
+    "source_link": "https://x.com/Kashberg_0/status/2077421901656572021",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_080",
+    "sort_order": 80,
+    "title": "Minimalistische reisposter",
+    "description": "Een premium minimalistische poster kadert een iconisch landmark door een groot open raam met witte lijst.",
+    "prompt": "Create a premium minimalist travel poster with a clean editorial aesthetic. A large open white-framed window is centered in the composition, perfectly framing an iconic landmark or scenic destination",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_4761b6b5b076.jpg?v=20260720fix",
+    "author_name": "simeon-sanai",
+    "source_platform": "x",
+    "source_link": "https://x.com/Naiknelofar788/status/2077317872662233456",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_081",
+    "sort_order": 81,
+    "title": "Melancholisch gouden uur portret",
+    "description": "Een melancholische jonge vrouw zit bij een raam tijdens het gouden uur, verlicht door zacht zonlicht.",
+    "prompt": "A melancholic young East Asian woman with long, slightly messy black hair sits quietly beside a large window during golden hour, soft sunlight illuminating her face with warm cinematic tones. She gazes thoughtfully into the distance, natural makeup",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f6ea00c7b24a.jpg?v=20260720fix",
+    "author_name": "K",
+    "source_platform": "x",
+    "source_link": "https://x.com/ChillaiKalan__/status/2077627547173695645",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_082",
+    "sort_order": 82,
+    "title": "Vrouw in drukke menigte",
+    "description": "Een vrouw loopt kalm in een vervaagde, drukke menigte op een straat, kijkend naar de zijkant.",
+    "prompt": "A woman walking calmly in the middle of a bustling crowd, with everyone else in motion and slightly blurred. She is looking to the side and slightly upward, with a calm, neutral expression and perhaps a very faint, subtle smile. The scene takes place on a city street.",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_6acc27c6f60b.jpg?v=20260720fix",
+    "author_name": "Kashberg",
+    "source_platform": "x",
+    "source_link": "https://x.com/Kashberg_0/status/2077624267752218752",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_083",
+    "sort_order": 83,
+    "title": "Fotorealistisch editoriaal portret",
+    "description": "Een fotorealistisch portret tot aan de taille van een verleidelijke, prachtige Japanse of Koreaanse vrouw in haar jaren 20.",
+    "prompt": "Create a photorealistic editorial portrait. Waist-up portrait, eye-level view, front-left three-quarter view A 20s seductive stunning Japanese or Korean",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dda1aa7a7755.jpg?v=20260720fix",
+    "author_name": "Nailai7981",
+    "source_platform": "x",
+    "source_link": "https://x.com/VIBEQUIRKLABS/status/2077756195021177249",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_084",
+    "sort_order": 84,
+    "title": "Straathoek snapshot",
+    "description": "Een snelle snapshot toont een jonge Chinese vrouw die zich omdraait naast een donkerblauwe fiets op een rustige straat.",
+    "prompt": "A quick snapshot taken on a quiet street corner, looks like someone called her name and she turned around mid-stride. A young Chinese woman in her early 20s stands beside a dark blue bicycle, her body half-turned, one hand resting on the bicycle seat, the",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_fd46b8756855.jpg?v=20260720fix",
+    "author_name": "simeon-sanai",
+    "source_platform": "x",
+    "source_link": "https://x.com/Naiknelofar788/status/2078669518839468367",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_085",
+    "sort_order": 85,
+    "title": "Aquarel stadschets",
+    "description": "Een verfijnde horizontale aquarelschets toont een vredige iconische buitenlocatie in een stad.",
+    "prompt": "Create a refined horizontal aquarelle urban sketch of a peaceful, iconic outdoor location in [PLACE], [CITY], using delicate freehand ink, restrained transparent watercolor",
+    "category": "Illustration",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_a45476c94dcf.jpg?v=20260720fix",
+    "author_name": "Zara",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZaraIrahh/status/2078405764910043477",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_086",
+    "sort_order": 86,
+    "title": "Monochrome modeposter",
+    "description": "Een ultrarealistische monochrome modeposter toont een zelfverzekerde vrouw in een gedurfde zwart-wit compositie.",
+    "prompt": "Ultra-realistic IMAX-level Netflix-style cinematic monochrome fashion poster, 9:16 vertical composition, create a powerful women-perspective editorial poster featuring a confident stylish young adult woman in a bold black-and-white",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_50e950417186.jpg?v=20260720fix",
+    "author_name": "Zunaira Ai",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZunairaAi/status/2079030858238009582",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_087",
+    "sort_order": 87,
+    "title": "Grillige paardenillustratie",
+    "description": "Een grillige illustratie toont een paard in een paardenbloemenveld met zaadjes die in de wind zweven.",
+    "prompt": "a whimsical illustration of a horse standing in a field of dandelions under a bright blue sky. Dandelion seeds float around the horse, and some are caught in the wind.",
+    "category": "Illustration",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dfe8fd820f44.jpg?v=20260720fix",
+    "author_name": "Heather Green",
+    "source_platform": "x",
+    "source_link": "https://x.com/heathergreen/status/2078996056080269496",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_088",
+    "sort_order": 88,
+    "title": "Vrouw alleen op straat",
+    "description": "Een foto focust op het pokerface van een vrouw terwijl vervaagde figuren weg bewegen op een straat met groothoeklens.",
+    "prompt": "Photo of a woman standing alone on the street, surrounded by blurred figures representing people moving aWCy from her. the focus is on her expression t and posture as she looks around straight poker face. she wears jeans and a red sweater. wide-angle",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dfd56154a3ad.jpg?v=20260720fix",
+    "author_name": "K",
+    "source_platform": "x",
+    "source_link": "https://x.com/ChillaiKalan__/status/2078753991820017828",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_089",
+    "sort_order": 89,
+    "title": "Cinematografisch close-upportret",
+    "description": "Een fotorealistisch cinematografisch close-upportret van een prachtige vrouw tegen een effen lichte muur.",
+    "prompt": "Reference image: conceptual variant. Photorealistic cinematic close-up portrait of a stunning young woman against a plain light wall during soft even studio lighting with gentle side illumination",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_a87b40f94188.jpg?v=20260720fix",
+    "author_name": "dreamy digital arts",
+    "source_platform": "x",
+    "source_link": "https://x.com/dreamydigiarts/status/2078797004688249229",
+    "language": "nl",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_090",
+    "sort_order": 90,
+    "title": "Mode-editorial met omtreklijnen",
+    "description": "Mode-editorial fotografie gebruikt omlijnde elementen en een verweerde esthetiek voor een conceptuele stijl.",
+    "prompt": "Fashion-editorial photography style, using outlined elements and the distressed",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_d7dfb264c619.jpg?v=20260720fix",
+    "author_name": "WenyeBot",
+    "source_platform": "x",
+    "source_link": "https://x.com/WenyeBot/status/2078739130822066220",
     "language": "nl",
     "featured": false
   }

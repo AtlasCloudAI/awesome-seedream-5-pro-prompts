@@ -230,6 +230,22 @@ function renderPrompt(prompt: PromptRecord, index: number, locale: string): stri
     ""
   );
 
+  const inputImages = (prompt as unknown as { input_images?: string[] }).input_images;
+  if (inputImages && inputImages.length > 0) {
+    const label =
+      locale === "zh" ? "输入参考图" :
+      locale === "zh-TW" ? "輸入參考圖" :
+      locale === "ja" ? "入力参照画像" :
+      locale === "ko" ? "입력 참조 이미지" :
+      "Input reference images";
+    lines.push(
+      `#### ${label} (${inputImages.length})`,
+      "",
+      inputImages.map((u) => `<img src="${u}" alt="input reference" height="140" />`).join(" "),
+      ""
+    );
+  }
+
   return lines.join("\n");
 }
 

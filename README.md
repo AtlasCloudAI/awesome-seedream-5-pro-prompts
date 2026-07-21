@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-70%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-90%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,23 +90,23 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **70** |
-| Categories | **18** |
-| Preview Images | **70** |
-| Last Updated | **2026-07-20T19:48:38.453Z** |
+| Total Prompts | **90** |
+| Categories | **19** |
+| Preview Images | **90** |
+| Last Updated | **2026-07-21T04:38:12.024Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Infographic`](#category-1): **6**
+- [`Infographic`](#category-1): **7**
 - [`Slides & Presentation`](#category-2): **5**
-- [`Poster Design`](#category-3): **10**
-- [`Brand Design`](#category-4): **2**
+- [`Poster Design`](#category-3): **16**
+- [`Brand Design`](#category-4): **3**
 - [`Interior Design`](#category-5): **3**
 - [`E-commerce`](#category-6): **4**
 - [`Comic & Storyboard`](#category-7): **4**
 - [`Film Storyboard`](#category-8): **3**
-- [`Portrait`](#category-9): **7**
-- [`Illustration`](#category-10): **6**
+- [`Portrait`](#category-9): **14**
+- [`Illustration`](#category-10): **9**
 - [`Character Design`](#category-11): **3**
 - [`Style Transfer`](#category-12): **4**
 - [`Outfit Transfer`](#category-13): **2**
@@ -115,6 +115,7 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 - [`ID Photo`](#category-16): **3**
 - [`Creative Fun`](#category-17): **4**
 - [`Stickers`](#category-18): **1**
+- [`Social Media`](#category-19): **2**
 
 ## 🔥 Featured Prompts
 
@@ -266,7 +267,7 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 
 <a id="category-1"></a>
 
-### Infographic (6)
+### Infographic (7)
 
 ### No. 1: Journalist Safety Facts And Figures
 
@@ -376,6 +377,24 @@ A grid layout infographic showcases eight common bird species with illustrations
 Generate a beginner birdwatching guide infographic with a fresh color palette and grid layout, showcasing 8 common bird species with scientific illustrations, Chinese and English names, and identification features.
 ```
 
+### No. 7: Astronaut In Tokyo Rain
+
+- **Category:** `Infographic`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dd2056ba59c3.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dd2056ba59c3.jpg?v=20260720fix" alt="Astronaut In Tokyo Rain" width="480" />
+
+#### Description
+
+A cinematic astronaut walks through rainy Tokyo with neon reflections, ultra-realistic.
+
+#### Prompt
+
+```text
+A cinematic astronaut walking through Tokyo in the rain, neon reflections, ultra realistic.
+```
+
 <a id="category-2"></a>
 
 ### Slides & Presentation (5)
@@ -472,7 +491,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 <a id="category-3"></a>
 
-### Poster Design (10)
+### Poster Design (16)
 
 ### No. 1: Y2K Cute Style Poster With Jelly Texture
 
@@ -492,6 +511,10 @@ A poster in light blue features Y2K cute style with transparent jelly-textured e
 Create a poster based on my sketch. I want a Y2K cute style with transparent jelly-textured elements and an overall translucent light blue color palette
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YYaBbQd0eohXQPxZTrLczomsnzt.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 2: Collage Series Marketing Poster
 
 - **Category:** `Poster Design`
@@ -509,6 +532,10 @@ A design-forward collage poster using a specified typography layout with a new m
 ```text
 Using the typography and layout from Image 1, generate a design-forward marketing poster in the same series, collage style, with Image 2 as the main subject…
 ```
+
+#### Input reference images (2)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NkGHbivHQo33YrxzUKzc3ZmNnUk.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KlM2bV7fYozJs4x2dkUcUiJOnTc.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 3: Diagonal Sci Fi Poster
 
@@ -600,6 +627,10 @@ A design with the title Sweet Sunlight in a vintage typewriter font within a bou
 Bounding box on title - "Sweet Sunlight", use vintage typewriter font
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EohwbPkM1oSPnkxYrRxc1daSnWf.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 8: Deep Purple Table Of Contents
 
 - **Category:** `Poster Design`
@@ -617,6 +648,10 @@ A design with large deep purple text reading TABLE OF CONTENTS and an itemized l
 ```text
 Generate in the style of Image 1: large deep purple text on the left reading "TABLE OF CONTENTS", with itemized listing on the right…
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EohwbPkM1oSPnkxYrRxc1daSnWf.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 9: Dont Want To Work Series Poster
 
@@ -636,6 +671,10 @@ A creative poster with new text and visuals based on the referenced design.
 Referencing this poster design, create a derivative creative poster for the "Don't Want to Work" series with different copy and visuals
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/LFA9bvRIZoj2zmxZXy9ckcifnDf.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 10: Replace Photos At Points
 
 - **Category:** `Poster Design`
@@ -654,9 +693,121 @@ Replace specific points in Image 1 with photos from Images 2, 3, 4, and 5.
 Point and bounding box selection: Image 1 <point>518 135</point> replace photo with Image 2; Image 1 <point>556 349</point> replace photo with Image 3; Image 1 <point>549 555</point> replace photo with Image 4; Image 1 <point>632 784</point> replace photo with Image 5.
 ```
 
+#### Input reference images (5)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QNB2bJ0bJoLtJxx2FGkcvtOEnlf.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CycubNaK5oQEBZxQeNrcxUhHnCf.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V0ovbK3VXoLfSqx3vyJcp9Fznkh.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SliLbSSaxogsxaxhlIRc2Disniy.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KXENb0zUyod0Fmx63PfcPkzXnqc.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 11: Viking Warrior Battlefield
+
+- **Category:** `Poster Design`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_eca49bc5ea95.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_eca49bc5ea95.jpg?v=20260720fix" alt="Viking Warrior Battlefield" width="480" />
+
+#### Description
+
+A cinematic Viking warrior stands ready with a bloody face and arrows in his armor.
+
+#### Prompt
+
+```text
+create an image of a cinematic vikking style warrior with his big sword ready on a battlefield with blood on this face, arrows stuck on to his armour facing the
+```
+
+### No. 12: Fashion Magazine Cover
+
+- **Category:** `Poster Design`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_b9a3c7f63650.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_b9a3c7f63650.jpg?v=20260720fix" alt="Fashion Magazine Cover" width="480" />
+
+#### Description
+
+An ultra-realistic high-fashion cover features a model with porcelain skin and a sculptural hat.
+
+#### Prompt
+
+```text
+Ultra-realistic high-fashion editorial magazine cover featuring a stunning female model with flawless porcelain skin, piercing emerald eyes, and matte burgundy lips. She wears an oversized ivory sculptural hat, a sleek black turtleneck,
+```
+
+### No. 13: Streetwear Editorial Poster
+
+- **Category:** `Poster Design`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_768d731baa75.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_768d731baa75.jpg?v=20260720fix" alt="Streetwear Editorial Poster" width="480" />
+
+#### Description
+
+A vertical poster uses an off-white background and bubble typography for a bold youth-culture aesthetic.
+
+#### Prompt
+
+```text
+Create a vertical streetwear editorial poster with a bold youth-culture aesthetic. Use an off-white paper background and a clean magazine-style layout. At the top, place oversized rounded bubble
+```
+
+### No. 14: Minimalist Travel Poster
+
+- **Category:** `Poster Design`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_4761b6b5b076.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_4761b6b5b076.jpg?v=20260720fix" alt="Minimalist Travel Poster" width="480" />
+
+#### Description
+
+A premium minimalist poster frames an iconic landmark through a large open white-framed window.
+
+#### Prompt
+
+```text
+Create a premium minimalist travel poster with a clean editorial aesthetic. A large open white-framed window is centered in the composition, perfectly framing an iconic landmark or scenic destination
+```
+
+### No. 15: Monochrome Fashion Poster
+
+- **Category:** `Poster Design`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_50e950417186.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_50e950417186.jpg?v=20260720fix" alt="Monochrome Fashion Poster" width="480" />
+
+#### Description
+
+An ultra-realistic monochrome fashion poster features a confident woman in a bold black-and-white composition.
+
+#### Prompt
+
+```text
+Ultra-realistic IMAX-level Netflix-style cinematic monochrome fashion poster, 9:16 vertical composition, create a powerful women-perspective editorial poster featuring a confident stylish young adult woman in a bold black-and-white
+```
+
+### No. 16: Fashion Editorial With Outlines
+
+- **Category:** `Poster Design`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_d7dfb264c619.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_d7dfb264c619.jpg?v=20260720fix" alt="Fashion Editorial With Outlines" width="480" />
+
+#### Description
+
+Fashion-editorial photography uses outlined elements and a distressed aesthetic for a conceptual style.
+
+#### Prompt
+
+```text
+Fashion-editorial photography style, using outlined elements and the distressed
+```
+
 <a id="category-4"></a>
 
-### Brand Design (2)
+### Brand Design (3)
 
 ### No. 1: Blue Fox Minimalist VI Design
 
@@ -694,6 +845,28 @@ A surreal ad integrating a product into a miniature lifestyle scene with product
 A surreal miniature landscape creative commercial product advertisement, integrating the product into a fitting lifestyle scene, highlighting product information, suitable for commercial poster promotion…
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZFaQbExfsoT8M9xXftEcSEv5ndg.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 3: Brand Advertisement Composite
+
+- **Category:** `Brand Design`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f1af42cb8262.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f1af42cb8262.jpg?v=20260720fix" alt="Brand Advertisement Composite" width="480" />
+
+#### Description
+
+A creative composite ad seamlessly integrates a product photo with hand-drawn black elements.
+
+#### Prompt
+
+```text
+Creative composite brand advertisement, 16:9 horizontal aspect ratio, clean white background, studio lighting, sharp focus. A real-life photograph of a [BRAND PRODUCT] is physically placed and seamlessly integrated with a hand-drawn black
+```
+
 <a id="category-5"></a>
 
 ### Interior Design (3)
@@ -716,6 +889,10 @@ A bedroom rendering in a modern-art style using a referenced interior design pal
 Refer to the interior design style and color palette in the image, and generate a modern-art-style bedroom rendering.
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HQdmbIPwSo4b3YxvPDVcaDgBnSg.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 2: Color Palette Transformation
 
 - **Category:** `Interior Design`
@@ -734,6 +911,10 @@ An image modified by applying a new referenced color palette.
 Change color palette. Input image + color palette reference
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OKdXbkgYuoUuSAxy1mBcqk3sn4b.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 3: Realistic Still Life Composition
 
 - **Category:** `Interior Design`
@@ -751,6 +932,10 @@ Compose seven objects into a photograph with accurate materials and lighting.
 ```text
 Precisely cut out the 7 white-background objects I provided and compose them into a realistic still life photograph with the specified composition. Ensure correct perspective, lighting, shadow, and spatial relationships. Faithfully reproduce material details of wood grain, leather, lace, glass jelly, and feathers, creating a high-quality image that interweaves realism with playfulness and blends retro with modern aesthetics.
 ```
+
+#### Input reference images (9)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YkWAbvfTqo10mEx57ircGKHinxg.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KPTVbFTheoPOUrx3EemcWsImn4c.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PRjIbiAUcoC3WFxM2tOceWAOn5f.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/GP2EbV2ICoVXFVxCj7QcErA6nrr.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KBLJbBLLjoRKbkx7LzocajDUnmE.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SdudbHux2oMzKxxO0XccTuJHn8g.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QrmabEKi2oLQn3xh50wcQFldn1c.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ILCcbkdK7oHPMbx6RDMcCimvnVf.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SlbJbgP5hocPBGxJuMKc9UlUnHh.jpg?v=20260720fix" alt="input reference" height="140" />
 
 <a id="category-6"></a>
 
@@ -810,6 +995,10 @@ A polished, realistic image of a garment based on a designer's original sketch.
 Please transform this fashion design sketch into a high-quality finished product image.……
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UXbVbZLTvoeJkZxqNmecinZFnbd.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 4: E-commerce Visual Design
 
 - **Category:** `E-commerce`
@@ -827,6 +1016,10 @@ Create a design using an input image and a color palette reference.
 ```text
 E-commerce design. Input image + color palette reference
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VGIXbHnD5oBnfpxWd3wcdj7HnDb.jpg?v=20260720fix" alt="input reference" height="140" />
 
 <a id="category-7"></a>
 
@@ -964,7 +1157,7 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 <a id="category-9"></a>
 
-### Portrait (7)
+### Portrait (14)
 
 ### No. 1: Over Shoulder Shot Of Sad Woman
 
@@ -1002,6 +1195,10 @@ A close-up of a spiked black metal bracelet on a wrist pointing to noon.
 Modify the image according to the text requirements in the image: bracelet with metallic black thorn spikes, hands pointing to 12 o'clock sharp
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UznubLD3woRBDwx3BwtcdYEJnJh.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 3: Hasselblad Film Portrait With Rim Light
 
 - **Category:** `Portrait`
@@ -1019,6 +1216,10 @@ A portrait with film grain texture, dramatic rim lighting, and bright facial hig
 ```text
 Hasselblad film texture, light and shadow, rim light, (facial overexposure)…
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NO81bbDXSobbejx4tVycewI6nve.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 4: Cinematic Summer Narrative Portrait Grid
 
@@ -1038,6 +1239,10 @@ Three simple, clean portraits in a grid, telling a summer story without distract
 Remove all accessories, hairstyle, and background, generate a three-panel grid of cinematic summer narrative portraits
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/J4jHbIvC9o99PKxaVoDcrgP1nkd.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 5: Fujifilm Polaroid Camera
 
 - **Category:** `Portrait`
@@ -1055,6 +1260,10 @@ An image of a Fujifilm instant camera that produces Polaroid-style photos.
 ```text
 Fujifilm camera Polaroid
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkgRbmVP1o4KqixE60RcpRk3nme.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 6: Retro Futurist Violinist Portrait
 
@@ -1092,9 +1301,139 @@ Generate a full-body shot with specific hand, leg, and prop motions.
 Generate a full-body shot of the person in Image 3, and adjust her pose so her right hand motion matches Image 1, holding the first speaker from Image 4, and her leg motion matches Image 2
 ```
 
+#### Input reference images (4)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/J2VSbwVtvowr86x6Z0rcGBmsnEf.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DD2fbj4Hlo4rUjxaXWUc40rFnib.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OzyxbA971oALRYxilMlc2HmFn7e.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A3bUbP6H2oTFWjxyzmrcvvUOn1b.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 8: Coming-Of-Age Train Station
+
+- **Category:** `Portrait`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_e618ac7cdcf4.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_e618ac7cdcf4.jpg?v=20260720fix" alt="Coming-Of-Age Train Station" width="480" />
+
+#### Description
+
+A cinematic portrait of a Japanese schoolgirl at a suburban station on a bright summer afternoon.
+
+#### Prompt
+
+```text
+A cinematic coming-of-age portrait of a Japanese high school girl at a suburban train station on a bright summer afternoon, wearing a white sailor-style school uniform with a light blue skirt, carrying a navy school bag and backpack. Natural wind
+```
+
+### No. 9: Melancholic Golden Hour Portrait
+
+- **Category:** `Portrait`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f6ea00c7b24a.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f6ea00c7b24a.jpg?v=20260720fix" alt="Melancholic Golden Hour Portrait" width="480" />
+
+#### Description
+
+A melancholic young woman sits by a window during golden hour, illuminated by soft sunlight.
+
+#### Prompt
+
+```text
+A melancholic young East Asian woman with long, slightly messy black hair sits quietly beside a large window during golden hour, soft sunlight illuminating her face with warm cinematic tones. She gazes thoughtfully into the distance, natural makeup
+```
+
+### No. 10: Woman In Bustling Crowd
+
+- **Category:** `Portrait`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_6acc27c6f60b.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_6acc27c6f60b.jpg?v=20260720fix" alt="Woman In Bustling Crowd" width="480" />
+
+#### Description
+
+A woman walks calmly in a blurred, bustling crowd on a city street, looking to the side.
+
+#### Prompt
+
+```text
+A woman walking calmly in the middle of a bustling crowd, with everyone else in motion and slightly blurred. She is looking to the side and slightly upward, with a calm, neutral expression and perhaps a very faint, subtle smile. The scene takes place on a city street.
+```
+
+### No. 11: Photorealistic Editorial Portrait
+
+- **Category:** `Portrait`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dda1aa7a7755.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dda1aa7a7755.jpg?v=20260720fix" alt="Photorealistic Editorial Portrait" width="480" />
+
+#### Description
+
+A photorealistic waist-up portrait of a seductive stunning Japanese or Korean woman in her 20s.
+
+#### Prompt
+
+```text
+Create a photorealistic editorial portrait. Waist-up portrait, eye-level view, front-left three-quarter view A 20s seductive stunning Japanese or Korean
+```
+
+### No. 12: Street Corner Snapshot
+
+- **Category:** `Portrait`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_fd46b8756855.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_fd46b8756855.jpg?v=20260720fix" alt="Street Corner Snapshot" width="480" />
+
+#### Description
+
+A quick snapshot shows a young Chinese woman turning beside a dark blue bicycle on a quiet street.
+
+#### Prompt
+
+```text
+A quick snapshot taken on a quiet street corner, looks like someone called her name and she turned around mid-stride. A young Chinese woman in her early 20s stands beside a dark blue bicycle, her body half-turned, one hand resting on the bicycle seat, the
+```
+
+### No. 13: Woman Alone On Street
+
+- **Category:** `Portrait`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dfd56154a3ad.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dfd56154a3ad.jpg?v=20260720fix" alt="Woman Alone On Street" width="480" />
+
+#### Description
+
+A photo focuses on a woman's poker face as blurred figures move away on a wide-angle street.
+
+#### Prompt
+
+```text
+Photo of a woman standing alone on the street, surrounded by blurred figures representing people moving aWCy from her. the focus is on her expression t and posture as she looks around straight poker face. she wears jeans and a red sweater. wide-angle
+```
+
+### No. 14: Cinematic Close-Up Portrait
+
+- **Category:** `Portrait`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_a87b40f94188.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_a87b40f94188.jpg?v=20260720fix" alt="Cinematic Close-Up Portrait" width="480" />
+
+#### Description
+
+A photorealistic cinematic close-up portrait of a stunning woman against a plain light wall.
+
+#### Prompt
+
+```text
+Reference image: conceptual variant. Photorealistic cinematic close-up portrait of a stunning young woman against a plain light wall during soft even studio lighting with gentle side illumination
+```
+
 <a id="category-10"></a>
 
-### Illustration (6)
+### Illustration (9)
 
 ### No. 1: Artistic Picture Book School Uniform
 
@@ -1150,6 +1489,10 @@ A walking character is added to the foreground path of an existing sketch.
 Based on the sketch, add a walking character on the foreground path…
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EKwtbwJTSofQZrxdwafcQDYrnXc.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 4: Four Finished Game Scene Images
 
 - **Category:** `Illustration`
@@ -1167,6 +1510,10 @@ Four high-quality rendered versions of a sketched video game environment.
 ```text
 Please transform this sketch into 4 high-quality finished images of a game scene with……
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Yq3VbgKpeocFYqxLLybcERktnHe.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 5: Image And Palette Input
 
@@ -1186,6 +1533,10 @@ Process an original image alongside a provided color palette reference.
 Input Original Image + Color Palette Reference
 ```
 
+#### Input reference images (2)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VdA8bfmQqosANbxi7GQckz1LnZg.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DSrPbOoUboeWuOxkxSUcyFomnXe.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 6: Hand-Drawn Brunch Poster
 
 - **Category:** `Illustration`
@@ -1202,6 +1553,64 @@ Transform foods into a drawn style with labels for a seasonal brunch poster.
 
 ```text
 Place the foods from the images on the same table and transform them into a hand-drawn style. Use white linework to label each dish and add handwritten-style Chinese annotations. Create a promotional poster for a dish for “Seasonal Limited Brunch.”
+```
+
+#### Input reference images (4)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YXQ3bzVAhods3bxS1EMcCy3ZnCc.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BgxbboCT3oZcqkxpxoccxdDQnng.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ebn1bhCbZoyGpjxzCpYckSh2n1c.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YQn8bVEwvosqnRxQJMOcfqQ4nbh.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 7: Retro 80s Anime Lock Screen
+
+- **Category:** `Illustration`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f1549f674d93.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f1549f674d93.jpg?v=20260720fix" alt="Retro 80s Anime Lock Screen" width="480" />
+
+#### Description
+
+A minimalist lock screen features a retro 80s anime cel illustration with airbrushed gradients.
+
+#### Prompt
+
+```text
+Retro 80s anime cel illustration with airbrushed gradients and film grain. Minimalist lock screen
+```
+
+### No. 8: Aquarelle Urban Sketch
+
+- **Category:** `Illustration`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_a45476c94dcf.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_a45476c94dcf.jpg?v=20260720fix" alt="Aquarelle Urban Sketch" width="480" />
+
+#### Description
+
+A refined horizontal aquarelle sketch depicts a peaceful iconic outdoor location in a city.
+
+#### Prompt
+
+```text
+Create a refined horizontal aquarelle urban sketch of a peaceful, iconic outdoor location in [PLACE], [CITY], using delicate freehand ink, restrained transparent watercolor
+```
+
+### No. 9: Whimsical Horse Illustration
+
+- **Category:** `Illustration`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dfe8fd820f44.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dfe8fd820f44.jpg?v=20260720fix" alt="Whimsical Horse Illustration" width="480" />
+
+#### Description
+
+A whimsical illustration shows a horse in a dandelion field with seeds floating in the wind.
+
+#### Prompt
+
+```text
+a whimsical illustration of a horse standing in a field of dandelions under a bright blue sky. Dandelion seeds float around the horse, and some are caught in the wind.
 ```
 
 <a id="category-11"></a>
@@ -1284,6 +1693,10 @@ An image transformed to look like a detailed LEGO set in a miniature diorama sty
 Transform the image into a realistic LEGO toy effect with miniature scene styling.
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QSD8b1VDCoy3A3xOHedcV0nJn8c.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 2: Flat Illustration Style Transformation
 
 - **Category:** `Style Transfer`
@@ -1301,6 +1714,10 @@ An image converted into a modern graphic design with simple shapes and solid col
 ```text
 Transform the image style into flat illustration style
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MCZfbhD9lowIH0xu5H9c6UWVnMf.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 3: Relief Sculpture Style Change
 
@@ -1320,6 +1737,10 @@ An image altered to resemble a carved or molded sculpture with raised surfaces.
 Change to relief sculpture style
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WIvBbFHDWoCQ5hxHojjci0R8nZg.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 4: Fujifilm NC Filter Applied
 
 - **Category:** `Style Transfer`
@@ -1337,6 +1758,10 @@ The image now has the classic Fujifilm Natural Chrome film simulation filter.
 ```text
 Add Fujifilm NC filter
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VVkmbTEpUoMHltxa90EccUOfn5e.jpg?v=20260720fix" alt="input reference" height="140" />
 
 <a id="category-13"></a>
 
@@ -1360,6 +1785,10 @@ A woman wears another's clothing and accessories in a casual, trendy street phot
 Make the woman in Image 1 wear the clothing, jewelry, and accessories from Image 2. The whole photo should look like an Instagram street shot.
 ```
 
+#### Input reference images (2)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KT1Nb6xRoo1ZO0xiVlJckcMnn8f.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Fj9YbcMUSoVUYZxC1oycjyOqndh.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 2: Wedding Attire Replacement With Consistent Background
 
 - **Category:** `Outfit Transfer`
@@ -1377,6 +1806,10 @@ Two people in a photo are dressed in wedding clothes with matching background an
 ```text
 Replace the outfits of the two people in Image 1 with the wedding attire from Images 2 and 3, keep the background color consistent, and adjust lighting to match the overall style…
 ```
+
+#### Input reference images (3)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TLzebexBFopDUHxLBhic6IlGnIh.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/P1mpbUYeyoQDZ1x5RetcHV6bnjc.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BEI6bcYzMoVqOKxXYjgcSjsbn6e.jpg?v=20260720fix" alt="input reference" height="140" />
 
 <a id="category-14"></a>
 
@@ -1400,6 +1833,10 @@ An old photo with the subject clarified and original colors revived.
 Restore this old photo, making the subject clearer and restoring colors
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IitgbjnaLodOltxJxVOci4T2ncc.jpg?v=20260720fix" alt="input reference" height="140" />
+
 <a id="category-15"></a>
 
 ### Retouching (2)
@@ -1422,6 +1859,10 @@ The same image with improved exposure to fix the backlit lighting.
 Keep the image unchanged and correct the backlighting.
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BQP6b9QPzoGfFixThbDcTNzrnXf.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 2: Stronger Natural Makeup Look
 
 - **Category:** `Retouching`
@@ -1439,6 +1880,10 @@ A different, more intense makeup style that still appears overall natural.
 ```text
 Change to a different makeup look with stronger intensity while keeping the overall makeup natural
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/H31MbrQrWoT8ztxARFkcN29Infh.jpg?v=20260720fix" alt="input reference" height="140" />
 
 <a id="category-16"></a>
 
@@ -1462,6 +1907,10 @@ A person with glasses removed now has large, wavy hair worn down.
 Remove glasses, change hairstyle to large wavy hair worn down
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SIS2bDqYuoJuIpxZw5LcDzdhn5f.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 2: Ragdoll Kitten ID Photo
 
 - **Category:** `ID Photo`
@@ -1480,6 +1929,10 @@ A one-inch identification photo portrait of a Ragdoll breed kitten.
 Generate a 1-inch ID photo for this Ragdoll kitten
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KbRXbSAQ5or3aXxSdcncUEagnie.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 3: Woman Solo ID Photo
 
 - **Category:** `ID Photo`
@@ -1497,6 +1950,10 @@ A standard identification photo featuring only the woman by herself.
 ```text
 Generate a solo ID photo for the woman
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AwNZb9apxoOFzfxVW2TcoJCwnTf.jpg?v=20260720fix" alt="input reference" height="140" />
 
 <a id="category-17"></a>
 
@@ -1519,6 +1976,10 @@ A person squints with a smug grin showing devil teeth and text below.
 ```text
 Change expression to a smug grin, eyes squinting into crescents with devil teeth showing at the corners of the mouth, add text "准备更坏" centered at the bottom of the image in white bold font.
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZyADbn7lvoJhuAxduyVcYmkpnCd.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 2: Da Vinci Van Gogh Peace Signs
 
@@ -1574,6 +2035,10 @@ A blue-furred head observes a bubble reflecting light near a yarn ball and block
 Red box: a giant blue-furred head with a comically squeezed expression, looking at the bubble in front; Green box: a transparent bubble reflecting indoor lighting; Yellow box: a large warm beige yarn ball; Blue box: building blocks stacked together — warm dark gray arch shape, warm light gray semi-cylinder, lake blue cylinder, deep lake blue ramp, cobalt blue semi-disc; Purple box: a grass-green blanket with fringe draped over a sofa
 ```
 
+#### Input reference images (2)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KrdNbd9vdoI63exU35qc9jsonCb.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AbuMbTZBPoG0sdx1EhQcJsaFnub.jpg?v=20260720fix" alt="input reference" height="140" />
+
 <a id="category-18"></a>
 
 ### Stickers (1)
@@ -1594,6 +2059,50 @@ A four-panel sticker set showing a cartoon character expressing different emotio
 
 ```text
 Based on the cartoon character, design different emotions — happy, sad, aggrieved, angry — and generate a four-panel sticker pack
+```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FytBb0AgVoL6pKxpL3zc4EdanQc.jpg?v=20260720fix" alt="input reference" height="140" />
+
+<a id="category-19"></a>
+
+### Social Media (2)
+
+### No. 1: Text In Quotes
+
+- **Category:** `Social Media`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_5258598740a5.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_5258598740a5.jpg?v=20260720fix" alt="Text In Quotes" width="480" />
+
+#### Description
+
+Add quote marks to ensure text like 'Good morning!' appears in the image.
+
+#### Prompt
+
+```text
+Add quote marks around text to ensure the text appears in your image "Good morning!" "Happy Caturday!"
+```
+
+### No. 2: Japanese Rice Paddy
+
+- **Category:** `Social Media`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_ee34d8a6bbbf.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_ee34d8a6bbbf.jpg?v=20260720fix" alt="Japanese Rice Paddy" width="480" />
+
+#### Description
+
+A cinematic film still shows a rural Japanese rice paddy in summer from a three-quarter angle.
+
+#### Prompt
+
+```text
+Cinematic film still, rural Japanese rice paddy landscape in summer, three-quarter angle view down a narrow
 ```
 
 ## Local Usage
@@ -1617,4 +2126,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-20T19:48:38.453Z
+> This README is auto-generated. 2026-07-21T04:38:12.024Z

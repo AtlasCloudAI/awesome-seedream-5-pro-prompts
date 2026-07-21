@@ -59,7 +59,7 @@
     "id": "sd5pro_005",
     "sort_order": 5,
     "title": "Diagramma Annotato dei Tagli di Manzo",
-    "description": "Un diagramma etichetta e illustra i vari tagli di carne bovina.",
+    "description": "Un diagramma etichetta e illustra i vari tagli della carne bovina.",
     "prompt": "Annotated diagram of beef cuts…",
     "category": "Infographic",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix",
@@ -86,7 +86,7 @@
   {
     "id": "sd5pro_007",
     "sort_order": 7,
-    "title": "Indice per il Lancio di Veicoli a Nuova Energia",
+    "title": "Indice della Presentazione del Lancio del Veicolo a Nuova Energia",
     "description": "Una pagina di presentazione mostra l'indice dei contenuti per un evento di lancio di un veicolo.",
     "prompt": "Design a table of contents page for a new energy vehicle launch event presentation. The TOC text is…",
     "category": "Slides & Presentation",
@@ -100,8 +100,8 @@
   {
     "id": "sd5pro_008",
     "sort_order": 8,
-    "title": "Slide sulla Strategia di Marca Louis Vuitton",
-    "description": "Una singola slide di presentazione sintetizza in modo emotivo la strategia del marchio Louis Vuitton.",
+    "title": "Slide della Strategia di Brand Louis Vuitton",
+    "description": "Una singola slide di presentazione sintetizza in modo emotivo la strategia del brand Louis Vuitton.",
     "prompt": "Distill the Louis Vuitton brand strategy…into a single, emotionally resonant presentation slide",
     "category": "Slides & Presentation",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AnKibwX93oO2UaxHm3DcaRPTnah.jpg?v=20260720fix",
@@ -142,7 +142,7 @@
   {
     "id": "sd5pro_011",
     "sort_order": 11,
-    "title": "Declino nelle Conversioni del Servizio di Alimentazione per Animali Domestici",
+    "title": "Declino delle Conversioni per il Servizio di Alimentazione degli Animali Domestici",
     "description": "Una slide di presentazione affronta il calo nelle conversioni dei clienti per un servizio di alimentazione per animali domestici.",
     "prompt": "Create a presentation slide addressing the decline in pet door-to-door feeding customer conversion…",
     "category": "Slides & Presentation",
@@ -156,7 +156,7 @@
   {
     "id": "sd5pro_012",
     "sort_order": 12,
-    "title": "Poster in Stile Y2K Carino con Texture Gelatinosa",
+    "title": "Poster Stile Y2K Carino con Texture Gelatinosa",
     "description": "Un poster in azzurro chiaro presenta uno stile Y2K carino con elementi dalla texture gelatinosa trasparente.",
     "prompt": "Create a poster based on my sketch. I want a Y2K cute style with transparent jelly-textured elements and an overall translucent light blue color palette",
     "category": "Poster Design",
@@ -165,13 +165,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YYaBbQd0eohXQPxZTrLczomsnzt.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_013",
     "sort_order": 13,
     "title": "Poster di Marketing per Serie Collage",
-    "description": "Un poster di design innovativo realizzato a collage, utilizzando un layout tipografico specificato con un nuovo soggetto principale.",
+    "description": "Un poster di design innovativo a collage che utilizza un layout tipografico specificato con un nuovo soggetto principale.",
     "prompt": "Using the typography and layout from Image 1, generate a design-forward marketing poster in the same series, collage style, with Image 2 as the main subject…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SCz7bLkM0oH2qXx8M9HctwYFnIh.jpg?v=20260720fix",
@@ -179,13 +182,17 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NkGHbivHQo33YrxzUKzc3ZmNnUk.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KlM2bV7fYozJs4x2dkUcUiJOnTc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_014",
     "sort_order": 14,
     "title": "Poster Sci-Fi Diagonale",
-    "description": "Un poster in stile fantascientifico con composizione diagonale e un punto focale al centro-inferiore.",
+    "description": "Un poster in stile sci-fi con una composizione diagonale e un punto focale al centro-inferiore.",
     "prompt": "Sci-fi style, poster design, diagonal composition. Center-bottom of the frame…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg?v=20260720fix",
@@ -198,7 +205,7 @@
   {
     "id": "sd5pro_015",
     "sort_order": 15,
-    "title": "Poster Musicale Minimalista per Barrie",
+    "title": "Poster Musicale Minimalista Barrie",
     "description": "Un poster minimalista per il festival musicale Barrie su sfondo nero.",
     "prompt": "Minimalist music festival poster titled \"Barrie.\" The composition features a predominantly black background…",
     "category": "Poster Design",
@@ -213,7 +220,7 @@
     "id": "sd5pro_016",
     "sort_order": 16,
     "title": "Poster a Doppia Esposizione con Silhouette",
-    "description": "Un poster per un film thriller con un ritratto a silhouette a doppia esposizione.",
+    "description": "Un poster per un film thriller che presenta una silhouette ritratto a doppia esposizione.",
     "prompt": "Double exposure portrait silhouette suspense film poster…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/JPybbJoFhocpoBx4JXTcjuthn6b.jpg?v=20260720fix",
@@ -226,8 +233,8 @@
   {
     "id": "sd5pro_017",
     "sort_order": 17,
-    "title": "Poster Futurista per PIGITAL TSUNAMI",
-    "description": "Un poster in stile futurista per un evento musicale intitolato PIGITAL TSUNAMI.",
+    "title": "Poster Futurista PIGITAL TSUNAMI",
+    "description": "Un poster per un evento musicale in stile futurista dal titolo PIGITAL TSUNAMI.",
     "prompt": "Futurist style music event poster titled \"PIGITAL TSUNAMI\"…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg?v=20260720fix",
@@ -240,7 +247,7 @@
   {
     "id": "sd5pro_018",
     "sort_order": 18,
-    "title": "Tipografia Vintage 'Sweet Sunlight'",
+    "title": "Sweet Sunlight Tipografia Vintage",
     "description": "Un design con il titolo Sweet Sunlight in un carattere vintage da macchina da scrivere all'interno di un riquadro.",
     "prompt": "Bounding box on title - \"Sweet Sunlight\", use vintage typewriter font",
     "category": "Poster Design",
@@ -249,13 +256,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EohwbPkM1oSPnkxYrRxc1daSnWf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_019",
     "sort_order": 19,
-    "title": "Indice in Viola Profondo",
-    "description": "Un design con un grande testo viola profondo che recita TABLE OF CONTENTS e un elenco puntato.",
+    "title": "Indice dei Contenuti Deep Purple",
+    "description": "Un design con un grande testo viola scuro che recita TABLE OF CONTENTS e un elenco puntato.",
     "prompt": "Generate in the style of Image 1: large deep purple text on the left reading \"TABLE OF CONTENTS\", with itemized listing on the right…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix",
@@ -263,13 +273,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EohwbPkM1oSPnkxYrRxc1daSnWf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_020",
     "sort_order": 20,
-    "title": "Design VI Minimalista della Volpe Blu",
-    "description": "Una presentazione minimalista dell'identità visiva di un brand, in blu Klein e argento, con una grafica di volpe e logo.",
+    "title": "Design VI Minimalista Blue Fox",
+    "description": "Una presentazione di identità visiva minimalista in blu Klein e argento con una grafica di volpe e il logo.",
     "prompt": "Minimalist brand VI design showcase, featuring Klein blue and silver as primary colors, color-blocking aesthetic, fox graphic motif, highlighting the English brand logo \"Blue Fox\"…",
     "category": "Brand Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix",
@@ -291,13 +304,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZFaQbExfsoT8M9xXftEcSEv5ndg.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_022",
     "sort_order": 22,
     "title": "Render di Camera da Letto in Stile Arte Moderna",
-    "description": "Un rendering di una camera da letto in stile arte moderna, utilizzando una palette di colori di design d'interni di riferimento.",
+    "description": "Un rendering di una camera da letto in stile arte moderna che utilizza una palette di design d'interni di riferimento.",
     "prompt": "Refer to the interior design style and color palette in the image, and generate a modern-art-style bedroom rendering.",
     "category": "Interior Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PmSAbA4P1oaDQpxBj6VceHLinwc.jpg?v=20260720fix",
@@ -305,7 +321,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HQdmbIPwSo4b3YxvPDVcaDgBnSg.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_023",
@@ -319,7 +338,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OKdXbkgYuoUuSAxy1mBcqk3sn4b.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_024",
@@ -338,7 +360,7 @@
   {
     "id": "sd5pro_025",
     "sort_order": 25,
-    "title": "Sezione Hero E-commerce per Animali Domestici con Tramonto UI",
+    "title": "UI Hero per E-commerce di Animali Domestici al Tramonto",
     "description": "Una sezione hero e-commerce dai toni caldi presenta un Golden Retriever 3D le cui zampe sfondano la cornice sui pulsanti di navigazione.",
     "prompt": "16:9 pet e-commerce hero section UI, sunset warm tone, layered shadows. Top navigation…golden capsule button; right side Golden Retriever image, 3D effect: the Retriever's front paws break through the right frame, resting on the left-side buttons.",
     "category": "E-commerce",
@@ -352,7 +374,7 @@
   {
     "id": "sd5pro_026",
     "sort_order": 26,
-    "title": "Storyboard Manga Seinen per Inseguimento Notturno",
+    "title": "Storyboard di Inseguimento Notturno per Manga Seinen Giapponese",
     "description": "Uno storyboard manga in bianco e nero raffigura un inseguimento in auto di notte e una ragazza armata all'inseguimento.",
     "prompt": "Generate a full-page Japanese seinen black-and-white manga storyboard, nighttime chase and gunfight theme. Top panel: a car under headlights and chain-link fencing in the dark night; middle: a girl armed with a gun in pursuit…",
     "category": "Comic & Storyboard",
@@ -394,7 +416,7 @@
   {
     "id": "sd5pro_029",
     "sort_order": 29,
-    "title": "Film in Tre Pannelli nel Parcheggio Notturno",
+    "title": "Film a Tre Pannelli nel Parcheggio Notturno",
     "description": "Uno storyboard cinematografico mostra un parcheggio di notte attraverso tre pannelli orizzontali.",
     "prompt": "Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establishing shot of a parking lot at night…",
     "category": "Film Storyboard",
@@ -408,7 +430,7 @@
   {
     "id": "sd5pro_030",
     "sort_order": 30,
-    "title": "Storyboard in Sei Pannelli per una Scena Western in Strada",
+    "title": "Storyboard a Sei Pannelli della Strada Western",
     "description": "Uno storyboard orizzontale ampio con sei pannelli raffigura una classica scena di strada western.",
     "prompt": "Western film storyboard, 6 panels in wide horizontal ratio, no text throughout: Panel 1, extreme wide shot, both ends of the street…",
     "category": "Film Storyboard",
@@ -422,8 +444,8 @@
   {
     "id": "sd5pro_031",
     "sort_order": 31,
-    "title": "Inquadratura da Sopra la Spalla di una Donna Triste",
-    "description": "Un'inquadratura da sopra la spalla mostra una donna dai capelli castani, dall'aspetto triste, di circa quarant'anni.",
+    "title": "Inquadratura da Sopra la Spalla di Donna Triste",
+    "description": "Un'inquadratura da sopra la spalla mostra una donna dai capelli castani, triste, di circa quarant'anni.",
     "prompt": "Over-the-shoulder shot, featuring a brown-haired European or American woman around 40 years old with a sad expression…",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg?v=20260720fix",
@@ -436,7 +458,7 @@
   {
     "id": "sd5pro_032",
     "sort_order": 32,
-    "title": "Stile Anime per Xianxia Cinese Antico",
+    "title": "Xianxia Cinese Antico in Stile Anime",
     "description": "Uno storyboard illustra una scena di xianxia cinese antica in uno stile artistico anime.",
     "prompt": "Anime-style ancient Chinese xianxia scene storyboard…",
     "category": "Film Storyboard",
@@ -450,7 +472,7 @@
   {
     "id": "sd5pro_033",
     "sort_order": 33,
-    "title": "Libro Illustrato Artistico della Divisa Scolastica",
+    "title": "Libro d'arte illustrato sulla divisa scolastica",
     "description": "Un'illustrazione panoramica da libro illustrato raffigura i pantaloni di una divisa scolastica in uno stile raffinato e artistico.",
     "prompt": "Artistic picture book, panoramic view, school uniform trousers, refined makeup, accessories, illustrated in the style of Raymond Briggs and Mattias Adolfsson…",
     "category": "Illustration",
@@ -464,8 +486,8 @@
   {
     "id": "sd5pro_034",
     "sort_order": 34,
-    "title": "Dipinto Invernale della Prateria sotto un Cielo Stellato",
-    "description": "Una morbida illustrazione in verde ciano mostra un'anziana donna che dipinge il sole su una prateria invernale.",
+    "title": "Dipinto della prateria invernale sotto un cielo stellato",
+    "description": "Una delicata illustrazione in verde ciano mostra un'anziana donna che dipinge il sole su una prateria invernale.",
     "prompt": "This heartwarming panoramic picture book illustration uses soft cyan-green tones to depict a serene grassland under a winter starry sky, where an elderly woman paints the sun at an easel while a child plays with a puppy beside a yurt…",
     "category": "Illustration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg?v=20260720fix",
@@ -478,7 +500,7 @@
   {
     "id": "sd5pro_035",
     "sort_order": 35,
-    "title": "Aggiungi un Personaggio che Cammina allo Schizzo",
+    "title": "Aggiungi un personaggio che cammina allo schizzo",
     "description": "Un personaggio che cammina viene aggiunto al sentiero in primo piano di uno schizzo esistente.",
     "prompt": "Based on the sketch, add a walking character on the foreground path…",
     "category": "Illustration",
@@ -487,13 +509,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EKwtbwJTSofQZrxdwafcQDYrnXc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_036",
     "sort_order": 36,
-    "title": "Tre Viste di un'Antica Statua di Dea",
-    "description": "Viste ortografiche mostrano il fronte, il lato e il retro di una gigantesca statua antica cinese di una dea scolpita.",
+    "title": "Tre viste di un'antica statua di dea",
+    "description": "Viste ortografiche mostrano il fronte, il lato e il retro di una gigantesca statua antica di dea cinese scolpita.",
     "prompt": "Standard three-view orthographic turntable: front view, side view, back view, of a giant ancient Chinese goddess stone statue with an intricately carved stone headpiece and…",
     "category": "Character Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg?v=20260720fix",
@@ -506,7 +531,7 @@
   {
     "id": "sd5pro_037",
     "sort_order": 37,
-    "title": "Bicicletta da Portalettere Sovietica in Tre Viste",
+    "title": "Tre viste della bicicletta del messaggero postale sovietico",
     "description": "Un disegno tecnico che mostra le viste frontale, laterale e superiore di una bicicletta d'epoca sovietica.",
     "prompt": "Generate a three-view of a Soviet-era postal messenger bicycle…",
     "category": "Character Design",
@@ -520,8 +545,8 @@
   {
     "id": "sd5pro_038",
     "sort_order": 38,
-    "title": "Scheda Personaggio Cyberpunk Hacker Girl RIN",
-    "description": "Una scheda di design con più viste e dettagli di un personaggio cyberpunk in stile anime, una hacker.",
+    "title": "Scheda del personaggio RIN, hacker cyberpunk",
+    "description": "Una scheda di design con più viste e dettagli di un personaggio hacker cyberpunk in stile anime.",
     "prompt": "Cyberpunk-style anime character design sheet, showing three-view turnaround, close-up portraits, and accessory details of a hacker girl named \"RIN\"…",
     "category": "Character Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix",
@@ -534,8 +559,8 @@
   {
     "id": "sd5pro_039",
     "sort_order": 39,
-    "title": "Quattro Immagini Finite di Scene di Gioco",
-    "description": "Quattro versioni renderizzate di alta qualità di un ambiente di un videogioco precedentemente schizzato.",
+    "title": "Quattro immagini finite della scena di gioco",
+    "description": "Quattro versioni renderizzate di alta qualità di un ambiente di videogioco precedentemente schizzato.",
     "prompt": "Please transform this sketch into 4 high-quality finished images of a game scene with……",
     "category": "Illustration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BURCblKzlovIMYxrcSZcF71MnQc.jpg?v=20260720fix",
@@ -543,13 +568,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Yq3VbgKpeocFYqxLLybcERktnHe.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_040",
     "sort_order": 40,
-    "title": "Immagine Prodotto Finita di Design della Moda",
-    "description": "Un'immagine realistica e rifinita di un capo d'abbigliamento basata sullo schizzo originale di un designer.",
+    "title": "Immagine finita del prodotto di design di moda",
+    "description": "Un'immagine rifinita e realistica di un capo d'abbigliamento basata sullo schizzo originale di un designer.",
     "prompt": "Please transform this fashion design sketch into a high-quality finished product image.……",
     "category": "E-commerce",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix",
@@ -557,12 +585,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UXbVbZLTvoeJkZxqNmecinZFnbd.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_041",
     "sort_order": 41,
-    "title": "Scena Realistica in Miniatura di Giocattolo LEGO",
+    "title": "Scena in miniatura realistica con giocattoli LEGO",
     "description": "Un'immagine trasformata per sembrare un dettagliato set LEGO in stile diorama in miniatura.",
     "prompt": "Transform the image into a realistic LEGO toy effect with miniature scene styling.",
     "category": "Style Transfer",
@@ -571,13 +602,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QSD8b1VDCoy3A3xOHedcV0nJn8c.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_042",
     "sort_order": 42,
-    "title": "Bracciale con Spuntoni Neri Metallici",
-    "description": "Un primo piano di un bracciale di metallo nero con spuntoni su un polso che indica le dodici.",
+    "title": "Bracciale con spuntoni metallici neri",
+    "description": "Un primo piano di un bracciale di metallo nero con spuntoni su un polso che punta verso le dodici.",
     "prompt": "Modify the image according to the text requirements in the image: bracelet with metallic black thorn spikes, hands pointing to 12 o'clock sharp",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UCSzbeIiWoebZgxPK1AcuyZLnLe.jpg?v=20260720fix",
@@ -585,13 +619,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UznubLD3woRBDwx3BwtcdYEJnJh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_043",
     "sort_order": 43,
-    "title": "Ritratto su Pellicola Hasselblad con Controluce",
-    "description": "Un ritratto con texture grana della pellicola, drammatica illuminazione di controluce e brillanti luci sul viso.",
+    "title": "Ritratto su pellicola Hasselblad con controluce",
+    "description": "Un ritratto con trama grana della pellicola, drammatica illuminazione di controluce e brillanti luci sul viso.",
     "prompt": "Hasselblad film texture, light and shadow, rim light, (facial overexposure)…",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix",
@@ -599,12 +636,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NO81bbDXSobbejx4tVycewI6nve.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_044",
     "sort_order": 44,
-    "title": "Griglia di Ritratti Narrativi Cinematografici Estivi",
+    "title": "Griglia di ritratti narrativi estivi cinematografici",
     "description": "Tre ritratti semplici e puliti in una griglia, che raccontano una storia estiva senza distrazioni.",
     "prompt": "Remove all accessories, hairstyle, and background, generate a three-panel grid of cinematic summer narrative portraits",
     "category": "Portrait",
@@ -613,12 +653,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/J4jHbIvC9o99PKxaVoDcrgP1nkd.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_045",
     "sort_order": 45,
-    "title": "Trasferimento Outfit Street Style su Instagram",
+    "title": "Trasferimento di outfit street style su Instagram",
     "description": "Una donna indossa i vestiti e gli accessori di un'altra in uno stile di street photography casuale e trendy.",
     "prompt": "Make the woman in Image 1 wear the clothing, jewelry, and accessories from Image 2. The whole photo should look like an Instagram street shot.",
     "category": "Outfit Transfer",
@@ -627,13 +670,17 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KT1Nb6xRoo1ZO0xiVlJckcMnn8f.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Fj9YbcMUSoVUYZxC1oycjyOqndh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_046",
     "sort_order": 46,
-    "title": "Sostituzione Abiti Nuziali con Sfondo Coerente",
-    "description": "Due persone in una foto sono vestite con abiti da sposo con sfondo e illuminazione corrispondenti.",
+    "title": "Sostituzione dell'abbigliamento nuziale con sfondo coerente",
+    "description": "Due persone in una foto sono vestite con abiti da sposa, con sfondo e illuminazione corrispondenti.",
     "prompt": "Replace the outfits of the two people in Image 1 with the wedding attire from Images 2 and 3, keep the background color consistent, and adjust lighting to match the overall style…",
     "category": "Outfit Transfer",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix",
@@ -641,13 +688,18 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TLzebexBFopDUHxLBhic6IlGnIh.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/P1mpbUYeyoQDZ1x5RetcHV6bnjc.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BEI6bcYzMoVqOKxXYjgcSjsbn6e.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_047",
     "sort_order": 47,
-    "title": "Trasformazione in Stile Illustrazione Piatta",
-    "description": "Un'immagine convertita in un design grafico moderno con forme semplici e colori solidi.",
+    "title": "Trasformazione in stile illustrazione piatta",
+    "description": "Un'immagine convertita in un moderno graphic design con forme semplici e colori solidi.",
     "prompt": "Transform the image style into flat illustration style",
     "category": "Style Transfer",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg?v=20260720fix",
@@ -655,12 +707,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MCZfbhD9lowIH0xu5H9c6UWVnMf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_048",
     "sort_order": 48,
-    "title": "Cambio Stile in Scultura a Rilievo",
+    "title": "Cambio di stile in scultura a rilievo",
     "description": "Un'immagine modificata per assomigliare a una scultura scolpita o modellata con superfici in rilievo.",
     "prompt": "Change to relief sculpture style",
     "category": "Style Transfer",
@@ -669,12 +724,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WIvBbFHDWoCQ5hxHojjci0R8nZg.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_049",
     "sort_order": 49,
-    "title": "Poster della Serie Dont Want To Work",
+    "title": "Poster della serie Dont Want To Work",
     "description": "Un poster creativo con nuovo testo e elementi visivi basato sul design di riferimento.",
     "prompt": "Referencing this poster design, create a derivative creative poster for the \"Don't Want to Work\" series with different copy and visuals",
     "category": "Poster Design",
@@ -683,12 +741,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/LFA9bvRIZoj2zmxZXy9ckcifnDf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_050",
     "sort_order": 50,
-    "title": "Vecchia Fotografia Restaurata",
+    "title": "Vecchia fotografia restaurata",
     "description": "Una vecchia foto con il soggetto chiarito e i colori originali rivitalizzati.",
     "prompt": "Restore this old photo, making the subject clearer and restoring colors",
     "category": "Restoration",
@@ -697,12 +758,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IitgbjnaLodOltxJxVOci4T2ncc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_051",
     "sort_order": 51,
-    "title": "Immagine con Controluce Corretto",
+    "title": "Immagine corretta per il controluce",
     "description": "La stessa immagine con un'esposizione migliorata per correggere l'illuminazione controluce.",
     "prompt": "Keep the image unchanged and correct the backlighting.",
     "category": "Retouching",
@@ -711,12 +775,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BQP6b9QPzoGfFixThbDcTNzrnXf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_052",
     "sort_order": 52,
-    "title": "Applicato Filtro Fujifilm NC",
+    "title": "Applicato filtro Fujifilm NC",
     "description": "L'immagine ora ha la classica simulazione di pellicola Fujifilm Natural Chrome.",
     "prompt": "Add Fujifilm NC filter",
     "category": "Style Transfer",
@@ -725,13 +792,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VVkmbTEpUoMHltxa90EccUOfn5e.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_053",
     "sort_order": 53,
-    "title": "Nuova Acconciatura Senza Occhiali",
-    "description": "Una persona a cui sono stati tolti gli occhiali ora ha capelli lunghi, mossi e voluminosi.",
+    "title": "Nuova acconciatura senza occhiali",
+    "description": "Una persona a cui sono stati rimossi gli occhiali ora ha capelli lunghi, mossi e ondulati.",
     "prompt": "Remove glasses, change hairstyle to large wavy hair worn down",
     "category": "ID Photo",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Qk1dbIVDqo7DPxxwPJuc7muCneb.jpg?v=20260720fix",
@@ -739,13 +809,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SIS2bDqYuoJuIpxZw5LcDzdhn5f.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_054",
     "sort_order": 54,
-    "title": "Trucco Naturale Più Intenso",
-    "description": "Un diverso stile di trucco, più marcato, che appare comunque complessivamente naturale.",
+    "title": "Look di trucco naturale più intenso",
+    "description": "Uno stile di trucco diverso e più intenso che appare comunque complessivamente naturale.",
     "prompt": "Change to a different makeup look with stronger intensity while keeping the overall makeup natural",
     "category": "Retouching",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DjRPbepoGoVP4KxitW3cK1WhnIp.jpg?v=20260720fix",
@@ -753,13 +826,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/H31MbrQrWoT8ztxARFkcN29Infh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_055",
     "sort_order": 55,
-    "title": "Sogghigno Compiaciuto con Denti da Diavolo",
-    "description": "Una persona strizza gli occhi con un sogghigno compiaciuto mostrando denti da diavolo e testo sotto.",
+    "title": "Sogghigno compiaciuto con denti da diavolo",
+    "description": "Una persona strizza gli occhi con un sogghigno compiaciuto mostrando denti da diavolo e testo sottostante.",
     "prompt": "Change expression to a smug grin, eyes squinting into crescents with devil teeth showing at the corners of the mouth, add text \"准备更坏\" centered at the bottom of the image in white bold font.",
     "category": "Creative Fun",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix",
@@ -767,12 +843,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZyADbn7lvoJhuAxduyVcYmkpnCd.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_056",
     "sort_order": 56,
-    "title": "Duo Cane Migliore e Peggiore",
+    "title": "Duo di cani: il migliore e il peggiore",
     "description": "Due pannelli mostrano cani che sono i migliori amici giocosi e i peggiori nemici feroci.",
     "prompt": "Top image: two dogs pressing their faces together with playful expressions, caption \"We're the best duo ever\"; Bottom image: two dogs fighting with fierce expressions, caption \"We're the worst duo ever\".",
     "category": "Comic & Storyboard",
@@ -786,8 +865,8 @@
   {
     "id": "sd5pro_057",
     "sort_order": 57,
-    "title": "Pacchetto Adesivi Emozioni Cartoon",
-    "description": "Un set di adesivi in quattro pannelli che mostra un personaggio cartoon che esprime emozioni diverse.",
+    "title": "Pacchetto di adesivi con emozioni da cartone animato",
+    "description": "Un set di adesivi in quattro pannelli che mostra un personaggio dei cartoni animati che esprime emozioni diverse.",
     "prompt": "Based on the cartoon character, design different emotions — happy, sad, aggrieved, angry — and generate a four-panel sticker pack",
     "category": "Stickers",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix",
@@ -795,7 +874,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FytBb0AgVoL6pKxpL3zc4EdanQc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_058",
@@ -809,13 +891,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkgRbmVP1o4KqixE60RcpRk3nme.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_059",
     "sort_order": 59,
-    "title": "Foto Tessera di un Cucciolo di Gatto Ragdoll",
-    "description": "Un ritratto fototessera da un pollice di un cucciolo di gatto di razza Ragdoll.",
+    "title": "Foto tessera di un cucciolo di gatto Ragdoll",
+    "description": "Un ritratto fotografico formato tessera di un pollice di un cucciolo di gatto di razza Ragdoll.",
     "prompt": "Generate a 1-inch ID photo for this Ragdoll kitten",
     "category": "ID Photo",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix",
@@ -823,13 +908,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KbRXbSAQ5or3aXxSdcncUEagnie.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_060",
     "sort_order": 60,
-    "title": "Foto Tessera della Donna da Sola",
-    "description": "Una fototessera standard che ritrae solo la donna da sola.",
+    "title": "Foto tessera della donna da sola",
+    "description": "Una foto d'identità standard che ritrae solo la donna da sola.",
     "prompt": "Generate a solo ID photo for the woman",
     "category": "ID Photo",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Orbxbu6HQosMb0xxgVJca592nhd.jpg?v=20260720fix",
@@ -837,12 +925,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AwNZb9apxoOFzfxVW2TcoJCwnTf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_061",
     "sort_order": 61,
-    "title": "Da Vinci e Van Gogh fanno il Segno della Pace",
+    "title": "Da Vinci e Van Gogh fanno il segno della pace",
     "description": "Da Vinci e Van Gogh fanno il segno della pace mentre Michelangelo li fotobomba da dietro.",
     "prompt": "Da Vinci and Van Gogh facing the camera making peace signs, with Michelangelo photobombing from behind them…",
     "category": "Creative Fun",
@@ -856,8 +947,8 @@
   {
     "id": "sd5pro_062",
     "sort_order": 62,
-    "title": "Cono Gelato con Skyline della Città",
-    "description": "Una mano tiene un cono gelato contro lo sfondo di uno skyline cittadino e un cielo azzurro.",
+    "title": "Cono gelato con skyline cittadino",
+    "description": "Una mano tiene un cono gelato contro lo sfondo di uno skyline cittadino e un cielo blu.",
     "prompt": "A hand is holding an ice cream cone, with a city skyline and a clear blue sky in the background.……",
     "category": "Creative Fun",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix",
@@ -870,7 +961,7 @@
   {
     "id": "sd5pro_063",
     "sort_order": 63,
-    "title": "Ritratto di Violinista Retro-Futurista",
+    "title": "Ritratto di violinista retro-futurista",
     "description": "Un uomo dai capelli lunghi in una tunica bordeaux e occhiali da sole tiene un archetto per violino in stile retro-futurista.",
     "prompt": "Retro-futurism style portrait photography, a middle-aged man with long hair wearing a burgundy gown and sunglasses, holding a violin bow…",
     "category": "Portrait",
@@ -884,8 +975,8 @@
   {
     "id": "sd5pro_064",
     "sort_order": 64,
-    "title": "Scena Surreale di Giocattoli",
-    "description": "Una testa con pelliccia blu osserva una bolla che riflette la luce vicino a un gomitolo di filo e dei blocchi.",
+    "title": "Scena surreale con giocattoli",
+    "description": "Una testa dalla pelliccia blu osserva una bolla che riflette la luce vicino a un gomitolo di filo e dei blocchi.",
     "prompt": "Red box: a giant blue-furred head with a comically squeezed expression, looking at the bubble in front; Green box: a transparent bubble reflecting indoor lighting; Yellow box: a large warm beige yarn ball; Blue box: building blocks stacked together — warm dark gray arch shape, warm light gray semi-cylinder, lake blue cylinder, deep lake blue ramp, cobalt blue semi-disc; Purple box: a grass-green blanket with fringe draped over a sofa",
     "category": "Creative Fun",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Onlsb5mmCo6wkaxco5cczzLgnUf.jpg?v=20260720fix",
@@ -893,12 +984,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KrdNbd9vdoI63exU35qc9jsonCb.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AbuMbTZBPoG0sdx1EhQcJsaFnub.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_065",
     "sort_order": 65,
-    "title": "Design Visuale per E-commerce",
+    "title": "Design Visivo per E-commerce",
     "description": "Crea un design utilizzando un'immagine di input e un riferimento di palette di colori.",
     "prompt": "E-commerce design. Input image + color palette reference",
     "category": "E-commerce",
@@ -907,7 +1002,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VGIXbHnD5oBnfpxWd3wcdj7HnDb.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_066",
@@ -921,12 +1019,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VdA8bfmQqosANbxi7GQckz1LnZg.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DSrPbOoUboeWuOxkxSUcyFomnXe.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_067",
     "sort_order": 67,
-    "title": "Posatura Composita del Personaggio",
+    "title": "Posa Composita per Personaggio",
     "description": "Genera uno scatto a figura intera con movimenti specifici di mani, gambe e un oggetto di scena.",
     "prompt": "Generate a full-body shot of the person in Image 3, and adjust her pose so her right hand motion matches Image 1, holding the first speaker from Image 4, and her leg motion matches Image 2",
     "category": "Portrait",
@@ -935,7 +1037,13 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/J2VSbwVtvowr86x6Z0rcGBmsnEf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DD2fbj4Hlo4rUjxaXWUc40rFnib.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OzyxbA971oALRYxilMlc2HmFn7e.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A3bUbP6H2oTFWjxyzmrcvvUOn1b.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_068",
@@ -949,13 +1057,24 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YkWAbvfTqo10mEx57ircGKHinxg.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KPTVbFTheoPOUrx3EemcWsImn4c.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PRjIbiAUcoC3WFxM2tOceWAOn5f.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/GP2EbV2ICoVXFVxCj7QcErA6nrr.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KBLJbBLLjoRKbkx7LzocajDUnmE.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SdudbHux2oMzKxxO0XccTuJHn8g.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QrmabEKi2oLQn3xh50wcQFldn1c.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ILCcbkdK7oHPMbx6RDMcCimvnVf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SlbJbgP5hocPBGxJuMKc9UlUnHh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_069",
     "sort_order": 69,
     "title": "Poster per Brunch a Mano",
-    "description": "Trasforma i cibi in uno stile disegnato con etichette per un poster stagionale del brunch.",
+    "description": "Trasforma i cibi in uno stile disegnato con etichette per un poster stagionale di un brunch.",
     "prompt": "Place the foods from the images on the same table and transform them into a hand-drawn style. Use white linework to label each dish and add handwritten-style Chinese annotations. Create a promotional poster for a dish for “Seasonal Limited Brunch.”",
     "category": "Illustration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix",
@@ -963,7 +1082,13 @@
     "source_platform": "community",
     "source_link": "",
     "language": "it",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YXQ3bzVAhods3bxS1EMcCy3ZnCc.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BgxbboCT3oZcqkxpxoccxdDQnng.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ebn1bhCbZoyGpjxzCpYckSh2n1c.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YQn8bVEwvosqnRxQJMOcfqQ4nbh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_070",
@@ -976,6 +1101,293 @@
     "author_name": "community",
     "source_platform": "community",
     "source_link": "",
+    "language": "it",
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QNB2bJ0bJoLtJxx2FGkcvtOEnlf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CycubNaK5oQEBZxQeNrcxUhHnCf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V0ovbK3VXoLfSqx3vyJcp9Fznkh.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SliLbSSaxogsxaxhlIRc2Disniy.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KXENb0zUyod0Fmx63PfcPkzXnqc.jpg?v=20260720fix"
+    ]
+  },
+  {
+    "id": "sd5pro_071",
+    "sort_order": 71,
+    "title": "Guerriero Vichingo sul Campo di Battaglia",
+    "description": "Un guerriero vichingo cinematografico è pronto, con il volto insanguinato e frecce conficcate nella sua armatura.",
+    "prompt": "create an image of a cinematic vikking style warrior with his big sword ready on a battlefield with blood on this face, arrows stuck on to his armour facing the",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_eca49bc5ea95.jpg?v=20260720fix",
+    "author_name": "Adithya Thatipalli",
+    "source_platform": "x",
+    "source_link": "https://x.com/adithatipalli/status/2075113723719729261",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_072",
+    "sort_order": 72,
+    "title": "Testo Tra Virgolette",
+    "description": "Aggiungi virgolette per assicurarti che un testo come 'Buongiorno!' appaia nell'immagine.",
+    "prompt": "Add quote marks around text to ensure the text appears in your image \"Good morning!\" \"Happy Caturday!\"",
+    "category": "Social Media",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_5258598740a5.jpg?v=20260720fix",
+    "author_name": "Cayla Catz",
+    "source_platform": "x",
+    "source_link": "https://x.com/CaylaCatz/status/2075960554917941515",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_073",
+    "sort_order": 73,
+    "title": "Copertina di Rivista di Moda",
+    "description": "Una copertina ultra-realistica di alta moda presenta una modella con pelle porcellanata e un cappello scultoreo.",
+    "prompt": "Ultra-realistic high-fashion editorial magazine cover featuring a stunning female model with flawless porcelain skin, piercing emerald eyes, and matte burgundy lips. She wears an oversized ivory sculptural hat, a sleek black turtleneck,",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_b9a3c7f63650.jpg?v=20260720fix",
+    "author_name": "Snow",
+    "source_platform": "x",
+    "source_link": "https://x.com/iamrealsnow/status/2075797065427529769",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_074",
+    "sort_order": 74,
+    "title": "Risaia Giapponese",
+    "description": "Un fermo immagine cinematografico mostra una risaia rurale giapponese in estate, da un angolo di tre quarti.",
+    "prompt": "Cinematic film still, rural Japanese rice paddy landscape in summer, three-quarter angle view down a narrow",
+    "category": "Social Media",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_ee34d8a6bbbf.jpg?v=20260720fix",
+    "author_name": "TSUBAKI",
+    "source_platform": "x",
+    "source_link": "https://x.com/AI__TSUBAKI/status/2076624942553330149",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_075",
+    "sort_order": 75,
+    "title": "Composizione Pubblicitaria di Brand",
+    "description": "Una pubblicità composita creativa integra perfettamente una foto di prodotto con elementi neri disegnati a mano.",
+    "prompt": "Creative composite brand advertisement, 16:9 horizontal aspect ratio, clean white background, studio lighting, sharp focus. A real-life photograph of a [BRAND PRODUCT] is physically placed and seamlessly integrated with a hand-drawn black",
+    "category": "Brand Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f1af42cb8262.jpg?v=20260720fix",
+    "author_name": "Zephyra Leigh",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZephyraLeigh/status/2076309161801887774",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_076",
+    "sort_order": 76,
+    "title": "Astronauta nella Pioggia di Tokyo",
+    "description": "Un astronauta cinematografico cammina nella Tokyo piovosa con riflessi al neon, ultra-realistico.",
+    "prompt": "A cinematic astronaut walking through Tokyo in the rain, neon reflections, ultra realistic.",
+    "category": "Infographic",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dd2056ba59c3.jpg?v=20260720fix",
+    "author_name": "LinkModel",
+    "source_platform": "x",
+    "source_link": "https://x.com/link_model_ai/status/2076305578885030256",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_077",
+    "sort_order": 77,
+    "title": "Poster Editoriale Streetwear",
+    "description": "Un poster verticale utilizza uno sfondo bianco sporco e una tipografia a bolle per un'estetica giovanile audace.",
+    "prompt": "Create a vertical streetwear editorial poster with a bold youth-culture aesthetic. Use an off-white paper background and a clean magazine-style layout. At the top, place oversized rounded bubble",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_768d731baa75.jpg?v=20260720fix",
+    "author_name": "Linus ✦ Ekenstam",
+    "source_platform": "x",
+    "source_link": "https://x.com/LinusEkenstam/status/2076273553964687462",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_078",
+    "sort_order": 78,
+    "title": "Schermata di Blocco Anime Retrò Anni '80",
+    "description": "Una schermata di blocco minimalista presenta un'illustrazione retrò anni '80 in stile cel anime con gradienti aerografati.",
+    "prompt": "Retro 80s anime cel illustration with airbrushed gradients and film grain. Minimalist lock screen",
+    "category": "Illustration",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f1549f674d93.jpg?v=20260720fix",
+    "author_name": "Magnific",
+    "source_platform": "x",
+    "source_link": "https://x.com/magnific/status/2076964679784780139",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_079",
+    "sort_order": 79,
+    "title": "Stazione Ferroviaria di Formazione",
+    "description": "Un ritratto cinematografico di una studentessa giapponese in una stazione suburbana in un luminoso pomeriggio estivo.",
+    "prompt": "A cinematic coming-of-age portrait of a Japanese high school girl at a suburban train station on a bright summer afternoon, wearing a white sailor-style school uniform with a light blue skirt, carrying a navy school bag and backpack. Natural wind",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_e618ac7cdcf4.jpg?v=20260720fix",
+    "author_name": "Kashberg",
+    "source_platform": "x",
+    "source_link": "https://x.com/Kashberg_0/status/2077421901656572021",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_080",
+    "sort_order": 80,
+    "title": "Poster di Viaggio Minimalista",
+    "description": "Un poster minimalista di lusso incornicia un'iconica attrazione attraverso una grande finestra aperta con cornice bianca.",
+    "prompt": "Create a premium minimalist travel poster with a clean editorial aesthetic. A large open white-framed window is centered in the composition, perfectly framing an iconic landmark or scenic destination",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_4761b6b5b076.jpg?v=20260720fix",
+    "author_name": "simeon-sanai",
+    "source_platform": "x",
+    "source_link": "https://x.com/Naiknelofar788/status/2077317872662233456",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_081",
+    "sort_order": 81,
+    "title": "Ritratto Malinconico all'Ora d'Oro",
+    "description": "Una giovane donna malinconica siede vicino a una finestra durante l'ora d'oro, illuminata dalla morbida luce del sole.",
+    "prompt": "A melancholic young East Asian woman with long, slightly messy black hair sits quietly beside a large window during golden hour, soft sunlight illuminating her face with warm cinematic tones. She gazes thoughtfully into the distance, natural makeup",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f6ea00c7b24a.jpg?v=20260720fix",
+    "author_name": "K",
+    "source_platform": "x",
+    "source_link": "https://x.com/ChillaiKalan__/status/2077627547173695645",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_082",
+    "sort_order": 82,
+    "title": "Donna nella Folla Animata",
+    "description": "Una donna cammina con calma in una folla sfocata e animata su una strada cittadina, guardando di lato.",
+    "prompt": "A woman walking calmly in the middle of a bustling crowd, with everyone else in motion and slightly blurred. She is looking to the side and slightly upward, with a calm, neutral expression and perhaps a very faint, subtle smile. The scene takes place on a city street.",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_6acc27c6f60b.jpg?v=20260720fix",
+    "author_name": "Kashberg",
+    "source_platform": "x",
+    "source_link": "https://x.com/Kashberg_0/status/2077624267752218752",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_083",
+    "sort_order": 83,
+    "title": "Ritratto Editoriale Fotorealistico",
+    "description": "Un ritratto fotorealistico a mezzo busto di una donna giapponese o coreana seducente e stupenda, sui 20 anni.",
+    "prompt": "Create a photorealistic editorial portrait. Waist-up portrait, eye-level view, front-left three-quarter view A 20s seductive stunning Japanese or Korean",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dda1aa7a7755.jpg?v=20260720fix",
+    "author_name": "Nailai7981",
+    "source_platform": "x",
+    "source_link": "https://x.com/VIBEQUIRKLABS/status/2077756195021177249",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_084",
+    "sort_order": 84,
+    "title": "Istantanea all'Angolo della Strada",
+    "description": "Una rapida istantanea mostra una giovane donna cinese che si gira accanto a una bicicletta blu scuro in una strada tranquilla.",
+    "prompt": "A quick snapshot taken on a quiet street corner, looks like someone called her name and she turned around mid-stride. A young Chinese woman in her early 20s stands beside a dark blue bicycle, her body half-turned, one hand resting on the bicycle seat, the",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_fd46b8756855.jpg?v=20260720fix",
+    "author_name": "simeon-sanai",
+    "source_platform": "x",
+    "source_link": "https://x.com/Naiknelofar788/status/2078669518839468367",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_085",
+    "sort_order": 85,
+    "title": "Schizzo Urbano ad Acquerello",
+    "description": "Un raffinato schizzo orizzontale ad acquerello raffigura un'iconica e pacifica location all'aperto in una città.",
+    "prompt": "Create a refined horizontal aquarelle urban sketch of a peaceful, iconic outdoor location in [PLACE], [CITY], using delicate freehand ink, restrained transparent watercolor",
+    "category": "Illustration",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_a45476c94dcf.jpg?v=20260720fix",
+    "author_name": "Zara",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZaraIrahh/status/2078405764910043477",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_086",
+    "sort_order": 86,
+    "title": "Poster di Moda in Monocromia",
+    "description": "Un poster di moda ultra-realistico in monocromia presenta una donna sicura di sé in una composizione audace in bianco e nero.",
+    "prompt": "Ultra-realistic IMAX-level Netflix-style cinematic monochrome fashion poster, 9:16 vertical composition, create a powerful women-perspective editorial poster featuring a confident stylish young adult woman in a bold black-and-white",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_50e950417186.jpg?v=20260720fix",
+    "author_name": "Zunaira Ai",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZunairaAi/status/2079030858238009582",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_087",
+    "sort_order": 87,
+    "title": "Illustrazione Capricciosa di un Cavallo",
+    "description": "Un'illustrazione capricciosa mostra un cavallo in un campo di denti di leone con semi che fluttuano nel vento.",
+    "prompt": "a whimsical illustration of a horse standing in a field of dandelions under a bright blue sky. Dandelion seeds float around the horse, and some are caught in the wind.",
+    "category": "Illustration",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dfe8fd820f44.jpg?v=20260720fix",
+    "author_name": "Heather Green",
+    "source_platform": "x",
+    "source_link": "https://x.com/heathergreen/status/2078996056080269496",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_088",
+    "sort_order": 88,
+    "title": "Donna Sola in Strada",
+    "description": "Una foto si concentra sul volto impassibile di una donna mentre figure sfocate si allontanano su una strada a grandangolo.",
+    "prompt": "Photo of a woman standing alone on the street, surrounded by blurred figures representing people moving aWCy from her. the focus is on her expression t and posture as she looks around straight poker face. she wears jeans and a red sweater. wide-angle",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dfd56154a3ad.jpg?v=20260720fix",
+    "author_name": "K",
+    "source_platform": "x",
+    "source_link": "https://x.com/ChillaiKalan__/status/2078753991820017828",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_089",
+    "sort_order": 89,
+    "title": "Ritratto Cinematografico in Primo Piano",
+    "description": "Un ritratto cinematografico fotorealistico in primo piano di una donna stupenda contro un muro chiaro e semplice.",
+    "prompt": "Reference image: conceptual variant. Photorealistic cinematic close-up portrait of a stunning young woman against a plain light wall during soft even studio lighting with gentle side illumination",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_a87b40f94188.jpg?v=20260720fix",
+    "author_name": "dreamy digital arts",
+    "source_platform": "x",
+    "source_link": "https://x.com/dreamydigiarts/status/2078797004688249229",
+    "language": "it",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_090",
+    "sort_order": 90,
+    "title": "Editoriale di Moda con Contorni",
+    "description": "Una fotografia editoriale di moda utilizza elementi delineati e un'estetica consumata per uno stile concettuale.",
+    "prompt": "Fashion-editorial photography style, using outlined elements and the distressed",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_d7dfb264c619.jpg?v=20260720fix",
+    "author_name": "WenyeBot",
+    "source_platform": "x",
+    "source_link": "https://x.com/WenyeBot/status/2078739130822066220",
     "language": "it",
     "featured": false
   }

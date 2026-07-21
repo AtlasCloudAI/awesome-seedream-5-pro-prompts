@@ -31,7 +31,7 @@
     "id": "sd5pro_003",
     "sort_order": 3,
     "title": "دليل تصميم الأوامر النصية للذكاء الاصطناعي",
-    "description": "عرض تقديمي يلخص الاختلافات وأفضل الممارسات لأوامر النصوص (LLM)، وتوليد الصور والفيديو.",
+    "description": "عرض تقديمي يلخص الاختلافات وأفضل الممارسات لأوامر النصوص لنماذج اللغة الكبيرة، وتوليد الصور والفيديو.",
     "prompt": "Based on collected prompt guide trends, create a presentation summarizing the differences and best practices in prompt design for LLM, image generation, and video generation models. The slide structure should be logical and easy to compare. After creation, provide explanatory text for each model category, including why this writing approach works and common failure cases.",
     "category": "Infographic",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix",
@@ -45,7 +45,7 @@
     "id": "sd5pro_004",
     "sort_order": 4,
     "title": "لماذا يتحول لون القمر إلى الأحمر",
-    "description": "رسم بياني معلوماتي فلكي يشرح سبب اللون الأحمر للقمر خلال الخسوف الكلي للقمر.",
+    "description": "رسم بياني معلوماتي فلكي يشرح اللون الأحمر للقمر أثناء الخسوف الكلي للقمر.",
     "prompt": "Generate an astronomy infographic explaining: Why is the moon red during a total lunar eclipse?",
     "category": "Infographic",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix",
@@ -58,8 +58,8 @@
   {
     "id": "sd5pro_005",
     "sort_order": 5,
-    "title": "مخطط موضح لقطع لحم البقر",
-    "description": "مخطط يضع علامات ويوضح القطع المختلفة من لحم البقر.",
+    "title": "مخطط تفصيلي لقطع لحم البقر",
+    "description": "مخطط يسمي ويوضح القطع المختلفة من لحم البقر.",
     "prompt": "Annotated diagram of beef cuts…",
     "category": "Infographic",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FyCLbj8Qgow7MNxLL4ycrU6bnog.jpg?v=20260720fix",
@@ -72,7 +72,7 @@
   {
     "id": "sd5pro_006",
     "sort_order": 6,
-    "title": "دليل مصور للمبتدئين في مراقبة الطيور",
+    "title": "دليل المبتدئين لمراقبة الطيور - رسم بياني معلوماتي",
     "description": "رسم بياني معلوماتي بتصميم شبكي يعرض ثمانية أنواع شائعة من الطيور مع رسوم توضيحية وأسماء.",
     "prompt": "Generate a beginner birdwatching guide infographic with a fresh color palette and grid layout, showcasing 8 common bird species with scientific illustrations, Chinese and English names, and identification features.",
     "category": "Infographic",
@@ -115,7 +115,7 @@
     "id": "sd5pro_009",
     "sort_order": 9,
     "title": "غلاف عرض تقني بتأثير الأكريليك ثلاثي الأبعاد",
-    "description": "صفحة غلاف تتميز بأعمال خطية، مساحات سلبية، وملمس أكريليك ثلاثي الأبعاد بأسلوب تقني.",
+    "description": "صفحة غلاف تتميز بأعمال الخطوط والمساحات السلبية وملمس الأكريليك ثلاثي الأبعاد بأسلوب تقني.",
     "prompt": "Generate a tech-themed presentation cover page with linework, negative space design, 3D acrylic texture, Blender style, C4D effect",
     "category": "Slides & Presentation",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix",
@@ -156,7 +156,7 @@
   {
     "id": "sd5pro_012",
     "sort_order": 12,
-    "title": "ملصق بأسلوب Y2K اللطيف مع ملمس الهلام",
+    "title": "ملصق بأسلوب Y2K اللطيف مع ملمس هلامي",
     "description": "ملصق باللون الأزرق الفاتح بأسلوب Y2K اللطيف مع عناصر شفافة ذات ملمس هلامي.",
     "prompt": "Create a poster based on my sketch. I want a Y2K cute style with transparent jelly-textured elements and an overall translucent light blue color palette",
     "category": "Poster Design",
@@ -165,13 +165,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YYaBbQd0eohXQPxZTrLczomsnzt.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_013",
     "sort_order": 13,
     "title": "ملصق تسويقي من سلسلة كولاج",
-    "description": "ملصق تصميمي متقدم باستخدام تخطيط طباعي محدد مع موضوع رئيسي جديد.",
+    "description": "ملصق تصميمي متقدم باستخدام تخطيط طباعة محدد مع موضوع رئيسي جديد.",
     "prompt": "Using the typography and layout from Image 1, generate a design-forward marketing poster in the same series, collage style, with Image 2 as the main subject…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SCz7bLkM0oH2qXx8M9HctwYFnIh.jpg?v=20260720fix",
@@ -179,7 +182,11 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NkGHbivHQo33YrxzUKzc3ZmNnUk.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KlM2bV7fYozJs4x2dkUcUiJOnTc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_014",
@@ -199,7 +206,7 @@
     "id": "sd5pro_015",
     "sort_order": 15,
     "title": "ملصق موسيقي بسيط لمهرجان Barrie",
-    "description": "ملصق بسيط لمهرجان Barrie الموسيقي على خلفية سوداء.",
+    "description": "ملصق بسيط لمهرجان Barrie الموسقي على خلفية سوداء.",
     "prompt": "Minimalist music festival poster titled \"Barrie.\" The composition features a predominantly black background…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg?v=20260720fix",
@@ -213,7 +220,7 @@
     "id": "sd5pro_016",
     "sort_order": 16,
     "title": "ملصق تعريض مزدوج بصورة ظلية",
-    "description": "ملصق لفيلم تشويق يظهر صورة ظلية بتعريض مزدوج.",
+    "description": "ملصق لفيلم تشويق يظهر صورة ظلية لشخصية بتعريض مزدوج.",
     "prompt": "Double exposure portrait silhouette suspense film poster…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/JPybbJoFhocpoBx4JXTcjuthn6b.jpg?v=20260720fix",
@@ -226,8 +233,8 @@
   {
     "id": "sd5pro_017",
     "sort_order": 17,
-    "title": "ملصق مستقبلي لحدث موسيقي بعنوان PIGITAL TSUNAMI",
-    "description": "ملصق لحدث موسيقي بأسلوب مستقبلي بعنوان PIGITAL TSUNAMI.",
+    "title": "ملصق مستقبلي لفعالية موسيقية بعنوان PIGITAL TSUNAMI",
+    "description": "ملصق لفعالية موسيقية بأسلوب مستقبلي بعنوان PIGITAL TSUNAMI.",
     "prompt": "Futurist style music event poster titled \"PIGITAL TSUNAMI\"…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A99UbE7aaocLe0xVdqKcX6psnlb.jpg?v=20260720fix",
@@ -240,8 +247,8 @@
   {
     "id": "sd5pro_018",
     "sort_order": 18,
-    "title": "Sweet Sunlight بتصميم طباعي كلاسيكي",
-    "description": "تصميم بعنوان Sweet Sunlight بخط آلة كاتبة كلاسيكي داخل مربع محيط.",
+    "title": "Sweet Sunlight بطباعة كلاسيكية قديمة",
+    "description": "تصميم بعنوان Sweet Sunlight بخط آلة كاتبة كلاسيكي داخل إطار محدد.",
     "prompt": "Bounding box on title - \"Sweet Sunlight\", use vintage typewriter font",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg?v=20260720fix",
@@ -249,13 +256,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EohwbPkM1oSPnkxYrRxc1daSnWf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_019",
     "sort_order": 19,
-    "title": "جدول محتويات Deep Purple",
-    "description": "تصميم بنص كبير باللون البنفسجي الغامق مكتوب عليه TABLE OF CONTENTS وقائمة مفردات.",
+    "title": "جدول محتويات باللون البنفسجي الداكن",
+    "description": "تصميم بنص كبير باللون البنفسجي الداكن مكتوب عليه TABLE OF CONTENTS وقائمة مفصلة.",
     "prompt": "Generate in the style of Image 1: large deep purple text on the left reading \"TABLE OF CONTENTS\", with itemized listing on the right…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix",
@@ -263,13 +273,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EohwbPkM1oSPnkxYrRxc1daSnWf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_020",
     "sort_order": 20,
     "title": "تصميم هوية بصرية بسيط لـ Blue Fox",
-    "description": "عرض للهوية البصرية للعلامة التجارية بأسلوب بسيط بألوان الكلين الأزرق والفضي، مع رسم ثعلب وشعار.",
+    "description": "عرض للهوية البصرية للعلامة التجارية بأسلوب بسيط بألوان الكلاين الأزرق والفضي مع رسم ثعلب وشعار.",
     "prompt": "Minimalist brand VI design showcase, featuring Klein blue and silver as primary colors, color-blocking aesthetic, fox graphic motif, highlighting the English brand logo \"Blue Fox\"…",
     "category": "Brand Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix",
@@ -283,7 +296,7 @@
     "id": "sd5pro_021",
     "sort_order": 21,
     "title": "إعلان بمشهد مصغر سريالي",
-    "description": "إعلان سريالي يدمج منتجًا في مشهد مصغر لحياتية مع معلومات المنتج.",
+    "description": "إعلان سريالي يدمج المنتج في مشهد مصغر للحياة اليومية مع معلومات المنتج.",
     "prompt": "A surreal miniature landscape creative commercial product advertisement, integrating the product into a fitting lifestyle scene, highlighting product information, suitable for commercial poster promotion…",
     "category": "Brand Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XaGSbPeDCoS9m1xdfu7c4ZNBnZf.jpg?v=20260720fix",
@@ -291,7 +304,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZFaQbExfsoT8M9xXftEcSEv5ndg.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_022",
@@ -305,12 +321,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HQdmbIPwSo4b3YxvPDVcaDgBnSg.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_023",
     "sort_order": 23,
-    "title": "تحول لوحة الألوان",
+    "title": "تحويل لوحة الألوان",
     "description": "صورة معدلة بتطبيق لوحة ألوان جديدة مستوحاة من مرجع.",
     "prompt": "Change color palette. Input image + color palette reference",
     "category": "Interior Design",
@@ -319,13 +338,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OKdXbkgYuoUuSAxy1mBcqk3sn4b.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_024",
     "sort_order": 24,
-    "title": "بانر إعلاني لسترة RESHAKE الشتوية",
-    "description": "بانر للتجارة الإلكترونية لـ RESHAKE يظهر عارضًا ذكرًا يروج لسترات الشتاء الواقية.",
+    "title": "بانر إعلاني لسترة RESHAKE الشتوية الواقية",
+    "description": "بانر للتجارة الإلكترونية لـ RESHAKE يظهر عارضًا ذكرًا يروج لسترات شتوية واقية.",
     "prompt": "Generate an e-commerce banner for RESHAKE brand's 2016 winter down jacket collection promotional campaign. On the right side of the frame, a male model facing the camera with a cool, intense expression…",
     "category": "E-commerce",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg?v=20260720fix",
@@ -338,8 +360,8 @@
   {
     "id": "sd5pro_025",
     "sort_order": 25,
-    "title": "واجهة بطل للتجارة الإلكترونية للحيوانات الأليفة بغروب الشمس",
-    "description": "قسم رئيسي للتجارة الإلكترونية بألوان دافئة يظهر كلبًا من نوع جولدن ريتريفر ثلاثي الأبعاد تخترق كفوفه الإطار لتصل إلى أزرار التنقل.",
+    "title": "واجهة رئيسية للتجارة الإلكترونية للحيوانات الأليفة بغروب الشمس",
+    "description": "قسم رئيسي للتجارة الإلكترونية بألوان دافئة يظهر كلبًا ذهبيًا ثلاثي الأبعاد تخترق كفوفه الإطار لتصل إلى أزرار التنقل.",
     "prompt": "16:9 pet e-commerce hero section UI, sunset warm tone, layered shadows. Top navigation…golden capsule button; right side Golden Retriever image, 3D effect: the Retriever's front paws break through the right frame, resting on the left-side buttons.",
     "category": "E-commerce",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix",
@@ -352,8 +374,8 @@
   {
     "id": "sd5pro_026",
     "sort_order": 26,
-    "title": "لوحة قصص مانغا يابانية من نوع سينين لمطاردة ليلية",
-    "description": "لوحة قصص مانغا بالأبيض والأسود تصور مطاردة سيارة ليلية وفتاة مسلحة في المطاردة.",
+    "title": "لوحة قصصية لمانغا يابانية من نوع سينين: مطاردة ليلية",
+    "description": "لوحة قصصية باللونين الأبيض والأسود لمانغا يابانية من نوع سينين تصور مطاردة سيارة ليلية وفتاة مسلحة في المطاردة.",
     "prompt": "Generate a full-page Japanese seinen black-and-white manga storyboard, nighttime chase and gunfight theme. Top panel: a car under headlights and chain-link fencing in the dark night; middle: a girl armed with a gun in pursuit…",
     "category": "Comic & Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix",
@@ -366,8 +388,8 @@
   {
     "id": "sd5pro_027",
     "sort_order": 27,
-    "title": "مانجا شريحة من الحياة الليلية للشخصيات ذات الفراء",
-    "description": "مانجا عمودية من أربع لوحات تظهر كلبًا ذئبيًا وقطةً في غرفة ليلاً.",
+    "title": "مانغا شريطية للحياة اليومية لشخصيات فروية ليلاً",
+    "description": "مانغا شريطية عمودية من أربع لوحات تظهر كلبًا ذئبيًا وقطة في غرفة ليلاً.",
     "prompt": "Draw a vertical four-panel furry slice-of-life comic, set in a room at night, featuring a wolf-dog furry and a tabby cat furry…",
     "category": "Comic & Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix",
@@ -380,8 +402,8 @@
   {
     "id": "sd5pro_028",
     "sort_order": 28,
-    "title": "مانجا رعب أمريكية في زقاق غوثام",
-    "description": "لوحات قصص في زقاق بمدينة غوثام تنقل أسلوب مانجا الرعب الأمريكية.",
+    "title": "مانغا رعب أمريكي: زقاق في Gotham City",
+    "description": "لوحات قصصية في زقاق بـ Gotham City تنقل أسلوب قصص الرعب المصورة الأمريكية.",
     "prompt": "Generate a set of American horror comic storyboards, the story could take place in a Gotham City alley…",
     "category": "Comic & Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VtFTbo97zoiioOxxcOLcm9nenLg.jpg?v=20260720fix",
@@ -394,8 +416,8 @@
   {
     "id": "sd5pro_029",
     "sort_order": 29,
-    "title": "لوحة قصص فيلم من ثلاث لوحات لموقف سيارات ليلاً",
-    "description": "لوحة قصص فيلم تظهر موقف سيارات ليلاً عبر ثلاث لوحات أفقية.",
+    "title": "لوحة قصصية سينمائية: موقف سيارات ليلاً بثلاث لوحات",
+    "description": "لوحة قصصية سينمائية تظهر موقف سيارات ليلاً عبر ثلاث لوحات أفقية.",
     "prompt": "Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establishing shot of a parking lot at night…",
     "category": "Film Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix",
@@ -408,8 +430,8 @@
   {
     "id": "sd5pro_030",
     "sort_order": 30,
-    "title": "لوحة قصص من ست لوحات لمشهد شارع غربي كلاسيكي",
-    "description": "لوحة قصص أفقية عريضة من ست لوحات تصور مشهد شارع غربي كلاسيكي.",
+    "title": "لوحة قصصية غربية: شارع كلاسيكي بست لوحات",
+    "description": "لوحة قصصية أفقية عريضة من ست لوحات تصور مشهدًا في شارع غربي كلاسيكي.",
     "prompt": "Western film storyboard, 6 panels in wide horizontal ratio, no text throughout: Panel 1, extreme wide shot, both ends of the street…",
     "category": "Film Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix",
@@ -423,7 +445,7 @@
     "id": "sd5pro_031",
     "sort_order": 31,
     "title": "لقطة من فوق الكتف لامرأة حزينة",
-    "description": "لقطة من فوق الكتف لامرأة بنية الشعر تبدو حزينة، في حوالي الأربعين من عمرها.",
+    "description": "لقطة من فوق الكتف لامرأة حزينة المظهر، بنية الشعر، في الأربعينيات من عمرها تقريبًا.",
     "prompt": "Over-the-shoulder shot, featuring a brown-haired European or American woman around 40 years old with a sad expression…",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg?v=20260720fix",
@@ -436,8 +458,8 @@
   {
     "id": "sd5pro_032",
     "sort_order": 32,
-    "title": "لوحة قصص بأسلوب الأنيمي لمشهد صيني قديم من نوع Xianxia",
-    "description": "لوحة قصص توضح مشهدًا صينيًا قديمًا من نوع Xianxia بأسلوب فن الأنيمي.",
+    "title": "لوحة قصصية بأسلوب الأنيمي: مشهد صيني قديم من نوع Xianxia",
+    "description": "لوحة قصصية تصور مشهدًا صينيًا قديمًا من نوع Xianxia بأسلوب فن الأنيمي.",
     "prompt": "Anime-style ancient Chinese xianxia scene storyboard…",
     "category": "Film Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DQO2blj1loU7r4xQ5e1cLH6qnng.jpg?v=20260720fix",
@@ -450,8 +472,8 @@
   {
     "id": "sd5pro_033",
     "sort_order": 33,
-    "title": "كتاب فني مصور للزي المدرسي",
-    "description": "رسم توضيحي بانورامي لكتاب مصور يصور بنطلون الزي المدرسي بأسلوب فني راقٍ.",
+    "title": "زي مدرسي من كتاب صور فني",
+    "description": "رسم توضيحي بانورامي على طراز كتاب الصور يصور بنطلون الزي المدرسي بأسلوب فني راقٍ.",
     "prompt": "Artistic picture book, panoramic view, school uniform trousers, refined makeup, accessories, illustrated in the style of Raymond Briggs and Mattias Adolfsson…",
     "category": "Illustration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg?v=20260720fix",
@@ -479,7 +501,7 @@
     "id": "sd5pro_035",
     "sort_order": 35,
     "title": "إضافة شخصية سائرة إلى الرسم التخطيطي",
-    "description": "تمت إضافة شخصية سائرة إلى مسار المقدمة في رسم تخطيطي موجود مسبقًا.",
+    "description": "تمت إضافة شخصية تسير على الممر الأمامي لرسم تخطيطي موجود مسبقًا.",
     "prompt": "Based on the sketch, add a walking character on the foreground path…",
     "category": "Illustration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MlA2bxTw4oD6FgxZmF0cntf7nCf.jpg?v=20260720fix",
@@ -487,13 +509,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EKwtbwJTSofQZrxdwafcQDYrnXc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_036",
     "sort_order": 36,
-    "title": "تمثال إلهة قديمة بثلاثة أوضاع",
-    "description": "عروض إسقاطية (أورثوغرافيك) تُظهر المنظر الأمامي والجانبي والخلفي لتمثال إلهة صينية قديمة عملاق منحوت.",
+    "title": "تمثال إلهة قديمة بثلاث مناظر",
+    "description": "مناظر إسقاطية متعامدة تُظهر الواجهة الأمامية والجانبية والخلفية لتمثال عملاق منحوت لإلهة صينية قديمة.",
     "prompt": "Standard three-view orthographic turntable: front view, side view, back view, of a giant ancient Chinese goddess stone statue with an intricately carved stone headpiece and…",
     "category": "Character Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Zw8HbSeHxoeY54xWwlOcMf7in1d.jpg?v=20260720fix",
@@ -506,8 +531,8 @@
   {
     "id": "sd5pro_037",
     "sort_order": 37,
-    "title": "دراجة ساعي بريد سوفيتية بثلاثة أوضاع",
-    "description": "رسم تقني يُظهر المنظر الأمامي والجانبي والعلوي لدراجة سوفيتية قديمة.",
+    "title": "دراجة ساعي بريد سوفيتي بثلاث مناظر",
+    "description": "رسم تقني يُظهر المناظر الأمامية والجانبية والعلوية لدراجة سوفيتية قديمة.",
     "prompt": "Generate a three-view of a Soviet-era postal messenger bicycle…",
     "category": "Character Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix",
@@ -520,8 +545,8 @@
   {
     "id": "sd5pro_038",
     "sort_order": 38,
-    "title": "ورقة تصميم شخصية RIN الهاكر في عالم السايبربانك",
-    "description": "ورقة تصميم تحتوي على عدة مناظر وتفاصيل لشخصية هاكر سايبربانك على طراز الأنمي.",
+    "title": "ورقة تصميم شخصية RIN الفتاة القرصانة في عالم السايبربانك",
+    "description": "ورقة تصميم تعرض مناظر متعددة وتفاصيل لشخصية أنمي على طراز السايبربانك لفتاة قرصانة.",
     "prompt": "Cyberpunk-style anime character design sheet, showing three-view turnaround, close-up portraits, and accessory details of a hacker girl named \"RIN\"…",
     "category": "Character Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix",
@@ -534,8 +559,8 @@
   {
     "id": "sd5pro_039",
     "sort_order": 39,
-    "title": "أربع صور نهائية لمشهد لعبة",
-    "description": "أربع نسخ مُصورة بجودة عالية من بيئة لعبة فيديو مرسومة تخطيطيًا.",
+    "title": "أربع صور نهائية لمشهد في لعبة",
+    "description": "أربع نسخ مُصورة بجودة عالية من بيئة فيديو جيم مرسومة بشكل تخطيطي.",
     "prompt": "Please transform this sketch into 4 high-quality finished images of a game scene with……",
     "category": "Illustration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BURCblKzlovIMYxrcSZcF71MnQc.jpg?v=20260720fix",
@@ -543,13 +568,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Yq3VbgKpeocFYqxLLybcERktnHe.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_040",
     "sort_order": 40,
-    "title": "صورة منتج نهائي لتصميم أزياء",
-    "description": "صورة مصقولة وواقعية لقطعة ملابس مبنية على رسم تخطيطي أصلي للمصمم.",
+    "title": "صورة منتج نهائية لتصميم أزياء",
+    "description": "صورة واقعية مصقولة لقطعة ملابس مبنية على رسم تخطيطي أصلي لمصمم.",
     "prompt": "Please transform this fashion design sketch into a high-quality finished product image.……",
     "category": "E-commerce",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix",
@@ -557,12 +585,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UXbVbZLTvoeJkZxqNmecinZFnbd.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_041",
     "sort_order": 41,
-    "title": "مشهد مصغر واقعي من لعب LEGO",
+    "title": "مشهد واقعي مصغر من لعب LEGO",
     "description": "صورة مُحوّلة لتبدو كمجموعة LEGO مفصلة بأسلوب مشهد مصغر (ديوراما).",
     "prompt": "Transform the image into a realistic LEGO toy effect with miniature scene styling.",
     "category": "Style Transfer",
@@ -571,7 +602,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QSD8b1VDCoy3A3xOHedcV0nJn8c.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_042",
@@ -585,13 +619,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UznubLD3woRBDwx3BwtcdYEJnJh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_043",
     "sort_order": 43,
-    "title": "صورة شخصية بكاميرا Hasselblad الفيلمية مع إضاءة هامشية",
-    "description": "صورة شخصية ذات نسيج حبيبات الفيلم، وإضاءة هامشية درامية، وإبرازات ساطعة على الوجه.",
+    "title": "صورة شخصية بكاميرا هاسيلبلاد على فيلم مع إضاءة هامشية",
+    "description": "صورة شخصية ذات نسيج حبيبات الفيلم، وإضاءة هامشية دراماتيكية، وإبرازات ساطعة على الوجه.",
     "prompt": "Hasselblad film texture, light and shadow, rim light, (facial overexposure)…",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix",
@@ -599,7 +636,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NO81bbDXSobbejx4tVycewI6nve.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_044",
@@ -613,13 +653,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/J4jHbIvC9o99PKxaVoDcrgP1nkd.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_045",
     "sort_order": 45,
     "title": "نقل إطلالة ستايت ستايل لإنستغرام",
-    "description": "امرأة ترتدي ملابس وإكسسوارات امرأة أخرى بأسلوب تصوير الشارع العادي والعصري.",
+    "description": "امرأة ترتدي ملابس وإكسسوارات امرأة أخرى بأسلوب تصوير شارع عارض وعصري.",
     "prompt": "Make the woman in Image 1 wear the clothing, jewelry, and accessories from Image 2. The whole photo should look like an Instagram street shot.",
     "category": "Outfit Transfer",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AEclbEnJMoQMXxxWiNTcGOS6n9f.jpg?v=20260720fix",
@@ -627,13 +670,17 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KT1Nb6xRoo1ZO0xiVlJckcMnn8f.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Fj9YbcMUSoVUYZxC1oycjyOqndh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_046",
     "sort_order": 46,
     "title": "استبدال ملابس الزفاف بخلفية متناسقة",
-    "description": "شخصان في صورة يرتديان ملابس الزفاف مع خلفية وإضاءة متطابقة.",
+    "description": "شخصان في صورة يرتديان ملابس زفاف مع خلفية وإضاءة متطابقتين.",
     "prompt": "Replace the outfits of the two people in Image 1 with the wedding attire from Images 2 and 3, keep the background color consistent, and adjust lighting to match the overall style…",
     "category": "Outfit Transfer",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix",
@@ -641,13 +688,18 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TLzebexBFopDUHxLBhic6IlGnIh.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/P1mpbUYeyoQDZ1x5RetcHV6bnjc.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BEI6bcYzMoVqOKxXYjgcSjsbn6e.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_047",
     "sort_order": 47,
-    "title": "تحويل إلى أسلوب الرسم المسطح",
-    "description": "صورة مُحوّلة إلى تصميم جرافيكي حديث بأشكال بسيطة وألوان صلبة.",
+    "title": "تحويل إلى أسلوب الرسم التوضيحي المسطح",
+    "description": "صورة مُحوّلة إلى تصميم جرافيك حديث بأشكال بسيطة وألوان صلبة.",
     "prompt": "Transform the image style into flat illustration style",
     "category": "Style Transfer",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NUo0bZxe7okCxqxdawKc0XU4n0b.jpg?v=20260720fix",
@@ -655,13 +707,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MCZfbhD9lowIH0xu5H9c6UWVnMf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_048",
     "sort_order": 48,
     "title": "تغيير أسلوب النحت البارز",
-    "description": "صورة مُعدّلة لتشبه نحتًا منحوتًا أو مسبوكًا بأسطح مرتفعة.",
+    "description": "صورة مُعدّلة لتبدو كمنحوتة محفورة أو مسبوكة بأسطح مرتفعة.",
     "prompt": "Change to relief sculpture style",
     "category": "Style Transfer",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FLbhbxeAloklCUxOWWxckvx2ntf.jpg?v=20260720fix",
@@ -669,7 +724,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WIvBbFHDWoCQ5hxHojjci0R8nZg.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_049",
@@ -683,13 +741,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/LFA9bvRIZoj2zmxZXy9ckcifnDf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_050",
     "sort_order": 50,
     "title": "صورة فوتوغرافية قديمة مُرمّمة",
-    "description": "صورة قديمة تم توضيح الشخصية فيها وإحياء ألوانها الأصلية.",
+    "description": "صورة فوتوغرافية قديمة تم توضيح الشخصية فيها وإحياء ألوانها الأصلية.",
     "prompt": "Restore this old photo, making the subject clearer and restoring colors",
     "category": "Restoration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PWYibKydnoIXLSxxKsPcjmC8nQc.jpg?v=20260720fix",
@@ -697,13 +758,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IitgbjnaLodOltxJxVOci4T2ncc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_051",
     "sort_order": 51,
-    "title": "صورة مُصحّحة من الإضاءة الخلفية",
-    "description": "نفس الصورة مع تحسين التعريض الضوئي لإصلاح مشكلة الإضاءة الخلفية.",
+    "title": "صورة مُصححة من الإضاءة الخلفية",
+    "description": "نفس الصورة مع تحسين التعريض الضوئي لإصلاح الإضاءة الخلفية.",
     "prompt": "Keep the image unchanged and correct the backlighting.",
     "category": "Retouching",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix",
@@ -711,12 +775,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BQP6b9QPzoGfFixThbDcTNzrnXf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_052",
     "sort_order": 52,
-    "title": "تطبيق فلتر Fujifilm NC",
+    "title": "تم تطبيق فلتر Fujifilm NC",
     "description": "الصورة الآن تحتوي على محاكاة فلتر الفيلم الكلاسيكي Fujifilm Natural Chrome.",
     "prompt": "Add Fujifilm NC filter",
     "category": "Style Transfer",
@@ -725,7 +792,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VVkmbTEpUoMHltxa90EccUOfn5e.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_053",
@@ -739,13 +809,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SIS2bDqYuoJuIpxZw5LcDzdhn5f.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_054",
     "sort_order": 54,
     "title": "مظهر مكياج طبيعي أقوى",
-    "description": "أسلوب مكياج مختلف وأكثر كثافة لا يزال يبدو طبيعيًا بشكل عام.",
+    "description": "أسلوب مكياج مختلف وأكثر كثافة مع ذلك يبدو طبيعيًا بشكل عام.",
     "prompt": "Change to a different makeup look with stronger intensity while keeping the overall makeup natural",
     "category": "Retouching",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DjRPbepoGoVP4KxitW3cK1WhnIp.jpg?v=20260720fix",
@@ -753,7 +826,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/H31MbrQrWoT8ztxARFkcN29Infh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_055",
@@ -767,7 +843,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZyADbn7lvoJhuAxduyVcYmkpnCd.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_056",
@@ -786,8 +865,8 @@
   {
     "id": "sd5pro_057",
     "sort_order": 57,
-    "title": "حزمة ملصقات كرتونية للتعبير عن المشاعر",
-    "description": "مجموعة ملصقات من أربع لوحات تظهر شخصية كرتونية تعبّر عن مشاعر مختلفة.",
+    "title": "حزمة ملصقات عاطفة كرتونية",
+    "description": "مجموعة ملصقات من أربع لوحات تظهر شخصية كرتونية تعبر عن مشاعر مختلفة.",
     "prompt": "Based on the cartoon character, design different emotions — happy, sad, aggrieved, angry — and generate a four-panel sticker pack",
     "category": "Stickers",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix",
@@ -795,7 +874,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FytBb0AgVoL6pKxpL3zc4EdanQc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_058",
@@ -809,13 +891,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkgRbmVP1o4KqixE60RcpRk3nme.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_059",
     "sort_order": 59,
-    "title": "صورة هوية لقط Ragdoll",
-    "description": "صورة هوية بحجم بوصة واحدة لقطة من سلالة Ragdoll.",
+    "title": "صورة هوية لقطة من سلالة راغدول",
+    "description": "صورة هوية بحجم بوصة واحدة لقطة من سلالة راغدول.",
     "prompt": "Generate a 1-inch ID photo for this Ragdoll kitten",
     "category": "ID Photo",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix",
@@ -823,7 +908,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KbRXbSAQ5or3aXxSdcncUEagnie.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_060",
@@ -837,13 +925,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AwNZb9apxoOFzfxVW2TcoJCwnTf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_061",
     "sort_order": 61,
-    "title": "دا فنشي وفان غوخ يرفعان إشارة السلام",
-    "description": "دا فنشي وفان غوخ يرفعان إشارة السلام بينما مايكل أنجلو يظهر خلفهما في الصورة فجأة.",
+    "title": "دا فنشي وفان غوخ يرفعان علامة السلام",
+    "description": "دا فنشي وفان غوخ يرفعان علامة السلام بينما مايكل أنجلو يقتحم الصورة من الخلف.",
     "prompt": "Da Vinci and Van Gogh facing the camera making peace signs, with Michelangelo photobombing from behind them…",
     "category": "Creative Fun",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg?v=20260720fix",
@@ -856,8 +947,8 @@
   {
     "id": "sd5pro_062",
     "sort_order": 62,
-    "title": "مثلجات مخروطية مع أفق المدينة",
-    "description": "يد تمسك بمثلجات مخروطية أمام خلفية أفق مدينة وسماء زرقاء.",
+    "title": "مثلجات بخط أفق المدينة",
+    "description": "يد تمسك بآيس كريم على خلفية خط أفق المدينة والسماء الزرقاء.",
     "prompt": "A hand is holding an ice cream cone, with a city skyline and a clear blue sky in the background.……",
     "category": "Creative Fun",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix",
@@ -871,7 +962,7 @@
     "id": "sd5pro_063",
     "sort_order": 63,
     "title": "صورة شخصية لعازف كمان بأسلوب المستقبلية الرجعية",
-    "description": "رجل طويل الشعر يرتدي رداءً كستنائيًا ونظارات شمسية يمسك بقوس كمان بأسلوب المستقبلية الرجعية.",
+    "description": "رجل طويل الشعر يرتدي ثوبًا كستنائيًا ونظارات شمسية يمسك بقوس كمان بأسلوب المستقبلية الرجعية.",
     "prompt": "Retro-futurism style portrait photography, a middle-aged man with long hair wearing a burgundy gown and sunglasses, holding a violin bow…",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg?v=20260720fix",
@@ -885,7 +976,7 @@
     "id": "sd5pro_064",
     "sort_order": 64,
     "title": "مشهد ألعاب سريالي",
-    "description": "رأس ذو فراء أزرق يراقب فقاعة تعكس الضوء بالقرب من كرة خيوط ومكعبات.",
+    "description": "رأس ذو فراء أزرق يراقب فقاعة تعكس الضوء قرب كرة خيط ومكعبات.",
     "prompt": "Red box: a giant blue-furred head with a comically squeezed expression, looking at the bubble in front; Green box: a transparent bubble reflecting indoor lighting; Yellow box: a large warm beige yarn ball; Blue box: building blocks stacked together — warm dark gray arch shape, warm light gray semi-cylinder, lake blue cylinder, deep lake blue ramp, cobalt blue semi-disc; Purple box: a grass-green blanket with fringe draped over a sofa",
     "category": "Creative Fun",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Onlsb5mmCo6wkaxco5cczzLgnUf.jpg?v=20260720fix",
@@ -893,13 +984,17 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KrdNbd9vdoI63exU35qc9jsonCb.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AbuMbTZBPoG0sdx1EhQcJsaFnub.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_065",
     "sort_order": 65,
     "title": "تصميم مرئي للتجارة الإلكترونية",
-    "description": "أنشئ تصميمًا باستخدام صورة إدخال ومرجع لوحة ألوان.",
+    "description": "أنشئ تصميمًا باستخدام صورة مدخلة ومرجع لنظام ألوان.",
     "prompt": "E-commerce design. Input image + color palette reference",
     "category": "E-commerce",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix",
@@ -907,13 +1002,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VGIXbHnD5oBnfpxWd3wcdj7HnDb.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_066",
     "sort_order": 66,
-    "title": "إدخال الصورة ولوحة الألوان",
-    "description": "معالجة صورة أصلية جنبًا إلى جنب مع مرجع لوحة ألوان مُقدم.",
+    "title": "إدخال الصورة ونظام الألوان",
+    "description": "معالجة صورة أصلية بجانب مرجع لنظام ألوان مُقدم.",
     "prompt": "Input Original Image + Color Palette Reference",
     "category": "Illustration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V17FbQ8QroJsnvxfSFocD2nrnlf.jpg?v=20260720fix",
@@ -921,13 +1019,17 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VdA8bfmQqosANbxi7GQckz1LnZg.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DSrPbOoUboeWuOxkxSUcyFomnXe.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_067",
     "sort_order": 67,
     "title": "وضعية شخصية مركبة",
-    "description": "أنشئ لقطة لجسم كامل بحركات محددة لليدين والساقين والدعائم.",
+    "description": "أنشئ لقطة لجسم بالكامل بحركات محددة لليدين والقدمين والدعائم.",
     "prompt": "Generate a full-body shot of the person in Image 3, and adjust her pose so her right hand motion matches Image 1, holding the first speaker from Image 4, and her leg motion matches Image 2",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Q8txbHeE0olIdzxsgh5c9GINn9b.jpg?v=20260720fix",
@@ -935,12 +1037,18 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/J2VSbwVtvowr86x6Z0rcGBmsnEf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DD2fbj4Hlo4rUjxaXWUc40rFnib.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OzyxbA971oALRYxilMlc2HmFn7e.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A3bUbP6H2oTFWjxyzmrcvvUOn1b.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_068",
     "sort_order": 68,
-    "title": "تأليف طبيعة صامتة واقعية",
+    "title": "تكوين طبيعة صامتة واقعي",
     "description": "رتب سبعة أشياء في صورة فوتوغرافية بدقة في المواد والإضاءة.",
     "prompt": "Precisely cut out the 7 white-background objects I provided and compose them into a realistic still life photograph with the specified composition. Ensure correct perspective, lighting, shadow, and spatial relationships. Faithfully reproduce material details of wood grain, leather, lace, glass jelly, and feathers, creating a high-quality image that interweaves realism with playfulness and blends retro with modern aesthetics.",
     "category": "Interior Design",
@@ -949,12 +1057,23 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YkWAbvfTqo10mEx57ircGKHinxg.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KPTVbFTheoPOUrx3EemcWsImn4c.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PRjIbiAUcoC3WFxM2tOceWAOn5f.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/GP2EbV2ICoVXFVxCj7QcErA6nrr.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KBLJbBLLjoRKbkx7LzocajDUnmE.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SdudbHux2oMzKxxO0XccTuJHn8g.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QrmabEKi2oLQn3xh50wcQFldn1c.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ILCcbkdK7oHPMbx6RDMcCimvnVf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SlbJbgP5hocPBGxJuMKc9UlUnHh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_069",
     "sort_order": 69,
-    "title": "ملصق برانش مرسوم يدويًا",
+    "title": "ملصق برانش مرسوم باليد",
     "description": "حوّل الأطعمة إلى أسلوب رسومي مع تسميات لملصق برانش موسمي.",
     "prompt": "Place the foods from the images on the same table and transform them into a hand-drawn style. Use white linework to label each dish and add handwritten-style Chinese annotations. Create a promotional poster for a dish for “Seasonal Limited Brunch.”",
     "category": "Illustration",
@@ -963,12 +1082,18 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ar",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YXQ3bzVAhods3bxS1EMcCy3ZnCc.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BgxbboCT3oZcqkxpxoccxdDQnng.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ebn1bhCbZoyGpjxzCpYckSh2n1c.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YQn8bVEwvosqnRxQJMOcfqQ4nbh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_070",
     "sort_order": 70,
-    "title": "استبدل الصور عند النقاط",
+    "title": "استبدال الصور عند نقاط محددة",
     "description": "استبدل نقاطًا محددة في الصورة 1 بصور من الصور 2 و 3 و 4 و 5.",
     "prompt": "Point and bounding box selection: Image 1 <point>518 135</point> replace photo with Image 2; Image 1 <point>556 349</point> replace photo with Image 3; Image 1 <point>549 555</point> replace photo with Image 4; Image 1 <point>632 784</point> replace photo with Image 5.",
     "category": "Poster Design",
@@ -976,6 +1101,293 @@
     "author_name": "community",
     "source_platform": "community",
     "source_link": "",
+    "language": "ar",
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QNB2bJ0bJoLtJxx2FGkcvtOEnlf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CycubNaK5oQEBZxQeNrcxUhHnCf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V0ovbK3VXoLfSqx3vyJcp9Fznkh.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SliLbSSaxogsxaxhlIRc2Disniy.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KXENb0zUyod0Fmx63PfcPkzXnqc.jpg?v=20260720fix"
+    ]
+  },
+  {
+    "id": "sd5pro_071",
+    "sort_order": 71,
+    "title": "محارب فايكنغ في ساحة المعركة",
+    "description": "محارب فايكنغ سينمائي يقف مستعدًا بوجه دموي وسهام في درعه.",
+    "prompt": "create an image of a cinematic vikking style warrior with his big sword ready on a battlefield with blood on this face, arrows stuck on to his armour facing the",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_eca49bc5ea95.jpg?v=20260720fix",
+    "author_name": "Adithya Thatipalli",
+    "source_platform": "x",
+    "source_link": "https://x.com/adithatipalli/status/2075113723719729261",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_072",
+    "sort_order": 72,
+    "title": "نص بين علامتي اقتباس",
+    "description": "أضف علامتي اقتباس لضمان ظهور نص مثل 'صباح الخير!' في الصورة.",
+    "prompt": "Add quote marks around text to ensure the text appears in your image \"Good morning!\" \"Happy Caturday!\"",
+    "category": "Social Media",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_5258598740a5.jpg?v=20260720fix",
+    "author_name": "Cayla Catz",
+    "source_platform": "x",
+    "source_link": "https://x.com/CaylaCatz/status/2075960554917941515",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_073",
+    "sort_order": 73,
+    "title": "غلاف مجلة أزياء",
+    "description": "يُظهر غلاف أزياء فائق الواقعية عارضة ببشرة تشبه الخزف وقبعة نحتية.",
+    "prompt": "Ultra-realistic high-fashion editorial magazine cover featuring a stunning female model with flawless porcelain skin, piercing emerald eyes, and matte burgundy lips. She wears an oversized ivory sculptural hat, a sleek black turtleneck,",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_b9a3c7f63650.jpg?v=20260720fix",
+    "author_name": "Snow",
+    "source_platform": "x",
+    "source_link": "https://x.com/iamrealsnow/status/2075797065427529769",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_074",
+    "sort_order": 74,
+    "title": "حقل أرز ياباني",
+    "description": "لقطة فيلم سينمائية تُظهر حقل أرز ريفي ياباني في الصيف من زاوية ثلاثة أرباع.",
+    "prompt": "Cinematic film still, rural Japanese rice paddy landscape in summer, three-quarter angle view down a narrow",
+    "category": "Social Media",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_ee34d8a6bbbf.jpg?v=20260720fix",
+    "author_name": "TSUBAKI",
+    "source_platform": "x",
+    "source_link": "https://x.com/AI__TSUBAKI/status/2076624942553330149",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_075",
+    "sort_order": 75,
+    "title": "إعلان علامة تجارية مركب",
+    "description": "إعلان مركب إبداعي يدمج بسلاسة صورة لمنتج مع عناصر مرسومة باليد باللون الأسود.",
+    "prompt": "Creative composite brand advertisement, 16:9 horizontal aspect ratio, clean white background, studio lighting, sharp focus. A real-life photograph of a [BRAND PRODUCT] is physically placed and seamlessly integrated with a hand-drawn black",
+    "category": "Brand Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f1af42cb8262.jpg?v=20260720fix",
+    "author_name": "Zephyra Leigh",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZephyraLeigh/status/2076309161801887774",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_076",
+    "sort_order": 76,
+    "title": "رائد فضاء في مطر طوكيو",
+    "description": "رائد فضاء سينمائي يمشي في طوكيو الممطرة مع انعكاسات النيون، فائق الواقعية.",
+    "prompt": "A cinematic astronaut walking through Tokyo in the rain, neon reflections, ultra realistic.",
+    "category": "Infographic",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dd2056ba59c3.jpg?v=20260720fix",
+    "author_name": "LinkModel",
+    "source_platform": "x",
+    "source_link": "https://x.com/link_model_ai/status/2076305578885030256",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_077",
+    "sort_order": 77,
+    "title": "ملصق تحريري لملابس الشارع",
+    "description": "ملصق عمودي يستخدم خلفية بيضاء قشدية وخطوط فقاعية لجمالية شبابية جريئة.",
+    "prompt": "Create a vertical streetwear editorial poster with a bold youth-culture aesthetic. Use an off-white paper background and a clean magazine-style layout. At the top, place oversized rounded bubble",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_768d731baa75.jpg?v=20260720fix",
+    "author_name": "Linus ✦ Ekenstam",
+    "source_platform": "x",
+    "source_link": "https://x.com/LinusEkenstam/status/2076273553964687462",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_078",
+    "sort_order": 78,
+    "title": "شاشة قفل أنيمي رجعية من الثمانينيات",
+    "description": "تتميز شاشة قفل بسيطة برسم أنيمي رجعي من الثمانينيات على هيئة سيل مع تدرجات مرش هوائي.",
+    "prompt": "Retro 80s anime cel illustration with airbrushed gradients and film grain. Minimalist lock screen",
+    "category": "Illustration",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f1549f674d93.jpg?v=20260720fix",
+    "author_name": "Magnific",
+    "source_platform": "x",
+    "source_link": "https://x.com/magnific/status/2076964679784780139",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_079",
+    "sort_order": 79,
+    "title": "محطة قطار لسن البلوغ",
+    "description": "بورتريه سينمائي لتلميذة يابانية في محطة ضواحي في ظهيرة صيفية مشمسة.",
+    "prompt": "A cinematic coming-of-age portrait of a Japanese high school girl at a suburban train station on a bright summer afternoon, wearing a white sailor-style school uniform with a light blue skirt, carrying a navy school bag and backpack. Natural wind",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_e618ac7cdcf4.jpg?v=20260720fix",
+    "author_name": "Kashberg",
+    "source_platform": "x",
+    "source_link": "https://x.com/Kashberg_0/status/2077421901656572021",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_080",
+    "sort_order": 80,
+    "title": "ملصق سفر بسيط",
+    "description": "ملصق بسيط فاخر يُطوّق معلمًا أيقونيًا من خلال نافذة مفتوحة كبيرة بإطار أبيض.",
+    "prompt": "Create a premium minimalist travel poster with a clean editorial aesthetic. A large open white-framed window is centered in the composition, perfectly framing an iconic landmark or scenic destination",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_4761b6b5b076.jpg?v=20260720fix",
+    "author_name": "simeon-sanai",
+    "source_platform": "x",
+    "source_link": "https://x.com/Naiknelofar788/status/2077317872662233456",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_081",
+    "sort_order": 81,
+    "title": "بورتريه ساعة ذهبية حزين",
+    "description": "شابة حزينة تجلس بجانب النافذة خلال الساعة الذهبية، مضاءة بأشعة الشمس الناعمة.",
+    "prompt": "A melancholic young East Asian woman with long, slightly messy black hair sits quietly beside a large window during golden hour, soft sunlight illuminating her face with warm cinematic tones. She gazes thoughtfully into the distance, natural makeup",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f6ea00c7b24a.jpg?v=20260720fix",
+    "author_name": "K",
+    "source_platform": "x",
+    "source_link": "https://x.com/ChillaiKalan__/status/2077627547173695645",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_082",
+    "sort_order": 82,
+    "title": "امرأة في حشد مزدحم",
+    "description": "امرأة تمشي بهدوء في حشد مزدحم ضبابي في شارع مدينة، تنظر إلى الجانب.",
+    "prompt": "A woman walking calmly in the middle of a bustling crowd, with everyone else in motion and slightly blurred. She is looking to the side and slightly upward, with a calm, neutral expression and perhaps a very faint, subtle smile. The scene takes place on a city street.",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_6acc27c6f60b.jpg?v=20260720fix",
+    "author_name": "Kashberg",
+    "source_platform": "x",
+    "source_link": "https://x.com/Kashberg_0/status/2077624267752218752",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_083",
+    "sort_order": 83,
+    "title": "بورتريه تحريري فوتوغرافي الواقعية",
+    "description": "بورتريه واقعي فوتوغرافي حتى الخصر لامرأة يابانية أو كورية مذهلة وجذابة في عشرينياتها.",
+    "prompt": "Create a photorealistic editorial portrait. Waist-up portrait, eye-level view, front-left three-quarter view A 20s seductive stunning Japanese or Korean",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dda1aa7a7755.jpg?v=20260720fix",
+    "author_name": "Nailai7981",
+    "source_platform": "x",
+    "source_link": "https://x.com/VIBEQUIRKLABS/status/2077756195021177249",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_084",
+    "sort_order": 84,
+    "title": "لقطة لحظية في زاوية شارع",
+    "description": "لقطة سريعة تُظهر شابة صينية تستدير بجانب دراجة هوائية زرقاء داكنة في شارع هادئ.",
+    "prompt": "A quick snapshot taken on a quiet street corner, looks like someone called her name and she turned around mid-stride. A young Chinese woman in her early 20s stands beside a dark blue bicycle, her body half-turned, one hand resting on the bicycle seat, the",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_fd46b8756855.jpg?v=20260720fix",
+    "author_name": "simeon-sanai",
+    "source_platform": "x",
+    "source_link": "https://x.com/Naiknelofar788/status/2078669518839468367",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_085",
+    "sort_order": 85,
+    "title": "رسم حضري بالألوان المائية",
+    "description": "رسم أفقي أنيق بالألوان المائية يصور موقعًا خارجيًا أيقونيًا هادئًا في مدينة.",
+    "prompt": "Create a refined horizontal aquarelle urban sketch of a peaceful, iconic outdoor location in [PLACE], [CITY], using delicate freehand ink, restrained transparent watercolor",
+    "category": "Illustration",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_a45476c94dcf.jpg?v=20260720fix",
+    "author_name": "Zara",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZaraIrahh/status/2078405764910043477",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_086",
+    "sort_order": 86,
+    "title": "ملصق أزياء أحادي اللون",
+    "description": "ملصق أزياء فائق الواقعية أحادي اللون يظهر امرأة واثقة في تكوين جريء بالأبيض والأسود.",
+    "prompt": "Ultra-realistic IMAX-level Netflix-style cinematic monochrome fashion poster, 9:16 vertical composition, create a powerful women-perspective editorial poster featuring a confident stylish young adult woman in a bold black-and-white",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_50e950417186.jpg?v=20260720fix",
+    "author_name": "Zunaira Ai",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZunairaAi/status/2079030858238009582",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_087",
+    "sort_order": 87,
+    "title": "رسم خيال لحصان",
+    "description": "رسم خيالي يظهر حصانًا في حقل هندباء مع بذور تطفو في الهواء.",
+    "prompt": "a whimsical illustration of a horse standing in a field of dandelions under a bright blue sky. Dandelion seeds float around the horse, and some are caught in the wind.",
+    "category": "Illustration",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dfe8fd820f44.jpg?v=20260720fix",
+    "author_name": "Heather Green",
+    "source_platform": "x",
+    "source_link": "https://x.com/heathergreen/status/2078996056080269496",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_088",
+    "sort_order": 88,
+    "title": "امرأة وحيدة في الشارع",
+    "description": "تركز الصورة على وجه امرأة بلا تعبير بينما تتحرك شخصيات ضبابية بعيدًا في شارع بزاوية واسعة.",
+    "prompt": "Photo of a woman standing alone on the street, surrounded by blurred figures representing people moving aWCy from her. the focus is on her expression t and posture as she looks around straight poker face. she wears jeans and a red sweater. wide-angle",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dfd56154a3ad.jpg?v=20260720fix",
+    "author_name": "K",
+    "source_platform": "x",
+    "source_link": "https://x.com/ChillaiKalan__/status/2078753991820017828",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_089",
+    "sort_order": 89,
+    "title": "بورتريه مقرب سينمائي",
+    "description": "بورتريه مقرب واقعي فوتوغرافي سينمائي لامرأة مذهلة ضد حائط عادي فاتح.",
+    "prompt": "Reference image: conceptual variant. Photorealistic cinematic close-up portrait of a stunning young woman against a plain light wall during soft even studio lighting with gentle side illumination",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_a87b40f94188.jpg?v=20260720fix",
+    "author_name": "dreamy digital arts",
+    "source_platform": "x",
+    "source_link": "https://x.com/dreamydigiarts/status/2078797004688249229",
+    "language": "ar",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_090",
+    "sort_order": 90,
+    "title": "تصوير أزياء تحريري مع خطوط حدودية",
+    "description": "يستخدم تصوير الأزياء التحريري عناصر محددة بخطوط حدودية وجمالية متآكلة لأسلوب مفاهيمي.",
+    "prompt": "Fashion-editorial photography style, using outlined elements and the distressed",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_d7dfb264c619.jpg?v=20260720fix",
+    "author_name": "WenyeBot",
+    "source_platform": "x",
+    "source_link": "https://x.com/WenyeBot/status/2078739130822066220",
     "language": "ar",
     "featured": false
   }

@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-70%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-90%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,23 +90,23 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **70** |
-| Categories | **18** |
-| Preview Images | **70** |
-| Last Updated | **2026-07-20T19:48:38.466Z** |
+| Total Prompts | **90** |
+| Categories | **19** |
+| Preview Images | **90** |
+| Last Updated | **2026-07-21T04:38:12.036Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Infographic`](#category-1): **6**
+- [`Infographic`](#category-1): **7**
 - [`Slides & Presentation`](#category-2): **5**
-- [`Poster Design`](#category-3): **10**
-- [`Brand Design`](#category-4): **2**
+- [`Poster Design`](#category-3): **16**
+- [`Brand Design`](#category-4): **3**
 - [`Interior Design`](#category-5): **3**
 - [`E-commerce`](#category-6): **4**
 - [`Comic & Storyboard`](#category-7): **4**
 - [`Film Storyboard`](#category-8): **3**
-- [`Portrait`](#category-9): **7**
-- [`Illustration`](#category-10): **6**
+- [`Portrait`](#category-9): **14**
+- [`Illustration`](#category-10): **9**
 - [`Character Design`](#category-11): **3**
 - [`Style Transfer`](#category-12): **4**
 - [`Outfit Transfer`](#category-13): **2**
@@ -115,6 +115,7 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 - [`ID Photo`](#category-16): **3**
 - [`Creative Fun`](#category-17): **4**
 - [`Stickers`](#category-18): **1**
+- [`Social Media`](#category-19): **2**
 
 ## 🔥 Featured Prompts
 
@@ -128,7 +129,7 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 #### Description
 
-Bir infografik, 2006'dan 2013'e kadar yıllık gazeteci ölümlerini, toplam 593 vaka olarak gösteriyor.
+2006'dan 2013'e kadar yıllık gazeteci ölümlerini gösteren bir infografik, toplamda 593 vakayı içeriyor.
 
 #### Prompt
 
@@ -146,7 +147,7 @@ Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAF
 
 #### Description
 
-Bir infografik, istasyonun yapısını, zaman çizelgesini ve karşılaştırmalı veri grafiklerini görselleştiriyor.
+İstasyonun yapısını, zaman çizelgesini ve karşılaştırmalı veri grafiklerini görselleştiren bir infografik.
 
 #### Prompt
 
@@ -154,17 +155,17 @@ Bir infografik, istasyonun yapısını, zaman çizelgesini ve karşılaştırmal
 An infographic visualizing the chronicle of Antarctica's Qinling Station expedition, with the station's main structure placed at the center; surrounded by a research development timeline, bar charts comparing the scale of five research stations, a pie chart of station energy sources, a line chart of monthly sunlight hours, supplemented by field photos of research equipment, a summer meteorology panel, a seven-step fieldwork workflow, and on-site sampling photography, comprehensively showcasing China's Antarctic research operations.
 ```
 
-### No. 3: AI Modelleri İçin Prompt Tasarım Rehberi
+### No. 3: AI Modelleri İçin Prompt Tasarım Kılavuzu
 
 - **Category:** `Infographic`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix" alt="AI Modelleri İçin Prompt Tasarım Rehberi" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix" alt="AI Modelleri İçin Prompt Tasarım Kılavuzu" width="480" />
 
 #### Description
 
-Bir sunum, LLM, görüntü ve video oluşturma prompt'ları arasındaki farkları ve en iyi uygulamaları özetliyor.
+LLM, görüntü ve video oluşturma prompt'ları arasındaki farkları ve en iyi uygulamaları özetleyen bir sunum.
 
 #### Prompt
 
@@ -172,17 +173,17 @@ Bir sunum, LLM, görüntü ve video oluşturma prompt'ları arasındaki farklar�
 Based on collected prompt guide trends, create a presentation summarizing the differences and best practices in prompt design for LLM, image generation, and video generation models. The slide structure should be logical and easy to compare. After creation, provide explanatory text for each model category, including why this writing approach works and common failure cases.
 ```
 
-### No. 4: Ay Neden Kırmızıya Döner
+### No. 4: Ay Neden Kırmızıya Döner?
 
 - **Category:** `Infographic`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix" alt="Ay Neden Kırmızıya Döner" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix" alt="Ay Neden Kırmızıya Döner?" width="480" />
 
 #### Description
 
-Bir astronomi infografiği, tam ay tutulması sırasında ayın kırmızı rengini açıklıyor.
+Tam bir ay tutulması sırasında ayın kırmızı rengini açıklayan bir astronomi infografiği.
 
 #### Prompt
 
@@ -200,7 +201,7 @@ Generate an astronomy infographic explaining: Why is the moon red during a total
 
 #### Description
 
-Bir diyagram, sığır etinin çeşitli kesimlerini etiketliyor ve gösteriyor.
+Sığır etinin çeşitli kesimlerini etiketleyen ve gösteren bir diyagram.
 
 #### Prompt
 
@@ -208,17 +209,17 @@ Bir diyagram, sığır etinin çeşitli kesimlerini etiketliyor ve gösteriyor.
 Annotated diagram of beef cuts…
 ```
 
-### No. 6: Yeni Başlayanlar İçin Kuş Gözlemciliği Rehberi İnfografiği
+### No. 6: Yeni Başlayanlar İçin Kuş Gözlemciliği Rehberi Infografiği
 
 - **Category:** `Infographic`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="Yeni Başlayanlar İçin Kuş Gözlemciliği Rehberi İnfografiği" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="Yeni Başlayanlar İçin Kuş Gözlemciliği Rehberi Infografiği" width="480" />
 
 #### Description
 
-Bir ızgara düzenli infografik, sekiz yaygın kuş türünü illüstrasyonlar ve isimlerle sergiliyor.
+Sekiz yaygın kuş türünü illüstrasyonlar ve isimlerle gösteren ızgara düzeninde bir infografik.
 
 #### Prompt
 
@@ -236,7 +237,7 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 
 #### Description
 
-Bir sunum sayfası, bir araç lansman etkinliğinin içindekiler tablosunu gösteriyor.
+Bir araç lansman etkinliğinin içindekiler tablosunu gösteren bir sunum sayfası.
 
 #### Prompt
 
@@ -254,7 +255,7 @@ Design a table of contents page for a new energy vehicle launch event presentati
 
 #### Description
 
-Tek bir sunum slaytı, Louis Vuitton marka stratejisini duygusal olarak özetliyor.
+Louis Vuitton marka stratejisini duygusal olarak özetleyen tek bir sunum slaytı.
 
 #### Prompt
 
@@ -266,7 +267,7 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 
 <a id="category-1"></a>
 
-### Infographic (6)
+### Infographic (7)
 
 ### No. 1: Gazeteci Güvenliği Gerçekleri ve Rakamları
 
@@ -278,7 +279,7 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 
 #### Description
 
-Bir infografik, 2006'dan 2013'e kadar yıllık gazeteci ölümlerini, toplam 593 vaka olarak gösteriyor.
+2006'dan 2013'e kadar yıllık gazeteci ölümlerini gösteren bir infografik, toplamda 593 vakayı içeriyor.
 
 #### Prompt
 
@@ -296,7 +297,7 @@ Infographic on journalist safety facts and data, title: FACTS AND FIGURES ON SAF
 
 #### Description
 
-Bir infografik, istasyonun yapısını, zaman çizelgesini ve karşılaştırmalı veri grafiklerini görselleştiriyor.
+İstasyonun yapısını, zaman çizelgesini ve karşılaştırmalı veri grafiklerini görselleştiren bir infografik.
 
 #### Prompt
 
@@ -304,17 +305,17 @@ Bir infografik, istasyonun yapısını, zaman çizelgesini ve karşılaştırmal
 An infographic visualizing the chronicle of Antarctica's Qinling Station expedition, with the station's main structure placed at the center; surrounded by a research development timeline, bar charts comparing the scale of five research stations, a pie chart of station energy sources, a line chart of monthly sunlight hours, supplemented by field photos of research equipment, a summer meteorology panel, a seven-step fieldwork workflow, and on-site sampling photography, comprehensively showcasing China's Antarctic research operations.
 ```
 
-### No. 3: AI Modelleri İçin Prompt Tasarım Rehberi
+### No. 3: AI Modelleri İçin Prompt Tasarım Kılavuzu
 
 - **Category:** `Infographic`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix" alt="AI Modelleri İçin Prompt Tasarım Rehberi" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix" alt="AI Modelleri İçin Prompt Tasarım Kılavuzu" width="480" />
 
 #### Description
 
-Bir sunum, LLM, görüntü ve video oluşturma prompt'ları arasındaki farkları ve en iyi uygulamaları özetliyor.
+LLM, görüntü ve video oluşturma prompt'ları arasındaki farkları ve en iyi uygulamaları özetleyen bir sunum.
 
 #### Prompt
 
@@ -322,17 +323,17 @@ Bir sunum, LLM, görüntü ve video oluşturma prompt'ları arasındaki farklar�
 Based on collected prompt guide trends, create a presentation summarizing the differences and best practices in prompt design for LLM, image generation, and video generation models. The slide structure should be logical and easy to compare. After creation, provide explanatory text for each model category, including why this writing approach works and common failure cases.
 ```
 
-### No. 4: Ay Neden Kırmızıya Döner
+### No. 4: Ay Neden Kırmızıya Döner?
 
 - **Category:** `Infographic`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix" alt="Ay Neden Kırmızıya Döner" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UIgbbnZIhoD0Ybx0FzVcnhRKnWh.jpg?v=20260720fix" alt="Ay Neden Kırmızıya Döner?" width="480" />
 
 #### Description
 
-Bir astronomi infografiği, tam ay tutulması sırasında ayın kırmızı rengini açıklıyor.
+Tam bir ay tutulması sırasında ayın kırmızı rengini açıklayan bir astronomi infografiği.
 
 #### Prompt
 
@@ -350,7 +351,7 @@ Generate an astronomy infographic explaining: Why is the moon red during a total
 
 #### Description
 
-Bir diyagram, sığır etinin çeşitli kesimlerini etiketliyor ve gösteriyor.
+Sığır etinin çeşitli kesimlerini etiketleyen ve gösteren bir diyagram.
 
 #### Prompt
 
@@ -358,22 +359,40 @@ Bir diyagram, sığır etinin çeşitli kesimlerini etiketliyor ve gösteriyor.
 Annotated diagram of beef cuts…
 ```
 
-### No. 6: Yeni Başlayanlar İçin Kuş Gözlemciliği Rehberi İnfografiği
+### No. 6: Yeni Başlayanlar İçin Kuş Gözlemciliği Rehberi Infografiği
 
 - **Category:** `Infographic`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="Yeni Başlayanlar İçin Kuş Gözlemciliği Rehberi İnfografiği" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XbtEbDNQ5oIh1WxwBPxccc13nhb.jpg?v=20260720fix" alt="Yeni Başlayanlar İçin Kuş Gözlemciliği Rehberi Infografiği" width="480" />
 
 #### Description
 
-Bir ızgara düzenli infografik, sekiz yaygın kuş türünü illüstrasyonlar ve isimlerle sergiliyor.
+Sekiz yaygın kuş türünü illüstrasyonlar ve isimlerle gösteren ızgara düzeninde bir infografik.
 
 #### Prompt
 
 ```text
 Generate a beginner birdwatching guide infographic with a fresh color palette and grid layout, showcasing 8 common bird species with scientific illustrations, Chinese and English names, and identification features.
+```
+
+### No. 7: Tokyo Yağmurunda Astronot
+
+- **Category:** `Infographic`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dd2056ba59c3.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dd2056ba59c3.jpg?v=20260720fix" alt="Tokyo Yağmurunda Astronot" width="480" />
+
+#### Description
+
+Sinematik bir astronot, neon yansımalarıyla yağmurlu Tokyo'da yürüyor, ultra gerçekçi.
+
+#### Prompt
+
+```text
+A cinematic astronaut walking through Tokyo in the rain, neon reflections, ultra realistic.
 ```
 
 <a id="category-2"></a>
@@ -390,7 +409,7 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 
 #### Description
 
-Bir sunum sayfası, bir araç lansman etkinliğinin içindekiler tablosunu gösteriyor.
+Bir araç lansman etkinliğinin içindekiler tablosunu gösteren bir sunum sayfası.
 
 #### Prompt
 
@@ -408,7 +427,7 @@ Design a table of contents page for a new energy vehicle launch event presentati
 
 #### Description
 
-Tek bir sunum slaytı, Louis Vuitton marka stratejisini duygusal olarak özetliyor.
+Louis Vuitton marka stratejisini duygusal olarak özetleyen tek bir sunum slaytı.
 
 #### Prompt
 
@@ -416,17 +435,17 @@ Tek bir sunum slaytı, Louis Vuitton marka stratejisini duygusal olarak özetliy
 Distill the Louis Vuitton brand strategy…into a single, emotionally resonant presentation slide
 ```
 
-### No. 3: 3D Akrilikli Teknoloji Sunumu Kapağı
+### No. 3: 3D Akrilik Tekstürlü Teknoloji Sunum Kapağı
 
 - **Category:** `Slides & Presentation`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix" alt="3D Akrilikli Teknoloji Sunumu Kapağı" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KUNcbBYgAoGLwwxoZw7ccsC0nlh.jpg?v=20260720fix" alt="3D Akrilik Tekstürlü Teknoloji Sunum Kapağı" width="480" />
 
 #### Description
 
-Bir kapak sayfası, teknoloji tarzında çizgi işleri, negatif alan ve 3D akrilik dokusu özellikleri taşıyor.
+Teknoloji tarzında çizgi işleri, negatif alan ve 3D akrilik dokusu içeren bir kapak sayfası.
 
 #### Prompt
 
@@ -462,7 +481,7 @@ Slides section divider page. Interactive edit: layer separation
 
 #### Description
 
-Bir sunum slaytı, bir evcil hayvan besleme hizmetindeki müşteri dönüşüm düşüşünü ele alıyor.
+Bir evcil hayvan besleme hizmetindeki müşteri dönüşümündeki düşüşü ele alan bir sunum slaytı.
 
 #### Prompt
 
@@ -472,7 +491,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 <a id="category-3"></a>
 
-### Poster Design (10)
+### Poster Design (16)
 
 ### No. 1: Jöle Dokulu Y2K Sevimli Tarzı Poster
 
@@ -484,13 +503,17 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 #### Description
 
-Açık mavi renkte bir poster, şeffaf jöle dokulu öğelerle Y2K sevimli tarzını yansıtıyor.
+Açık mavi tonlarda, şeffaf jöle dokulu öğeler içeren Y2K sevimli tarzında bir poster.
 
 #### Prompt
 
 ```text
 Create a poster based on my sketch. I want a Y2K cute style with transparent jelly-textured elements and an overall translucent light blue color palette
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YYaBbQd0eohXQPxZTrLczomsnzt.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 2: Kolaj Serisi Pazarlama Posteri
 
@@ -502,13 +525,17 @@ Create a poster based on my sketch. I want a Y2K cute style with transparent jel
 
 #### Description
 
-Belirli bir tipografi düzeni kullanarak yeni bir ana özneyle tasarım odaklı bir kolaj posteri.
+Belirli bir tipografi düzeni kullanarak yeni bir ana konuyla tasarım odaklı bir kolaj posteri.
 
 #### Prompt
 
 ```text
 Using the typography and layout from Image 1, generate a design-forward marketing poster in the same series, collage style, with Image 2 as the main subject…
 ```
+
+#### Input reference images (2)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NkGHbivHQo33YrxzUKzc3ZmNnUk.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KlM2bV7fYozJs4x2dkUcUiJOnTc.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 3: Diyagonal Bilim Kurgu Posteri
 
@@ -520,7 +547,7 @@ Using the typography and layout from Image 1, generate a design-forward marketin
 
 #### Description
 
-Diyagonal kompozisyonlu ve merkez-alt kısımda bir odak noktası olan bilim kurgu tarzı bir poster.
+Diyagonal kompozisyonlu ve merkez-alt kısımda odak noktası olan bilim kurgu tarzı bir poster.
 
 #### Prompt
 
@@ -538,7 +565,7 @@ Sci-fi style, poster design, diagonal composition. Center-bottom of the frame…
 
 #### Description
 
-Siyah bir arka plan üzerinde Barrie müzik festivali için minimalist bir poster.
+Siyah arka plan üzerinde Barrie müzik festivali için minimalist bir poster.
 
 #### Prompt
 
@@ -582,17 +609,17 @@ PIGITAL TSUNAMI başlıklı, fütürist tarzda bir müzik etkinliği posteri.
 Futurist style music event poster titled "PIGITAL TSUNAMI"…
 ```
 
-### No. 7: Vintage Tipografi ile Tatlı Güneş Işığı
+### No. 7: Sweet Sunlight Vintage Tipografi
 
 - **Category:** `Poster Design`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg?v=20260720fix" alt="Vintage Tipografi ile Tatlı Güneş Işığı" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg?v=20260720fix" alt="Sweet Sunlight Vintage Tipografi" width="480" />
 
 #### Description
 
-Tatlı Güneş Işığı başlığını, bir sınırlayıcı kutu içinde vintage daktilo fontuyla gösteren bir tasarım.
+Bir sınırlayıcı kutu içinde, vintage daktilo fontuyla yazılmış 'Sweet Sunlight' başlıklı bir tasarım.
 
 #### Prompt
 
@@ -600,23 +627,31 @@ Tatlı Güneş Işığı başlığını, bir sınırlayıcı kutu içinde vintag
 Bounding box on title - "Sweet Sunlight", use vintage typewriter font
 ```
 
-### No. 8: Derin Mor İçindekiler Tablosu
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EohwbPkM1oSPnkxYrRxc1daSnWf.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 8: Deep Purple İçindekiler Tablosu
 
 - **Category:** `Poster Design`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix" alt="Derin Mor İçindekiler Tablosu" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix" alt="Deep Purple İçindekiler Tablosu" width="480" />
 
 #### Description
 
-Büyük derin mor metinle İÇİNDEKİLER yazan ve maddeli bir liste içeren bir tasarım.
+Büyük, koyu mor metinle 'TABLE OF CONTENTS' yazan ve maddeli bir liste içeren bir tasarım.
 
 #### Prompt
 
 ```text
 Generate in the style of Image 1: large deep purple text on the left reading "TABLE OF CONTENTS", with itemized listing on the right…
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EohwbPkM1oSPnkxYrRxc1daSnWf.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 9: Çalışmak İstemiyorum Serisi POSTER
 
@@ -636,6 +671,10 @@ Referans alınan tasarıma dayanan, yeni metin ve görseller içeren yaratıcı 
 Referencing this poster design, create a derivative creative poster for the "Don't Want to Work" series with different copy and visuals
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/LFA9bvRIZoj2zmxZXy9ckcifnDf.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 10: Noktalardaki Fotoğrafları Değiştir
 
 - **Category:** `Poster Design`
@@ -654,9 +693,121 @@ Görsel 1'deki belirli noktaları, Görsel 2, 3, 4 ve 5'teki fotoğraflarla değ
 Point and bounding box selection: Image 1 <point>518 135</point> replace photo with Image 2; Image 1 <point>556 349</point> replace photo with Image 3; Image 1 <point>549 555</point> replace photo with Image 4; Image 1 <point>632 784</point> replace photo with Image 5.
 ```
 
+#### Input reference images (5)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QNB2bJ0bJoLtJxx2FGkcvtOEnlf.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CycubNaK5oQEBZxQeNrcxUhHnCf.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V0ovbK3VXoLfSqx3vyJcp9Fznkh.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SliLbSSaxogsxaxhlIRc2Disniy.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KXENb0zUyod0Fmx63PfcPkzXnqc.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 11: Viking Savaşçısı Savaş Alanı
+
+- **Category:** `Poster Design`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_eca49bc5ea95.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_eca49bc5ea95.jpg?v=20260720fix" alt="Viking Savaşçısı Savaş Alanı" width="480" />
+
+#### Description
+
+Sinematik bir Viking savaşçısı, kanlı yüzü ve zırhına saplanmış oklarla hazır bekliyor.
+
+#### Prompt
+
+```text
+create an image of a cinematic vikking style warrior with his big sword ready on a battlefield with blood on this face, arrows stuck on to his armour facing the
+```
+
+### No. 12: Moda Dergisi Kapağı
+
+- **Category:** `Poster Design`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_b9a3c7f63650.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_b9a3c7f63650.jpg?v=20260720fix" alt="Moda Dergisi Kapağı" width="480" />
+
+#### Description
+
+Ultra gerçekçi bir yüksek moda kapağı, porselen tenli bir model ve heykelsi bir şapka içeriyor.
+
+#### Prompt
+
+```text
+Ultra-realistic high-fashion editorial magazine cover featuring a stunning female model with flawless porcelain skin, piercing emerald eyes, and matte burgundy lips. She wears an oversized ivory sculptural hat, a sleek black turtleneck,
+```
+
+### No. 13: Streetwear Editoryal Posteri
+
+- **Category:** `Poster Design`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_768d731baa75.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_768d731baa75.jpg?v=20260720fix" alt="Streetwear Editoryal Posteri" width="480" />
+
+#### Description
+
+Dikey bir poster, cesur bir gençlik kültürü estetiği için off-white bir arka plan ve balon tipografisi kullanıyor.
+
+#### Prompt
+
+```text
+Create a vertical streetwear editorial poster with a bold youth-culture aesthetic. Use an off-white paper background and a clean magazine-style layout. At the top, place oversized rounded bubble
+```
+
+### No. 14: Minimalist Seyahat Posteri
+
+- **Category:** `Poster Design`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_4761b6b5b076.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_4761b6b5b076.jpg?v=20260720fix" alt="Minimalist Seyahat Posteri" width="480" />
+
+#### Description
+
+Premium minimalist bir poster, ikonik bir simgeyi büyük, açık, beyaz çerçeveli bir pencereden kadrajlıyor.
+
+#### Prompt
+
+```text
+Create a premium minimalist travel poster with a clean editorial aesthetic. A large open white-framed window is centered in the composition, perfectly framing an iconic landmark or scenic destination
+```
+
+### No. 15: Monokrom Moda Posteri
+
+- **Category:** `Poster Design`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_50e950417186.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_50e950417186.jpg?v=20260720fix" alt="Monokrom Moda Posteri" width="480" />
+
+#### Description
+
+Ultra gerçekçi bir monokrom moda posteri, kendinden emin bir kadını cesur bir siyah-beyaz kompozisyonda öne çıkarıyor.
+
+#### Prompt
+
+```text
+Ultra-realistic IMAX-level Netflix-style cinematic monochrome fashion poster, 9:16 vertical composition, create a powerful women-perspective editorial poster featuring a confident stylish young adult woman in a bold black-and-white
+```
+
+### No. 16: Dış Çizgili Moda Editoryalı
+
+- **Category:** `Poster Design`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_d7dfb264c619.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_d7dfb264c619.jpg?v=20260720fix" alt="Dış Çizgili Moda Editoryalı" width="480" />
+
+#### Description
+
+Moda-editoryal fotoğrafçılık, kavramsal bir stil için dış çizgili unsurlar ve yıpranmış bir estetik kullanıyor.
+
+#### Prompt
+
+```text
+Fashion-editorial photography style, using outlined elements and the distressed
+```
+
 <a id="category-4"></a>
 
-### Brand Design (2)
+### Brand Design (3)
 
 ### No. 1: Mavi Tilki Minimalist Kurumsal Kimlik Tasarımı
 
@@ -668,7 +819,7 @@ Point and bounding box selection: Image 1 <point>518 135</point> replace photo w
 
 #### Description
 
-Klein mavisi ve gümüş renginde, tilki grafiği ve logo ile minimalist bir marka kurumsal kimlik sergisi.
+Klein mavisi ve gümüş renginde, tilki grafiği ve logo ile minimalist bir marka kimliği sergisi.
 
 #### Prompt
 
@@ -694,6 +845,28 @@ Bir ürünü, ürün bilgileriyle birlikte minyatür bir yaşam sahnesine entegr
 A surreal miniature landscape creative commercial product advertisement, integrating the product into a fitting lifestyle scene, highlighting product information, suitable for commercial poster promotion…
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZFaQbExfsoT8M9xXftEcSEv5ndg.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 3: Marka Reklam Kompoziti
+
+- **Category:** `Brand Design`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f1af42cb8262.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f1af42cb8262.jpg?v=20260720fix" alt="Marka Reklam Kompoziti" width="480" />
+
+#### Description
+
+Yaratıcı bir kompozit reklam, bir ürün fotoğrafını el çizimi siyah unsurlarla kusursuzca bütünleştiriyor.
+
+#### Prompt
+
+```text
+Creative composite brand advertisement, 16:9 horizontal aspect ratio, clean white background, studio lighting, sharp focus. A real-life photograph of a [BRAND PRODUCT] is physically placed and seamlessly integrated with a hand-drawn black
+```
+
 <a id="category-5"></a>
 
 ### Interior Design (3)
@@ -708,13 +881,17 @@ A surreal miniature landscape creative commercial product advertisement, integra
 
 #### Description
 
-Referans alınmış bir iç mimari paleti kullanarak modern-sanat tarzında bir yatak odası render'ı.
+Referans alınmış bir iç mimari paleti kullanarak modern sanat tarzında bir yatak odası render'ı.
 
 #### Prompt
 
 ```text
 Refer to the interior design style and color palette in the image, and generate a modern-art-style bedroom rendering.
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HQdmbIPwSo4b3YxvPDVcaDgBnSg.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 2: Renk Paleti Dönüşümü
 
@@ -726,13 +903,17 @@ Refer to the interior design style and color palette in the image, and generate 
 
 #### Description
 
-Yeni referans alınmış bir renk paleti uygulanarak değiştirilmiş bir görüntü.
+Yeni bir referans renk paleti uygulanarak değiştirilmiş bir görüntü.
 
 #### Prompt
 
 ```text
 Change color palette. Input image + color palette reference
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OKdXbkgYuoUuSAxy1mBcqk3sn4b.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 3: Gerçekçi Natürmort Kompozisyonu
 
@@ -751,6 +932,10 @@ Yedi nesneyi, doğru malzeme ve ışıklandırmayla bir fotoğraf halinde kompoz
 ```text
 Precisely cut out the 7 white-background objects I provided and compose them into a realistic still life photograph with the specified composition. Ensure correct perspective, lighting, shadow, and spatial relationships. Faithfully reproduce material details of wood grain, leather, lace, glass jelly, and feathers, creating a high-quality image that interweaves realism with playfulness and blends retro with modern aesthetics.
 ```
+
+#### Input reference images (9)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YkWAbvfTqo10mEx57ircGKHinxg.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KPTVbFTheoPOUrx3EemcWsImn4c.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PRjIbiAUcoC3WFxM2tOceWAOn5f.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/GP2EbV2ICoVXFVxCj7QcErA6nrr.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KBLJbBLLjoRKbkx7LzocajDUnmE.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SdudbHux2oMzKxxO0XccTuJHn8g.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QrmabEKi2oLQn3xh50wcQFldn1c.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ILCcbkdK7oHPMbx6RDMcCimvnVf.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SlbJbgP5hocPBGxJuMKc9UlUnHh.jpg?v=20260720fix" alt="input reference" height="140" />
 
 <a id="category-6"></a>
 
@@ -784,7 +969,7 @@ Generate an e-commerce banner for RESHAKE brand's 2016 winter down jacket collec
 
 #### Description
 
-Sıcak tonlu bir e-ticaret kahraman bölümü, pencereden dışarı çıkan pençeleriyle navigasyon düğmelerine uzanan 3D Golden Retriever özelliği taşıyor.
+Sıcak tonlarda, pençeleri çerçeveden çıkıp navigasyon butonlarına uzanan 3D Golden Retriever içeren bir e-ticaret kahraman bölümü.
 
 #### Prompt
 
@@ -802,7 +987,7 @@ Sıcak tonlu bir e-ticaret kahraman bölümü, pencereden dışarı çıkan pen�
 
 #### Description
 
-Bir tasarımcının orijinal taslağına dayanan, cilalanmış, gerçekçi bir giysi görseli.
+Bir tasarımcının orijinal skeçine dayanan, cilalanmış, gerçekçi bir giysi görseli.
 
 #### Prompt
 
@@ -810,23 +995,31 @@ Bir tasarımcının orijinal taslağına dayanan, cilalanmış, gerçekçi bir g
 Please transform this fashion design sketch into a high-quality finished product image.……
 ```
 
-### No. 4: E-ticaret Görsel Tasarımı
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UXbVbZLTvoeJkZxqNmecinZFnbd.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 4: E-Ticaret Görsel Tasarımı
 
 - **Category:** `E-commerce`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix" alt="E-ticaret Görsel Tasarımı" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix" alt="E-Ticaret Görsel Tasarımı" width="480" />
 
 #### Description
 
-Bir girdi görseli ve bir renk paleti referansı kullanarak bir tasarım oluşturun.
+Bir giriş görseli ve bir renk paleti referansı kullanarak bir tasarım oluşturun.
 
 #### Prompt
 
 ```text
 E-commerce design. Input image + color palette reference
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VGIXbHnD5oBnfpxWd3wcdj7HnDb.jpg?v=20260720fix" alt="input reference" height="140" />
 
 <a id="category-7"></a>
 
@@ -842,7 +1035,7 @@ E-commerce design. Input image + color palette reference
 
 #### Description
 
-Siyah-beyaz bir manga senaryosu, gece vakti bir araba takibini ve silahlı bir kızın peşinde olduğunu tasvir ediyor.
+Siyah-beyaz bir manga senaryosu, gece bir araba kovalamacasını ve peşindeki silahlı bir kızı tasvir ediyor.
 
 #### Prompt
 
@@ -850,17 +1043,17 @@ Siyah-beyaz bir manga senaryosu, gece vakti bir araba takibini ve silahlı bir k
 Generate a full-page Japanese seinen black-and-white manga storyboard, nighttime chase and gunfight theme. Top panel: a car under headlights and chain-link fencing in the dark night; middle: a girl armed with a gun in pursuit…
 ```
 
-### No. 2: Gece Vakti Furry Dilim Hayat Çizgi Romanı
+### No. 2: Gece Zamanı Furry Diliminden Hayat Çizgi Romanı
 
 - **Category:** `Comic & Storyboard`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix" alt="Gece Vakti Furry Dilim Hayat Çizgi Romanı" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix" alt="Gece Zamanı Furry Diliminden Hayat Çizgi Romanı" width="480" />
 
 #### Description
 
-Dikey dört panelli bir çizgi roman, gece vakti bir odada bir kurt-köpek ve bir tekir kedi gösteriyor.
+Dikey dört panelli bir çizgi roman, gece vakti bir odada bir kurt-köpek ve bir tekir kediyi gösteriyor.
 
 #### Prompt
 
@@ -878,7 +1071,7 @@ Draw a vertical four-panel furry slice-of-life comic, set in a room at night, fe
 
 #### Description
 
-Gotham City'de bir sokakta geçen, Amerikan korku çizgi romanı tarzını aktaran senaryolar.
+Gotham City'de bir sokakta geçen, Amerikan korku çizgi roman tarzını aktaran senaryolar.
 
 #### Prompt
 
@@ -918,7 +1111,7 @@ Top image: two dogs pressing their faces together with playful expressions, capt
 
 #### Description
 
-Bir film senaryosu, gece vakti bir otoparkı üç yatay panelde gösteriyor.
+Gece vakti bir otoparkı üç yatay panelde gösteren bir film senaryosu.
 
 #### Prompt
 
@@ -926,13 +1119,13 @@ Bir film senaryosu, gece vakti bir otoparkı üç yatay panelde gösteriyor.
 Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establishing shot of a parking lot at night…
 ```
 
-### No. 2: Altı Panelli Western Sokağı Senaryosu
+### No. 2: Altı Panelli Western Sokak Senaryosu
 
 - **Category:** `Film Storyboard`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix" alt="Altı Panelli Western Sokağı Senaryosu" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Frp8bsecZo1u2zxa2r1c97z0ndh.jpg?v=20260720fix" alt="Altı Panelli Western Sokak Senaryosu" width="480" />
 
 #### Description
 
@@ -954,7 +1147,7 @@ Western film storyboard, 6 panels in wide horizontal ratio, no text throughout: 
 
 #### Description
 
-Bir senaryo, anime sanat tarzında antik bir Çin xianxia sahnesini resmediyor.
+Antik bir Çin xianxia sahnesini anime sanat tarzında gösteren bir senaryo.
 
 #### Prompt
 
@@ -964,19 +1157,19 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 <a id="category-9"></a>
 
-### Portrait (7)
+### Portrait (14)
 
-### No. 1: Omuz Üstü Çekimde Üzgün Kadın
+### No. 1: Omuz Üstü Çekim - Üzgün Kadın
 
 - **Category:** `Portrait`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg?v=20260720fix" alt="Omuz Üstü Çekimde Üzgün Kadın" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Bof7bbek0onSd0xACjAcqaKBnjf.jpg?v=20260720fix" alt="Omuz Üstü Çekim - Üzgün Kadın" width="480" />
 
 #### Description
 
-Bir omuz üstü çekim, kırk yaşlarında, üzgün görünümlü, kahverengi saçlı bir kadını gösteriyor.
+Omuz üstü bir çekim, kırk yaşlarında, üzgün görünümlü kahverengi saçlı bir kadını gösteriyor.
 
 #### Prompt
 
@@ -994,7 +1187,7 @@ Over-the-shoulder shot, featuring a brown-haired European or American woman arou
 
 #### Description
 
-Saat 12'yi gösteren bir bilek üzerinde sivri uçlu siyah metal bir bilekliğin yakın çekimi.
+Saat 12'yi gösteren bir bilekteki dikenli siyah metal bir bilekliğin yakın çekimi.
 
 #### Prompt
 
@@ -1002,13 +1195,17 @@ Saat 12'yi gösteren bir bilek üzerinde sivri uçlu siyah metal bir bilekliğin
 Modify the image according to the text requirements in the image: bracelet with metallic black thorn spikes, hands pointing to 12 o'clock sharp
 ```
 
-### No. 3: Hasselblad Film Portresi Kenar Işığı ile
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UznubLD3woRBDwx3BwtcdYEJnJh.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 3: Kenar Aydınlatmalı Hasselblad Film Portresi
 
 - **Category:** `Portrait`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix" alt="Hasselblad Film Portresi Kenar Işığı ile" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix" alt="Kenar Aydınlatmalı Hasselblad Film Portresi" width="480" />
 
 #### Description
 
@@ -1020,6 +1217,10 @@ Film greni dokusu, dramatik kenar aydınlatması ve parlak yüz vurgularına sah
 Hasselblad film texture, light and shadow, rim light, (facial overexposure)…
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NO81bbDXSobbejx4tVycewI6nve.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 4: Sinematik Yaz Hikayesi Portre Izgarası
 
 - **Category:** `Portrait`
@@ -1030,13 +1231,17 @@ Hasselblad film texture, light and shadow, rim light, (facial overexposure)…
 
 #### Description
 
-Bir yaz hikayesi anlatan, dikkat dağıtıcı unsurlar olmadan, ızgarada düzenlenmiş üç basit, temiz portre.
+Bir ızgarada yer alan, dikkat dağıtıcı unsurlar olmadan bir yaz hikayesi anlatan üç basit, temiz portre.
 
 #### Prompt
 
 ```text
 Remove all accessories, hairstyle, and background, generate a three-panel grid of cinematic summer narrative portraits
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/J4jHbIvC9o99PKxaVoDcrgP1nkd.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 5: Fujifilm Polaroid Kamera
 
@@ -1048,13 +1253,17 @@ Remove all accessories, hairstyle, and background, generate a three-panel grid o
 
 #### Description
 
-Polaroid tarzı fotoğraflar üreten bir Fujifilm anında fotoğraf makinesi görseli.
+Polaroid tarzı fotoğraflar üreten bir Fujifilm anlık kamera görseli.
 
 #### Prompt
 
 ```text
 Fujifilm camera Polaroid
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkgRbmVP1o4KqixE60RcpRk3nme.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 6: Retro Fütürist Kemancı Portresi
 
@@ -1066,7 +1275,7 @@ Fujifilm camera Polaroid
 
 #### Description
 
-Uzun saçlı bir adam, bordo bir cüppe ve güneş gözlükleriyle, retro-fütürist tarzda bir keman yayı tutuyor.
+Uzun saçlı bir adam, bordo bir cüppe ve güneş gözlükleriyle retro-fütürist bir tarzda bir keman yayı tutuyor.
 
 #### Prompt
 
@@ -1092,9 +1301,139 @@ Belirli el, bacak ve aksesuar hareketleriyle bir tam vücut çekimi oluşturun.
 Generate a full-body shot of the person in Image 3, and adjust her pose so her right hand motion matches Image 1, holding the first speaker from Image 4, and her leg motion matches Image 2
 ```
 
+#### Input reference images (4)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/J2VSbwVtvowr86x6Z0rcGBmsnEf.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DD2fbj4Hlo4rUjxaXWUc40rFnib.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OzyxbA971oALRYxilMlc2HmFn7e.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A3bUbP6H2oTFWjxyzmrcvvUOn1b.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 8: Büyüme Hikayesi Tren İstasyonu
+
+- **Category:** `Portrait`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_e618ac7cdcf4.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_e618ac7cdcf4.jpg?v=20260720fix" alt="Büyüme Hikayesi Tren İstasyonu" width="480" />
+
+#### Description
+
+Parlak bir yaz öğleden sonrasında, banliyö istasyonunda bir Japon okul kızının sinematik portresi.
+
+#### Prompt
+
+```text
+A cinematic coming-of-age portrait of a Japanese high school girl at a suburban train station on a bright summer afternoon, wearing a white sailor-style school uniform with a light blue skirt, carrying a navy school bag and backpack. Natural wind
+```
+
+### No. 9: Hüzünlü Altın Saat Portresi
+
+- **Category:** `Portrait`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f6ea00c7b24a.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f6ea00c7b24a.jpg?v=20260720fix" alt="Hüzünlü Altın Saat Portresi" width="480" />
+
+#### Description
+
+Hüzünlü genç bir kadın, altın saatte pencerenin yanında oturuyor, yumuşak güneş ışığıyla aydınlanıyor.
+
+#### Prompt
+
+```text
+A melancholic young East Asian woman with long, slightly messy black hair sits quietly beside a large window during golden hour, soft sunlight illuminating her face with warm cinematic tones. She gazes thoughtfully into the distance, natural makeup
+```
+
+### No. 10: Kalabalık Sokakta Kadın
+
+- **Category:** `Portrait`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_6acc27c6f60b.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_6acc27c6f60b.jpg?v=20260720fix" alt="Kalabalık Sokakta Kadın" width="480" />
+
+#### Description
+
+Bir kadın, şehir sokağında bulanıklaşmış, hareketli bir kalabalıkta sakin sakin yürüyor, yana bakıyor.
+
+#### Prompt
+
+```text
+A woman walking calmly in the middle of a bustling crowd, with everyone else in motion and slightly blurred. She is looking to the side and slightly upward, with a calm, neutral expression and perhaps a very faint, subtle smile. The scene takes place on a city street.
+```
+
+### No. 11: Foto-Gerçekçi Editoryal Portre
+
+- **Category:** `Portrait`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dda1aa7a7755.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dda1aa7a7755.jpg?v=20260720fix" alt="Foto-Gerçekçi Editoryal Portre" width="480" />
+
+#### Description
+
+20'li yaşlarında, baştan çıkarıcı ve muhteşem bir Japon veya Koreli kadının foto-gerçekçi belden yukarı portresi.
+
+#### Prompt
+
+```text
+Create a photorealistic editorial portrait. Waist-up portrait, eye-level view, front-left three-quarter view A 20s seductive stunning Japanese or Korean
+```
+
+### No. 12: Sokak Köşesi Anlık Görüntüsü
+
+- **Category:** `Portrait`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_fd46b8756855.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_fd46b8756855.jpg?v=20260720fix" alt="Sokak Köşesi Anlık Görüntüsü" width="480" />
+
+#### Description
+
+Hızlı bir anlık görüntü, sakin bir sokakta koyu mavi bir bisikletin yanında dönen genç bir Çinli kadını gösteriyor.
+
+#### Prompt
+
+```text
+A quick snapshot taken on a quiet street corner, looks like someone called her name and she turned around mid-stride. A young Chinese woman in her early 20s stands beside a dark blue bicycle, her body half-turned, one hand resting on the bicycle seat, the
+```
+
+### No. 13: Sokakta Yalnız Kadın
+
+- **Category:** `Portrait`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dfd56154a3ad.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dfd56154a3ad.jpg?v=20260720fix" alt="Sokakta Yalnız Kadın" width="480" />
+
+#### Description
+
+Bir fotoğraf, geniş açılı bir sokakta bulanık figürler uzaklaşırken, bir kadının poker yüzüne odaklanıyor.
+
+#### Prompt
+
+```text
+Photo of a woman standing alone on the street, surrounded by blurred figures representing people moving aWCy from her. the focus is on her expression t and posture as she looks around straight poker face. she wears jeans and a red sweater. wide-angle
+```
+
+### No. 14: Sinematik Yakın Plan Portre
+
+- **Category:** `Portrait`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_a87b40f94188.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_a87b40f94188.jpg?v=20260720fix" alt="Sinematik Yakın Plan Portre" width="480" />
+
+#### Description
+
+Muhteşem bir kadının, sade ve açık renk bir duvara karşı foto-gerçekçi sinematik yakın plan portresi.
+
+#### Prompt
+
+```text
+Reference image: conceptual variant. Photorealistic cinematic close-up portrait of a stunning young woman against a plain light wall during soft even studio lighting with gentle side illumination
+```
+
 <a id="category-10"></a>
 
-### Illustration (6)
+### Illustration (9)
 
 ### No. 1: Sanatsal Resimli Kitap Okul Üniforması
 
@@ -1124,7 +1463,7 @@ Artistic picture book, panoramic view, school uniform trousers, refined makeup, 
 
 #### Description
 
-Yumuşak camgöbeği-yeşili bir çizim, yaşlı bir kadının kış çayırında güneşi resmettiğini gösteriyor.
+Yumuşak camgöbeği-yeşili bir illüstrasyon, yaşlı bir kadının kış çayırında güneşi resmettiğini gösteriyor.
 
 #### Prompt
 
@@ -1132,23 +1471,27 @@ Yumuşak camgöbeği-yeşili bir çizim, yaşlı bir kadının kış çayırınd
 This heartwarming panoramic picture book illustration uses soft cyan-green tones to depict a serene grassland under a winter starry sky, where an elderly woman paints the sun at an easel while a child plays with a puppy beside a yurt…
 ```
 
-### No. 3: Karalama Eskize Yürüyen Karakter Ekle
+### No. 3: Skeçe Yürüyen Karakter Ekle
 
 - **Category:** `Illustration`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MlA2bxTw4oD6FgxZmF0cntf7nCf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MlA2bxTw4oD6FgxZmF0cntf7nCf.jpg?v=20260720fix" alt="Karalama Eskize Yürüyen Karakter Ekle" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MlA2bxTw4oD6FgxZmF0cntf7nCf.jpg?v=20260720fix" alt="Skeçe Yürüyen Karakter Ekle" width="480" />
 
 #### Description
 
-Var olan bir eskizin ön plan yoluna yürüyen bir karakter eklenmiş.
+Var olan bir skeçin ön plan yoluna yürüyen bir karakter eklenmiş.
 
 #### Prompt
 
 ```text
 Based on the sketch, add a walking character on the foreground path…
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EKwtbwJTSofQZrxdwafcQDYrnXc.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 4: Dört Bitmiş Oyun Sahnesi Görseli
 
@@ -1160,7 +1503,7 @@ Based on the sketch, add a walking character on the foreground path…
 
 #### Description
 
-Taslak halindeki bir video oyunu ortamının dört adet yüksek kaliteli renderlanmış versiyonu.
+Skeç halindeki bir video oyunu ortamının dört adet yüksek kaliteli renderlanmış versiyonu.
 
 #### Prompt
 
@@ -1168,13 +1511,17 @@ Taslak halindeki bir video oyunu ortamının dört adet yüksek kaliteli renderl
 Please transform this sketch into 4 high-quality finished images of a game scene with……
 ```
 
-### No. 5: Görsel ve Palet Girdisi
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Yq3VbgKpeocFYqxLLybcERktnHe.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 5: Görsel ve Palet Girişi
 
 - **Category:** `Illustration`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V17FbQ8QroJsnvxfSFocD2nrnlf.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V17FbQ8QroJsnvxfSFocD2nrnlf.jpg?v=20260720fix" alt="Görsel ve Palet Girdisi" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V17FbQ8QroJsnvxfSFocD2nrnlf.jpg?v=20260720fix" alt="Görsel ve Palet Girişi" width="480" />
 
 #### Description
 
@@ -1186,13 +1533,17 @@ Orijinal bir görseli, sağlanan bir renk paleti referansıyla birlikte işleyin
 Input Original Image + Color Palette Reference
 ```
 
-### No. 6: Elde Çizilmiş Brunch Posteri
+#### Input reference images (2)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VdA8bfmQqosANbxi7GQckz1LnZg.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DSrPbOoUboeWuOxkxSUcyFomnXe.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 6: El Çizimi Brunch Posteri
 
 - **Category:** `Illustration`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix" alt="Elde Çizilmiş Brunch Posteri" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix" alt="El Çizimi Brunch Posteri" width="480" />
 
 #### Description
 
@@ -1202,6 +1553,64 @@ Mevsimlik bir brunch posteri için yiyecekleri çizim stiline dönüştürün ve
 
 ```text
 Place the foods from the images on the same table and transform them into a hand-drawn style. Use white linework to label each dish and add handwritten-style Chinese annotations. Create a promotional poster for a dish for “Seasonal Limited Brunch.”
+```
+
+#### Input reference images (4)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YXQ3bzVAhods3bxS1EMcCy3ZnCc.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BgxbboCT3oZcqkxpxoccxdDQnng.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ebn1bhCbZoyGpjxzCpYckSh2n1c.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YQn8bVEwvosqnRxQJMOcfqQ4nbh.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 7: Retro 80'ler Anime Kilit Ekranı
+
+- **Category:** `Illustration`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f1549f674d93.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f1549f674d93.jpg?v=20260720fix" alt="Retro 80'ler Anime Kilit Ekranı" width="480" />
+
+#### Description
+
+Minimalist bir kilit ekranı, hava fırçası gradyanlarıyla retro 80'ler anime cel illüstrasyonu içeriyor.
+
+#### Prompt
+
+```text
+Retro 80s anime cel illustration with airbrushed gradients and film grain. Minimalist lock screen
+```
+
+### No. 8: Aquarelle Kentsel Eskiz
+
+- **Category:** `Illustration`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_a45476c94dcf.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_a45476c94dcf.jpg?v=20260720fix" alt="Aquarelle Kentsel Eskiz" width="480" />
+
+#### Description
+
+İnce işlenmiş yatay bir aquarelle eskiz, bir şehirdeki huzurlu, ikonik bir açık hava mekanını betimliyor.
+
+#### Prompt
+
+```text
+Create a refined horizontal aquarelle urban sketch of a peaceful, iconic outdoor location in [PLACE], [CITY], using delicate freehand ink, restrained transparent watercolor
+```
+
+### No. 9: Olağandışı At İllüstrasyonu
+
+- **Category:** `Illustration`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dfe8fd820f44.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dfe8fd820f44.jpg?v=20260720fix" alt="Olağandışı At İllüstrasyonu" width="480" />
+
+#### Description
+
+Olağandışı bir illüstrasyon, rüzgarda uçuşan karahindiba tohumlarıyla bir karahindiba tarlasında bir atı gösteriyor.
+
+#### Prompt
+
+```text
+a whimsical illustration of a horse standing in a field of dandelions under a bright blue sky. Dandelion seeds float around the horse, and some are caught in the wind.
 ```
 
 <a id="category-11"></a>
@@ -1226,13 +1635,13 @@ Ortografik görünümler, devasa oyulmuş antik bir Çin tanrıça heykelinin ö
 Standard three-view orthographic turntable: front view, side view, back view, of a giant ancient Chinese goddess stone statue with an intricately carved stone headpiece and…
 ```
 
-### No. 2: Sovyet Posta Kuryesi Bisikleti Üç Görünüm
+### No. 2: Sovyet Posta Kurye Bisikleti Üç Görünüm
 
 - **Category:** `Character Design`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix" alt="Sovyet Posta Kuryesi Bisikleti Üç Görünüm" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TVrLbrNMGoTiUYxYB97ckrq1nYc.jpg?v=20260720fix" alt="Sovyet Posta Kurye Bisikleti Üç Görünüm" width="480" />
 
 #### Description
 
@@ -1254,7 +1663,7 @@ Generate a three-view of a Soviet-era postal messenger bicycle…
 
 #### Description
 
-Anime tarzında bir cyberpunk hacker karakterinin çoklu görünümlerini ve detaylarını içeren bir tasarım sayfası.
+Anime tarzında bir cyberpunk hacker karakterinin çoklu görünüm ve detaylarını içeren bir tasarım sayfası.
 
 #### Prompt
 
@@ -1276,13 +1685,17 @@ Cyberpunk-style anime character design sheet, showing three-view turnaround, clo
 
 #### Description
 
-Detaylı bir LEGO seti gibi, minyatür diorama tarzında görünecek şekilde dönüştürülmüş bir görsel.
+Detaylı bir LEGO seti gibi görünecek şekilde dönüştürülmüş, minyatür diorama tarzında bir görsel.
 
 #### Prompt
 
 ```text
 Transform the image into a realistic LEGO toy effect with miniature scene styling.
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QSD8b1VDCoy3A3xOHedcV0nJn8c.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 2: Düz İllüstrasyon Stili Dönüşümü
 
@@ -1294,13 +1707,17 @@ Transform the image into a realistic LEGO toy effect with miniature scene stylin
 
 #### Description
 
-Basit şekiller ve düz renklerle modern bir grafik tasarımına dönüştürülmüş bir görsel.
+Basit şekiller ve düz renklerle modern bir grafik tasarıma dönüştürülmüş bir görsel.
 
 #### Prompt
 
 ```text
 Transform the image style into flat illustration style
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MCZfbhD9lowIH0xu5H9c6UWVnMf.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 3: Rölyef Heykel Stili Değişimi
 
@@ -1320,13 +1737,17 @@ Kabartma yüzeylere sahip, oyulmuş veya kalıplanmış bir heykele benzeyecek �
 Change to relief sculpture style
 ```
 
-### No. 4: Fujifilm NC Filtresi Uygulanmış
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WIvBbFHDWoCQ5hxHojjci0R8nZg.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 4: Fujifilm NC Filtresi Uygulandı
 
 - **Category:** `Style Transfer`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg?v=20260720fix" alt="Fujifilm NC Filtresi Uygulanmış" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg?v=20260720fix" alt="Fujifilm NC Filtresi Uygulandı" width="480" />
 
 #### Description
 
@@ -1337,6 +1758,10 @@ Görselde artık klasik Fujifilm Natural Chrome film simülasyon filtresi var.
 ```text
 Add Fujifilm NC filter
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VVkmbTEpUoMHltxa90EccUOfn5e.jpg?v=20260720fix" alt="input reference" height="140" />
 
 <a id="category-13"></a>
 
@@ -1360,23 +1785,31 @@ Bir kadın, başka birinin kıyafet ve aksesuarlarını rahat, trend bir sokak f
 Make the woman in Image 1 wear the clothing, jewelry, and accessories from Image 2. The whole photo should look like an Instagram street shot.
 ```
 
-### No. 2: Tutarlı Arka Plan ile Düğün Kıyafeti Değişimi
+#### Input reference images (2)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KT1Nb6xRoo1ZO0xiVlJckcMnn8f.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Fj9YbcMUSoVUYZxC1oycjyOqndh.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 2: Tutarlı Arka Planla Düğün Kıyafeti Değişimi
 
 - **Category:** `Outfit Transfer`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix" alt="Tutarlı Arka Plan ile Düğün Kıyafeti Değişimi" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PK4Kbq8vqoILzzxZI6UcC8o0n9e.jpg?v=20260720fix" alt="Tutarlı Arka Planla Düğün Kıyafeti Değişimi" width="480" />
 
 #### Description
 
-Bir fotoğraftaki iki kişi, eşleşen arka plan ve aydınlatma ile düğün kıyafetleri giydirilmiş.
+Bir fotoğraftaki iki kişi, eşleşen arka plan ve aydınlatma ile düğün kıyafetleri giymiş.
 
 #### Prompt
 
 ```text
 Replace the outfits of the two people in Image 1 with the wedding attire from Images 2 and 3, keep the background color consistent, and adjust lighting to match the overall style…
 ```
+
+#### Input reference images (3)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TLzebexBFopDUHxLBhic6IlGnIh.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/P1mpbUYeyoQDZ1x5RetcHV6bnjc.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BEI6bcYzMoVqOKxXYjgcSjsbn6e.jpg?v=20260720fix" alt="input reference" height="140" />
 
 <a id="category-14"></a>
 
@@ -1400,6 +1833,10 @@ Konusu netleştirilmiş ve orijinal renkleri canlandırılmış eski bir fotoğr
 Restore this old photo, making the subject clearer and restoring colors
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IitgbjnaLodOltxJxVOci4T2ncc.jpg?v=20260720fix" alt="input reference" height="140" />
+
 <a id="category-15"></a>
 
 ### Retouching (2)
@@ -1422,6 +1859,10 @@ Karşı ışığı düzeltmek için pozlaması iyileştirilmiş aynı görsel.
 Keep the image unchanged and correct the backlighting.
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BQP6b9QPzoGfFixThbDcTNzrnXf.jpg?v=20260720fix" alt="input reference" height="140" />
+
 ### No. 2: Daha Güçlü Doğal Makyaj Görünümü
 
 - **Category:** `Retouching`
@@ -1440,6 +1881,10 @@ Genel olarak hala doğal görünen, farklı, daha yoğun bir makyaj stili.
 Change to a different makeup look with stronger intensity while keeping the overall makeup natural
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/H31MbrQrWoT8ztxARFkcN29Infh.jpg?v=20260720fix" alt="input reference" height="140" />
+
 <a id="category-16"></a>
 
 ### ID Photo (3)
@@ -1454,7 +1899,7 @@ Change to a different makeup look with stronger intensity while keeping the over
 
 #### Description
 
-Gözlükleri çıkarılmış bir kişi artık aşağı salınmış, büyük, dalgalı saçlara sahip.
+Gözlükleri çıkarılmış bir kişinin artık aşağıya salınmış, büyük, dalgalı saçları var.
 
 #### Prompt
 
@@ -1462,13 +1907,17 @@ Gözlükleri çıkarılmış bir kişi artık aşağı salınmış, büyük, dal
 Remove glasses, change hairstyle to large wavy hair worn down
 ```
 
-### No. 2: Ragdoll Yavru Kedisi Kimlik Fotoğrafı
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SIS2bDqYuoJuIpxZw5LcDzdhn5f.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 2: Ragdoll Yavru Kedi Kimlik Fotoğrafı
 
 - **Category:** `ID Photo`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix" alt="Ragdoll Yavru Kedisi Kimlik Fotoğrafı" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix" alt="Ragdoll Yavru Kedi Kimlik Fotoğrafı" width="480" />
 
 #### Description
 
@@ -1479,6 +1928,10 @@ Ragdoll cinsi bir yavru kedinin bir inçlik kimlik fotoğrafı portresi.
 ```text
 Generate a 1-inch ID photo for this Ragdoll kitten
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KbRXbSAQ5or3aXxSdcncUEagnie.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 3: Kadın Solo Kimlik Fotoğrafı
 
@@ -1498,27 +1951,35 @@ Sadece kadının kendisini içeren standart bir kimlik fotoğrafı.
 Generate a solo ID photo for the woman
 ```
 
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AwNZb9apxoOFzfxVW2TcoJCwnTf.jpg?v=20260720fix" alt="input reference" height="140" />
+
 <a id="category-17"></a>
 
 ### Creative Fun (4)
 
-### No. 1: Şeytan Dişleri ile Sırıtış
+### No. 1: Şeytan Dişli Sırıtış
 
 - **Category:** `Creative Fun`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix" alt="Şeytan Dişleri ile Sırıtış" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix" alt="Şeytan Dişli Sırıtış" width="480" />
 
 #### Description
 
-Bir kişi, şeytan dişlerini gösteren sırıtışla gözlerini kısıyor ve altında metin var.
+Bir kişi, şeytan dişlerini gösteren sırıtışla kısık gözlerle bakıyor ve altında metin var.
 
 #### Prompt
 
 ```text
 Change expression to a smug grin, eyes squinting into crescents with devil teeth showing at the corners of the mouth, add text "准备更坏" centered at the bottom of the image in white bold font.
 ```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZyADbn7lvoJhuAxduyVcYmkpnCd.jpg?v=20260720fix" alt="input reference" height="140" />
 
 ### No. 2: Da Vinci Van Gogh Barış İşaretleri
 
@@ -1530,7 +1991,7 @@ Change expression to a smug grin, eyes squinting into crescents with devil teeth
 
 #### Description
 
-Da Vinci ve Van Gogh barış işareti yaparken, Michelangelo arkadan fotoğrafa girmeye çalışıyor.
+Da Vinci ve Van Gogh barış işareti yaparken, Michelangelo arkadan fotoğrafa giriyor.
 
 #### Prompt
 
@@ -1538,13 +1999,13 @@ Da Vinci ve Van Gogh barış işareti yaparken, Michelangelo arkadan fotoğrafa 
 Da Vinci and Van Gogh facing the camera making peace signs, with Michelangelo photobombing from behind them…
 ```
 
-### No. 3: Şehir Silüeti ile Dondurma Külahı
+### No. 3: Şehir Silüetli Dondurma Külahı
 
 - **Category:** `Creative Fun`
 - **Language:** `tr`
 - **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix)
 
-<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix" alt="Şehir Silüeti ile Dondurma Külahı" width="480" />
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/C1SdbQJE2oZPdRxxFTmcDUTHnBd.jpg?v=20260720fix" alt="Şehir Silüetli Dondurma Külahı" width="480" />
 
 #### Description
 
@@ -1566,13 +2027,17 @@ A hand is holding an ice cream cone, with a city skyline and a clear blue sky in
 
 #### Description
 
-Mavi tüylü bir kafa, bir iplik yumağı ve blokların yanında ışığı yansıtan bir balonu gözlemliyor.
+Mavi tüylü bir kafa, bir iplik topu ve blokların yanında ışığı yansıtan bir balonu gözlemliyor.
 
 #### Prompt
 
 ```text
 Red box: a giant blue-furred head with a comically squeezed expression, looking at the bubble in front; Green box: a transparent bubble reflecting indoor lighting; Yellow box: a large warm beige yarn ball; Blue box: building blocks stacked together — warm dark gray arch shape, warm light gray semi-cylinder, lake blue cylinder, deep lake blue ramp, cobalt blue semi-disc; Purple box: a grass-green blanket with fringe draped over a sofa
 ```
+
+#### Input reference images (2)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KrdNbd9vdoI63exU35qc9jsonCb.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AbuMbTZBPoG0sdx1EhQcJsaFnub.jpg?v=20260720fix" alt="input reference" height="140" />
 
 <a id="category-18"></a>
 
@@ -1588,12 +2053,56 @@ Red box: a giant blue-furred head with a comically squeezed expression, looking 
 
 #### Description
 
-Bir çizgi film karakterinin farklı duyguları ifade ettiği dört panelli bir sticker seti.
+Bir çizgi film karakterinin farklı duygular ifade ettiği dört panelli bir sticker seti.
 
 #### Prompt
 
 ```text
 Based on the cartoon character, design different emotions — happy, sad, aggrieved, angry — and generate a four-panel sticker pack
+```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FytBb0AgVoL6pKxpL3zc4EdanQc.jpg?v=20260720fix" alt="input reference" height="140" />
+
+<a id="category-19"></a>
+
+### Social Media (2)
+
+### No. 1: Tırnak İçinde Metin
+
+- **Category:** `Social Media`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_5258598740a5.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_5258598740a5.jpg?v=20260720fix" alt="Tırnak İçinde Metin" width="480" />
+
+#### Description
+
+'Günaydın!' gibi metinlerin görselde görünmesini sağlamak için tırnak işaretleri ekleyin.
+
+#### Prompt
+
+```text
+Add quote marks around text to ensure the text appears in your image "Good morning!" "Happy Caturday!"
+```
+
+### No. 2: Japon Pirinç Tarlası
+
+- **Category:** `Social Media`
+- **Language:** `tr`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_ee34d8a6bbbf.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_ee34d8a6bbbf.jpg?v=20260720fix" alt="Japon Pirinç Tarlası" width="480" />
+
+#### Description
+
+Sinematik bir film karesi, yaz mevsiminde üç çeyrek açıdan kırsal bir Japon pirinç tarlasını gösteriyor.
+
+#### Prompt
+
+```text
+Cinematic film still, rural Japanese rice paddy landscape in summer, three-quarter angle view down a narrow
 ```
 
 ## Local Usage
@@ -1617,4 +2126,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-20T19:48:38.466Z
+> This README is auto-generated. 2026-07-21T04:38:12.036Z

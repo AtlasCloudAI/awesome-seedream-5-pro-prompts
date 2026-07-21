@@ -31,7 +31,7 @@
     "id": "sd5pro_003",
     "sort_order": 3,
     "title": "Руководство по дизайну промптов для ИИ-моделей",
-    "description": "Презентация обобщает различия и лучшие практики для промптов, генерирующих текст, изображения и видео.",
+    "description": "Презентация суммирует различия и лучшие практики для промптов к LLM, генерации изображений и видео.",
     "prompt": "Based on collected prompt guide trends, create a presentation summarizing the differences and best practices in prompt design for LLM, image generation, and video generation models. The slide structure should be logical and easy to compare. After creation, provide explanatory text for each model category, including why this writing approach works and common failure cases.",
     "category": "Infographic",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YGOMbw7b9oq1LUxn9y4cMQCVn9g.jpg?v=20260720fix",
@@ -72,7 +72,7 @@
   {
     "id": "sd5pro_006",
     "sort_order": 6,
-    "title": "Инфографика: руководство для начинающего бердвотчера",
+    "title": "Инфографика-гид по наблюдению за птицами для начинающих",
     "description": "Инфографика в виде сетки демонстрирует восемь распространенных видов птиц с иллюстрациями и названиями.",
     "prompt": "Generate a beginner birdwatching guide infographic with a fresh color palette and grid layout, showcasing 8 common bird species with scientific illustrations, Chinese and English names, and identification features.",
     "category": "Infographic",
@@ -86,8 +86,8 @@
   {
     "id": "sd5pro_007",
     "sort_order": 7,
-    "title": "Оглавление презентации о запуске нового энергетического автомобиля",
-    "description": "Страница презентации отображает оглавление мероприятия по запуску автомобиля.",
+    "title": "Оглавление презентации запуска нового энергетического автомобиля",
+    "description": "Страница презентации отображает оглавление для мероприятия по запуску автомобиля.",
     "prompt": "Design a table of contents page for a new energy vehicle launch event presentation. The TOC text is…",
     "category": "Slides & Presentation",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KYDRbWEfOocSHuxu0pvcSdeunub.jpg?v=20260720fix",
@@ -100,7 +100,7 @@
   {
     "id": "sd5pro_008",
     "sort_order": 8,
-    "title": "Слайд со стратегией бренда Louis Vuitton",
+    "title": "Слайд стратегии бренда Louis Vuitton",
     "description": "Один слайд презентации эмоционально передает суть стратегии бренда Louis Vuitton.",
     "prompt": "Distill the Louis Vuitton brand strategy…into a single, emotionally resonant presentation slide",
     "category": "Slides & Presentation",
@@ -114,7 +114,7 @@
   {
     "id": "sd5pro_009",
     "sort_order": 9,
-    "title": "Обложка технопрезентации с 3D акриловой текстурой",
+    "title": "Обложка технической презентации с 3D акриловой текстурой",
     "description": "Титульная страница в техническом стиле с линейной графикой, негативным пространством и 3D акриловой текстурой.",
     "prompt": "Generate a tech-themed presentation cover page with linework, negative space design, 3D acrylic texture, Blender style, C4D effect",
     "category": "Slides & Presentation",
@@ -129,7 +129,7 @@
     "id": "sd5pro_010",
     "sort_order": 10,
     "title": "Интерактивный разделитель секций слайдов",
-    "description": "Страница-разделитель для презентации, разработанная со слоями для интерактивного редактирования.",
+    "description": "Разделительная страница для презентации, разработанная со слоями для интерактивного редактирования.",
     "prompt": "Slides section divider page. Interactive edit: layer separation",
     "category": "Slides & Presentation",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Tb3ybc4ryoN66pxjLGrctUNpnpc.jpg?v=20260720fix",
@@ -157,7 +157,7 @@
     "id": "sd5pro_012",
     "sort_order": 12,
     "title": "Постер в милом стиле Y2K с желеобразной текстурой",
-    "description": "Постер в светло-голубом цвете в милом стиле Y2K с прозрачными элементами желеобразной текстуры.",
+    "description": "Постер в светло-голубых тонах в милом стиле Y2K с прозрачными желеобразными элементами.",
     "prompt": "Create a poster based on my sketch. I want a Y2K cute style with transparent jelly-textured elements and an overall translucent light blue color palette",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/M75obSWkXoiE51xElVNc39e2nIo.jpg?v=20260720fix",
@@ -165,13 +165,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YYaBbQd0eohXQPxZTrLczomsnzt.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_013",
     "sort_order": 13,
     "title": "Маркетинговый постер из серии коллажей",
-    "description": "Дизайнерский коллажный постер, использующий заданную типографскую компоновку с новым главным объектом.",
+    "description": "Дизайнерский коллажный постер, использующий заданную типографическую компоновку с новым главным объектом.",
     "prompt": "Using the typography and layout from Image 1, generate a design-forward marketing poster in the same series, collage style, with Image 2 as the main subject…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SCz7bLkM0oH2qXx8M9HctwYFnIh.jpg?v=20260720fix",
@@ -179,13 +182,17 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NkGHbivHQo33YrxzUKzc3ZmNnUk.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KlM2bV7fYozJs4x2dkUcUiJOnTc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_014",
     "sort_order": 14,
-    "title": "Диагональный постер в стиле научной фантастики",
-    "description": "Постер в стиле научной фантастики с диагональной композицией и точкой фокуса внизу по центру.",
+    "title": "Диагональный научно-фантастический постер",
+    "description": "Постер в стиле научной фантастики с диагональной композицией и точкой фокуса в центре снизу.",
     "prompt": "Sci-fi style, poster design, diagonal composition. Center-bottom of the frame…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DTLjblSrno6xOpxzmLVcsF8bnOh.jpg?v=20260720fix",
@@ -198,8 +205,8 @@
   {
     "id": "sd5pro_015",
     "sort_order": 15,
-    "title": "Минималистичный музыкальный постер Barrie",
-    "description": "Минималистичный постер для музыкального фестиваля Barrie на черном фоне.",
+    "title": "Минималистский музыкальный постер Barrie",
+    "description": "Минималистский постер для музыкального фестиваля Barrie на черном фоне.",
     "prompt": "Minimalist music festival poster titled \"Barrie.\" The composition features a predominantly black background…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HO0SbrhgRotfPyxFiQccgUpynle.jpg?v=20260720fix",
@@ -241,7 +248,7 @@
     "id": "sd5pro_018",
     "sort_order": 18,
     "title": "Винтажная типографика Sweet Sunlight",
-    "description": "Дизайн с заголовком Sweet Sunlight, выполненным винтажным шрифтом пишущей машинки в ограничивающей рамке.",
+    "description": "Дизайн с заголовком Sweet Sunlight, выполненным винтажным шрифтом пишущей машинки, внутри ограничивающей рамки.",
     "prompt": "Bounding box on title - \"Sweet Sunlight\", use vintage typewriter font",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IKatb8EAKo3nOUxsDatcBJRbnXh.jpg?v=20260720fix",
@@ -249,13 +256,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EohwbPkM1oSPnkxYrRxc1daSnWf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_019",
     "sort_order": 19,
     "title": "Оглавление в глубоком пурпурном цвете",
-    "description": "Дизайн с крупным текстом глубокого пурпурного цвета, гласящим TABLE OF CONTENTS, и перечнем пунктов.",
+    "description": "Дизайн с крупным текстом глубокого пурпурного цвета, гласящим TABLE OF CONTENTS, и маркированным списком.",
     "prompt": "Generate in the style of Image 1: large deep purple text on the left reading \"TABLE OF CONTENTS\", with itemized listing on the right…",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WaWYbTipGoWW7hxju37cHlucngh.jpg?v=20260720fix",
@@ -263,13 +273,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EohwbPkM1oSPnkxYrRxc1daSnWf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_020",
     "sort_order": 20,
-    "title": "Минималистичный дизайн айдентики Blue Fox",
-    "description": "Минималистичная презентация брендовой айдентики в кобальтово-синем и серебристом цветах с графикой лисы и логотипом.",
+    "title": "Минималистский дизайн айдентики Blue Fox",
+    "description": "Минималистская презентация фирменного стиля в клейновском синем и серебряном цветах с графикой лисы и логотипом.",
     "prompt": "Minimalist brand VI design showcase, featuring Klein blue and silver as primary colors, color-blocking aesthetic, fox graphic motif, highlighting the English brand logo \"Blue Fox\"…",
     "category": "Brand Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ6Tb5moIoDaV1xQMAzc33aDnqb.jpg?v=20260720fix",
@@ -283,7 +296,7 @@
     "id": "sd5pro_021",
     "sort_order": 21,
     "title": "Сюрреалистичная реклама миниатюрного ландшафта",
-    "description": "Сюрреалистичная реклама, интегрирующая продукт в миниатюрную сцену из жизни с информацией о продукте.",
+    "description": "Сюрреалистичная реклама, интегрирующая продукт в миниатюрную бытовую сцену с информацией о продукте.",
     "prompt": "A surreal miniature landscape creative commercial product advertisement, integrating the product into a fitting lifestyle scene, highlighting product information, suitable for commercial poster promotion…",
     "category": "Brand Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XaGSbPeDCoS9m1xdfu7c4ZNBnZf.jpg?v=20260720fix",
@@ -291,7 +304,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZFaQbExfsoT8M9xXftEcSEv5ndg.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_022",
@@ -305,7 +321,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HQdmbIPwSo4b3YxvPDVcaDgBnSg.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_023",
@@ -319,13 +338,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OKdXbkgYuoUuSAxy1mBcqk3sn4b.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_024",
     "sort_order": 24,
-    "title": "Баннер зимней пуховиков RESHAKE",
-    "description": "Рекламный баннер для интернет-магазина RESHAKE с мужчиной-моделью, рекламирующим зимние пуховики.",
+    "title": "Баннер зимней пуховой куртки RESHAKE",
+    "description": "Рекламный баннер для электронной коммерции RESHAKE с мужчиной-моделью, рекламирующим зимние пуховые куртки.",
     "prompt": "Generate an e-commerce banner for RESHAKE brand's 2016 winter down jacket collection promotional campaign. On the right side of the frame, a male model facing the camera with a cool, intense expression…",
     "category": "E-commerce",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SKHqbE8UKovuCzxsgnnc9aU2nXf.jpg?v=20260720fix",
@@ -338,8 +360,8 @@
   {
     "id": "sd5pro_025",
     "sort_order": 25,
-    "title": "Главный баннер для интернет-магазина питомцев с закатным UI",
-    "description": "Главный раздел интернет-магазина в теплых тонах с 3D-золотистым ретривером, чьи лапы прорываются за рамку на кнопки навигации.",
+    "title": "Главный баннер для электронной коммерции питомцев с закатным UI",
+    "description": "Теплотонная главная секция для электронной коммерции с 3D-золотистым ретривером, чьи лапы прорываются через рамку на кнопки навигации.",
     "prompt": "16:9 pet e-commerce hero section UI, sunset warm tone, layered shadows. Top navigation…golden capsule button; right side Golden Retriever image, 3D effect: the Retriever's front paws break through the right frame, resting on the left-side buttons.",
     "category": "E-commerce",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix",
@@ -352,8 +374,8 @@
   {
     "id": "sd5pro_026",
     "sort_order": 26,
-    "title": "Сториборд в стиле японского сэйнэна: ночная погоня",
-    "description": "Черно-белый сториборд в стиле манги изображает ночную автомобильную погоню и вооруженную девушку в погоне.",
+    "title": "Сториборд в японском сэйнэне: ночная погоня",
+    "description": "Черно-белый манга-сториборд изображает ночную автомобильную погоню и вооруженную девушку в преследовании.",
     "prompt": "Generate a full-page Japanese seinen black-and-white manga storyboard, nighttime chase and gunfight theme. Top panel: a car under headlights and chain-link fencing in the dark night; middle: a girl armed with a gun in pursuit…",
     "category": "Comic & Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Moj6boz7doqjwpx2uHockLmYnuc.jpg?v=20260720fix",
@@ -367,7 +389,7 @@
     "id": "sd5pro_027",
     "sort_order": 27,
     "title": "Ночной комикс о повседневной жизни фурри",
-    "description": "Вертикальный комикс из четырех панелей показывает волка-пса и полосатого кота в комнате ночью.",
+    "description": "Вертикальный комикс из четырех панелей показывает волка-собаку и полосатого кота в комнате ночью.",
     "prompt": "Draw a vertical four-panel furry slice-of-life comic, set in a room at night, featuring a wolf-dog furry and a tabby cat furry…",
     "category": "Comic & Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MNlBboAiAoeG3sxMxNMcSKNknRe.jpg?v=20260720fix",
@@ -394,8 +416,8 @@
   {
     "id": "sd5pro_029",
     "sort_order": 29,
-    "title": "Трехпанельный фильм: парковка ночью",
-    "description": "Кинематографический сториборд показывает парковку ночью в трех горизонтальных панелях.",
+    "title": "Трехпанельный фильмовый сториборд: ночная парковка",
+    "description": "Киносториборд показывает парковку ночью в трех горизонтальных панелях.",
     "prompt": "Film storyboard, 3 panels in equal-width horizontal layout: Panel 1, wide establishing shot of a parking lot at night…",
     "category": "Film Storyboard",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Oph0bex7kocN1zxJWiqcFvfNnMe.jpg?v=20260720fix",
@@ -408,7 +430,7 @@
   {
     "id": "sd5pro_030",
     "sort_order": 30,
-    "title": "Шестипанельный сториборд: улица в стиле вестерн",
+    "title": "Шестипанельный сториборд: улица в вестерне",
     "description": "Широкий горизонтальный сториборд из шести панелей изображает классическую сцену на улице в стиле вестерн.",
     "prompt": "Western film storyboard, 6 panels in wide horizontal ratio, no text throughout: Panel 1, extreme wide shot, both ends of the street…",
     "category": "Film Storyboard",
@@ -436,7 +458,7 @@
   {
     "id": "sd5pro_032",
     "sort_order": 32,
-    "title": "Сцена древнекитайского сянься в аниме-стиле",
+    "title": "Сториборд в аниме-стиле: древнекитайский сянься",
     "description": "Сториборд иллюстрирует сцену из древнекитайского сянься в стиле аниме.",
     "prompt": "Anime-style ancient Chinese xianxia scene storyboard…",
     "category": "Film Storyboard",
@@ -451,7 +473,7 @@
     "id": "sd5pro_033",
     "sort_order": 33,
     "title": "Художественная иллюстрация школьной формы в стиле книжной графики",
-    "description": "Панорамная иллюстрация в стиле книжной картинки изображает школьные брюки в утонченном, художественном стиле.",
+    "description": "Панорамная иллюстрация в стиле книжной графики изображает брюки школьной формы в утонченном, художественном стиле.",
     "prompt": "Artistic picture book, panoramic view, school uniform trousers, refined makeup, accessories, illustrated in the style of Raymond Briggs and Mattias Adolfsson…",
     "category": "Illustration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QhzCbCvZNomx23xzQcycP9Zfn7e.jpg?v=20260720fix",
@@ -464,8 +486,8 @@
   {
     "id": "sd5pro_034",
     "sort_order": 34,
-    "title": "Картина зимнего звездного неба над степью",
-    "description": "Мягкая бирюзово-зеленая иллюстрация показывает пожилую женщину, рисующую солнце на зимней степи.",
+    "title": "Картина зимнего звездного неба над лугом",
+    "description": "Мягкая бирюзово-зеленая иллюстрация показывает пожилую женщину, рисующую солнце на зимнем лугу.",
     "prompt": "This heartwarming panoramic picture book illustration uses soft cyan-green tones to depict a serene grassland under a winter starry sky, where an elderly woman paints the sun at an easel while a child plays with a puppy beside a yurt…",
     "category": "Illustration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ob22b7kNLoT64lxpEpicsYSLnsb.jpg?v=20260720fix",
@@ -479,7 +501,7 @@
     "id": "sd5pro_035",
     "sort_order": 35,
     "title": "Добавление идущего персонажа в эскиз",
-    "description": "Идущий персонаж добавлен на передний план тропинки существующего наброска.",
+    "description": "Идущий персонаж добавлен на передний план тропинки в существующем эскизе.",
     "prompt": "Based on the sketch, add a walking character on the foreground path…",
     "category": "Illustration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MlA2bxTw4oD6FgxZmF0cntf7nCf.jpg?v=20260720fix",
@@ -487,7 +509,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EKwtbwJTSofQZrxdwafcQDYrnXc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_036",
@@ -520,8 +545,8 @@
   {
     "id": "sd5pro_038",
     "sort_order": 38,
-    "title": "Лист персонажа киберпанк-хакерши RIN в аниме-стиле",
-    "description": "Дизайн-лист с несколькими видами и деталями персонажа в стиле аниме — киберпанк-хакерши.",
+    "title": "Character Sheet киберпанк-хакерши RIN в аниме-стиле",
+    "description": "Дизайн-лист с несколькими ракурсами и деталями персонажа в стиле аниме — киберпанк-хакерши.",
     "prompt": "Cyberpunk-style anime character design sheet, showing three-view turnaround, close-up portraits, and accessory details of a hacker girl named \"RIN\"…",
     "category": "Character Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CeuXbMVLCo4ymyxoeuRcFBuzndU.jpg?v=20260720fix",
@@ -543,13 +568,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Yq3VbgKpeocFYqxLLybcERktnHe.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_040",
     "sort_order": 40,
     "title": "Готовое изображение продукта модного дизайна",
-    "description": "Отполированное, реалистичное изображение предмета одежды на основе оригинального эскиза дизайнера.",
+    "description": "Отполированное, реалистичное изображение предмета одежды, основанное на оригинальном эскизе дизайнера.",
     "prompt": "Please transform this fashion design sketch into a high-quality finished product image.……",
     "category": "E-commerce",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SFwnb8NtLoIlmLxBe8EcpcLinOb.jpg?v=20260720fix",
@@ -557,13 +585,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UXbVbZLTvoeJkZxqNmecinZFnbd.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_041",
     "sort_order": 41,
     "title": "Реалистичная сцена миниатюры из LEGO",
-    "description": "Изображение преобразовано так, чтобы выглядеть как детализированный набор LEGO в стиле миниатюрного диорамы.",
+    "description": "Изображение преобразовано, чтобы выглядеть как детализированный набор LEGO в стиле миниатюрной диорамы.",
     "prompt": "Transform the image into a realistic LEGO toy effect with miniature scene styling.",
     "category": "Style Transfer",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FZ0XbIE5vosDb5xw7PbcOl8Nnrc.jpg?v=20260720fix",
@@ -571,7 +602,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QSD8b1VDCoy3A3xOHedcV0nJn8c.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_042",
@@ -585,13 +619,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/UznubLD3woRBDwx3BwtcdYEJnJh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_043",
     "sort_order": 43,
     "title": "Портрет на пленку Hasselblad с контровым светом",
-    "description": "Портрет с текстурой пленочного зерна, драматическим контровым освещением и яркими бликами на лице.",
+    "description": "Портрет с текстурой зерни пленки, драматическим контровым освещением и яркими бликами на лице.",
     "prompt": "Hasselblad film texture, light and shadow, rim light, (facial overexposure)…",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Cs0Gbqbldomsm2xRsbecqIhinsV.jpg?v=20260720fix",
@@ -599,12 +636,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NO81bbDXSobbejx4tVycewI6nve.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_044",
     "sort_order": 44,
-    "title": "Кинематографичная повествовательная портретная сетка на летнюю тему",
+    "title": "Кинематографичная сетка повествовательных летних портретов",
     "description": "Три простых, чистых портрета в сетке, рассказывающих летнюю историю без отвлекающих элементов.",
     "prompt": "Remove all accessories, hairstyle, and background, generate a three-panel grid of cinematic summer narrative portraits",
     "category": "Portrait",
@@ -613,7 +653,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/J4jHbIvC9o99PKxaVoDcrgP1nkd.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_045",
@@ -627,7 +670,11 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KT1Nb6xRoo1ZO0xiVlJckcMnn8f.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Fj9YbcMUSoVUYZxC1oycjyOqndh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_046",
@@ -641,7 +688,12 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/TLzebexBFopDUHxLBhic6IlGnIh.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/P1mpbUYeyoQDZ1x5RetcHV6bnjc.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BEI6bcYzMoVqOKxXYjgcSjsbn6e.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_047",
@@ -655,13 +707,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/MCZfbhD9lowIH0xu5H9c6UWVnMf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_048",
     "sort_order": 48,
     "title": "Изменение стиля на рельефную скульптуру",
-    "description": "Изображение изменено так, чтобы напоминать резную или лепную скульптуру с выпуклыми поверхностями.",
+    "description": "Изображение изменено, чтобы напоминать резную или лепную скульптуру с выпуклыми поверхностями.",
     "prompt": "Change to relief sculpture style",
     "category": "Style Transfer",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FLbhbxeAloklCUxOWWxckvx2ntf.jpg?v=20260720fix",
@@ -669,13 +724,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/WIvBbFHDWoCQ5hxHojjci0R8nZg.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_049",
     "sort_order": 49,
-    "title": "Постер серии 'Не хочу работать'",
-    "description": "Креативный постер с новым текстом и визуалом на основе референсного дизайна.",
+    "title": "Постер серии 'Dont Want To Work'",
+    "description": "Креативный постер с новым текстом и визуалом на основе указанного дизайна.",
     "prompt": "Referencing this poster design, create a derivative creative poster for the \"Don't Want to Work\" series with different copy and visuals",
     "category": "Poster Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EFyXbBR2HomTxNx0uYNcIn5Sn4e.jpg?v=20260720fix",
@@ -683,7 +741,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/LFA9bvRIZoj2zmxZXy9ckcifnDf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_050",
@@ -697,13 +758,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/IitgbjnaLodOltxJxVOci4T2ncc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_051",
     "sort_order": 51,
-    "title": "Изображение с исправленным контровым светом",
-    "description": "То же изображение с улучшенной экспозицией, чтобы исправить контровое освещение.",
+    "title": "Изображение с исправленным контровым освещением",
+    "description": "То же изображение с улучшенной экспозицией для исправления условий контрового света.",
     "prompt": "Keep the image unchanged and correct the backlighting.",
     "category": "Retouching",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OFwVbbgHxowE1Mx2DV7c911bnAg.jpg?v=20260720fix",
@@ -711,13 +775,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BQP6b9QPzoGfFixThbDcTNzrnXf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_052",
     "sort_order": 52,
     "title": "Применен фильтр Fujifilm NC",
-    "description": "На изображение теперь наложена классическая пленочная симуляция Fujifilm Natural Chrome.",
+    "description": "На изображение теперь наложено классическое фильм-симуляционное покрытие Fujifilm Natural Chrome.",
     "prompt": "Add Fujifilm NC filter",
     "category": "Style Transfer",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/EY7YbDfUPoUxnsxm7ZMcfdprnHe.jpg?v=20260720fix",
@@ -725,7 +792,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VVkmbTEpUoMHltxa90EccUOfn5e.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_053",
@@ -739,12 +809,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SIS2bDqYuoJuIpxZw5LcDzdhn5f.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_054",
     "sort_order": 54,
-    "title": "Более выразительный натуральный макияж",
+    "title": "Более насыщенный натуральный макияж",
     "description": "Другой, более интенсивный стиль макияжа, который все еще выглядит в целом естественным.",
     "prompt": "Change to a different makeup look with stronger intensity while keeping the overall makeup natural",
     "category": "Retouching",
@@ -753,13 +826,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/H31MbrQrWoT8ztxARFkcN29Infh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_055",
     "sort_order": 55,
-    "title": "Самодовольная ухмылка с дьявольскими зубами",
-    "description": "Человек щурится с самодовольной ухмылкой, показывая дьявольские зубы, и текстом ниже.",
+    "title": "Самодовольная ухмылка с чертовскими зубами",
+    "description": "Человек щурится с самодовольной ухмылкой, показывая чертовские зубы, и текстом внизу.",
     "prompt": "Change expression to a smug grin, eyes squinting into crescents with devil teeth showing at the corners of the mouth, add text \"准备更坏\" centered at the bottom of the image in white bold font.",
     "category": "Creative Fun",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VMuzbudhGoHo9VxFxAjcHATtnAL.jpg?v=20260720fix",
@@ -767,12 +843,15 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ZyADbn7lvoJhuAxduyVcYmkpnCd.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_056",
     "sort_order": 56,
-    "title": "Дуэт лучшего и худшего пса",
+    "title": "Дуэт лучших и худших собак",
     "description": "Две панели показывают собак как игривых лучших друзей и свирепых злейших врагов.",
     "prompt": "Top image: two dogs pressing their faces together with playful expressions, caption \"We're the best duo ever\"; Bottom image: two dogs fighting with fierce expressions, caption \"We're the worst duo ever\".",
     "category": "Comic & Storyboard",
@@ -787,7 +866,7 @@
     "id": "sd5pro_057",
     "sort_order": 57,
     "title": "Набор стикеров с эмоциями мультяшного персонажа",
-    "description": "Набор из четырех стикеров, показывающий мультяшного персонажа, выражающего разные эмоции.",
+    "description": "Четырехпанельный набор стикеров, показывающий мультяшного персонажа, выражающего разные эмоции.",
     "prompt": "Based on the cartoon character, design different emotions — happy, sad, aggrieved, angry — and generate a four-panel sticker pack",
     "category": "Stickers",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/S2jnb37kXok5FtxJSFwcQvfFnKc.jpg?v=20260720fix",
@@ -795,13 +874,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/FytBb0AgVoL6pKxpL3zc4EdanQc.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_058",
     "sort_order": 58,
     "title": "Камера Fujifilm Polaroid",
-    "description": "Изображение камеры мгновенной печати Fujifilm, которая производит фотографии в стиле Polaroid.",
+    "description": "Изображение мгновенной камеры Fujifilm, которая производит фотографии в стиле Polaroid.",
     "prompt": "Fujifilm camera Polaroid",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Y6bTb6x7zoM2kFxkGtXcPH5unUh.jpg?v=20260720fix",
@@ -809,13 +891,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QkgRbmVP1o4KqixE60RcpRk3nme.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_059",
     "sort_order": 59,
-    "title": "Фото на документы котенка породы рэгдолл",
-    "description": "Портретное фото на документы размером один дюйм котенка породы рэгдолл.",
+    "title": "Фото на документы котенка породы Рэгдолл",
+    "description": "Портретное фото на документы размером один дюйм котенка породы Рэгдолл.",
     "prompt": "Generate a 1-inch ID photo for this Ragdoll kitten",
     "category": "ID Photo",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A66HbwxZKo1J1yxSRkDcIYxen3e.jpg?v=20260720fix",
@@ -823,7 +908,10 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KbRXbSAQ5or3aXxSdcncUEagnie.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_060",
@@ -837,13 +925,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AwNZb9apxoOFzfxVW2TcoJCwnTf.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_061",
     "sort_order": 61,
-    "title": "Да Винчи и Ван Гог показывают знак мира",
-    "description": "Да Винчи и Ван Гог показывают знак мира, в то время как Микеланджело фотобомбит их сзади.",
+    "title": "Да Винчи и Ван Гог показывают знаки мира",
+    "description": "Да Винчи и Ван Гог показывают знаки мира, в то время как Микеланджело фотобомбит их сзади.",
     "prompt": "Da Vinci and Van Gogh facing the camera making peace signs, with Michelangelo photobombing from behind them…",
     "category": "Creative Fun",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/F09tbO0okowAowxFkVGcmVDFndb.jpg?v=20260720fix",
@@ -871,7 +962,7 @@
     "id": "sd5pro_063",
     "sort_order": 63,
     "title": "Портрет ретрофутуристического скрипача",
-    "description": "Длинноволосый мужчина в бордовом халате и солнцезащитных очках держит смычок в ретрофутуристическом стиле.",
+    "description": "Длинноволосый мужчина в бордовом халате и солнцезащитных очках держит смычок скрипки в ретрофутуристическом стиле.",
     "prompt": "Retro-futurism style portrait photography, a middle-aged man with long hair wearing a burgundy gown and sunglasses, holding a violin bow…",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/XOjSbmLmvoVpYIxqxd4cgC5GnYe.jpg?v=20260720fix",
@@ -893,13 +984,17 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KrdNbd9vdoI63exU35qc9jsonCb.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AbuMbTZBPoG0sdx1EhQcJsaFnub.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_065",
     "sort_order": 65,
     "title": "Визуальный дизайн для электронной коммерции",
-    "description": "Создайте дизайн, используя исходное изображение и образец цветовой палитры.",
+    "description": "Создайте дизайн, используя исходное изображение и референс цветовой палитры.",
     "prompt": "E-commerce design. Input image + color palette reference",
     "category": "E-commerce",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CKG4btGOKoXBUyxdzhtc83N0nii.jpg?v=20260720fix",
@@ -907,13 +1002,16 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VGIXbHnD5oBnfpxWd3wcdj7HnDb.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_066",
     "sort_order": 66,
     "title": "Изображение и палитра на входе",
-    "description": "Обработайте исходное изображение вместе с предоставленным образцом цветовой палитры.",
+    "description": "Обработайте исходное изображение вместе с предоставленной референсной цветовой палитрой.",
     "prompt": "Input Original Image + Color Palette Reference",
     "category": "Illustration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V17FbQ8QroJsnvxfSFocD2nrnlf.jpg?v=20260720fix",
@@ -921,13 +1019,17 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VdA8bfmQqosANbxi7GQckz1LnZg.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DSrPbOoUboeWuOxkxSUcyFomnXe.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_067",
     "sort_order": 67,
-    "title": "Композитная поза персонажа",
-    "description": "Сгенерируйте снимок в полный рост с определенными движениями рук, ног и использованием реквизита.",
+    "title": "Составная поза персонажа",
+    "description": "Сгенерируйте полноростовой кадр с определенными движениями рук, ног и использованием реквизита.",
     "prompt": "Generate a full-body shot of the person in Image 3, and adjust her pose so her right hand motion matches Image 1, holding the first speaker from Image 4, and her leg motion matches Image 2",
     "category": "Portrait",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Q8txbHeE0olIdzxsgh5c9GINn9b.jpg?v=20260720fix",
@@ -935,13 +1037,19 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/J2VSbwVtvowr86x6Z0rcGBmsnEf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/DD2fbj4Hlo4rUjxaXWUc40rFnib.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/OzyxbA971oALRYxilMlc2HmFn7e.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/A3bUbP6H2oTFWjxyzmrcvvUOn1b.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_068",
     "sort_order": 68,
     "title": "Реалистичная композиция натюрморта",
-    "description": "Составьте семь объектов в фотографическую композицию с точной передачей материалов и освещения.",
+    "description": "Скомпонуйте семь объектов в фотографию с точной передачей материалов и освещения.",
     "prompt": "Precisely cut out the 7 white-background objects I provided and compose them into a realistic still life photograph with the specified composition. Ensure correct perspective, lighting, shadow, and spatial relationships. Faithfully reproduce material details of wood grain, leather, lace, glass jelly, and feathers, creating a high-quality image that interweaves realism with playfulness and blends retro with modern aesthetics.",
     "category": "Interior Design",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/HMCjbkxHGodE7dxtjgGckx9Tnof.jpg?v=20260720fix",
@@ -949,13 +1057,24 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YkWAbvfTqo10mEx57ircGKHinxg.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KPTVbFTheoPOUrx3EemcWsImn4c.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/PRjIbiAUcoC3WFxM2tOceWAOn5f.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/GP2EbV2ICoVXFVxCj7QcErA6nrr.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KBLJbBLLjoRKbkx7LzocajDUnmE.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SdudbHux2oMzKxxO0XccTuJHn8g.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QrmabEKi2oLQn3xh50wcQFldn1c.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/ILCcbkdK7oHPMbx6RDMcCimvnVf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SlbJbgP5hocPBGxJuMKc9UlUnHh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_069",
     "sort_order": 69,
-    "title": "Нарисованный от руки постер для бранча",
-    "description": "Преобразуйте блюда в рисованный стиль с подписями для сезонного постера о бранче.",
+    "title": "Ручной постер для бранча",
+    "description": "Преобразуйте блюда в рисованный стиль с подписями для постера о сезонном бранче.",
     "prompt": "Place the foods from the images on the same table and transform them into a hand-drawn style. Use white linework to label each dish and add handwritten-style Chinese annotations. Create a promotional poster for a dish for “Seasonal Limited Brunch.”",
     "category": "Illustration",
     "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/NI4KbJd3LosO6wx5QXqcIFfrnZc.jpg?v=20260720fix",
@@ -963,7 +1082,13 @@
     "source_platform": "community",
     "source_link": "",
     "language": "ru",
-    "featured": false
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YXQ3bzVAhods3bxS1EMcCy3ZnCc.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/BgxbboCT3oZcqkxpxoccxdDQnng.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/Ebn1bhCbZoyGpjxzCpYckSh2n1c.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/YQn8bVEwvosqnRxQJMOcfqQ4nbh.jpg?v=20260720fix"
+    ]
   },
   {
     "id": "sd5pro_070",
@@ -976,6 +1101,293 @@
     "author_name": "community",
     "source_platform": "community",
     "source_link": "",
+    "language": "ru",
+    "featured": false,
+    "input_images": [
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/QNB2bJ0bJoLtJxx2FGkcvtOEnlf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/CycubNaK5oQEBZxQeNrcxUhHnCf.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/V0ovbK3VXoLfSqx3vyJcp9Fznkh.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/SliLbSSaxogsxaxhlIRc2Disniy.jpg?v=20260720fix",
+      "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KXENb0zUyod0Fmx63PfcPkzXnqc.jpg?v=20260720fix"
+    ]
+  },
+  {
+    "id": "sd5pro_071",
+    "sort_order": 71,
+    "title": "Викинг-воин на поле боя",
+    "description": "Кинематографичный викинг-воин стоит наготове с окровавленным лицом и стрелами в доспехах.",
+    "prompt": "create an image of a cinematic vikking style warrior with his big sword ready on a battlefield with blood on this face, arrows stuck on to his armour facing the",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_eca49bc5ea95.jpg?v=20260720fix",
+    "author_name": "Adithya Thatipalli",
+    "source_platform": "x",
+    "source_link": "https://x.com/adithatipalli/status/2075113723719729261",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_072",
+    "sort_order": 72,
+    "title": "Текст в кавычках",
+    "description": "Добавьте кавычки, чтобы текст, такой как 'Good morning!', отображался на изображении.",
+    "prompt": "Add quote marks around text to ensure the text appears in your image \"Good morning!\" \"Happy Caturday!\"",
+    "category": "Social Media",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_5258598740a5.jpg?v=20260720fix",
+    "author_name": "Cayla Catz",
+    "source_platform": "x",
+    "source_link": "https://x.com/CaylaCatz/status/2075960554917941515",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_073",
+    "sort_order": 73,
+    "title": "Обложка модного журнала",
+    "description": "Ультрареалистичная обложка в стиле высокой моды с моделью с фарфоровой кожей и скульптурной шляпой.",
+    "prompt": "Ultra-realistic high-fashion editorial magazine cover featuring a stunning female model with flawless porcelain skin, piercing emerald eyes, and matte burgundy lips. She wears an oversized ivory sculptural hat, a sleek black turtleneck,",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_b9a3c7f63650.jpg?v=20260720fix",
+    "author_name": "Snow",
+    "source_platform": "x",
+    "source_link": "https://x.com/iamrealsnow/status/2075797065427529769",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_074",
+    "sort_order": 74,
+    "title": "Японское рисовое поле",
+    "description": "Кинематографичный кадр из фильма показывает сельское японское рисовое поле летом с ракурса в три четверти.",
+    "prompt": "Cinematic film still, rural Japanese rice paddy landscape in summer, three-quarter angle view down a narrow",
+    "category": "Social Media",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_ee34d8a6bbbf.jpg?v=20260720fix",
+    "author_name": "TSUBAKI",
+    "source_platform": "x",
+    "source_link": "https://x.com/AI__TSUBAKI/status/2076624942553330149",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_075",
+    "sort_order": 75,
+    "title": "Составная реклама бренда",
+    "description": "Креативная составная реклама, бесшовно интегрирующая фотографию продукта с рукописными черными элементами.",
+    "prompt": "Creative composite brand advertisement, 16:9 horizontal aspect ratio, clean white background, studio lighting, sharp focus. A real-life photograph of a [BRAND PRODUCT] is physically placed and seamlessly integrated with a hand-drawn black",
+    "category": "Brand Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f1af42cb8262.jpg?v=20260720fix",
+    "author_name": "Zephyra Leigh",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZephyraLeigh/status/2076309161801887774",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_076",
+    "sort_order": 76,
+    "title": "Астронавт в токийском дожде",
+    "description": "Кинематографичный астронавт идет под дождем по Токио с неоновыми отражениями, ультрареалистично.",
+    "prompt": "A cinematic astronaut walking through Tokyo in the rain, neon reflections, ultra realistic.",
+    "category": "Infographic",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dd2056ba59c3.jpg?v=20260720fix",
+    "author_name": "LinkModel",
+    "source_platform": "x",
+    "source_link": "https://x.com/link_model_ai/status/2076305578885030256",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_077",
+    "sort_order": 77,
+    "title": "Стритвир постер для редакционной съемки",
+    "description": "Вертикальный постер использует фона цвета слоновой кости и пузырьковую типографику для смелой эстетики молодежной культуры.",
+    "prompt": "Create a vertical streetwear editorial poster with a bold youth-culture aesthetic. Use an off-white paper background and a clean magazine-style layout. At the top, place oversized rounded bubble",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_768d731baa75.jpg?v=20260720fix",
+    "author_name": "Linus ✦ Ekenstam",
+    "source_platform": "x",
+    "source_link": "https://x.com/LinusEkenstam/status/2076273553964687462",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_078",
+    "sort_order": 78,
+    "title": "Ретро-аниме 80-х для экрана блокировки",
+    "description": "Минималистичный экран блокировки с ретро-иллюстрацией в стиле аниме 80-х с градиентами, выполненными аэрографом.",
+    "prompt": "Retro 80s anime cel illustration with airbrushed gradients and film grain. Minimalist lock screen",
+    "category": "Illustration",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f1549f674d93.jpg?v=20260720fix",
+    "author_name": "Magnific",
+    "source_platform": "x",
+    "source_link": "https://x.com/magnific/status/2076964679784780139",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_079",
+    "sort_order": 79,
+    "title": "История взросления на вокзале",
+    "description": "Кинематографичный портрет японской школьницы на пригородной станции в яркий летний полдень.",
+    "prompt": "A cinematic coming-of-age portrait of a Japanese high school girl at a suburban train station on a bright summer afternoon, wearing a white sailor-style school uniform with a light blue skirt, carrying a navy school bag and backpack. Natural wind",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_e618ac7cdcf4.jpg?v=20260720fix",
+    "author_name": "Kashberg",
+    "source_platform": "x",
+    "source_link": "https://x.com/Kashberg_0/status/2077421901656572021",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_080",
+    "sort_order": 80,
+    "title": "Минималистичный туристический постер",
+    "description": "Премиальный минималистичный постер обрамляет знаковую достопримечательность через большое открытое окно с белой рамой.",
+    "prompt": "Create a premium minimalist travel poster with a clean editorial aesthetic. A large open white-framed window is centered in the composition, perfectly framing an iconic landmark or scenic destination",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_4761b6b5b076.jpg?v=20260720fix",
+    "author_name": "simeon-sanai",
+    "source_platform": "x",
+    "source_link": "https://x.com/Naiknelofar788/status/2077317872662233456",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_081",
+    "sort_order": 81,
+    "title": "Меланхоличный портрет в золотой час",
+    "description": "Меланхоличная молодая женщина сидит у окна в золотой час, освещенная мягким солнечным светом.",
+    "prompt": "A melancholic young East Asian woman with long, slightly messy black hair sits quietly beside a large window during golden hour, soft sunlight illuminating her face with warm cinematic tones. She gazes thoughtfully into the distance, natural makeup",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_f6ea00c7b24a.jpg?v=20260720fix",
+    "author_name": "K",
+    "source_platform": "x",
+    "source_link": "https://x.com/ChillaiKalan__/status/2077627547173695645",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_082",
+    "sort_order": 82,
+    "title": "Женщина в оживленной толпе",
+    "description": "Женщина спокойно идет в размытой, оживленной толпе на городской улице, глядя в сторону.",
+    "prompt": "A woman walking calmly in the middle of a bustling crowd, with everyone else in motion and slightly blurred. She is looking to the side and slightly upward, with a calm, neutral expression and perhaps a very faint, subtle smile. The scene takes place on a city street.",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_6acc27c6f60b.jpg?v=20260720fix",
+    "author_name": "Kashberg",
+    "source_platform": "x",
+    "source_link": "https://x.com/Kashberg_0/status/2077624267752218752",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_083",
+    "sort_order": 83,
+    "title": "Фотореалистичный редакционный портрет",
+    "description": "Фотореалистичный портрет по пояс соблазнительной и потрясающей японской или корейской женщины в возрасте 20 лет.",
+    "prompt": "Create a photorealistic editorial portrait. Waist-up portrait, eye-level view, front-left three-quarter view A 20s seductive stunning Japanese or Korean",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dda1aa7a7755.jpg?v=20260720fix",
+    "author_name": "Nailai7981",
+    "source_platform": "x",
+    "source_link": "https://x.com/VIBEQUIRKLABS/status/2077756195021177249",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_084",
+    "sort_order": 84,
+    "title": "Моментальный снимок на углу улицы",
+    "description": "Быстрый снимок показывает молодую китаянку, поворачивающуюся рядом с темно-синим велосипедом на тихой улице.",
+    "prompt": "A quick snapshot taken on a quiet street corner, looks like someone called her name and she turned around mid-stride. A young Chinese woman in her early 20s stands beside a dark blue bicycle, her body half-turned, one hand resting on the bicycle seat, the",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_fd46b8756855.jpg?v=20260720fix",
+    "author_name": "simeon-sanai",
+    "source_platform": "x",
+    "source_link": "https://x.com/Naiknelofar788/status/2078669518839468367",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_085",
+    "sort_order": 85,
+    "title": "Акварельный городской скетч",
+    "description": "Утонченный горизонтальный акварельный скетч изображает мирное знаковое место на открытом воздухе в городе.",
+    "prompt": "Create a refined horizontal aquarelle urban sketch of a peaceful, iconic outdoor location in [PLACE], [CITY], using delicate freehand ink, restrained transparent watercolor",
+    "category": "Illustration",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_a45476c94dcf.jpg?v=20260720fix",
+    "author_name": "Zara",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZaraIrahh/status/2078405764910043477",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_086",
+    "sort_order": 86,
+    "title": "Монохромный модный постер",
+    "description": "Ультрареалистичный монохромный модный постер с уверенной в себе женщиной в смелой черно-белой композиции.",
+    "prompt": "Ultra-realistic IMAX-level Netflix-style cinematic monochrome fashion poster, 9:16 vertical composition, create a powerful women-perspective editorial poster featuring a confident stylish young adult woman in a bold black-and-white",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_50e950417186.jpg?v=20260720fix",
+    "author_name": "Zunaira Ai",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZunairaAi/status/2079030858238009582",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_087",
+    "sort_order": 87,
+    "title": "Причудливая иллюстрация с лошадью",
+    "description": "Причудливая иллюстрация показывает лошадь в поле одуванчиков с семенами, парящими на ветру.",
+    "prompt": "a whimsical illustration of a horse standing in a field of dandelions under a bright blue sky. Dandelion seeds float around the horse, and some are caught in the wind.",
+    "category": "Illustration",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dfe8fd820f44.jpg?v=20260720fix",
+    "author_name": "Heather Green",
+    "source_platform": "x",
+    "source_link": "https://x.com/heathergreen/status/2078996056080269496",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_088",
+    "sort_order": 88,
+    "title": "Женщина одна на улице",
+    "description": "Фотография фокусируется на бесстрастном лице женщины, в то время как размытые фигуры удаляются на улице, снятой широкоугольным объективом.",
+    "prompt": "Photo of a woman standing alone on the street, surrounded by blurred figures representing people moving aWCy from her. the focus is on her expression t and posture as she looks around straight poker face. she wears jeans and a red sweater. wide-angle",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_dfd56154a3ad.jpg?v=20260720fix",
+    "author_name": "K",
+    "source_platform": "x",
+    "source_link": "https://x.com/ChillaiKalan__/status/2078753991820017828",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_089",
+    "sort_order": 89,
+    "title": "Кинематографичный крупный план портрета",
+    "description": "Фотореалистичный кинематографичный портрет крупным планом потрясающей женщины на фоне простой светлой стены.",
+    "prompt": "Reference image: conceptual variant. Photorealistic cinematic close-up portrait of a stunning young woman against a plain light wall during soft even studio lighting with gentle side illumination",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_a87b40f94188.jpg?v=20260720fix",
+    "author_name": "dreamy digital arts",
+    "source_platform": "x",
+    "source_link": "https://x.com/dreamydigiarts/status/2078797004688249229",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_090",
+    "sort_order": 90,
+    "title": "Модная редакционная съемка с контурами",
+    "description": "Фотография в стиле модной редакции использует элементы с контурами и состаренную эстетику для концептуального стиля.",
+    "prompt": "Fashion-editorial photography style, using outlined elements and the distressed",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/xf_d7dfb264c619.jpg?v=20260720fix",
+    "author_name": "WenyeBot",
+    "source_platform": "x",
+    "source_link": "https://x.com/WenyeBot/status/2078739130822066220",
     "language": "ru",
     "featured": false
   }
