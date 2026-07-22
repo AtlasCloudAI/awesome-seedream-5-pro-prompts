@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-90%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-110%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,32 +90,33 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **90** |
-| Categories | **19** |
-| Preview Images | **90** |
-| Last Updated | **2026-07-21T04:38:12.032Z** |
+| Total Prompts | **110** |
+| Categories | **20** |
+| Preview Images | **110** |
+| Last Updated | **2026-07-22T06:18:22.572Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Infographic`](#category-1): **7**
+- [`Infographic`](#category-1): **8**
 - [`Slides & Presentation`](#category-2): **5**
-- [`Poster Design`](#category-3): **16**
+- [`Poster Design`](#category-3): **17**
 - [`Brand Design`](#category-4): **3**
 - [`Interior Design`](#category-5): **3**
-- [`E-commerce`](#category-6): **4**
+- [`E-commerce`](#category-6): **5**
 - [`Comic & Storyboard`](#category-7): **4**
 - [`Film Storyboard`](#category-8): **3**
-- [`Portrait`](#category-9): **14**
-- [`Illustration`](#category-10): **9**
-- [`Character Design`](#category-11): **3**
+- [`Portrait`](#category-9): **23**
+- [`Illustration`](#category-10): **13**
+- [`Character Design`](#category-11): **4**
 - [`Style Transfer`](#category-12): **4**
 - [`Outfit Transfer`](#category-13): **2**
 - [`Restoration`](#category-14): **1**
 - [`Retouching`](#category-15): **2**
 - [`ID Photo`](#category-16): **3**
-- [`Creative Fun`](#category-17): **4**
+- [`Creative Fun`](#category-17): **5**
 - [`Stickers`](#category-18): **1**
-- [`Social Media`](#category-19): **2**
+- [`Social Media`](#category-19): **3**
+- [`Multi-Image Fusion`](#category-20): **1**
 
 ## 🔥 Featured Prompts
 
@@ -267,7 +268,7 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 
 <a id="category-1"></a>
 
-### Infographic (7)
+### Infographic (8)
 
 ### No. 1: पत्रकार सुरक्षा तथ्य और आंकड़े
 
@@ -395,6 +396,24 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 A cinematic astronaut walking through Tokyo in the rain, neon reflections, ultra realistic.
 ```
 
+### No. 8: UFO छवि स्पष्टीकरण
+
+- **Category:** `Infographic`
+- **Language:** `hi`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/3_2.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/3_2.jpg?v=20260720fix" alt="UFO छवि स्पष्टीकरण" width="480" />
+
+#### Description
+
+एक कैप्चर की गई UFO छवि की वास्तविक पहचान और रूप-रंग का विवरण देता हुआ एक इन्फोग्राफिक।
+
+#### Prompt
+
+```text
+Create an infographic containing detailed information about what this UFO image captured on camera might be and what the actual image looks like.
+```
+
 <a id="category-2"></a>
 
 ### Slides & Presentation (5)
@@ -491,7 +510,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 <a id="category-3"></a>
 
-### Poster Design (16)
+### Poster Design (17)
 
 ### No. 1: Y2K क्यूट स्टाइल पोस्टर विथ जेली टेक्स्चर
 
@@ -805,6 +824,24 @@ Ultra-realistic IMAX-level Netflix-style cinematic monochrome fashion poster, 9:
 Fashion-editorial photography style, using outlined elements and the distressed
 ```
 
+### No. 17: Y2K डिजिटल नॉस्टैल्जिक पोस्टर
+
+- **Category:** `Poster Design`
+- **Language:** `hi`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/6_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/6_0.jpg?v=20260720fix" alt="Y2K डिजिटल नॉस्टैल्जिक पोस्टर" width="480" />
+
+#### Description
+
+Y2K-स्टाइल का एक पोस्टर, जिसमें आइकॉनिक Windows XP 'Bliss' वॉलपेपर बैकग्राउंड और एक स्ट्रेच्ड पिक्सेल ग्रिड इफेक्ट है।
+
+#### Prompt
+
+```text
+Y2K digital nostalgic-style poster, with a background featuring the Windows XP default wallpaper “Bliss”—green grass and blue sky—combined with a stretched pixel grid
+```
+
 <a id="category-4"></a>
 
 ### Brand Design (3)
@@ -939,7 +976,7 @@ Precisely cut out the 7 white-background objects I provided and compose them int
 
 <a id="category-6"></a>
 
-### E-commerce (4)
+### E-commerce (5)
 
 ### No. 1: RESHAKE Winter Down Jacket Banner
 
@@ -1020,6 +1057,24 @@ E-commerce design. Input image + color palette reference
 #### Input reference images (1)
 
 <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VGIXbHnD5oBnfpxWd3wcdj7HnDb.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 5: Creamora सॉफ्ट-सर्व प्रोडक्ट शॉट
+
+- **Category:** `E-commerce`
+- **Language:** `hi`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix" alt="Creamora सॉफ्ट-सर्व प्रोडक्ट शॉट" width="480" />
+
+#### Description
+
+Creamora आइसक्रीम टब का एक प्रोफेशनल प्रोडक्ट फोटोग्राफ, जिसमें घुमावदार सॉफ्ट-सर्व और चॉकलेट ड्रिज़ल है।
+
+#### Prompt
+
+```text
+A professional product commercial photograph of an ice cream tub. The tub is labeled with the brand name "Creamora" in an elegant brown font. On top of the tub, there is a beautifully swirled, towering scoop of soft-serve
+```
 
 <a id="category-7"></a>
 
@@ -1157,7 +1212,7 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 <a id="category-9"></a>
 
-### Portrait (14)
+### Portrait (23)
 
 ### No. 1: Over Shoulder Shot Of Sad Woman
 
@@ -1431,9 +1486,171 @@ Photo of a woman standing alone on the street, surrounded by blurred figures rep
 Reference image: conceptual variant. Photorealistic cinematic close-up portrait of a stunning young woman against a plain light wall during soft even studio lighting with gentle side illumination
 ```
 
+### No. 15: सिनेमाई लो-एंगल पोर्ट्रेट
+
+- **Category:** `Portrait`
+- **Language:** `hi`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix" alt="सिनेमाई लो-एंगल पोर्ट्रेट" width="480" />
+
+#### Description
+
+कैमरे के निचले कोण से लिया गया एक उच्च गुणवत्ता वाला पोर्ट्रेट, जो सिनेमाई भावना जगाता है।
+
+#### Prompt
+
+```text
+Cinematic full-frame DSLR low-angle shot
+```
+
+### No. 16: हाइपर-रियलिस्टिक लग्ज़री एडिटोरियल पोर्ट्रेट
+
+- **Category:** `Portrait`
+- **Language:** `hi`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix" alt="हाइपर-रियलिस्टिक लग्ज़री एडिटोरियल पोर्ट्रेट" width="480" />
+
+#### Description
+
+एक सुंदर युवा महिला का हाइपर-रियलिस्टिक लग्ज़री एडिटोरियल पोर्ट्रेट, जिसकी त्वचा निर्दोष चीनी मिट्टी के बरतन जैसी काँची है, जो आधुनिक हाई-फैशन पत्रिका सौंदर्यशास्त्र से प्रेरित है।
+
+#### Prompt
+
+```text
+Create a hyper-realistic luxury editorial portrait for inspired by modern high-fashion magazine aesthetics with a completely original composition. An exceptionally beautiful young woman with flawless porcelain glass skin, naturally symmetrical facial
+```
+
+### No. 17: जापानी महिला सेल्फी
+
+- **Category:** `Portrait`
+- **Language:** `hi`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/1_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/1_0.jpg?v=20260720fix" alt="जापानी महिला सेल्फी" width="480" />
+
+#### Description
+
+ट्विन पोनीटेल और विस्पी बैंग्स वाली एक युवा जापानी महिला की अल्ट्रा-रियलिस्टिक सेल्फी।
+
+#### Prompt
+
+```text
+Ultra-realistic smartphone selfie of a beautiful young Japanese woman with smooth porcelain skin, soft natural facial features, large warm brown eyes, glossy pink lips, and long silky black hair styled in low twin ponytails with wispy bangs.
+```
+
+### No. 18: एडिटोरियल फिटनेस पोर्ट्रेट
+
+- **Category:** `Portrait`
+- **Language:** `hi`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/3_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/3_0.jpg?v=20260720fix" alt="एडिटोरियल फिटनेस पोर्ट्रेट" width="480" />
+
+#### Description
+
+एक युवा एथलेटिक महिला एक मूर्तिकला जैसी घुमावदार मेटल बारे के पास एक उन्नत स्ट्रेचिंग पोज़ कर रही है, उसका शरीर सुंदरता से झुका हुआ है।
+
+#### Prompt
+
+```text
+Editorial fitness portrait of a young athletic woman performing an advanced seated stretching pose beside a sculptural curved metal barre. Her body bends gracefully through the composition, one leg extended
+```
+
+### No. 19: पूर्वी एशियाई महिला पोर्ट्रेट
+
+- **Category:** `Portrait`
+- **Language:** `hi`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix" alt="पूर्वी एशियाई महिला पोर्ट्रेट" width="480" />
+
+#### Description
+
+गोरी त्वचा और अभिव्यंजक आँखों वाली एक सुंदर युवा पूर्वी एशियाई महिला को दर्शाया गया है।
+
+#### Prompt
+
+```text
+A beautiful young East Asian woman in her early 20s, fair smooth skin, delicate facial features, large expressive eyes, subtle
+```
+
+### No. 20: गोल्डन आवर ब्यूटी पोर्ट्रेट
+
+- **Category:** `Portrait`
+- **Language:** `hi`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix" alt="गोल्डन आवर ब्यूटी पोर्ट्रेट" width="480" />
+
+#### Description
+
+एक युवा महिला का अल्ट्रा-रियलिस्टिक ब्यूटी पोर्ट्रेट, जो गर्म सुनहरी सूर्यास्त की रोशनी और नरम सिनेमाई छायाओं से नहाई हुई है।
+
+#### Prompt
+
+```text
+Ultra-realistic beauty portrait of a young woman bathed in warm golden sunset light streaming through a window, soft cinematic shadows cast across her face and textured wall background. Elegant messy bun hairstyle with loose wispy strands, flawless
+```
+
+### No. 21: जापानी महिला पोर्ट्रेट
+
+- **Category:** `Portrait`
+- **Language:** `hi`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/10_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/10_0.jpg?v=20260720fix" alt="जापानी महिला पोर्ट्रेट" width="480" />
+
+#### Description
+
+विस्तृत चेहरे के लक्षणों वाली एक युवा जापानी महिला का अल्ट्रा-रियलिस्टिक स्मार्टफोन पोर्ट्रेट।
+
+#### Prompt
+
+```text
+Ultra-realistic smartphone photo of a beautiful young Japanese woman with smooth fair skin, soft natural facial features, large expressive brown eyes, glossy pink lips, and long straight silky black hair with wispy side-swept bangs, wearing an
+```
+
+### No. 22: विशाल परिदृश्य में शांत आत्मविश्वास
+
+- **Category:** `Portrait`
+- **Language:** `hi`
+- **Image:** [View](https://pbs.twimg.com/media/HNwGJNGXcAAEtyS.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNwGJNGXcAAEtyS.jpg?v=20260720fix" alt="विशाल परिदृश्य में शांत आत्मविश्वास" width="480" />
+
+#### Description
+
+एक महिला एक विशाल, धुंधले, डिसैचुरेटेड परिदृश्य में आत्मविश्वास से खड़ी है, जो शांत शक्ति और प्राकृतिक शिष्टता का प्रतीक है।
+
+#### Prompt
+
+```text
+Portrait of a woman in a striking, elegant pose, standing with quiet confidence and minimal styling, against a breathtaking vast natural landscape. The color palette remains desaturated and earthy - cool grays,
+```
+
+### No. 23: सफेद लिली के बीच महिला
+
+- **Category:** `Portrait`
+- **Language:** `hi`
+- **Image:** [View](https://pbs.twimg.com/media/HNpeYBkawAEpFQF.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNpeYBkawAEpFQF.jpg?v=20260720fix" alt="सफेद लिली के बीच महिला" width="480" />
+
+#### Description
+
+घने बालों वाली एक युवा महिला का फोटोरियलिस्टिक पोर्ट्रेट, जो सफेद लिली के बीच लेटी हुई है।
+
+#### Prompt
+
+```text
+A large-scale, photorealistic portrait preserving exact facial features. A young woman with voluminous, slightly tousled hair lies on her side amidst a lush bouquet of white lilies, gazing directly at the viewer.
+```
+
 <a id="category-10"></a>
 
-### Illustration (9)
+### Illustration (13)
 
 ### No. 1: कलात्मक चित्र पुस्तक स्कूल वर्दी
 
@@ -1613,9 +1830,85 @@ Create a refined horizontal aquarelle urban sketch of a peaceful, iconic outdoor
 a whimsical illustration of a horse standing in a field of dandelions under a bright blue sky. Dandelion seeds float around the horse, and some are caught in the wind.
 ```
 
+### No. 10: सिनेमाई वाइकिंग योद्धा युद्ध में
+
+- **Category:** `Illustration`
+- **Language:** `hi`
+- **Image:** [View](https://pbs.twimg.com/media/HMxI45LbUAATNDI.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HMxI45LbUAATNDI.jpg?v=20260720fix" alt="सिनेमाई वाइकिंग योद्धा युद्ध में" width="480" />
+
+#### Description
+
+एक सिनेमाई वाइकिंग योद्धा खून से सनी युद्धभूमि पर खड़ा है, तलवार तैयार, उसके कवच में तीर घुसे हुए हैं और चेहरे पर खून लगा है।
+
+#### Prompt
+
+```text
+Two image models seedream 5.0 and Muse image launched in two days
+
+Used this prompt in all the models to test this 
+
+"create an image of a cinematic vikking style warrior with his big sword ready on a battlefield with blood on this face, arrows stuck on to his armour facing the
+```
+
+### No. 11: फोटोरियलिस्टिक लो-एंगल हीरो शॉट
+
+- **Category:** `Illustration`
+- **Language:** `hi`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/3_1.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/3_1.jpg?v=20260720fix" alt="फोटोरियलिस्टिक लो-एंगल हीरो शॉट" width="480" />
+
+#### Description
+
+एक मकबरे में एक साहसिक यात्री का 8k फोटोरियलिस्टिक लो-एंगल हीरो शॉट, जिसमें शैलो डेप्थ ऑफ फील्ड है।
+
+#### Prompt
+
+```text
+8k photorealistic low-angle hero shot using a full-frame DSLR camera with shallow depth
+```
+
+### No. 12: आक्रामक रॉकस्टार स्टेज पर
+
+- **Category:** `Illustration`
+- **Language:** `hi`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix" alt="आक्रामक रॉकस्टार स्टेज पर" width="480" />
+
+#### Description
+
+एक शक्तिशाली महिला रॉकस्टार स्टेज पर आक्रामक तरीके से परफॉर्म करते हुए अपनी गिटार तोड़ रही है।
+
+#### Prompt
+
+```text
+A female rockstar behaving aggressively on a rock concert stage.
+```
+
+### No. 13: एलिगेंट एस-कर्व एरियल फोटोग्राफी
+
+- **Category:** `Illustration`
+- **Language:** `hi`
+- **Image:** [View](https://pbs.twimg.com/media/HNwpL7vbMAA7UYP.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNwpL7vbMAA7UYP.jpg?v=20260720fix" alt="एलिगेंट एस-कर्व एरियल फोटोग्राफी" width="480" />
+
+#### Description
+
+एक हाइपररियलिस्टिक ड्रोन एरियल फोटोग्राफ, जिसमें एक मिनिमलिस्ट फाइन आर्ट लैंडस्केप है जिसकी कम्पोज़िशन में एक एलिगेंट एस-कर्व है।
+
+#### Prompt
+
+```text
+超写实无人机航拍照片，国际无人机摄影大奖（Drone Photo Awards）风格，Reve 2.1 Layout，高级电影级航拍构图，极强视觉层级，极简 Fine Art 风景摄影，大面积留白与负空间，黄金分割构图，优雅的 S
+```
+
 <a id="category-11"></a>
 
-### Character Design (3)
+### Character Design (4)
 
 ### No. 1: तीन दृश्य प्राचीन देवी मूर्ति
 
@@ -1670,6 +1963,28 @@ Generate a three-view of a Soviet-era postal messenger bicycle…
 ```text
 Cyberpunk-style anime character design sheet, showing three-view turnaround, close-up portraits, and accessory details of a hacker girl named "RIN"…
 ```
+
+### No. 4: संगत कैरेक्टर पुनः-रेंडरिंग
+
+- **Category:** `Character Design`
+- **Language:** `hi`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/7_2.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_2.jpg?v=20260720fix" alt="संगत कैरेक्टर पुनः-रेंडरिंग" width="480" />
+
+#### Description
+
+एक कैरेक्टर की नई छवि जनरेट करें, उनके चेहरे के लक्षण, हेयरस्टाइल, उम्र, बॉडी टाइप और दृश्य शैली को संरक्षित करते हुए।
+
+#### Prompt
+
+```text
+Use the person/character in the attached image as the protagonist and create a brand-new image. Preserve the character's facial features, hairstyle, apparent age, body type, and original visual style as closely as possible.
+```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_1.jpg?v=20260720fix" alt="input reference" height="140" />
 
 <a id="category-12"></a>
 
@@ -1957,7 +2272,7 @@ Generate a solo ID photo for the woman
 
 <a id="category-17"></a>
 
-### Creative Fun (4)
+### Creative Fun (5)
 
 ### No. 1: दंभ भरी मुस्कान डेविल दांतों के साथ
 
@@ -2039,6 +2354,24 @@ Red box: a giant blue-furred head with a comically squeezed expression, looking 
 
 <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KrdNbd9vdoI63exU35qc9jsonCb.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AbuMbTZBPoG0sdx1EhQcJsaFnub.jpg?v=20260720fix" alt="input reference" height="140" />
 
+### No. 5: महिला रॉकस्टार गिटार तोड़ते हुए
+
+- **Category:** `Creative Fun`
+- **Language:** `hi`
+- **Image:** [View](https://pbs.twimg.com/media/HNvMh88WoAE8zJC.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNvMh88WoAE8zJC.jpg?v=20260720fix" alt="महिला रॉकस्टार गिटार तोड़ते हुए" width="480" />
+
+#### Description
+
+एक धुएँ भरे स्टेज पर काले ड्रेस में एक महिला रॉकस्टार की गतिशील छवि, जो अपनी गिटार को शक्तिशाली ढंग से तोड़ रही है।
+
+#### Prompt
+
+```text
+Female rockstar smashing guitar on stage. "Seedream 5 Pro"
+```
+
 <a id="category-18"></a>
 
 ### Stickers (1)
@@ -2067,7 +2400,7 @@ Based on the cartoon character, design different emotions — happy, sad, aggrie
 
 <a id="category-19"></a>
 
-### Social Media (2)
+### Social Media (3)
 
 ### No. 1: उद्धरण चिह्नों में पाठ
 
@@ -2105,6 +2438,49 @@ Add quote marks around text to ensure the text appears in your image "Good morni
 Cinematic film still, rural Japanese rice paddy landscape in summer, three-quarter angle view down a narrow
 ```
 
+### No. 3: ओवरहेड कैफ़े सेल्फी
+
+- **Category:** `Social Media`
+- **Language:** `hi`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/9_1.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/9_1.jpg?v=20260720fix" alt="ओवरहेड कैफ़े सेल्फी" width="480" />
+
+#### Description
+
+एक लकड़ी के कैफ़े की कुर्सी पर बैठे सब्जेक्ट की एक वर्टिकल iPhone फोटो, जो सीधे ऊपर से टॉप-डाउन एंगल से ली गई है।
+
+#### Prompt
+
+```text
+Vertical iPhone photo, direct overhead top-down shot. Do not change the subject’s facial features, proportions, or hair color. Cinematic look with film grain. A spontaneous candid moment captured in motion. The subject is seated in a wooden café chair with
+```
+
+<a id="category-20"></a>
+
+### Multi-Image Fusion (1)
+
+### No. 1: बहु-छवि संयोजन
+
+- **Category:** `Multi-Image Fusion`
+- **Language:** `hi`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix" alt="बहु-छवि संयोजन" width="480" />
+
+#### Description
+
+विभिन्न स्रोत छवियों से एक व्यक्ति, दृश्य और मुद्रा को मिलाकर बनाई गई एक छवि।
+
+#### Prompt
+
+```text
+Create a new image.
+Use the person from image1,
+Use the scene from image2,
+Use the exact pose from image3.
+```
+
 ## Local Usage
 
 ```bash
@@ -2126,4 +2502,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-21T04:38:12.032Z
+> This README is auto-generated. 2026-07-22T06:18:22.572Z

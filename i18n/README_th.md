@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-90%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-110%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,32 +90,33 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **90** |
-| Categories | **19** |
-| Preview Images | **90** |
-| Last Updated | **2026-07-21T04:38:12.030Z** |
+| Total Prompts | **110** |
+| Categories | **20** |
+| Preview Images | **110** |
+| Last Updated | **2026-07-22T06:18:22.567Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Infographic`](#category-1): **7**
+- [`Infographic`](#category-1): **8**
 - [`Slides & Presentation`](#category-2): **5**
-- [`Poster Design`](#category-3): **16**
+- [`Poster Design`](#category-3): **17**
 - [`Brand Design`](#category-4): **3**
 - [`Interior Design`](#category-5): **3**
-- [`E-commerce`](#category-6): **4**
+- [`E-commerce`](#category-6): **5**
 - [`Comic & Storyboard`](#category-7): **4**
 - [`Film Storyboard`](#category-8): **3**
-- [`Portrait`](#category-9): **14**
-- [`Illustration`](#category-10): **9**
-- [`Character Design`](#category-11): **3**
+- [`Portrait`](#category-9): **23**
+- [`Illustration`](#category-10): **13**
+- [`Character Design`](#category-11): **4**
 - [`Style Transfer`](#category-12): **4**
 - [`Outfit Transfer`](#category-13): **2**
 - [`Restoration`](#category-14): **1**
 - [`Retouching`](#category-15): **2**
 - [`ID Photo`](#category-16): **3**
-- [`Creative Fun`](#category-17): **4**
+- [`Creative Fun`](#category-17): **5**
 - [`Stickers`](#category-18): **1**
-- [`Social Media`](#category-19): **2**
+- [`Social Media`](#category-19): **3**
+- [`Multi-Image Fusion`](#category-20): **1**
 
 ## 🔥 Featured Prompts
 
@@ -267,7 +268,7 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 
 <a id="category-1"></a>
 
-### Infographic (7)
+### Infographic (8)
 
 ### No. 1: ข้อเท็จจริงและตัวเลขเกี่ยวกับความปลอดภัยของนักข่าว
 
@@ -395,6 +396,24 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 A cinematic astronaut walking through Tokyo in the rain, neon reflections, ultra realistic.
 ```
 
+### No. 8: คำอธิบายภาพยูเอฟโอ
+
+- **Category:** `Infographic`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/3_2.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/3_2.jpg?v=20260720fix" alt="คำอธิบายภาพยูเอฟโอ" width="480" />
+
+#### Description
+
+อินโฟกราฟิกที่อธิบายตัวตนและลักษณะที่แท้จริงของภาพยูเอฟโอที่ถูกจับได้
+
+#### Prompt
+
+```text
+Create an infographic containing detailed information about what this UFO image captured on camera might be and what the actual image looks like.
+```
+
 <a id="category-2"></a>
 
 ### Slides & Presentation (5)
@@ -491,7 +510,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 <a id="category-3"></a>
 
-### Poster Design (16)
+### Poster Design (17)
 
 ### No. 1: โปสเตอร์สไตล์น่ารักยุค Y2K พร้อมพื้นผิวเยลลี่
 
@@ -805,6 +824,24 @@ Ultra-realistic IMAX-level Netflix-style cinematic monochrome fashion poster, 9:
 Fashion-editorial photography style, using outlined elements and the distressed
 ```
 
+### No. 17: โปสเตอร์ดิจิทัลนอสตัลเจียสไตล์วายทูเค
+
+- **Category:** `Poster Design`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/6_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/6_0.jpg?v=20260720fix" alt="โปสเตอร์ดิจิทัลนอสตัลเจียสไตล์วายทูเค" width="480" />
+
+#### Description
+
+โปสเตอร์สไตล์วายทูเคที่มีพื้นหลังวอลล์เปเปอร์ 'Bliss' ของ Windows XP อันเป็นสัญลักษณ์พร้อมเอฟเฟกต์กริดพิกเซลยืด
+
+#### Prompt
+
+```text
+Y2K digital nostalgic-style poster, with a background featuring the Windows XP default wallpaper “Bliss”—green grass and blue sky—combined with a stretched pixel grid
+```
+
 <a id="category-4"></a>
 
 ### Brand Design (3)
@@ -939,7 +976,7 @@ Precisely cut out the 7 white-background objects I provided and compose them int
 
 <a id="category-6"></a>
 
-### E-commerce (4)
+### E-commerce (5)
 
 ### No. 1: แบนเนอร์เสื้อกันหนาวดาวน์ RESHAKE
 
@@ -1020,6 +1057,24 @@ E-commerce design. Input image + color palette reference
 #### Input reference images (1)
 
 <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VGIXbHnD5oBnfpxWd3wcdj7HnDb.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 5: ภาพสินค้าไอศกรีมซอฟต์เสิร์ฟ Creamora
+
+- **Category:** `E-commerce`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix" alt="ภาพสินค้าไอศกรีมซอฟต์เสิร์ฟ Creamora" width="480" />
+
+#### Description
+
+ภาพถ่ายสินค้ามืออาชีพของถังไอศกรีม Creamora พร้อมซอฟต์เสิร์ฟบิดเกลียวและซอสช็อกโกแลต
+
+#### Prompt
+
+```text
+A professional product commercial photograph of an ice cream tub. The tub is labeled with the brand name "Creamora" in an elegant brown font. On top of the tub, there is a beautifully swirled, towering scoop of soft-serve
+```
 
 <a id="category-7"></a>
 
@@ -1157,7 +1212,7 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 <a id="category-9"></a>
 
-### Portrait (14)
+### Portrait (23)
 
 ### No. 1: ภาพช็อตเหนือไหล่ผู้หญิงเศร้า
 
@@ -1431,9 +1486,171 @@ Photo of a woman standing alone on the street, surrounded by blurred figures rep
 Reference image: conceptual variant. Photorealistic cinematic close-up portrait of a stunning young woman against a plain light wall during soft even studio lighting with gentle side illumination
 ```
 
+### No. 15: ภาพบุคคลมุมต่ำแบบภาพยนตร์
+
+- **Category:** `Portrait`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix" alt="ภาพบุคคลมุมต่ำแบบภาพยนตร์" width="480" />
+
+#### Description
+
+ภาพบุคคลคุณภาพสูงที่ถ่ายด้วยมุมกล้องต่ำ ให้ความรู้สึกแบบภาพยนตร์
+
+#### Prompt
+
+```text
+Cinematic full-frame DSLR low-angle shot
+```
+
+### No. 16: ภาพบุคคลหรูหราในสไตล์บรรณาธิการสมจริงยิ่ง
+
+- **Category:** `Portrait`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix" alt="ภาพบุคคลหรูหราในสไตล์บรรณาธิการสมจริงยิ่ง" width="480" />
+
+#### Description
+
+ภาพบุคคลหรูหราในสไตล์บรรณาธิการสมจริงยิ่งของหญิงสาวสวยที่มีผิวเรียบเนียนเหมือนแก้วเคลือบแรงบันดาลใจจากสุนทรียศาสตร์นิตยสารแฟชั่นระดับสูงสมัยใหม่
+
+#### Prompt
+
+```text
+Create a hyper-realistic luxury editorial portrait for inspired by modern high-fashion magazine aesthetics with a completely original composition. An exceptionally beautiful young woman with flawless porcelain glass skin, naturally symmetrical facial
+```
+
+### No. 17: เซลฟี่หญิงญี่ปุ่น
+
+- **Category:** `Portrait`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/1_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/1_0.jpg?v=20260720fix" alt="เซลฟี่หญิงญี่ปุ่น" width="480" />
+
+#### Description
+
+เซลฟี่สมจริงยิ่งของหญิงสาวญี่ปุ่นผมมัดสองข้างและหน้าม้าบาง
+
+#### Prompt
+
+```text
+Ultra-realistic smartphone selfie of a beautiful young Japanese woman with smooth porcelain skin, soft natural facial features, large warm brown eyes, glossy pink lips, and long silky black hair styled in low twin ponytails with wispy bangs.
+```
+
+### No. 18: ภาพบุคคลฟิตเนสในสไตล์บรรณาธิการ
+
+- **Category:** `Portrait`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/3_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/3_0.jpg?v=20260720fix" alt="ภาพบุคคลฟิตเนสในสไตล์บรรณาธิการ" width="480" />
+
+#### Description
+
+หญิงสาวนักกีฬาทำนาท่ายืดเหยียดขั้นสูงข้างบาร์โค้งโลหะประติมากรรม ร่างกายโค้งงออย่างสง่างาม
+
+#### Prompt
+
+```text
+Editorial fitness portrait of a young athletic woman performing an advanced seated stretching pose beside a sculptural curved metal barre. Her body bends gracefully through the composition, one leg extended
+```
+
+### No. 19: ภาพบุคคลหญิงเอเชียตะวันออก
+
+- **Category:** `Portrait`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix" alt="ภาพบุคคลหญิงเอเชียตะวันออก" width="480" />
+
+#### Description
+
+ภาพหญิงสาวเอเชียตะวันออกที่สวยงาม ผิวขาวซีด และมีดวงตาที่แสดงอารมณ์
+
+#### Prompt
+
+```text
+A beautiful young East Asian woman in her early 20s, fair smooth skin, delicate facial features, large expressive eyes, subtle
+```
+
+### No. 20: ภาพบุคคลสวยในยามโกลเด้นฮาวร์
+
+- **Category:** `Portrait`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix" alt="ภาพบุคคลสวยในยามโกลเด้นฮาวร์" width="480" />
+
+#### Description
+
+ภาพบุคคลสวยสมจริงยิ่งของหญิงสาวที่อาบแสงพระอาทิตย์ตกสีทองอบอุ่นพร้อมเงาแบบภาพยนตร์อันนุ่มนวล
+
+#### Prompt
+
+```text
+Ultra-realistic beauty portrait of a young woman bathed in warm golden sunset light streaming through a window, soft cinematic shadows cast across her face and textured wall background. Elegant messy bun hairstyle with loose wispy strands, flawless
+```
+
+### No. 21: ภาพบุคคลหญิงญี่ปุ่น
+
+- **Category:** `Portrait`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/10_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/10_0.jpg?v=20260720fix" alt="ภาพบุคคลหญิงญี่ปุ่น" width="480" />
+
+#### Description
+
+ภาพบุคคลสมจริงยิ่งจากสมาร์ทโฟนของหญิงสาวญี่ปุ่นที่มีรายละเอียดใบหน้า
+
+#### Prompt
+
+```text
+Ultra-realistic smartphone photo of a beautiful young Japanese woman with smooth fair skin, soft natural facial features, large expressive brown eyes, glossy pink lips, and long straight silky black hair with wispy side-swept bangs, wearing an
+```
+
+### No. 22: ความมั่นใจอันเงียบสงบในทิวทัศน์กว้างใหญ่
+
+- **Category:** `Portrait`
+- **Language:** `th`
+- **Image:** [View](https://pbs.twimg.com/media/HNwGJNGXcAAEtyS.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNwGJNGXcAAEtyS.jpg?v=20260720fix" alt="ความมั่นใจอันเงียบสงบในทิวทัศน์กว้างใหญ่" width="480" />
+
+#### Description
+
+ผู้หญิงยืนอย่างมั่นใจในทิวทัศน์กว้างใหญ่ที่มีหมอกและสีซีดจาง สื่อถึงความแข็งแกร่งอันเงียบสงบและความสง่างามตามธรรมชาติ
+
+#### Prompt
+
+```text
+Portrait of a woman in a striking, elegant pose, standing with quiet confidence and minimal styling, against a breathtaking vast natural landscape. The color palette remains desaturated and earthy - cool grays,
+```
+
+### No. 23: หญิงสาวท่ามกลางดอกลิลลี่สีขาว
+
+- **Category:** `Portrait`
+- **Language:** `th`
+- **Image:** [View](https://pbs.twimg.com/media/HNpeYBkawAEpFQF.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNpeYBkawAEpFQF.jpg?v=20260720fix" alt="หญิงสาวท่ามกลางดอกลิลลี่สีขาว" width="480" />
+
+#### Description
+
+ภาพบุคคลสมจริงระดับภาพถ่ายของหญิงสาวผมฟู นอนท่ามกลางดอกลิลลี่สีขาว
+
+#### Prompt
+
+```text
+A large-scale, photorealistic portrait preserving exact facial features. A young woman with voluminous, slightly tousled hair lies on her side amidst a lush bouquet of white lilies, gazing directly at the viewer.
+```
+
 <a id="category-10"></a>
 
-### Illustration (9)
+### Illustration (13)
 
 ### No. 1: ภาพประกอบหนังสือภาพศิลปะ ชุดนักเรียน
 
@@ -1613,9 +1830,85 @@ Create a refined horizontal aquarelle urban sketch of a peaceful, iconic outdoor
 a whimsical illustration of a horse standing in a field of dandelions under a bright blue sky. Dandelion seeds float around the horse, and some are caught in the wind.
 ```
 
+### No. 10: นักรบไวกิ้งในฉากภาพยนตร์กลางสมรภูมิ
+
+- **Category:** `Illustration`
+- **Language:** `th`
+- **Image:** [View](https://pbs.twimg.com/media/HMxI45LbUAATNDI.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HMxI45LbUAATNDI.jpg?v=20260720fix" alt="นักรบไวกิ้งในฉากภาพยนตร์กลางสมรภูมิ" width="480" />
+
+#### Description
+
+นักรบไวกิ้งในฉากภาพยนตร์ยืนอยู่บนสนามรบที่เปื้อนเลือด ดาบพร้อมรบ มีลูกธนูปักเกราะและเลือดบนใบหน้า
+
+#### Prompt
+
+```text
+Two image models seedream 5.0 and Muse image launched in two days
+
+Used this prompt in all the models to test this 
+
+"create an image of a cinematic vikking style warrior with his big sword ready on a battlefield with blood on this face, arrows stuck on to his armour facing the
+```
+
+### No. 11: ภาพฮีโร่ถ่ายมุมต่ำสมจริงระดับภาพถ่าย
+
+- **Category:** `Illustration`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/3_1.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/3_1.jpg?v=20260720fix" alt="ภาพฮีโร่ถ่ายมุมต่ำสมจริงระดับภาพถ่าย" width="480" />
+
+#### Description
+
+ภาพฮีโร่ถ่ายมุมต่ำสมจริงระดับภาพถ่าย 8k ของนักผจญภัยในสุสานที่มีระยะชัดตื้น
+
+#### Prompt
+
+```text
+8k photorealistic low-angle hero shot using a full-frame DSLR camera with shallow depth
+```
+
+### No. 12: ร็อกสตาร์หญิงดุดันบนเวที
+
+- **Category:** `Illustration`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix" alt="ร็อกสตาร์หญิงดุดันบนเวที" width="480" />
+
+#### Description
+
+ร็อกสตาร์หญิงทรงพลังแสดงดุดันบนเวที พร้อมทำลายกีตาร์ของเธอ
+
+#### Prompt
+
+```text
+A female rockstar behaving aggressively on a rock concert stage.
+```
+
+### No. 13: ภาพถ่ายทางอากาศโค้งสง่างาม
+
+- **Category:** `Illustration`
+- **Language:** `th`
+- **Image:** [View](https://pbs.twimg.com/media/HNwpL7vbMAA7UYP.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNwpL7vbMAA7UYP.jpg?v=20260720fix" alt="ภาพถ่ายทางอากาศโค้งสง่างาม" width="480" />
+
+#### Description
+
+ภาพถ่ายทางอากาศจากโดรนสมจริงยิ่งของภูมิทัศน์ศิลปะวิจิตรมินิมอลที่มีองค์ประกอบโค้งสง่างามรูปตัว S
+
+#### Prompt
+
+```text
+超写实无人机航拍照片，国际无人机摄影大奖（Drone Photo Awards）风格，Reve 2.1 Layout，高级电影级航拍构图，极强视觉层级，极简 Fine Art 风景摄影，大面积留白与负空间，黄金分割构图，优雅的 S
+```
+
 <a id="category-11"></a>
 
-### Character Design (3)
+### Character Design (4)
 
 ### No. 1: รูปด้านสามทิศทาง เทวรูปเทพีโบราณ
 
@@ -1670,6 +1963,28 @@ Generate a three-view of a Soviet-era postal messenger bicycle…
 ```text
 Cyberpunk-style anime character design sheet, showing three-view turnaround, close-up portraits, and accessory details of a hacker girl named "RIN"…
 ```
+
+### No. 4: การสร้างตัวละครใหม่ให้คงที่
+
+- **Category:** `Character Design`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/7_2.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_2.jpg?v=20260720fix" alt="การสร้างตัวละครใหม่ให้คงที่" width="480" />
+
+#### Description
+
+สร้างภาพใหม่ของตัวละครโดยคงลักษณะใบหน้า ทรงผม อายุ รูปร่าง และสไตล์ภาพไว้
+
+#### Prompt
+
+```text
+Use the person/character in the attached image as the protagonist and create a brand-new image. Preserve the character's facial features, hairstyle, apparent age, body type, and original visual style as closely as possible.
+```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_1.jpg?v=20260720fix" alt="input reference" height="140" />
 
 <a id="category-12"></a>
 
@@ -1957,7 +2272,7 @@ Generate a solo ID photo for the woman
 
 <a id="category-17"></a>
 
-### Creative Fun (4)
+### Creative Fun (5)
 
 ### No. 1: ยิ้มเจ้าเล่ห์พร้อมฟันปีศาจ
 
@@ -2039,6 +2354,24 @@ Red box: a giant blue-furred head with a comically squeezed expression, looking 
 
 <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KrdNbd9vdoI63exU35qc9jsonCb.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AbuMbTZBPoG0sdx1EhQcJsaFnub.jpg?v=20260720fix" alt="input reference" height="140" />
 
+### No. 5: ร็อกสตาร์หญิงทุบกีตาร์
+
+- **Category:** `Creative Fun`
+- **Language:** `th`
+- **Image:** [View](https://pbs.twimg.com/media/HNvMh88WoAE8zJC.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNvMh88WoAE8zJC.jpg?v=20260720fix" alt="ร็อกสตาร์หญิงทุบกีตาร์" width="480" />
+
+#### Description
+
+ภาพเคลื่อนไหวของร็อกสตาร์หญิงในชุดดำกำลังทุบกีตาร์อย่างทรงพลังบนเวทีที่มีควัน
+
+#### Prompt
+
+```text
+Female rockstar smashing guitar on stage. "Seedream 5 Pro"
+```
+
 <a id="category-18"></a>
 
 ### Stickers (1)
@@ -2067,7 +2400,7 @@ Based on the cartoon character, design different emotions — happy, sad, aggrie
 
 <a id="category-19"></a>
 
-### Social Media (2)
+### Social Media (3)
 
 ### No. 1: ข้อความในเครื่องหมายคำพูด
 
@@ -2105,6 +2438,49 @@ Add quote marks around text to ensure the text appears in your image "Good morni
 Cinematic film still, rural Japanese rice paddy landscape in summer, three-quarter angle view down a narrow
 ```
 
+### No. 3: เซลฟี่มุมมองจากด้านบนในคาเฟ่
+
+- **Category:** `Social Media`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/9_1.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/9_1.jpg?v=20260720fix" alt="เซลฟี่มุมมองจากด้านบนในคาเฟ่" width="480" />
+
+#### Description
+
+ภาพแนวตั้งจาก iPhone ของบุคคลที่นั่งบนเก้าอี้ไม้ในคาเฟ่ ถ่ายจากมุมมองด้านบนตรงๆ
+
+#### Prompt
+
+```text
+Vertical iPhone photo, direct overhead top-down shot. Do not change the subject’s facial features, proportions, or hair color. Cinematic look with film grain. A spontaneous candid moment captured in motion. The subject is seated in a wooden café chair with
+```
+
+<a id="category-20"></a>
+
+### Multi-Image Fusion (1)
+
+### No. 1: การหลอมรวมหลายภาพ
+
+- **Category:** `Multi-Image Fusion`
+- **Language:** `th`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix" alt="การหลอมรวมหลายภาพ" width="480" />
+
+#### Description
+
+ภาพที่สร้างขึ้นโดยการรวมบุคคล ฉาก และท่าทางจากภาพต้นฉบับที่แตกต่างกัน
+
+#### Prompt
+
+```text
+Create a new image.
+Use the person from image1,
+Use the scene from image2,
+Use the exact pose from image3.
+```
+
 ## Local Usage
 
 ```bash
@@ -2126,4 +2502,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-21T04:38:12.030Z
+> This README is auto-generated. 2026-07-22T06:18:22.567Z

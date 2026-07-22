@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-90%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-110%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,32 +90,33 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **90** |
-| Categories | **19** |
-| Preview Images | **90** |
-| Last Updated | **2026-07-21T04:38:12.038Z** |
+| Total Prompts | **110** |
+| Categories | **20** |
+| Preview Images | **110** |
+| Last Updated | **2026-07-22T06:18:22.591Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Infographic`](#category-1): **7**
+- [`Infographic`](#category-1): **8**
 - [`Slides & Presentation`](#category-2): **5**
-- [`Poster Design`](#category-3): **16**
+- [`Poster Design`](#category-3): **17**
 - [`Brand Design`](#category-4): **3**
 - [`Interior Design`](#category-5): **3**
-- [`E-commerce`](#category-6): **4**
+- [`E-commerce`](#category-6): **5**
 - [`Comic & Storyboard`](#category-7): **4**
 - [`Film Storyboard`](#category-8): **3**
-- [`Portrait`](#category-9): **14**
-- [`Illustration`](#category-10): **9**
-- [`Character Design`](#category-11): **3**
+- [`Portrait`](#category-9): **23**
+- [`Illustration`](#category-10): **13**
+- [`Character Design`](#category-11): **4**
 - [`Style Transfer`](#category-12): **4**
 - [`Outfit Transfer`](#category-13): **2**
 - [`Restoration`](#category-14): **1**
 - [`Retouching`](#category-15): **2**
 - [`ID Photo`](#category-16): **3**
-- [`Creative Fun`](#category-17): **4**
+- [`Creative Fun`](#category-17): **5**
 - [`Stickers`](#category-18): **1**
-- [`Social Media`](#category-19): **2**
+- [`Social Media`](#category-19): **3**
+- [`Multi-Image Fusion`](#category-20): **1**
 
 ## 🔥 Featured Prompts
 
@@ -267,7 +268,7 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 
 <a id="category-1"></a>
 
-### Infographic (7)
+### Infographic (8)
 
 ### No. 1: Fakta dan Angka Keselamatan Jurnalis
 
@@ -395,6 +396,24 @@ Seorang astronot sinematik berjalan di tengah hujan Tokyo dengan refleksi neon, 
 A cinematic astronaut walking through Tokyo in the rain, neon reflections, ultra realistic.
 ```
 
+### No. 8: Penjelasan Gambar UFO
+
+- **Category:** `Infographic`
+- **Language:** `id`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/3_2.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/3_2.jpg?v=20260720fix" alt="Penjelasan Gambar UFO" width="480" />
+
+#### Description
+
+Sebuah infografik yang merinci identitas asli dan penampakan dari sebuah gambar UFO yang tertangkap.
+
+#### Prompt
+
+```text
+Create an infographic containing detailed information about what this UFO image captured on camera might be and what the actual image looks like.
+```
+
 <a id="category-2"></a>
 
 ### Slides & Presentation (5)
@@ -491,7 +510,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 <a id="category-3"></a>
 
-### Poster Design (16)
+### Poster Design (17)
 
 ### No. 1: Poster Gaya Y2K Imut dengan Tekstur Jeli
 
@@ -805,6 +824,24 @@ Fotografi fashion-editorial menggunakan elemen bergaris outline dan estetika dis
 Fashion-editorial photography style, using outlined elements and the distressed
 ```
 
+### No. 17: Poster Nostalgia Digital Y2K
+
+- **Category:** `Poster Design`
+- **Language:** `id`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/6_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/6_0.jpg?v=20260720fix" alt="Poster Nostalgia Digital Y2K" width="480" />
+
+#### Description
+
+Poster bergaya Y2K menampilkan latar belakang wallpaper ikonik Windows XP 'Bliss' dengan efek grid piksel yang diregangkan.
+
+#### Prompt
+
+```text
+Y2K digital nostalgic-style poster, with a background featuring the Windows XP default wallpaper “Bliss”—green grass and blue sky—combined with a stretched pixel grid
+```
+
 <a id="category-4"></a>
 
 ### Brand Design (3)
@@ -939,7 +976,7 @@ Precisely cut out the 7 white-background objects I provided and compose them int
 
 <a id="category-6"></a>
 
-### E-commerce (4)
+### E-commerce (5)
 
 ### No. 1: Spanduk Jaket Musim Dingin RESHAKE
 
@@ -1020,6 +1057,24 @@ E-commerce design. Input image + color palette reference
 #### Input reference images (1)
 
 <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VGIXbHnD5oBnfpxWd3wcdj7HnDb.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 5: Foto Produk Soft-Serve Creamora
+
+- **Category:** `E-commerce`
+- **Language:** `id`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix" alt="Foto Produk Soft-Serve Creamora" width="480" />
+
+#### Description
+
+Foto produk profesional dari sebuah tabung es krim Creamora dengan soft-serve yang dikeriting dan siraman cokelat.
+
+#### Prompt
+
+```text
+A professional product commercial photograph of an ice cream tub. The tub is labeled with the brand name "Creamora" in an elegant brown font. On top of the tub, there is a beautifully swirled, towering scoop of soft-serve
+```
 
 <a id="category-7"></a>
 
@@ -1157,7 +1212,7 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 <a id="category-9"></a>
 
-### Portrait (14)
+### Portrait (23)
 
 ### No. 1: Shot dari Belakang Bahu Wanita Sedih
 
@@ -1431,9 +1486,171 @@ Potret close-up sinematik fotorealistis seorang wanita menawan dengan latar dind
 Reference image: conceptual variant. Photorealistic cinematic close-up portrait of a stunning young woman against a plain light wall during soft even studio lighting with gentle side illumination
 ```
 
+### No. 15: Potret Sudut Rendah Sinematik
+
+- **Category:** `Portrait`
+- **Language:** `id`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix" alt="Potret Sudut Rendah Sinematik" width="480" />
+
+#### Description
+
+Potret berkualitas tinggi yang diambil dengan sudut kamera rendah, menimbulkan nuansa sinematik.
+
+#### Prompt
+
+```text
+Cinematic full-frame DSLR low-angle shot
+```
+
+### No. 16: Potret Editorial Mewah Hiper-Realistis
+
+- **Category:** `Portrait`
+- **Language:** `id`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix" alt="Potret Editorial Mewah Hiper-Realistis" width="480" />
+
+#### Description
+
+Potret editorial mewah hiper-realistis seorang wanita muda cantik dengan kulit porselen kaca sempurna, terinspirasi oleh estetika majalah fesyen tinggi modern.
+
+#### Prompt
+
+```text
+Create a hyper-realistic luxury editorial portrait for inspired by modern high-fashion magazine aesthetics with a completely original composition. An exceptionally beautiful young woman with flawless porcelain glass skin, naturally symmetrical facial
+```
+
+### No. 17: Selfie Wanita Jepang
+
+- **Category:** `Portrait`
+- **Language:** `id`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/1_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/1_0.jpg?v=20260720fix" alt="Selfie Wanita Jepang" width="480" />
+
+#### Description
+
+Selfie ultra-realistis seorang wanita muda Jepang dengan kuncir dua dan poni yang tipis.
+
+#### Prompt
+
+```text
+Ultra-realistic smartphone selfie of a beautiful young Japanese woman with smooth porcelain skin, soft natural facial features, large warm brown eyes, glossy pink lips, and long silky black hair styled in low twin ponytails with wispy bangs.
+```
+
+### No. 18: Potret Kebugaran Editorial
+
+- **Category:** `Portrait`
+- **Language:** `id`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/3_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/3_0.jpg?v=20260720fix" alt="Potret Kebugaran Editorial" width="480" />
+
+#### Description
+
+Seorang wanita atletik muda melakukan pose peregangan lanjutan di samping sebuah barre logam melengkung yang artistik, tubuhnya membungkuk dengan anggun.
+
+#### Prompt
+
+```text
+Editorial fitness portrait of a young athletic woman performing an advanced seated stretching pose beside a sculptural curved metal barre. Her body bends gracefully through the composition, one leg extended
+```
+
+### No. 19: Potret Wanita Asia Timur
+
+- **Category:** `Portrait`
+- **Language:** `id`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix" alt="Potret Wanita Asia Timur" width="480" />
+
+#### Description
+
+Seorang wanita muda Asia Timur yang cantik dengan kulit cerah dan mata ekspresif digambarkan.
+
+#### Prompt
+
+```text
+A beautiful young East Asian woman in her early 20s, fair smooth skin, delicate facial features, large expressive eyes, subtle
+```
+
+### No. 20: Potret Kecantikan Jam Emas
+
+- **Category:** `Portrait`
+- **Language:** `id`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix" alt="Potret Kecantikan Jam Emas" width="480" />
+
+#### Description
+
+Potret kecantikan ultra-realistis seorang wanita muda yang disinari cahaya hangat matahari terbenam emas dengan bayangan sinematik yang lembut.
+
+#### Prompt
+
+```text
+Ultra-realistic beauty portrait of a young woman bathed in warm golden sunset light streaming through a window, soft cinematic shadows cast across her face and textured wall background. Elegant messy bun hairstyle with loose wispy strands, flawless
+```
+
+### No. 21: Potret Wanita Jepang
+
+- **Category:** `Portrait`
+- **Language:** `id`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/10_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/10_0.jpg?v=20260720fix" alt="Potret Wanita Jepang" width="480" />
+
+#### Description
+
+Potret smartphone ultra-realistis seorang wanita muda Jepang dengan fitur wajah yang detail.
+
+#### Prompt
+
+```text
+Ultra-realistic smartphone photo of a beautiful young Japanese woman with smooth fair skin, soft natural facial features, large expressive brown eyes, glossy pink lips, and long straight silky black hair with wispy side-swept bangs, wearing an
+```
+
+### No. 22: Keyakinan Tenang di Lanskap yang Luas
+
+- **Category:** `Portrait`
+- **Language:** `id`
+- **Image:** [View](https://pbs.twimg.com/media/HNwGJNGXcAAEtyS.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNwGJNGXcAAEtyS.jpg?v=20260720fix" alt="Keyakinan Tenang di Lanskap yang Luas" width="480" />
+
+#### Description
+
+Seorang wanita berdiri dengan percaya diri di lanskap luas, berkabut, dan desaturasi, mewujudkan kekuatan tenang dan keanggunan alami.
+
+#### Prompt
+
+```text
+Portrait of a woman in a striking, elegant pose, standing with quiet confidence and minimal styling, against a breathtaking vast natural landscape. The color palette remains desaturated and earthy - cool grays,
+```
+
+### No. 23: Wanita di Tengah Bunga Lili Putih
+
+- **Category:** `Portrait`
+- **Language:** `id`
+- **Image:** [View](https://pbs.twimg.com/media/HNpeYBkawAEpFQF.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNpeYBkawAEpFQF.jpg?v=20260720fix" alt="Wanita di Tengah Bunga Lili Putih" width="480" />
+
+#### Description
+
+Potret fotorealistik seorang wanita muda dengan rambut yang tebal, berbaring di antara bunga lili putih.
+
+#### Prompt
+
+```text
+A large-scale, photorealistic portrait preserving exact facial features. A young woman with voluminous, slightly tousled hair lies on her side amidst a lush bouquet of white lilies, gazing directly at the viewer.
+```
+
 <a id="category-10"></a>
 
-### Illustration (9)
+### Illustration (13)
 
 ### No. 1: Buku Gambar Artistik Seragam Sekolah
 
@@ -1613,9 +1830,85 @@ Ilustrasi whimsical menunjukkan seekor kuda di ladang dandelion dengan biji-biji
 a whimsical illustration of a horse standing in a field of dandelions under a bright blue sky. Dandelion seeds float around the horse, and some are caught in the wind.
 ```
 
+### No. 10: Kesatria Viking Sinematik dalam Pertempuran
+
+- **Category:** `Illustration`
+- **Language:** `id`
+- **Image:** [View](https://pbs.twimg.com/media/HMxI45LbUAATNDI.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HMxI45LbUAATNDI.jpg?v=20260720fix" alt="Kesatria Viking Sinematik dalam Pertempuran" width="480" />
+
+#### Description
+
+Seorang kesatria viking sinematik berdiri di medan perang yang berlumuran darah, pedang siap sedia, dengan anak panah menembus zirahnya dan darah di wajahnya.
+
+#### Prompt
+
+```text
+Two image models seedream 5.0 and Muse image launched in two days
+
+Used this prompt in all the models to test this 
+
+"create an image of a cinematic vikking style warrior with his big sword ready on a battlefield with blood on this face, arrows stuck on to his armour facing the
+```
+
+### No. 11: Potret Pahlawan Sudut Rendah Fotorealistik
+
+- **Category:** `Illustration`
+- **Language:** `id`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/3_1.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/3_1.jpg?v=20260720fix" alt="Potret Pahlawan Sudut Rendah Fotorealistik" width="480" />
+
+#### Description
+
+Potret pahlawan sudut rendah fotorealistik 8k seorang petualang di dalam makam dengan kedalaman bidang yang dangkal.
+
+#### Prompt
+
+```text
+8k photorealistic low-angle hero shot using a full-frame DSLR camera with shallow depth
+```
+
+### No. 12: Rockstar Agresif di Atas Panggung
+
+- **Category:** `Illustration`
+- **Language:** `id`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix" alt="Rockstar Agresif di Atas Panggung" width="480" />
+
+#### Description
+
+Seorang rockstar wanita yang kuat tampil dengan agresif di atas panggung, menghancurkan gitarnya.
+
+#### Prompt
+
+```text
+A female rockstar behaving aggressively on a rock concert stage.
+```
+
+### No. 13: Fotografi Udara Kurva-S yang Elegan
+
+- **Category:** `Illustration`
+- **Language:** `id`
+- **Image:** [View](https://pbs.twimg.com/media/HNwpL7vbMAA7UYP.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNwpL7vbMAA7UYP.jpg?v=20260720fix" alt="Fotografi Udara Kurva-S yang Elegan" width="480" />
+
+#### Description
+
+Fotografi udara drone hiperrealistik yang menampilkan lanskap seni rupa minimalis dengan komposisi kurva-S yang elegan.
+
+#### Prompt
+
+```text
+超写实无人机航拍照片，国际无人机摄影大奖（Drone Photo Awards）风格，Reve 2.1 Layout，高级电影级航拍构图，极强视觉层级，极简 Fine Art 风景摄影，大面积留白与负空间，黄金分割构图，优雅的 S
+```
+
 <a id="category-11"></a>
 
-### Character Design (3)
+### Character Design (4)
 
 ### No. 1: Tiga Pandangan Patung Dewi Kuno
 
@@ -1670,6 +1963,28 @@ Lembar desain menampilkan beberapa pandangan dan detail dari karakter hacker cyb
 ```text
 Cyberpunk-style anime character design sheet, showing three-view turnaround, close-up portraits, and accessory details of a hacker girl named "RIN"…
 ```
+
+### No. 4: Penerjemahan Ulang Karakter yang Konsisten
+
+- **Category:** `Character Design`
+- **Language:** `id`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/7_2.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_2.jpg?v=20260720fix" alt="Penerjemahan Ulang Karakter yang Konsisten" width="480" />
+
+#### Description
+
+Hasilkan gambar baru dari sebuah karakter, dengan mempertahankan fitur wajah, gaya rambut, usia, tipe tubuh, dan gaya visualnya.
+
+#### Prompt
+
+```text
+Use the person/character in the attached image as the protagonist and create a brand-new image. Preserve the character's facial features, hairstyle, apparent age, body type, and original visual style as closely as possible.
+```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_1.jpg?v=20260720fix" alt="input reference" height="140" />
 
 <a id="category-12"></a>
 
@@ -1957,7 +2272,7 @@ Generate a solo ID photo for the woman
 
 <a id="category-17"></a>
 
-### Creative Fun (4)
+### Creative Fun (5)
 
 ### No. 1: Senyum Sombong dengan Gigi Setan
 
@@ -2039,6 +2354,24 @@ Red box: a giant blue-furred head with a comically squeezed expression, looking 
 
 <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KrdNbd9vdoI63exU35qc9jsonCb.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AbuMbTZBPoG0sdx1EhQcJsaFnub.jpg?v=20260720fix" alt="input reference" height="140" />
 
+### No. 5: Rockstar Wanita Menghancurkan Gitar
+
+- **Category:** `Creative Fun`
+- **Language:** `id`
+- **Image:** [View](https://pbs.twimg.com/media/HNvMh88WoAE8zJC.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNvMh88WoAE8zJC.jpg?v=20260720fix" alt="Rockstar Wanita Menghancurkan Gitar" width="480" />
+
+#### Description
+
+Gambar dinamis seorang rockstar wanita dalam gaun hitam yang dengan penuh kekuatan menghancurkan gitarnya di atas panggung yang berasap.
+
+#### Prompt
+
+```text
+Female rockstar smashing guitar on stage. "Seedream 5 Pro"
+```
+
 <a id="category-18"></a>
 
 ### Stickers (1)
@@ -2067,7 +2400,7 @@ Based on the cartoon character, design different emotions — happy, sad, aggrie
 
 <a id="category-19"></a>
 
-### Social Media (2)
+### Social Media (3)
 
 ### No. 1: Teks Dalam Tanda Kutip
 
@@ -2105,6 +2438,49 @@ Potret film sinematik menunjukkan sawah padi pedesaan Jepang di musim panas dari
 Cinematic film still, rural Japanese rice paddy landscape in summer, three-quarter angle view down a narrow
 ```
 
+### No. 3: Selfie Kafe dari Atas
+
+- **Category:** `Social Media`
+- **Language:** `id`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/9_1.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/9_1.jpg?v=20260720fix" alt="Selfie Kafe dari Atas" width="480" />
+
+#### Description
+
+Foto vertikal iPhone dari seorang subjek yang duduk di kursi kafe kayu, diambil dari sudut atas-bawah langsung.
+
+#### Prompt
+
+```text
+Vertical iPhone photo, direct overhead top-down shot. Do not change the subject’s facial features, proportions, or hair color. Cinematic look with film grain. A spontaneous candid moment captured in motion. The subject is seated in a wooden café chair with
+```
+
+<a id="category-20"></a>
+
+### Multi-Image Fusion (1)
+
+### No. 1: Fusi Multi-Gambar
+
+- **Category:** `Multi-Image Fusion`
+- **Language:** `id`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix" alt="Fusi Multi-Gambar" width="480" />
+
+#### Description
+
+Sebuah gambar yang dibuat dengan menggabungkan seseorang, pemandangan, dan pose dari gambar sumber yang berbeda.
+
+#### Prompt
+
+```text
+Create a new image.
+Use the person from image1,
+Use the scene from image2,
+Use the exact pose from image3.
+```
+
 ## Local Usage
 
 ```bash
@@ -2126,4 +2502,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-21T04:38:12.038Z
+> This README is auto-generated. 2026-07-22T06:18:22.591Z

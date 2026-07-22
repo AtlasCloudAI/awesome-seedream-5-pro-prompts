@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-90%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-110%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,32 +90,33 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **90** |
-| Categories | **19** |
-| Preview Images | **90** |
-| Last Updated | **2026-07-21T04:38:12.032Z** |
+| Total Prompts | **110** |
+| Categories | **20** |
+| Preview Images | **110** |
+| Last Updated | **2026-07-22T06:18:22.574Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Infographic`](#category-1): **7**
+- [`Infographic`](#category-1): **8**
 - [`Slides & Presentation`](#category-2): **5**
-- [`Poster Design`](#category-3): **16**
+- [`Poster Design`](#category-3): **17**
 - [`Brand Design`](#category-4): **3**
 - [`Interior Design`](#category-5): **3**
-- [`E-commerce`](#category-6): **4**
+- [`E-commerce`](#category-6): **5**
 - [`Comic & Storyboard`](#category-7): **4**
 - [`Film Storyboard`](#category-8): **3**
-- [`Portrait`](#category-9): **14**
-- [`Illustration`](#category-10): **9**
-- [`Character Design`](#category-11): **3**
+- [`Portrait`](#category-9): **23**
+- [`Illustration`](#category-10): **13**
+- [`Character Design`](#category-11): **4**
 - [`Style Transfer`](#category-12): **4**
 - [`Outfit Transfer`](#category-13): **2**
 - [`Restoration`](#category-14): **1**
 - [`Retouching`](#category-15): **2**
 - [`ID Photo`](#category-16): **3**
-- [`Creative Fun`](#category-17): **4**
+- [`Creative Fun`](#category-17): **5**
 - [`Stickers`](#category-18): **1**
-- [`Social Media`](#category-19): **2**
+- [`Social Media`](#category-19): **3**
+- [`Multi-Image Fusion`](#category-20): **1**
 
 ## 🔥 Featured Prompts
 
@@ -267,7 +268,7 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 
 <a id="category-1"></a>
 
-### Infographic (7)
+### Infographic (8)
 
 ### No. 1: Datos y Cifras sobre la Seguridad de los Periodistas
 
@@ -395,6 +396,24 @@ Un astronauta cinematográfico camina por un Tokio lluvioso con reflejos de neó
 A cinematic astronaut walking through Tokyo in the rain, neon reflections, ultra realistic.
 ```
 
+### No. 8: Explicación de imagen OVNI
+
+- **Category:** `Infographic`
+- **Language:** `es`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/3_2.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/3_2.jpg?v=20260720fix" alt="Explicación de imagen OVNI" width="480" />
+
+#### Description
+
+Una infografía que detalla la verdadera identidad y apariencia de una imagen de un OVNI capturado.
+
+#### Prompt
+
+```text
+Create an infographic containing detailed information about what this UFO image captured on camera might be and what the actual image looks like.
+```
+
 <a id="category-2"></a>
 
 ### Slides & Presentation (5)
@@ -491,7 +510,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 <a id="category-3"></a>
 
-### Poster Design (16)
+### Poster Design (17)
 
 ### No. 1: Póster Estilo Y2K Tierno con Textura de Gelatina
 
@@ -805,6 +824,24 @@ La fotografía de editorial de moda utiliza elementos delineados y una estética
 Fashion-editorial photography style, using outlined elements and the distressed
 ```
 
+### No. 17: Póster nostálgico digital Y2K
+
+- **Category:** `Poster Design`
+- **Language:** `es`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/6_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/6_0.jpg?v=20260720fix" alt="Póster nostálgico digital Y2K" width="480" />
+
+#### Description
+
+Un póster estilo Y2K con el icónico fondo de pantalla 'Bliss' de Windows XP y un efecto de cuadrícula de píxeles estirada.
+
+#### Prompt
+
+```text
+Y2K digital nostalgic-style poster, with a background featuring the Windows XP default wallpaper “Bliss”—green grass and blue sky—combined with a stretched pixel grid
+```
+
 <a id="category-4"></a>
 
 ### Brand Design (3)
@@ -939,7 +976,7 @@ Precisely cut out the 7 white-background objects I provided and compose them int
 
 <a id="category-6"></a>
 
-### E-commerce (4)
+### E-commerce (5)
 
 ### No. 1: Banner de Chaquetas de Invierno RESHAKE
 
@@ -1020,6 +1057,24 @@ E-commerce design. Input image + color palette reference
 #### Input reference images (1)
 
 <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VGIXbHnD5oBnfpxWd3wcdj7HnDb.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 5: Tiro de producto de helado suave Creamora
+
+- **Category:** `E-commerce`
+- **Language:** `es`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix" alt="Tiro de producto de helado suave Creamora" width="480" />
+
+#### Description
+
+Una fotografía profesional de producto de un bote de helado Creamora con helado suave en espiral y goteo de chocolate.
+
+#### Prompt
+
+```text
+A professional product commercial photograph of an ice cream tub. The tub is labeled with the brand name "Creamora" in an elegant brown font. On top of the tub, there is a beautifully swirled, towering scoop of soft-serve
+```
 
 <a id="category-7"></a>
 
@@ -1157,7 +1212,7 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 <a id="category-9"></a>
 
-### Portrait (14)
+### Portrait (23)
 
 ### No. 1: Plano sobre el Hombro de una Mujer Triste
 
@@ -1431,9 +1486,171 @@ Un retrato cinematográfico fotorrealista de primer plano de una mujer deslumbra
 Reference image: conceptual variant. Photorealistic cinematic close-up portrait of a stunning young woman against a plain light wall during soft even studio lighting with gentle side illumination
 ```
 
+### No. 15: Retrato cinematográfico contrapicado
+
+- **Category:** `Portrait`
+- **Language:** `es`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix" alt="Retrato cinematográfico contrapicado" width="480" />
+
+#### Description
+
+Un retrato de alta calidad capturado con un ángulo bajo de cámara, evocando una sensación cinematográfica.
+
+#### Prompt
+
+```text
+Cinematic full-frame DSLR low-angle shot
+```
+
+### No. 16: Retrato editorial de lujo hiperrealista
+
+- **Category:** `Portrait`
+- **Language:** `es`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix" alt="Retrato editorial de lujo hiperrealista" width="480" />
+
+#### Description
+
+Un retrato editorial de lujo hiperrealista de una hermosa mujer joven con una piel de porcelana y vidrio impecable, inspirado en la estética moderna de las revistas de alta costura.
+
+#### Prompt
+
+```text
+Create a hyper-realistic luxury editorial portrait for inspired by modern high-fashion magazine aesthetics with a completely original composition. An exceptionally beautiful young woman with flawless porcelain glass skin, naturally symmetrical facial
+```
+
+### No. 17: Selfie de mujer japonesa
+
+- **Category:** `Portrait`
+- **Language:** `es`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/1_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/1_0.jpg?v=20260720fix" alt="Selfie de mujer japonesa" width="480" />
+
+#### Description
+
+Un selfie ultrarealista de una joven japonesa con coletas gemelas y flequillo vaporoso.
+
+#### Prompt
+
+```text
+Ultra-realistic smartphone selfie of a beautiful young Japanese woman with smooth porcelain skin, soft natural facial features, large warm brown eyes, glossy pink lips, and long silky black hair styled in low twin ponytails with wispy bangs.
+```
+
+### No. 18: Retrato editorial de fitness
+
+- **Category:** `Portrait`
+- **Language:** `es`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/3_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/3_0.jpg?v=20260720fix" alt="Retrato editorial de fitness" width="480" />
+
+#### Description
+
+Una joven atlética realiza una pose de estiramiento avanzada junto a una barra de metal curvada escultural, su cuerpo se dobla con gracia.
+
+#### Prompt
+
+```text
+Editorial fitness portrait of a young athletic woman performing an advanced seated stretching pose beside a sculptural curved metal barre. Her body bends gracefully through the composition, one leg extended
+```
+
+### No. 19: Retrato de mujer del este de Asia
+
+- **Category:** `Portrait`
+- **Language:** `es`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix" alt="Retrato de mujer del este de Asia" width="480" />
+
+#### Description
+
+Se representa a una hermosa joven del este de Asia con piel clara y ojos expresivos.
+
+#### Prompt
+
+```text
+A beautiful young East Asian woman in her early 20s, fair smooth skin, delicate facial features, large expressive eyes, subtle
+```
+
+### No. 20: Retrato de belleza a la hora dorada
+
+- **Category:** `Portrait`
+- **Language:** `es`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix" alt="Retrato de belleza a la hora dorada" width="480" />
+
+#### Description
+
+Un retrato de belleza ultrarealista de una mujer joven bañada en la cálida luz dorada del atardecer con suaves sombras cinematográficas.
+
+#### Prompt
+
+```text
+Ultra-realistic beauty portrait of a young woman bathed in warm golden sunset light streaming through a window, soft cinematic shadows cast across her face and textured wall background. Elegant messy bun hairstyle with loose wispy strands, flawless
+```
+
+### No. 21: Retrato de mujer japonesa
+
+- **Category:** `Portrait`
+- **Language:** `es`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/10_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/10_0.jpg?v=20260720fix" alt="Retrato de mujer japonesa" width="480" />
+
+#### Description
+
+Un retrato ultrarealista de smartphone de una joven japonesa con rasgos faciales detallados.
+
+#### Prompt
+
+```text
+Ultra-realistic smartphone photo of a beautiful young Japanese woman with smooth fair skin, soft natural facial features, large expressive brown eyes, glossy pink lips, and long straight silky black hair with wispy side-swept bangs, wearing an
+```
+
+### No. 22: Confianza serena en un vasto paisaje
+
+- **Category:** `Portrait`
+- **Language:** `es`
+- **Image:** [View](https://pbs.twimg.com/media/HNwGJNGXcAAEtyS.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNwGJNGXcAAEtyS.jpg?v=20260720fix" alt="Confianza serena en un vasto paisaje" width="480" />
+
+#### Description
+
+Una mujer se alza con confianza en un vasto paisaje brumoso y desaturado, encarnando una fuerza tranquila y una elegancia natural.
+
+#### Prompt
+
+```text
+Portrait of a woman in a striking, elegant pose, standing with quiet confidence and minimal styling, against a breathtaking vast natural landscape. The color palette remains desaturated and earthy - cool grays,
+```
+
+### No. 23: Mujer entre lirios blancos
+
+- **Category:** `Portrait`
+- **Language:** `es`
+- **Image:** [View](https://pbs.twimg.com/media/HNpeYBkawAEpFQF.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNpeYBkawAEpFQF.jpg?v=20260720fix" alt="Mujer entre lirios blancos" width="480" />
+
+#### Description
+
+Un retrato fotorrealista de una mujer joven con cabello voluminoso, recostada entre lirios blancos.
+
+#### Prompt
+
+```text
+A large-scale, photorealistic portrait preserving exact facial features. A young woman with voluminous, slightly tousled hair lies on her side amidst a lush bouquet of white lilies, gazing directly at the viewer.
+```
+
 <a id="category-10"></a>
 
-### Illustration (9)
+### Illustration (13)
 
 ### No. 1: Libro de Imágenes Artístico de Uniforme Escolar
 
@@ -1613,9 +1830,85 @@ Una ilustración caprichosa muestra un caballo en un campo de dientes de león c
 a whimsical illustration of a horse standing in a field of dandelions under a bright blue sky. Dandelion seeds float around the horse, and some are caught in the wind.
 ```
 
+### No. 10: Guerrero vikingo cinematográfico en batalla
+
+- **Category:** `Illustration`
+- **Language:** `es`
+- **Image:** [View](https://pbs.twimg.com/media/HMxI45LbUAATNDI.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HMxI45LbUAATNDI.jpg?v=20260720fix" alt="Guerrero vikingo cinematográfico en batalla" width="480" />
+
+#### Description
+
+Un guerrero vikingo cinematográfico se alza en un campo de batalla empapado en sangre, espada en mano, con flechas atravesando su armadura y sangre en su rostro.
+
+#### Prompt
+
+```text
+Two image models seedream 5.0 and Muse image launched in two days
+
+Used this prompt in all the models to test this 
+
+"create an image of a cinematic vikking style warrior with his big sword ready on a battlefield with blood on this face, arrows stuck on to his armour facing the
+```
+
+### No. 11: Plano heroico contrapicado fotorrealista
+
+- **Category:** `Illustration`
+- **Language:** `es`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/3_1.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/3_1.jpg?v=20260720fix" alt="Plano heroico contrapicado fotorrealista" width="480" />
+
+#### Description
+
+Un plano heroico contrapicado fotorrealista en 8k de un aventurero en una tumba con poca profundidad de campo.
+
+#### Prompt
+
+```text
+8k photorealistic low-angle hero shot using a full-frame DSLR camera with shallow depth
+```
+
+### No. 12: Rockstar agresiva en el escenario
+
+- **Category:** `Illustration`
+- **Language:** `es`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix" alt="Rockstar agresiva en el escenario" width="480" />
+
+#### Description
+
+Una poderosa rockstar femenina actúa de forma agresiva en el escenario, rompiendo su guitarra.
+
+#### Prompt
+
+```text
+A female rockstar behaving aggressively on a rock concert stage.
+```
+
+### No. 13: Fotografía aérea elegante en curva S
+
+- **Category:** `Illustration`
+- **Language:** `es`
+- **Image:** [View](https://pbs.twimg.com/media/HNwpL7vbMAA7UYP.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNwpL7vbMAA7UYP.jpg?v=20260720fix" alt="Fotografía aérea elegante en curva S" width="480" />
+
+#### Description
+
+Una fotografía aérea hiperrealista de dron que presenta un paisaje de arte minimalista con una composición elegante en curva S.
+
+#### Prompt
+
+```text
+超写实无人机航拍照片，国际无人机摄影大奖（Drone Photo Awards）风格，Reve 2.1 Layout，高级电影级航拍构图，极强视觉层级，极简 Fine Art 风景摄影，大面积留白与负空间，黄金分割构图，优雅的 S
+```
+
 <a id="category-11"></a>
 
-### Character Design (3)
+### Character Design (4)
 
 ### No. 1: Estatua Antigua de Diosa en Tres Vistas
 
@@ -1670,6 +1963,28 @@ Una hoja de diseño que presenta múltiples vistas y detalles de un personaje ha
 ```text
 Cyberpunk-style anime character design sheet, showing three-view turnaround, close-up portraits, and accessory details of a hacker girl named "RIN"…
 ```
+
+### No. 4: Re-renderizado de personaje consistente
+
+- **Category:** `Character Design`
+- **Language:** `es`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/7_2.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_2.jpg?v=20260720fix" alt="Re-renderizado de personaje consistente" width="480" />
+
+#### Description
+
+Genera una nueva imagen de un personaje, preservando sus rasgos faciales, peinado, edad, tipo de cuerpo y estilo visual.
+
+#### Prompt
+
+```text
+Use the person/character in the attached image as the protagonist and create a brand-new image. Preserve the character's facial features, hairstyle, apparent age, body type, and original visual style as closely as possible.
+```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_1.jpg?v=20260720fix" alt="input reference" height="140" />
 
 <a id="category-12"></a>
 
@@ -1957,7 +2272,7 @@ Generate a solo ID photo for the woman
 
 <a id="category-17"></a>
 
-### Creative Fun (4)
+### Creative Fun (5)
 
 ### No. 1: Sonrisa Presumida con Dientes de Diablo
 
@@ -2039,6 +2354,24 @@ Red box: a giant blue-furred head with a comically squeezed expression, looking 
 
 <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KrdNbd9vdoI63exU35qc9jsonCb.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AbuMbTZBPoG0sdx1EhQcJsaFnub.jpg?v=20260720fix" alt="input reference" height="140" />
 
+### No. 5: Rockstar femenina rompiendo guitarra
+
+- **Category:** `Creative Fun`
+- **Language:** `es`
+- **Image:** [View](https://pbs.twimg.com/media/HNvMh88WoAE8zJC.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNvMh88WoAE8zJC.jpg?v=20260720fix" alt="Rockstar femenina rompiendo guitarra" width="480" />
+
+#### Description
+
+Una imagen dinámica de una rockstar femenina con un vestido negro rompiendo poderosamente su guitarra en un escenario lleno de humo.
+
+#### Prompt
+
+```text
+Female rockstar smashing guitar on stage. "Seedream 5 Pro"
+```
+
 <a id="category-18"></a>
 
 ### Stickers (1)
@@ -2067,7 +2400,7 @@ Based on the cartoon character, design different emotions — happy, sad, aggrie
 
 <a id="category-19"></a>
 
-### Social Media (2)
+### Social Media (3)
 
 ### No. 1: Texto Entre Comillas
 
@@ -2105,6 +2438,49 @@ Un fotograma cinematográfico muestra un arrozal rural japonés en verano desde 
 Cinematic film still, rural Japanese rice paddy landscape in summer, three-quarter angle view down a narrow
 ```
 
+### No. 3: Selfie cenital en cafetería
+
+- **Category:** `Social Media`
+- **Language:** `es`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/9_1.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/9_1.jpg?v=20260720fix" alt="Selfie cenital en cafetería" width="480" />
+
+#### Description
+
+Una foto vertical de iPhone de un sujeto sentado en una silla de madera de cafetería, capturada desde un ángulo cenital directo desde arriba.
+
+#### Prompt
+
+```text
+Vertical iPhone photo, direct overhead top-down shot. Do not change the subject’s facial features, proportions, or hair color. Cinematic look with film grain. A spontaneous candid moment captured in motion. The subject is seated in a wooden café chair with
+```
+
+<a id="category-20"></a>
+
+### Multi-Image Fusion (1)
+
+### No. 1: Fusión de múltiples imágenes
+
+- **Category:** `Multi-Image Fusion`
+- **Language:** `es`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix" alt="Fusión de múltiples imágenes" width="480" />
+
+#### Description
+
+Una imagen creada combinando una persona, un escenario y una pose de diferentes imágenes fuente.
+
+#### Prompt
+
+```text
+Create a new image.
+Use the person from image1,
+Use the scene from image2,
+Use the exact pose from image3.
+```
+
 ## Local Usage
 
 ```bash
@@ -2126,4 +2502,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-21T04:38:12.032Z
+> This README is auto-generated. 2026-07-22T06:18:22.574Z

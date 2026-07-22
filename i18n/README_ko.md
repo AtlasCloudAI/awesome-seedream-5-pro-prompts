@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-90%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-110%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,32 +90,33 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **90** |
-| Categories | **19** |
-| Preview Images | **90** |
-| Last Updated | **2026-07-21T04:38:12.029Z** |
+| Total Prompts | **110** |
+| Categories | **20** |
+| Preview Images | **110** |
+| Last Updated | **2026-07-22T06:18:22.565Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Infographic`](#category-1): **7**
+- [`Infographic`](#category-1): **8**
 - [`Slides & Presentation`](#category-2): **5**
-- [`Poster Design`](#category-3): **16**
+- [`Poster Design`](#category-3): **17**
 - [`Brand Design`](#category-4): **3**
 - [`Interior Design`](#category-5): **3**
-- [`E-commerce`](#category-6): **4**
+- [`E-commerce`](#category-6): **5**
 - [`Comic & Storyboard`](#category-7): **4**
 - [`Film Storyboard`](#category-8): **3**
-- [`Portrait`](#category-9): **14**
-- [`Illustration`](#category-10): **9**
-- [`Character Design`](#category-11): **3**
+- [`Portrait`](#category-9): **23**
+- [`Illustration`](#category-10): **13**
+- [`Character Design`](#category-11): **4**
 - [`Style Transfer`](#category-12): **4**
 - [`Outfit Transfer`](#category-13): **2**
 - [`Restoration`](#category-14): **1**
 - [`Retouching`](#category-15): **2**
 - [`ID Photo`](#category-16): **3**
-- [`Creative Fun`](#category-17): **4**
+- [`Creative Fun`](#category-17): **5**
 - [`Stickers`](#category-18): **1**
-- [`Social Media`](#category-19): **2**
+- [`Social Media`](#category-19): **3**
+- [`Multi-Image Fusion`](#category-20): **1**
 
 ## 🔥 Featured Prompts
 
@@ -267,7 +268,7 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 
 <a id="category-1"></a>
 
-### Infographic (7)
+### Infographic (8)
 
 ### No. 1: 언론인 안전 현황과 통계
 
@@ -395,6 +396,24 @@ Generate a beginner birdwatching guide infographic with a fresh color palette an
 A cinematic astronaut walking through Tokyo in the rain, neon reflections, ultra realistic.
 ```
 
+### No. 8: UFO 이미지 설명
+
+- **Category:** `Infographic`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/3_2.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/3_2.jpg?v=20260720fix" alt="UFO 이미지 설명" width="480" />
+
+#### Description
+
+포착된 UFO 이미지의 진정한 정체와 외관을 상세히 설명하는 인포그래픽입니다.
+
+#### Prompt
+
+```text
+Create an infographic containing detailed information about what this UFO image captured on camera might be and what the actual image looks like.
+```
+
 <a id="category-2"></a>
 
 ### Slides & Presentation (5)
@@ -491,7 +510,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 <a id="category-3"></a>
 
-### Poster Design (16)
+### Poster Design (17)
 
 ### No. 1: 젤리 텍스처의 Y2K 큐트 스타일 포스터
 
@@ -805,6 +824,24 @@ Ultra-realistic IMAX-level Netflix-style cinematic monochrome fashion poster, 9:
 Fashion-editorial photography style, using outlined elements and the distressed
 ```
 
+### No. 17: Y2K 디지털 향수 포스터
+
+- **Category:** `Poster Design`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/6_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/6_0.jpg?v=20260720fix" alt="Y2K 디지털 향수 포스터" width="480" />
+
+#### Description
+
+아이코닉한 Windows XP 'Bliss' 배경화면을 배경으로 하고 늘어진 픽셀 그리드 효과가 특징인 Y2K 스타일 포스터입니다.
+
+#### Prompt
+
+```text
+Y2K digital nostalgic-style poster, with a background featuring the Windows XP default wallpaper “Bliss”—green grass and blue sky—combined with a stretched pixel grid
+```
+
 <a id="category-4"></a>
 
 ### Brand Design (3)
@@ -939,7 +976,7 @@ Precisely cut out the 7 white-background objects I provided and compose them int
 
 <a id="category-6"></a>
 
-### E-commerce (4)
+### E-commerce (5)
 
 ### No. 1: RESHAKE 겨울 다운 재킷 배너
 
@@ -1020,6 +1057,24 @@ E-commerce design. Input image + color palette reference
 #### 입력 참조 이미지 (1)
 
 <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VGIXbHnD5oBnfpxWd3wcdj7HnDb.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 5: Creamora 소프트서브 제품 샷
+
+- **Category:** `E-commerce`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix" alt="Creamora 소프트서브 제품 샷" width="480" />
+
+#### Description
+
+소프트서브와 초콜릿 드리즐이 얹어진 Creamora 아이스크림 통의 전문적인 제품 사진입니다.
+
+#### Prompt
+
+```text
+A professional product commercial photograph of an ice cream tub. The tub is labeled with the brand name "Creamora" in an elegant brown font. On top of the tub, there is a beautifully swirled, towering scoop of soft-serve
+```
 
 <a id="category-7"></a>
 
@@ -1157,7 +1212,7 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 <a id="category-9"></a>
 
-### Portrait (14)
+### Portrait (23)
 
 ### No. 1: 슬픈 여성의 오버 숄더 샷
 
@@ -1431,9 +1486,171 @@ Photo of a woman standing alone on the street, surrounded by blurred figures rep
 Reference image: conceptual variant. Photorealistic cinematic close-up portrait of a stunning young woman against a plain light wall during soft even studio lighting with gentle side illumination
 ```
 
+### No. 15: 영화적인 로우앵글 초상화
+
+- **Category:** `Portrait`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix" alt="영화적인 로우앵글 초상화" width="480" />
+
+#### Description
+
+낮은 카메라 각도로 촬영된 고품질 초상화로, 영화적인 느낌을 자아냅니다.
+
+#### Prompt
+
+```text
+Cinematic full-frame DSLR low-angle shot
+```
+
+### No. 16: 초현실적인 럭셔리 에디토리얼 초상화
+
+- **Category:** `Portrait`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix" alt="초현실적인 럭셔리 에디토리얼 초상화" width="480" />
+
+#### Description
+
+현대 하이패션 잡지 미학에서 영감을 받은, 완벽한 도자기 같은 유리 피부를 가진 아름다운 젊은 여성의 초현실적인 럭셔리 에디토리얼 초상화입니다.
+
+#### Prompt
+
+```text
+Create a hyper-realistic luxury editorial portrait for inspired by modern high-fashion magazine aesthetics with a completely original composition. An exceptionally beautiful young woman with flawless porcelain glass skin, naturally symmetrical facial
+```
+
+### No. 17: 일본 여성 셀카
+
+- **Category:** `Portrait`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/1_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/1_0.jpg?v=20260720fix" alt="일본 여성 셀카" width="480" />
+
+#### Description
+
+쌍꽁지 머리와 가늘게 흐르는 앞머리를 한 젊은 일본 여성의 초현실적인 셀카입니다.
+
+#### Prompt
+
+```text
+Ultra-realistic smartphone selfie of a beautiful young Japanese woman with smooth porcelain skin, soft natural facial features, large warm brown eyes, glossy pink lips, and long silky black hair styled in low twin ponytails with wispy bangs.
+```
+
+### No. 18: 에디토리얼 피트니스 초상화
+
+- **Category:** `Portrait`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/3_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/3_0.jpg?v=20260720fix" alt="에디토리얼 피트니스 초상화" width="480" />
+
+#### Description
+
+젊고 운동적인 여성이 조각 같은 곡선형 금속 바레 옆에서 고급 스트레칭 자세를 취하며 우아하게 몸을 구부리고 있습니다.
+
+#### Prompt
+
+```text
+Editorial fitness portrait of a young athletic woman performing an advanced seated stretching pose beside a sculptural curved metal barre. Her body bends gracefully through the composition, one leg extended
+```
+
+### No. 19: 동아시아 여성 초상화
+
+- **Category:** `Portrait`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix" alt="동아시아 여성 초상화" width="480" />
+
+#### Description
+
+공정한 피부와 표현력 있는 눈을 가진 아름다운 젊은 동아시아 여성이 묘사되었습니다.
+
+#### Prompt
+
+```text
+A beautiful young East Asian woman in her early 20s, fair smooth skin, delicate facial features, large expressive eyes, subtle
+```
+
+### No. 20: 골든 아워 뷰티 초상화
+
+- **Category:** `Portrait`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix" alt="골든 아워 뷰티 초상화" width="480" />
+
+#### Description
+
+따뜻한 황금빛 석양 빛과 부드러운 영화적인 그림자 속에 젊은 여성이 담긴 초현실적인 뷰티 초상화입니다.
+
+#### Prompt
+
+```text
+Ultra-realistic beauty portrait of a young woman bathed in warm golden sunset light streaming through a window, soft cinematic shadows cast across her face and textured wall background. Elegant messy bun hairstyle with loose wispy strands, flawless
+```
+
+### No. 21: 일본 여성 초상화
+
+- **Category:** `Portrait`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/10_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/10_0.jpg?v=20260720fix" alt="일본 여성 초상화" width="480" />
+
+#### Description
+
+상세한 얼굴 특징을 가진 젊은 일본 여성의 초현실적인 스마트폰 초상화입니다.
+
+#### Prompt
+
+```text
+Ultra-realistic smartphone photo of a beautiful young Japanese woman with smooth fair skin, soft natural facial features, large expressive brown eyes, glossy pink lips, and long straight silky black hair with wispy side-swept bangs, wearing an
+```
+
+### No. 22: 광활한 풍경 속 고요한 자신감
+
+- **Category:** `Portrait`
+- **Language:** `ko`
+- **Image:** [View](https://pbs.twimg.com/media/HNwGJNGXcAAEtyS.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNwGJNGXcAAEtyS.jpg?v=20260720fix" alt="광활한 풍경 속 고요한 자신감" width="480" />
+
+#### Description
+
+여성이 광활하고 안개가 자욱하며 채도가 낮은 풍경 속에 자신 있게 서 있어, 고요한 힘과 자연스러운 우아함을 구현하고 있습니다.
+
+#### Prompt
+
+```text
+Portrait of a woman in a striking, elegant pose, standing with quiet confidence and minimal styling, against a breathtaking vast natural landscape. The color palette remains desaturated and earthy - cool grays,
+```
+
+### No. 23: 백합 속 여성
+
+- **Category:** `Portrait`
+- **Language:** `ko`
+- **Image:** [View](https://pbs.twimg.com/media/HNpeYBkawAEpFQF.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNpeYBkawAEpFQF.jpg?v=20260720fix" alt="백합 속 여성" width="480" />
+
+#### Description
+
+풍성한 머리카락을 가진 젊은 여성이 흰 백합들 사이에 누워 있는 사실적인 초상화입니다.
+
+#### Prompt
+
+```text
+A large-scale, photorealistic portrait preserving exact facial features. A young woman with voluminous, slightly tousled hair lies on her side amidst a lush bouquet of white lilies, gazing directly at the viewer.
+```
+
 <a id="category-10"></a>
 
-### Illustration (9)
+### Illustration (13)
 
 ### No. 1: 예술적인 그림책 교복
 
@@ -1613,9 +1830,85 @@ Create a refined horizontal aquarelle urban sketch of a peaceful, iconic outdoor
 a whimsical illustration of a horse standing in a field of dandelions under a bright blue sky. Dandelion seeds float around the horse, and some are caught in the wind.
 ```
 
+### No. 10: 영화 같은 바이킹 전사 전투 장면
+
+- **Category:** `Illustration`
+- **Language:** `ko`
+- **Image:** [View](https://pbs.twimg.com/media/HMxI45LbUAATNDI.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HMxI45LbUAATNDI.jpg?v=20260720fix" alt="영화 같은 바이킹 전사 전투 장면" width="480" />
+
+#### Description
+
+영화 같은 바이킹 전사가 피로 물든 전장에 서서 검을 들고 준비 자세를 취하고 있으며, 갑옷에는 화살이 박혀 있고 얼굴에는 피가 묻어 있습니다.
+
+#### Prompt
+
+```text
+Two image models seedream 5.0 and Muse image launched in two days
+
+Used this prompt in all the models to test this 
+
+"create an image of a cinematic vikking style warrior with his big sword ready on a battlefield with blood on this face, arrows stuck on to his armour facing the
+```
+
+### No. 11: 사실적인 로우앵글 히어로 샷
+
+- **Category:** `Illustration`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/3_1.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/3_1.jpg?v=20260720fix" alt="사실적인 로우앵글 히어로 샷" width="480" />
+
+#### Description
+
+8k 사실적인 로우앵글 히어로 샷으로, 얕은 피사계 심도를 가진 무덤 속 모험가를 담았습니다.
+
+#### Prompt
+
+```text
+8k photorealistic low-angle hero shot using a full-frame DSLR camera with shallow depth
+```
+
+### No. 12: 무대 위 공격적인 록스타
+
+- **Category:** `Illustration`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix" alt="무대 위 공격적인 록스타" width="480" />
+
+#### Description
+
+강력한 여성 록스타가 무대 위에서 공격적으로 공연하며 기타를 부수고 있습니다.
+
+#### Prompt
+
+```text
+A female rockstar behaving aggressively on a rock concert stage.
+```
+
+### No. 13: 우아한 S-커브 항공 사진
+
+- **Category:** `Illustration`
+- **Language:** `ko`
+- **Image:** [View](https://pbs.twimg.com/media/HNwpL7vbMAA7UYP.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNwpL7vbMAA7UYP.jpg?v=20260720fix" alt="우아한 S-커브 항공 사진" width="480" />
+
+#### Description
+
+미니멀리스트 파인아트 풍경과 우아한 S-커브 구도를 특징으로 하는 초현실적인 드론 항공 사진입니다.
+
+#### Prompt
+
+```text
+超写实无人机航拍照片，国际无人机摄影大奖（Drone Photo Awards）风格，Reve 2.1 Layout，高级电影级航拍构图，极强视觉层级，极简 Fine Art 风景摄影，大面积留白与负空间，黄金分割构图，优雅的 S
+```
+
 <a id="category-11"></a>
 
-### Character Design (3)
+### Character Design (4)
 
 ### No. 1: 삼면도 고대 여신상
 
@@ -1670,6 +1963,28 @@ Generate a three-view of a Soviet-era postal messenger bicycle…
 ```text
 Cyberpunk-style anime character design sheet, showing three-view turnaround, close-up portraits, and accessory details of a hacker girl named "RIN"…
 ```
+
+### No. 4: 일관된 캐릭터 재렌더링
+
+- **Category:** `Character Design`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/7_2.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_2.jpg?v=20260720fix" alt="일관된 캐릭터 재렌더링" width="480" />
+
+#### Description
+
+캐릭터의 얼굴 특징, 헤어스타일, 나이, 체형, 시각적 스타일을 보존하면서 새로운 이미지를 생성합니다.
+
+#### Prompt
+
+```text
+Use the person/character in the attached image as the protagonist and create a brand-new image. Preserve the character's facial features, hairstyle, apparent age, body type, and original visual style as closely as possible.
+```
+
+#### 입력 참조 이미지 (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_1.jpg?v=20260720fix" alt="input reference" height="140" />
 
 <a id="category-12"></a>
 
@@ -1957,7 +2272,7 @@ Generate a solo ID photo for the woman
 
 <a id="category-17"></a>
 
-### Creative Fun (4)
+### Creative Fun (5)
 
 ### No. 1: 데빌 이빨을 드러낸 능글맞은 웃음
 
@@ -2039,6 +2354,24 @@ Red box: a giant blue-furred head with a comically squeezed expression, looking 
 
 <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KrdNbd9vdoI63exU35qc9jsonCb.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AbuMbTZBPoG0sdx1EhQcJsaFnub.jpg?v=20260720fix" alt="input reference" height="140" />
 
+### No. 5: 기타를 부수는 여성 록스타
+
+- **Category:** `Creative Fun`
+- **Language:** `ko`
+- **Image:** [View](https://pbs.twimg.com/media/HNvMh88WoAE8zJC.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNvMh88WoAE8zJC.jpg?v=20260720fix" alt="기타를 부수는 여성 록스타" width="480" />
+
+#### Description
+
+검은 드레스를 입은 여성 록스타가 연기 자욱한 무대 위에서 기타를 강력하게 부수는 역동적인 이미지입니다.
+
+#### Prompt
+
+```text
+Female rockstar smashing guitar on stage. "Seedream 5 Pro"
+```
+
 <a id="category-18"></a>
 
 ### Stickers (1)
@@ -2067,7 +2400,7 @@ Based on the cartoon character, design different emotions — happy, sad, aggrie
 
 <a id="category-19"></a>
 
-### Social Media (2)
+### Social Media (3)
 
 ### No. 1: 따옴표 안의 텍스트
 
@@ -2105,6 +2438,49 @@ Add quote marks around text to ensure the text appears in your image "Good morni
 Cinematic film still, rural Japanese rice paddy landscape in summer, three-quarter angle view down a narrow
 ```
 
+### No. 3: 오버헤드 카페 셀카
+
+- **Category:** `Social Media`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/9_1.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/9_1.jpg?v=20260720fix" alt="오버헤드 카페 셀카" width="480" />
+
+#### Description
+
+나무 카페 의자에 앉아 있는 피사체의 수직 iPhone 사진으로, 직접적인 오버헤드 탑다운 각도에서 촬영되었습니다.
+
+#### Prompt
+
+```text
+Vertical iPhone photo, direct overhead top-down shot. Do not change the subject’s facial features, proportions, or hair color. Cinematic look with film grain. A spontaneous candid moment captured in motion. The subject is seated in a wooden café chair with
+```
+
+<a id="category-20"></a>
+
+### Multi-Image Fusion (1)
+
+### No. 1: 다중 이미지 융합
+
+- **Category:** `Multi-Image Fusion`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix" alt="다중 이미지 융합" width="480" />
+
+#### Description
+
+다른 소스 이미지에서 가져온 인물, 장면, 포즈를 결합하여 생성된 이미지입니다.
+
+#### Prompt
+
+```text
+Create a new image.
+Use the person from image1,
+Use the scene from image2,
+Use the exact pose from image3.
+```
+
 ## Local Usage
 
 ```bash
@@ -2126,4 +2502,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-21T04:38:12.029Z
+> This README is auto-generated. 2026-07-22T06:18:22.565Z

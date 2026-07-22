@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-90%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-110%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,32 +90,33 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **90** |
-| Categories | **19** |
-| Preview Images | **90** |
-| Last Updated | **2026-07-21T04:38:12.041Z** |
+| Total Prompts | **110** |
+| Categories | **20** |
+| Preview Images | **110** |
+| Last Updated | **2026-07-22T06:18:22.599Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Infographic`](#category-1): **7**
+- [`Infographic`](#category-1): **8**
 - [`Slides & Presentation`](#category-2): **5**
-- [`Poster Design`](#category-3): **16**
+- [`Poster Design`](#category-3): **17**
 - [`Brand Design`](#category-4): **3**
 - [`Interior Design`](#category-5): **3**
-- [`E-commerce`](#category-6): **4**
+- [`E-commerce`](#category-6): **5**
 - [`Comic & Storyboard`](#category-7): **4**
 - [`Film Storyboard`](#category-8): **3**
-- [`Portrait`](#category-9): **14**
-- [`Illustration`](#category-10): **9**
-- [`Character Design`](#category-11): **3**
+- [`Portrait`](#category-9): **23**
+- [`Illustration`](#category-10): **13**
+- [`Character Design`](#category-11): **4**
 - [`Style Transfer`](#category-12): **4**
 - [`Outfit Transfer`](#category-13): **2**
 - [`Restoration`](#category-14): **1**
 - [`Retouching`](#category-15): **2**
 - [`ID Photo`](#category-16): **3**
-- [`Creative Fun`](#category-17): **4**
+- [`Creative Fun`](#category-17): **5**
 - [`Stickers`](#category-18): **1**
-- [`Social Media`](#category-19): **2**
+- [`Social Media`](#category-19): **3**
+- [`Multi-Image Fusion`](#category-20): **1**
 
 ## 🔥 Featured Prompts
 
@@ -267,7 +268,7 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 
 <a id="category-1"></a>
 
-### Infographic (7)
+### Infographic (8)
 
 ### No. 1: Journalistsäkerhet: Fakta och siffror
 
@@ -395,6 +396,24 @@ En filmisk astronaut går genom regnigt Tokyo med neonspeglingar, ultrarealt.
 A cinematic astronaut walking through Tokyo in the rain, neon reflections, ultra realistic.
 ```
 
+### No. 8: UFO-bildförklaring
+
+- **Category:** `Infographic`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/3_2.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/3_2.jpg?v=20260720fix" alt="UFO-bildförklaring" width="480" />
+
+#### Description
+
+En infografik som detaljerar den sanna identiteten och utseendet hos en fångad UFO-bild.
+
+#### Prompt
+
+```text
+Create an infographic containing detailed information about what this UFO image captured on camera might be and what the actual image looks like.
+```
+
 <a id="category-2"></a>
 
 ### Slides & Presentation (5)
@@ -491,7 +510,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 <a id="category-3"></a>
 
-### Poster Design (16)
+### Poster Design (17)
 
 ### No. 1: Y2K-söt stilaffisch med gelétextur
 
@@ -805,6 +824,24 @@ Mode-redaktionell fotografering som använder konturerade element och en nött e
 Fashion-editorial photography style, using outlined elements and the distressed
 ```
 
+### No. 17: Y2K digital nostalgisk affisch
+
+- **Category:** `Poster Design`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/6_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/6_0.jpg?v=20260720fix" alt="Y2K digital nostalgisk affisch" width="480" />
+
+#### Description
+
+En Y2K-stilad affisch med den ikoniska Windows XP 'Bliss'-bakgrunden med en sträckt pixeleffekt.
+
+#### Prompt
+
+```text
+Y2K digital nostalgic-style poster, with a background featuring the Windows XP default wallpaper “Bliss”—green grass and blue sky—combined with a stretched pixel grid
+```
+
 <a id="category-4"></a>
 
 ### Brand Design (3)
@@ -939,7 +976,7 @@ Precisely cut out the 7 white-background objects I provided and compose them int
 
 <a id="category-6"></a>
 
-### E-commerce (4)
+### E-commerce (5)
 
 ### No. 1: Reshake vinterdunjackebanderoll
 
@@ -1020,6 +1057,24 @@ E-commerce design. Input image + color palette reference
 #### Input reference images (1)
 
 <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/VGIXbHnD5oBnfpxWd3wcdj7HnDb.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 5: Creamora mjukglass produktbild
+
+- **Category:** `E-commerce`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix" alt="Creamora mjukglass produktbild" width="480" />
+
+#### Description
+
+En professionell produktfotografi av en Creamora glassförpackning med virvlad mjukglass och chokladdrizzle.
+
+#### Prompt
+
+```text
+A professional product commercial photograph of an ice cream tub. The tub is labeled with the brand name "Creamora" in an elegant brown font. On top of the tub, there is a beautifully swirled, towering scoop of soft-serve
+```
 
 <a id="category-7"></a>
 
@@ -1157,7 +1212,7 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 <a id="category-9"></a>
 
-### Portrait (14)
+### Portrait (23)
 
 ### No. 1: Över-axelskott av ledsen kvinna
 
@@ -1431,9 +1486,171 @@ Ett fotorealistiskt filmiskt närporträtt av en fantastisk kvinna mot en vanlig
 Reference image: conceptual variant. Photorealistic cinematic close-up portrait of a stunning young woman against a plain light wall during soft even studio lighting with gentle side illumination
 ```
 
+### No. 15: Filmiskt lågvinkelporträtt
+
+- **Category:** `Portrait`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix" alt="Filmiskt lågvinkelporträtt" width="480" />
+
+#### Description
+
+Ett högkvalitativt porträtt taget med en låg kameravinkel, som framkallar en filmisk känsla.
+
+#### Prompt
+
+```text
+Cinematic full-frame DSLR low-angle shot
+```
+
+### No. 16: Hyperrealistiskt lyxredaktionellt porträtt
+
+- **Category:** `Portrait`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix" alt="Hyperrealistiskt lyxredaktionellt porträtt" width="480" />
+
+#### Description
+
+Ett hyperrealistiskt lyxredaktionellt porträtt av en vacker ung kvinna med fläckfri porslinsglashud, inspirerat av modern högmodetidningsestetik.
+
+#### Prompt
+
+```text
+Create a hyper-realistic luxury editorial portrait for inspired by modern high-fashion magazine aesthetics with a completely original composition. An exceptionally beautiful young woman with flawless porcelain glass skin, naturally symmetrical facial
+```
+
+### No. 17: Japansk kvinna selfie
+
+- **Category:** `Portrait`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/1_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/1_0.jpg?v=20260720fix" alt="Japansk kvinna selfie" width="480" />
+
+#### Description
+
+En ultrarealtistisk selfie av en ung japansk kvinna med tvinnade hästsvansar och lugg.
+
+#### Prompt
+
+```text
+Ultra-realistic smartphone selfie of a beautiful young Japanese woman with smooth porcelain skin, soft natural facial features, large warm brown eyes, glossy pink lips, and long silky black hair styled in low twin ponytails with wispy bangs.
+```
+
+### No. 18: Redaktionellt fitnessporträtt
+
+- **Category:** `Portrait`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/3_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/3_0.jpg?v=20260720fix" alt="Redaktionellt fitnessporträtt" width="480" />
+
+#### Description
+
+En ung atletisk kvinna utför en avancerad stretchpose bredvid en skulptural böjlig metallbarre, med kroppen böjd graciöst.
+
+#### Prompt
+
+```text
+Editorial fitness portrait of a young athletic woman performing an advanced seated stretching pose beside a sculptural curved metal barre. Her body bends gracefully through the composition, one leg extended
+```
+
+### No. 19: Östasiatiskt kvinnoporträtt
+
+- **Category:** `Portrait`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix" alt="Östasiatiskt kvinnoporträtt" width="480" />
+
+#### Description
+
+En vacker ung östasiatisk kvinna med ljus hy och uttrycksfulla ögon avbildas.
+
+#### Prompt
+
+```text
+A beautiful young East Asian woman in her early 20s, fair smooth skin, delicate facial features, large expressive eyes, subtle
+```
+
+### No. 20: Guldtimmes skönhetsporträtt
+
+- **Category:** `Portrait`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/5_0.jpg?v=20260720fix" alt="Guldtimmes skönhetsporträtt" width="480" />
+
+#### Description
+
+Ett ultrarealtistiskt skönhetsporträtt av en ung kvinna badad i varmt gyllene solnedgångsljus med mjuka filmiska skuggor.
+
+#### Prompt
+
+```text
+Ultra-realistic beauty portrait of a young woman bathed in warm golden sunset light streaming through a window, soft cinematic shadows cast across her face and textured wall background. Elegant messy bun hairstyle with loose wispy strands, flawless
+```
+
+### No. 21: Japansk kvinna porträtt
+
+- **Category:** `Portrait`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/10_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/10_0.jpg?v=20260720fix" alt="Japansk kvinna porträtt" width="480" />
+
+#### Description
+
+Ett ultrarealtistiskt smartphoneporträtt av en ung japansk kvinna med detaljerade ansiktsdrag.
+
+#### Prompt
+
+```text
+Ultra-realistic smartphone photo of a beautiful young Japanese woman with smooth fair skin, soft natural facial features, large expressive brown eyes, glossy pink lips, and long straight silky black hair with wispy side-swept bangs, wearing an
+```
+
+### No. 22: Tyst självförtroende i ett vidsträckt landskap
+
+- **Category:** `Portrait`
+- **Language:** `sv`
+- **Image:** [View](https://pbs.twimg.com/media/HNwGJNGXcAAEtyS.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNwGJNGXcAAEtyS.jpg?v=20260720fix" alt="Tyst självförtroende i ett vidsträckt landskap" width="480" />
+
+#### Description
+
+En kvinna står självsäkert i ett vidsträckt, disigt, avmättat landskap, som förkroppsligar tyst styrka och naturlig elegans.
+
+#### Prompt
+
+```text
+Portrait of a woman in a striking, elegant pose, standing with quiet confidence and minimal styling, against a breathtaking vast natural landscape. The color palette remains desaturated and earthy - cool grays,
+```
+
+### No. 23: Kvinna bland vita liljor
+
+- **Category:** `Portrait`
+- **Language:** `sv`
+- **Image:** [View](https://pbs.twimg.com/media/HNpeYBkawAEpFQF.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNpeYBkawAEpFQF.jpg?v=20260720fix" alt="Kvinna bland vita liljor" width="480" />
+
+#### Description
+
+Ett fotorealistiskt porträtt av en ung kvinna med voluminöst hår, liggande bland vita liljor.
+
+#### Prompt
+
+```text
+A large-scale, photorealistic portrait preserving exact facial features. A young woman with voluminous, slightly tousled hair lies on her side amidst a lush bouquet of white lilies, gazing directly at the viewer.
+```
+
 <a id="category-10"></a>
 
-### Illustration (9)
+### Illustration (13)
 
 ### No. 1: Konstnärlig Bilderboksskola Uniform
 
@@ -1613,9 +1830,85 @@ En lekfull illustration visar en häst i ett maskrosfält med frön som flyter i
 a whimsical illustration of a horse standing in a field of dandelions under a bright blue sky. Dandelion seeds float around the horse, and some are caught in the wind.
 ```
 
+### No. 10: Filmisk vikingakrigare i strid
+
+- **Category:** `Illustration`
+- **Language:** `sv`
+- **Image:** [View](https://pbs.twimg.com/media/HMxI45LbUAATNDI.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HMxI45LbUAATNDI.jpg?v=20260720fix" alt="Filmisk vikingakrigare i strid" width="480" />
+
+#### Description
+
+En filmisk vikingakrigare står på ett blodgenomsyrat slagfält, svärdet redo, med pilar som genomborrar hans rustning och blod på hans ansikte.
+
+#### Prompt
+
+```text
+Two image models seedream 5.0 and Muse image launched in two days
+
+Used this prompt in all the models to test this 
+
+"create an image of a cinematic vikking style warrior with his big sword ready on a battlefield with blood on this face, arrows stuck on to his armour facing the
+```
+
+### No. 11: Fotorealistisk lågvinkelhjälteskott
+
+- **Category:** `Illustration`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/3_1.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/3_1.jpg?v=20260720fix" alt="Fotorealistisk lågvinkelhjälteskott" width="480" />
+
+#### Description
+
+Ett 8k fotorealistiskt lågvinkelhjälteskott av en äventyrare i en gravkammare med grunt skärpedjup.
+
+#### Prompt
+
+```text
+8k photorealistic low-angle hero shot using a full-frame DSLR camera with shallow depth
+```
+
+### No. 12: Aggressiv rockstjärna på scen
+
+- **Category:** `Illustration`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix" alt="Aggressiv rockstjärna på scen" width="480" />
+
+#### Description
+
+En kraftfull kvinnlig rockstjärna uppträder aggressivt på scen och bryter sin gitarr.
+
+#### Prompt
+
+```text
+A female rockstar behaving aggressively on a rock concert stage.
+```
+
+### No. 13: Elegant S-kurva flygfotografi
+
+- **Category:** `Illustration`
+- **Language:** `sv`
+- **Image:** [View](https://pbs.twimg.com/media/HNwpL7vbMAA7UYP.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNwpL7vbMAA7UYP.jpg?v=20260720fix" alt="Elegant S-kurva flygfotografi" width="480" />
+
+#### Description
+
+Ett hyperrealistiskt drönarflygfoto med ett minimalistiskt konstlandskap med en elegant S-kurvekomposition.
+
+#### Prompt
+
+```text
+超写实无人机航拍照片，国际无人机摄影大奖（Drone Photo Awards）风格，Reve 2.1 Layout，高级电影级航拍构图，极强视觉层级，极简 Fine Art 风景摄影，大面积留白与负空间，黄金分割构图，优雅的 S
+```
+
 <a id="category-11"></a>
 
-### Character Design (3)
+### Character Design (4)
 
 ### No. 1: Trevy Vy Antik Gudinnastaty
 
@@ -1670,6 +1963,28 @@ Ett designblad med flera vyer och detaljer av en anime-stilad cyberpunk-hackerka
 ```text
 Cyberpunk-style anime character design sheet, showing three-view turnaround, close-up portraits, and accessory details of a hacker girl named "RIN"…
 ```
+
+### No. 4: Konsekvent karaktärsåtergivning
+
+- **Category:** `Character Design`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/7_2.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_2.jpg?v=20260720fix" alt="Konsekvent karaktärsåtergivning" width="480" />
+
+#### Description
+
+Generera en ny bild av en karaktär som bevarar deras ansiktsdrag, frisyr, ålder, kroppstyp och visuella stil.
+
+#### Prompt
+
+```text
+Use the person/character in the attached image as the protagonist and create a brand-new image. Preserve the character's facial features, hairstyle, apparent age, body type, and original visual style as closely as possible.
+```
+
+#### Input reference images (1)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_1.jpg?v=20260720fix" alt="input reference" height="140" />
 
 <a id="category-12"></a>
 
@@ -1957,7 +2272,7 @@ Generate a solo ID photo for the woman
 
 <a id="category-17"></a>
 
-### Creative Fun (4)
+### Creative Fun (5)
 
 ### No. 1: Självbelåten Flin Med Djävulstander
 
@@ -2039,6 +2354,24 @@ Red box: a giant blue-furred head with a comically squeezed expression, looking 
 
 <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/KrdNbd9vdoI63exU35qc9jsonCb.jpg?v=20260720fix" alt="input reference" height="140" /> <img src="https://static.atlascloud.ai/prompt/seedream-5-0-pro/images/AbuMbTZBPoG0sdx1EhQcJsaFnub.jpg?v=20260720fix" alt="input reference" height="140" />
 
+### No. 5: Kvinnlig rockstjärna som krossar gitarr
+
+- **Category:** `Creative Fun`
+- **Language:** `sv`
+- **Image:** [View](https://pbs.twimg.com/media/HNvMh88WoAE8zJC.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HNvMh88WoAE8zJC.jpg?v=20260720fix" alt="Kvinnlig rockstjärna som krossar gitarr" width="480" />
+
+#### Description
+
+En dynamisk bild av en kvinnlig rockstjärna i en svart klänning som kraftfullt krossar sin gitarr på en rökig scen.
+
+#### Prompt
+
+```text
+Female rockstar smashing guitar on stage. "Seedream 5 Pro"
+```
+
 <a id="category-18"></a>
 
 ### Stickers (1)
@@ -2067,7 +2400,7 @@ Based on the cartoon character, design different emotions — happy, sad, aggrie
 
 <a id="category-19"></a>
 
-### Social Media (2)
+### Social Media (3)
 
 ### No. 1: Text inom citattecken
 
@@ -2105,6 +2438,49 @@ En filmisk filmstill visar ett lantligt japanskt risfält på sommaren från en 
 Cinematic film still, rural Japanese rice paddy landscape in summer, three-quarter angle view down a narrow
 ```
 
+### No. 3: Ovanifrån kafé selfie
+
+- **Category:** `Social Media`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/9_1.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/9_1.jpg?v=20260720fix" alt="Ovanifrån kafé selfie" width="480" />
+
+#### Description
+
+Ett vertikalt iPhone-foto av en person sittande i en trästol på ett kafé, taget från en direkt ovanifrån vinkel.
+
+#### Prompt
+
+```text
+Vertical iPhone photo, direct overhead top-down shot. Do not change the subject’s facial features, proportions, or hair color. Cinematic look with film grain. A spontaneous candid moment captured in motion. The subject is seated in a wooden café chair with
+```
+
+<a id="category-20"></a>
+
+### Multi-Image Fusion (1)
+
+### No. 1: Multi-bildfusion
+
+- **Category:** `Multi-Image Fusion`
+- **Language:** `sv`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/4_0.jpg?v=20260720fix" alt="Multi-bildfusion" width="480" />
+
+#### Description
+
+En bild skapad genom att kombinera en person, en scen och en pose från olika källbilder.
+
+#### Prompt
+
+```text
+Create a new image.
+Use the person from image1,
+Use the scene from image2,
+Use the exact pose from image3.
+```
+
 ## Local Usage
 
 ```bash
@@ -2126,4 +2502,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-21T04:38:12.041Z
+> This README is auto-generated. 2026-07-22T06:18:22.599Z
