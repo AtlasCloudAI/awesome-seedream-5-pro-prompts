@@ -1673,5 +1673,61 @@
     "source_link": "https://x.com/dreamydigiarts/status/2079427398064644125",
     "language": "es",
     "featured": false
+  },
+  {
+    "id": "sd5pro_111",
+    "sort_order": 111,
+    "title": "Infografías Paramétricas",
+    "description": "Infografías paramétricas detalladas de la Torre Eiffel y las Pirámides de Giza, mostrando detalles arquitectónicos y de construcción.",
+    "prompt": "AI image generation is becoming so much more than creating a single image.\n\nI've been exploring what BytePlus Seedream 5.0 Pro can do.\n\nI used Seedream 5.0 Pro to create detailed parametric infographics for both the Eiffel Tower and the Pyramids. The improvement in information",
+    "category": "Infographic",
+    "image_url": "https://pbs.twimg.com/media/HMxNGy8WgAASBCA.jpg?v=20260720fix",
+    "author_name": "Zara",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZaraIrahh/status/2075118336783089710",
+    "language": "es",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_112",
+    "sort_order": 112,
+    "title": "Transformación de Personas Reales a Estilo Chibi",
+    "description": "Una imagen compuesta que muestra personas reales junto a sus contrapartes animadas en estilo chibi, generadas preservando la identidad facial pero alterando el cabello.",
+    "prompt": "Use facial identity, facial geometry but not original hair from the reference image. Her",
+    "category": "Character Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix",
+    "author_name": "Ash",
+    "source_platform": "x",
+    "source_link": "https://x.com/asheem01/status/2075324671214403879",
+    "language": "es",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_113",
+    "sort_order": 113,
+    "title": "Retrato Glamoroso Cinematográfico",
+    "description": "Un retrato glamoroso cinematográfico de una mujer joven rodeada de lirios blancos.",
+    "prompt": "Cinematic indoor glamour portrait of a young",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix",
+    "author_name": "Ash",
+    "source_platform": "x",
+    "source_link": "https://x.com/asheem01/status/2077328384430878949",
+    "language": "es",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_114",
+    "sort_order": 114,
+    "title": "Póster Promocional de Producto a la Moda",
+    "description": "Un póster promocional a la moda que presenta un producto con superposiciones de texto y un diseño vibrante.",
+    "prompt": "Create a trendy 3:2 square promotional poster for “[PRODUCT NAME]” using the uploaded product image or generate a premium realistic version of [PRODUCT NAME].",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-pro/8_0.jpg?v=20260720fix",
+    "author_name": "Zara",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZaraIrahh/status/2079100834202431552",
+    "language": "es",
+    "featured": false
   }
 ]

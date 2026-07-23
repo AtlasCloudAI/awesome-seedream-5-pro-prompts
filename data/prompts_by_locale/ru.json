@@ -1673,5 +1673,61 @@
     "source_link": "https://x.com/dreamydigiarts/status/2079427398064644125",
     "language": "ru",
     "featured": false
+  },
+  {
+    "id": "sd5pro_111",
+    "sort_order": 111,
+    "title": "Параметрическая инфографика",
+    "description": "Детальная параметрическая инфографика Эйфелевой башни и пирамид Гизы, демонстрирующая архитектурные и конструктивные детали.",
+    "prompt": "AI image generation is becoming so much more than creating a single image.\n\nI've been exploring what BytePlus Seedream 5.0 Pro can do.\n\nI used Seedream 5.0 Pro to create detailed parametric infographics for both the Eiffel Tower and the Pyramids. The improvement in information",
+    "category": "Infographic",
+    "image_url": "https://pbs.twimg.com/media/HMxNGy8WgAASBCA.jpg?v=20260720fix",
+    "author_name": "Zara",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZaraIrahh/status/2075118336783089710",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_112",
+    "sort_order": 112,
+    "title": "Превращение реальных людей в чиби",
+    "description": "Составное изображение, показывающее реальных людей рядом с их анимированными аналогами в стиле чиби, созданное с сохранением идентичности лица, но с изменением прически.",
+    "prompt": "Use facial identity, facial geometry but not original hair from the reference image. Her",
+    "category": "Character Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix",
+    "author_name": "Ash",
+    "source_platform": "x",
+    "source_link": "https://x.com/asheem01/status/2075324671214403879",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_113",
+    "sort_order": 113,
+    "title": "Кинематографический гламурный портрет",
+    "description": "Кинематографический гламурный портрет молодой женщины, окруженной белыми лилиями.",
+    "prompt": "Cinematic indoor glamour portrait of a young",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix",
+    "author_name": "Ash",
+    "source_platform": "x",
+    "source_link": "https://x.com/asheem01/status/2077328384430878949",
+    "language": "ru",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_114",
+    "sort_order": 114,
+    "title": "Трендовый рекламный постер продукта",
+    "description": "Трендовый рекламный постер, представляющий продукт с текстовыми наложениями и ярким дизайном.",
+    "prompt": "Create a trendy 3:2 square promotional poster for “[PRODUCT NAME]” using the uploaded product image or generate a premium realistic version of [PRODUCT NAME].",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-pro/8_0.jpg?v=20260720fix",
+    "author_name": "Zara",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZaraIrahh/status/2079100834202431552",
+    "language": "ru",
+    "featured": false
   }
 ]

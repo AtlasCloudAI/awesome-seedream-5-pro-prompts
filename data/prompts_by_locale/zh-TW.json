@@ -1673,5 +1673,61 @@
     "source_link": "https://x.com/dreamydigiarts/status/2079427398064644125",
     "language": "zh-TW",
     "featured": false
+  },
+  {
+    "id": "sd5pro_111",
+    "sort_order": 111,
+    "title": "參數化資訊圖表",
+    "description": "詳細的艾菲爾鐵塔和吉薩金字塔參數化資訊圖表，展示建築與施工細節。",
+    "prompt": "AI image generation is becoming so much more than creating a single image.\n\nI've been exploring what BytePlus Seedream 5.0 Pro can do.\n\nI used Seedream 5.0 Pro to create detailed parametric infographics for both the Eiffel Tower and the Pyramids. The improvement in information",
+    "category": "Infographic",
+    "image_url": "https://pbs.twimg.com/media/HMxNGy8WgAASBCA.jpg?v=20260720fix",
+    "author_name": "Zara",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZaraIrahh/status/2075118336783089710",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_112",
+    "sort_order": 112,
+    "title": "真人轉變為Q版角色",
+    "description": "一張合成圖像，展示真人與其Q版動畫風格對應角色並列，通過保留面部特徵但改變髮型生成。",
+    "prompt": "Use facial identity, facial geometry but not original hair from the reference image. Her",
+    "category": "Character Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix",
+    "author_name": "Ash",
+    "source_platform": "x",
+    "source_link": "https://x.com/asheem01/status/2075324671214403879",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_113",
+    "sort_order": 113,
+    "title": "電影感魅力肖像",
+    "description": "一位年輕女子被白色百合花環繞的電影感魅力肖像。",
+    "prompt": "Cinematic indoor glamour portrait of a young",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix",
+    "author_name": "Ash",
+    "source_platform": "x",
+    "source_link": "https://x.com/asheem01/status/2077328384430878949",
+    "language": "zh-TW",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_114",
+    "sort_order": 114,
+    "title": "時尚產品宣傳海報",
+    "description": "一張時尚的宣傳海報，以帶有文字疊加和鮮豔設計的產品為特色。",
+    "prompt": "Create a trendy 3:2 square promotional poster for “[PRODUCT NAME]” using the uploaded product image or generate a premium realistic version of [PRODUCT NAME].",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-pro/8_0.jpg?v=20260720fix",
+    "author_name": "Zara",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZaraIrahh/status/2079100834202431552",
+    "language": "zh-TW",
+    "featured": false
   }
 ]

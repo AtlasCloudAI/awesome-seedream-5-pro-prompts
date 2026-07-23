@@ -1673,5 +1673,61 @@
     "source_link": "https://x.com/dreamydigiarts/status/2079427398064644125",
     "language": "ko",
     "featured": false
+  },
+  {
+    "id": "sd5pro_111",
+    "sort_order": 111,
+    "title": "파라메트릭 인포그래픽",
+    "description": "에펠탑과 기자의 피라미드의 건축 및 시공 세부 사항을 보여주는 상세한 파라메트릭 인포그래픽.",
+    "prompt": "AI image generation is becoming so much more than creating a single image.\n\nI've been exploring what BytePlus Seedream 5.0 Pro can do.\n\nI used Seedream 5.0 Pro to create detailed parametric infographics for both the Eiffel Tower and the Pyramids. The improvement in information",
+    "category": "Infographic",
+    "image_url": "https://pbs.twimg.com/media/HMxNGy8WgAASBCA.jpg?v=20260720fix",
+    "author_name": "Zara",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZaraIrahh/status/2075118336783089710",
+    "language": "ko",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_112",
+    "sort_order": 112,
+    "title": "실제 인물에서 치비 변신",
+    "description": "얼굴 정체성은 유지하지만 헤어스타일을 변경하여 생성된, 실제 사람들과 그들의 치비 스타일 애니메이션 버전을 나란히 보여주는 합성 이미지.",
+    "prompt": "Use facial identity, facial geometry but not original hair from the reference image. Her",
+    "category": "Character Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix",
+    "author_name": "Ash",
+    "source_platform": "x",
+    "source_link": "https://x.com/asheem01/status/2075324671214403879",
+    "language": "ko",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_113",
+    "sort_order": 113,
+    "title": "시네마틱 글래머 포트레이트",
+    "description": "하얀 백합으로 둘러싸인 젊은 여성의 시네마틱 글래머 포트레이트.",
+    "prompt": "Cinematic indoor glamour portrait of a young",
+    "category": "Portrait",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix",
+    "author_name": "Ash",
+    "source_platform": "x",
+    "source_link": "https://x.com/asheem01/status/2077328384430878949",
+    "language": "ko",
+    "featured": false
+  },
+  {
+    "id": "sd5pro_114",
+    "sort_order": 114,
+    "title": "트렌디 제품 홍보 포스터",
+    "description": "텍스트 오버레이와 생동감 넘치는 디자인이 특징인 제품을 담은 트렌디한 홍보 포스터.",
+    "prompt": "Create a trendy 3:2 square promotional poster for “[PRODUCT NAME]” using the uploaded product image or generate a premium realistic version of [PRODUCT NAME].",
+    "category": "Poster Design",
+    "image_url": "https://static.atlascloud.ai/prompt/seedream-5-pro/8_0.jpg?v=20260720fix",
+    "author_name": "Zara",
+    "source_platform": "x",
+    "source_link": "https://x.com/ZaraIrahh/status/2079100834202431552",
+    "language": "ko",
+    "featured": false
   }
 ]

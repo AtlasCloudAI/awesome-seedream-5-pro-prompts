@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-110%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-114%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,24 +90,24 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **110** |
+| Total Prompts | **114** |
 | Categories | **20** |
-| Preview Images | **110** |
-| Last Updated | **2026-07-22T06:18:22.565Z** |
+| Preview Images | **114** |
+| Last Updated | **2026-07-23T06:15:29.151Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Infographic`](#category-1): **8**
+- [`Infographic`](#category-1): **9**
 - [`Slides & Presentation`](#category-2): **5**
-- [`Poster Design`](#category-3): **17**
+- [`Poster Design`](#category-3): **18**
 - [`Brand Design`](#category-4): **3**
 - [`Interior Design`](#category-5): **3**
 - [`E-commerce`](#category-6): **5**
 - [`Comic & Storyboard`](#category-7): **4**
 - [`Film Storyboard`](#category-8): **3**
-- [`Portrait`](#category-9): **23**
+- [`Portrait`](#category-9): **24**
 - [`Illustration`](#category-10): **13**
-- [`Character Design`](#category-11): **4**
+- [`Character Design`](#category-11): **5**
 - [`Style Transfer`](#category-12): **4**
 - [`Outfit Transfer`](#category-13): **2**
 - [`Restoration`](#category-14): **1**
@@ -268,7 +268,7 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 
 <a id="category-1"></a>
 
-### Infographic (8)
+### Infographic (9)
 
 ### No. 1: 언론인 안전 현황과 통계
 
@@ -414,6 +414,28 @@ A cinematic astronaut walking through Tokyo in the rain, neon reflections, ultra
 Create an infographic containing detailed information about what this UFO image captured on camera might be and what the actual image looks like.
 ```
 
+### No. 9: 파라메트릭 인포그래픽
+
+- **Category:** `Infographic`
+- **Language:** `ko`
+- **Image:** [View](https://pbs.twimg.com/media/HMxNGy8WgAASBCA.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HMxNGy8WgAASBCA.jpg?v=20260720fix" alt="파라메트릭 인포그래픽" width="480" />
+
+#### Description
+
+에펠탑과 기자의 피라미드의 건축 및 시공 세부 사항을 보여주는 상세한 파라메트릭 인포그래픽.
+
+#### Prompt
+
+```text
+AI image generation is becoming so much more than creating a single image.
+
+I've been exploring what BytePlus Seedream 5.0 Pro can do.
+
+I used Seedream 5.0 Pro to create detailed parametric infographics for both the Eiffel Tower and the Pyramids. The improvement in information
+```
+
 <a id="category-2"></a>
 
 ### Slides & Presentation (5)
@@ -510,7 +532,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 <a id="category-3"></a>
 
-### Poster Design (17)
+### Poster Design (18)
 
 ### No. 1: 젤리 텍스처의 Y2K 큐트 스타일 포스터
 
@@ -840,6 +862,24 @@ Fashion-editorial photography style, using outlined elements and the distressed
 
 ```text
 Y2K digital nostalgic-style poster, with a background featuring the Windows XP default wallpaper “Bliss”—green grass and blue sky—combined with a stretched pixel grid
+```
+
+### No. 18: 트렌디 제품 홍보 포스터
+
+- **Category:** `Poster Design`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/8_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/8_0.jpg?v=20260720fix" alt="트렌디 제품 홍보 포스터" width="480" />
+
+#### Description
+
+텍스트 오버레이와 생동감 넘치는 디자인이 특징인 제품을 담은 트렌디한 홍보 포스터.
+
+#### Prompt
+
+```text
+Create a trendy 3:2 square promotional poster for “[PRODUCT NAME]” using the uploaded product image or generate a premium realistic version of [PRODUCT NAME].
 ```
 
 <a id="category-4"></a>
@@ -1212,7 +1252,7 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 <a id="category-9"></a>
 
-### Portrait (23)
+### Portrait (24)
 
 ### No. 1: 슬픈 여성의 오버 숄더 샷
 
@@ -1648,6 +1688,24 @@ Portrait of a woman in a striking, elegant pose, standing with quiet confidence 
 A large-scale, photorealistic portrait preserving exact facial features. A young woman with voluminous, slightly tousled hair lies on her side amidst a lush bouquet of white lilies, gazing directly at the viewer.
 ```
 
+### No. 24: 시네마틱 글래머 포트레이트
+
+- **Category:** `Portrait`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix" alt="시네마틱 글래머 포트레이트" width="480" />
+
+#### Description
+
+하얀 백합으로 둘러싸인 젊은 여성의 시네마틱 글래머 포트레이트.
+
+#### Prompt
+
+```text
+Cinematic indoor glamour portrait of a young
+```
+
 <a id="category-10"></a>
 
 ### Illustration (13)
@@ -1908,7 +1966,7 @@ A female rockstar behaving aggressively on a rock concert stage.
 
 <a id="category-11"></a>
 
-### Character Design (4)
+### Character Design (5)
 
 ### No. 1: 삼면도 고대 여신상
 
@@ -1985,6 +2043,24 @@ Use the person/character in the attached image as the protagonist and create a b
 #### 입력 참조 이미지 (1)
 
 <img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_1.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 5: 실제 인물에서 치비 변신
+
+- **Category:** `Character Design`
+- **Language:** `ko`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix" alt="실제 인물에서 치비 변신" width="480" />
+
+#### Description
+
+얼굴 정체성은 유지하지만 헤어스타일을 변경하여 생성된, 실제 사람들과 그들의 치비 스타일 애니메이션 버전을 나란히 보여주는 합성 이미지.
+
+#### Prompt
+
+```text
+Use facial identity, facial geometry but not original hair from the reference image. Her
+```
 
 <a id="category-12"></a>
 
@@ -2502,4 +2578,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-22T06:18:22.565Z
+> This README is auto-generated. 2026-07-23T06:15:29.151Z

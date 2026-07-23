@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedream-5-pro-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-110%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-114%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedream-5-pro-prompts)
 
 > A curated collection of Seedream 5.0 Pro image prompts — each with real preview images generated via Atlas Cloud. Photoreal, portraits, posters, infographics, anime & more.
 
@@ -90,24 +90,24 @@ Seedream 5.0 Pro is ByteDance's flagship text-to-image model and the top tier of
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **110** |
+| Total Prompts | **114** |
 | Categories | **20** |
-| Preview Images | **110** |
-| Last Updated | **2026-07-22T06:18:22.553Z** |
+| Preview Images | **114** |
+| Last Updated | **2026-07-23T06:15:29.137Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Infographic`](#category-1): **8**
+- [`Infographic`](#category-1): **9**
 - [`Slides & Presentation`](#category-2): **5**
-- [`Poster Design`](#category-3): **17**
+- [`Poster Design`](#category-3): **18**
 - [`Brand Design`](#category-4): **3**
 - [`Interior Design`](#category-5): **3**
 - [`E-commerce`](#category-6): **5**
 - [`Comic & Storyboard`](#category-7): **4**
 - [`Film Storyboard`](#category-8): **3**
-- [`Portrait`](#category-9): **23**
+- [`Portrait`](#category-9): **24**
 - [`Illustration`](#category-10): **13**
-- [`Character Design`](#category-11): **4**
+- [`Character Design`](#category-11): **5**
 - [`Style Transfer`](#category-12): **4**
 - [`Outfit Transfer`](#category-13): **2**
 - [`Restoration`](#category-14): **1**
@@ -268,7 +268,7 @@ Distill the Louis Vuitton brand strategy…into a single, emotionally resonant p
 
 <a id="category-1"></a>
 
-### Infographic (8)
+### Infographic (9)
 
 ### No. 1: Journalist Safety Facts And Figures
 
@@ -414,6 +414,28 @@ An infographic detailing the true identity and appearance of a captured UFO imag
 Create an infographic containing detailed information about what this UFO image captured on camera might be and what the actual image looks like.
 ```
 
+### No. 9: Parametric Infographics
+
+- **Category:** `Infographic`
+- **Language:** `en`
+- **Image:** [View](https://pbs.twimg.com/media/HMxNGy8WgAASBCA.jpg?v=20260720fix)
+
+<img src="https://pbs.twimg.com/media/HMxNGy8WgAASBCA.jpg?v=20260720fix" alt="Parametric Infographics" width="480" />
+
+#### Description
+
+Detailed parametric infographics of the Eiffel Tower and Pyramids of Giza, showcasing architectural and construction details.
+
+#### Prompt
+
+```text
+AI image generation is becoming so much more than creating a single image.
+
+I've been exploring what BytePlus Seedream 5.0 Pro can do.
+
+I used Seedream 5.0 Pro to create detailed parametric infographics for both the Eiffel Tower and the Pyramids. The improvement in information
+```
+
 <a id="category-2"></a>
 
 ### Slides & Presentation (5)
@@ -510,7 +532,7 @@ Create a presentation slide addressing the decline in pet door-to-door feeding c
 
 <a id="category-3"></a>
 
-### Poster Design (17)
+### Poster Design (18)
 
 ### No. 1: Y2K Cute Style Poster With Jelly Texture
 
@@ -840,6 +862,24 @@ A Y2K-style poster featuring the iconic Windows XP 'Bliss' wallpaper background 
 
 ```text
 Y2K digital nostalgic-style poster, with a background featuring the Windows XP default wallpaper “Bliss”—green grass and blue sky—combined with a stretched pixel grid
+```
+
+### No. 18: Trendy Product Promotional Poster
+
+- **Category:** `Poster Design`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/8_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/8_0.jpg?v=20260720fix" alt="Trendy Product Promotional Poster" width="480" />
+
+#### Description
+
+A trendy promotional poster featuring a product with text overlays and a vibrant design.
+
+#### Prompt
+
+```text
+Create a trendy 3:2 square promotional poster for “[PRODUCT NAME]” using the uploaded product image or generate a premium realistic version of [PRODUCT NAME].
 ```
 
 <a id="category-4"></a>
@@ -1212,7 +1252,7 @@ Anime-style ancient Chinese xianxia scene storyboard…
 
 <a id="category-9"></a>
 
-### Portrait (23)
+### Portrait (24)
 
 ### No. 1: Over Shoulder Shot Of Sad Woman
 
@@ -1648,6 +1688,24 @@ A photorealistic portrait of a young woman with voluminous hair, lying among whi
 A large-scale, photorealistic portrait preserving exact facial features. A young woman with voluminous, slightly tousled hair lies on her side amidst a lush bouquet of white lilies, gazing directly at the viewer.
 ```
 
+### No. 24: Cinematic Glamour Portrait
+
+- **Category:** `Portrait`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_0.jpg?v=20260720fix" alt="Cinematic Glamour Portrait" width="480" />
+
+#### Description
+
+A cinematic glamour portrait of a young woman surrounded by white lilies.
+
+#### Prompt
+
+```text
+Cinematic indoor glamour portrait of a young
+```
+
 <a id="category-10"></a>
 
 ### Illustration (13)
@@ -1908,7 +1966,7 @@ A hyperrealistic drone aerial photograph featuring a minimalist fine art landsca
 
 <a id="category-11"></a>
 
-### Character Design (4)
+### Character Design (5)
 
 ### No. 1: Three View Ancient Goddess Statue
 
@@ -1985,6 +2043,24 @@ Use the person/character in the attached image as the protagonist and create a b
 #### Input reference images (1)
 
 <img src="https://static.atlascloud.ai/prompt/seedream-5-pro/7_1.jpg?v=20260720fix" alt="input reference" height="140" />
+
+### No. 5: Real People to Chibi Transformation
+
+- **Category:** `Character Design`
+- **Language:** `en`
+- **Image:** [View](https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix)
+
+<img src="https://static.atlascloud.ai/prompt/seedream-5-pro/2_0.jpg?v=20260720fix" alt="Real People to Chibi Transformation" width="480" />
+
+#### Description
+
+A composite image showing real people alongside their chibi-style animated counterparts, generated by preserving facial identity but altering hair.
+
+#### Prompt
+
+```text
+Use facial identity, facial geometry but not original hair from the reference image. Her
+```
 
 <a id="category-12"></a>
 
@@ -2502,4 +2578,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-22T06:18:22.553Z
+> This README is auto-generated. 2026-07-23T06:15:29.137Z
